@@ -1,0 +1,1498 @@
+WEBVTT
+
+00:00:39.120 --> 00:00:41.760
+Hello and welcome to this Gartner webinar.
+
+00:00:41.760 --> 00:00:45.600
+Accelerate your AI journey with business capability maps.
+
+00:00:45.600 --> 00:00:50.960
+You're tasked with driving a stronger performance on your organization's mission critical priorities.
+
+00:00:50.960 --> 00:00:56.160
+To do that, you need trusted guidance that provides clarity, not just information.
+
+00:00:56.160 --> 00:01:06.000
+At Gartner, we deliver that clarity by combining forward-looking insights from our 2500 experts with rigorous proprietary research methodologies.
+
+00:01:06.000 --> 00:01:16.400
+Our perspective is uniquely informed by our hands-on work with 500,000 client interactions across every major function, geography, industry, and sector.
+
+00:01:26.080 --> 00:01:36.880
+So whether you're new to Gartner or one of our existing clients, today you'll get actionable objective insights rooted in human intelligence to help you move forward with conflict.
+
+00:01:39.760 --> 00:01:45.760
+Before we get started, I have a few tips to help enhance your webinar experience.
+
+00:01:45.800 --> 00:01:49.480
+Here are some of our rules of engagement for watching this session.
+
+00:01:49.480 --> 00:02:03.640
+We'll pause for a moment to give you time to review them.
+
+00:02:03.640 --> 00:02:08.120
+Around the video player, you'll find a variety of ways to interact with the session.
+
+00:02:08.120 --> 00:02:15.240
+We encourage you to participate by clicking the Ask the Speaker box to submit your questions and thoughts throughout this program.
+
+00:02:15.240 --> 00:02:22.840
+You can either submit your question anonymously, or if you choose your name, title and company can be visible along with your question.
+
+00:02:22.840 --> 00:02:26.760
+Navigate to the bottom of the page to download additional resources.
+
+00:02:26.760 --> 00:02:30.840
+And throughout the program, you can rate this session and share feedback.
+
+00:02:30.840 --> 00:02:34.680
+To submit your rating, locate the rate session link below the player.
+
+00:02:34.680 --> 00:02:37.560
+A box will open for you to select one to five hearts.
+
+00:02:37.560 --> 00:02:40.280
+And please know that five hearts is the top rating.
+
+00:02:40.280 --> 00:02:45.800
+Share your feedback on the insights provided in the leave for the feedback box and click send.
+
+00:02:45.800 --> 00:02:47.560
+This webinar is being recorded.
+
+00:02:47.560 --> 00:02:55.080
+You can watch this presentation again and find more great insights on demand at Gartner.com/slash webinars.
+
+00:02:55.080 --> 00:03:00.200
+Now I'd like to welcome Gartner Vice President Analyst Alexander Hope.
+
+00:03:00.200 --> 00:03:02.360
+Alexander, thanks for joining us today.
+
+00:03:02.360 --> 00:03:04.840
+And now I'll turn it over to you.
+
+00:03:05.320 --> 00:03:06.360
+Thanks, Sniya.
+
+00:03:06.520 --> 00:03:08.840
+Good morning, good afternoon, good evening.
+
+00:03:08.840 --> 00:03:11.000
+Nice to meet you, at least virtually.
+
+00:03:11.000 --> 00:03:19.000
+So I will present about AI journeys facilitated through so-called business capability maps.
+
+00:03:19.000 --> 00:03:23.320
+I'm a manufacturing analyst, but this is a cross-industry session.
+
+00:03:23.320 --> 00:03:29.160
+So I use manufacturing examples, but it applies for all industries.
+
+00:03:29.160 --> 00:03:33.160
+So let's get started.
+
+00:03:33.160 --> 00:03:36.040
+So everyone is talking about AI.
+
+00:03:36.040 --> 00:03:41.320
+AI is being hyped, especially Adventic AI and generative AI.
+
+00:03:41.720 --> 00:03:47.360
+And therefore, AI is accessible and available for a broader audience.
+
+00:03:47.600 --> 00:03:52.800
+And therefore, it's very important that you do things with AI which really make sense.
+
+00:03:52.800 --> 00:03:56.320
+And I did something here to be honest, which doesn't really make sense.
+
+00:03:56.320 --> 00:04:04.960
+But you can spend a lot of effort in implementing a use case like this, but the value is really not there.
+
+00:04:05.360 --> 00:04:22.320
+So let's let's therefore figure out how can you invest not in AI technology, how can you invest in use cases that let's say improve your business objectives, leveraging AI.
+
+00:04:22.320 --> 00:04:30.560
+And very important to mention here, it's not just AI, you still need a lot of other technologies, even for one single use case.
+
+00:04:30.560 --> 00:04:34.880
+More than one technology is needed, more than one data source is needed.
+
+00:04:34.880 --> 00:04:46.480
+Therefore, AI is often being used as an accelerator, as a facilitator for implementation, or to increase and improve the level of agency or autonomy.
+
+00:04:46.480 --> 00:04:54.720
+That's also something what we will discuss later on in this presentation.
+
+00:04:54.720 --> 00:04:57.200
+So let's take a look into some survey data.
+
+00:04:57.200 --> 00:05:06.000
+So this is coming from one of our surveys about the success of AI proof of concepts, POC.
+
+00:05:06.000 --> 00:05:14.160
+And you see that the three of the top four reasons for AI POC failures relate to unfulfilled business needs.
+
+00:05:14.160 --> 00:05:19.200
+You see the first one uncovered additional needs to address before deploying the solution.
+
+00:05:19.200 --> 00:05:24.640
+So the requirements have not been collected and aligned with business stakeholders.
+
+00:05:24.640 --> 00:05:32.040
+Often AI projects are driven by IT without major engagement of business stakeholders.
+
+00:05:32.040 --> 00:05:35.240
+Failure to demonstrate enough value for added investment.
+
+00:05:35.240 --> 00:05:47.320
+So the business case for AI is very difficult to calculate, especially when it comes to the usage of emerging AI techniques like AI agents, for example.
+
+00:05:47.320 --> 00:05:48.760
+The third one, security.
+
+00:05:48.760 --> 00:06:09.000
+It's the only one that is not directly business related, but everyone is interested and has a must have requirements so that data privacy, sovereignty, ownership, security and access is let's say well defined and considered from the very beginning and insufficient business impact proven.
+
+00:06:09.320 --> 00:06:11.320
+At the end, we also talk about governance.
+
+00:06:11.320 --> 00:06:36.760
+We not only talk about building a nice business case, it's also very important that you continuously track the performance of your AI initiative and also the operation of the final AI solution, even many many years after you have implemented it, because you may uh find out that uh the purpose and the value uh is not has not has not been realized.
+
+00:06:36.760 --> 00:06:39.240
+So that's very important as a summary here.
+
+00:06:39.240 --> 00:06:53.720
+Three of the four top objectives are related to let's say lack of alignment with business stakeholders and strategic alignment with business strategies.
+
+00:06:53.720 --> 00:06:59.320
+So as a consequence, uh and Gartner does a lot of predictions on top of survey data.
+
+00:06:59.320 --> 00:07:11.480
+And here you see through 2027, 60% of enterprise AI initiatives will fail to achieve expected outcomes due to a lack of change management and workforce engagement.
+
+00:07:11.480 --> 00:07:36.000
+So it's very important, even if many of you are probably CAOs or IT leaders, that you involve business stakeholders from the very beginning, already when it comes to the definition of requirements and uh KPIs, which we improve with the help of AI and other techniques.
+
+00:07:36.000 --> 00:07:38.480
+So at the end, it's a journey.
+
+00:07:38.720 --> 00:07:40.320
+And it's a journey which is ongoing.
+
+00:07:40.320 --> 00:07:49.280
+It's not a project with a defined start and end date, but it's an ongoing journey which continuously evolved because technology is also maturing over time.
+
+00:07:49.280 --> 00:07:51.200
+But you need to get started somehow.
+
+00:07:51.520 --> 00:07:55.680
+And that's why it's very important to get ready for your AI initiative.
+
+00:07:55.680 --> 00:08:00.880
+And to get ready for AI initiatives, we have four major categories.
+
+00:08:01.200 --> 00:08:05.360
+It's business, as I mentioned, that's the most important one in my opinion.
+
+00:08:05.360 --> 00:08:13.040
+Yeah, business needs to be aligned and engaged, and you need to focus on business outcomes to invest in outcomes and not in AI.
+
+00:08:13.040 --> 00:08:14.640
+Secondly, technology.
+
+00:08:14.640 --> 00:08:29.200
+Yes, you have a lot of technical debt, you have obsolete equipment and infrastructure, you have uh poor data quality, you have poorly integrated systems, you may have a large ERP initiative on harmonize 10 ERP systems across the globe.
+
+00:08:29.200 --> 00:08:32.000
+Yeah, then we talk about processes.
+
+00:08:32.000 --> 00:08:39.760
+Yes, you have your business processes, but also the governance process, how to implement AI in an orchestrated way.
+
+00:08:39.760 --> 00:08:49.040
+Yeah, this is another process, and it's a new process, and you need to be you need to have new roles and responsibilities, and that's why we also talk about people here.
+
+00:08:49.040 --> 00:08:54.080
+It's not just educating people which are final end users of AI.
+
+00:08:54.080 --> 00:08:57.440
+You also need to have new roles and responsibilities for AI.
+
+00:08:57.440 --> 00:09:02.040
+You need to have, for example, prompt engineers who to develop prompts.
+
+00:08:59.840 --> 00:09:04.520
+You need to have AI architects.
+
+00:09:04.840 --> 00:09:12.200
+So you need to have a variety of different new roles just to manage and implement AI.
+
+00:09:12.200 --> 00:09:16.120
+You cannot just be exclusively rely on vendors.
+
+00:09:16.120 --> 00:09:43.240
+You need to train your own people with AI because more and more business stakeholders will be involved in AI implementations, because also AI implementation can be facilitated through AI through logo, they are through AI assisted citizen development of AI use cases, which can be done by business stakeholders without any need to know how to write code, for example.
+
+00:09:43.240 --> 00:10:01.960
+So this requires a lot of change management as well and a lot of training, but at the end, AI is implemented by business and IT and supported by technology and service providers who to a large degree provide the tools and platforms and infrastructure.
+
+00:10:01.960 --> 00:10:09.560
+And once you have a good understanding of the current maturity stage, you can get started with your AI journey.
+
+00:10:24.440 --> 00:10:26.200
+So what are business capability maps?
+
+00:10:26.200 --> 00:10:41.800
+They are essential for successful AI investment planning and also governance, not only for the initial business case and scoping, but also for ongoing performance monitoring and progress monitoring.
+
+00:10:41.800 --> 00:10:44.200
+So what are business capabilities?
+
+00:10:44.240 --> 00:10:46.800
+And this is applicable for all industries.
+
+00:10:47.200 --> 00:10:51.280
+The business capabilities, first of all, connect strategy and execution.
+
+00:10:51.280 --> 00:10:53.280
+On the left hand side, you have your business models.
+
+00:10:53.280 --> 00:11:13.040
+You have your customer, you have your value proposition, your product and services portfolio, and your let's say financial, let's say capabilities, your capital, your assets, and on the right hand side, you have operating model.
+
+00:11:13.040 --> 00:11:20.080
+So you have your value streams and processes, you have governance of processes, value streams and organizations, and you have resources.
+
+00:11:20.080 --> 00:11:22.640
+Resources are first of all people.
+
+00:11:24.080 --> 00:11:28.000
+You even need more people if you move towards AI.
+
+00:11:28.000 --> 00:11:39.280
+But yes, some for some for many people, especially in hands-on tasks and operational tasks, AI will heavily influence the way of working.
+
+00:11:39.280 --> 00:11:46.240
+But we see that AI doesn't necessarily only remove jobs, AI also creates a lot of new jobs.
+
+00:11:46.240 --> 00:11:50.400
+But to what degree that takes place depends on the type of industry and sub-industry.
+
+00:11:50.400 --> 00:11:55.200
+But we also see IT and especially also AI as a key resource.
+
+00:11:55.200 --> 00:11:56.000
+What does it mean?
+
+00:11:56.000 --> 00:12:02.240
+So if you have strong AI capabilities and skills, it is a competitive advantage.
+
+00:12:02.480 --> 00:12:04.640
+So that's very important to mention here.
+
+00:12:04.640 --> 00:12:09.520
+And the connecting tissue here is what we call business capabilities.
+
+00:12:09.520 --> 00:12:14.160
+And now we dig a little bit deeper into what are business capabilities.
+
+00:12:14.160 --> 00:12:22.320
+A business capability is what the businesses do, but businesses do or should do to achieve a business outcome.
+
+00:12:22.320 --> 00:12:25.200
+So for I put four examples underneath here.
+
+00:12:25.200 --> 00:12:40.680
+So for example, operate network infrastructure from communications, for example, execute production, which is my sweet spot, yeah, smart factories, manufacturing operations, plan merchandise assortment, which is retail, or access credit risk.
+
+00:12:40.920 --> 00:12:44.840
+It's a very important mandatory tasks in the banking sector.
+
+00:12:44.840 --> 00:12:48.760
+So these are typical capabilities, and you see it's actionable.
+
+00:12:48.760 --> 00:12:54.920
+It says what businesses should or which businesses are already doing.
+
+00:12:57.240 --> 00:13:00.440
+Assess credit risk, execute production.
+
+00:13:00.440 --> 00:13:03.720
+It sounds like a process, but the process is different.
+
+00:13:03.720 --> 00:13:20.040
+And I will show you in the next uh on the next slide what the differences are because many organizations say, ah, we have our process maps, we have developed uh multiple hierarchies of processes, and uh why don't you talk about processes?
+
+00:13:20.040 --> 00:13:22.200
+Why do you talk about capabilities?
+
+00:13:22.200 --> 00:13:34.520
+Um the reason is that business capabilities uh are not repeated and do not overlap, they are stable and do not change that often, yeah, and uh they account for process organization technology.
+
+00:13:34.520 --> 00:13:45.800
+You still need all the three of them, but the capabilities all in all say what has to be done, not how it has to be done in detail, which is a process.
+
+00:13:45.800 --> 00:13:48.760
+The process says the how and processes may change.
+
+00:13:48.760 --> 00:15:47.160
+Yeah, so a manufacturing customer still needs to be able to produce something, but how you produce if you do if you use um more robots, if you use more uh human beings, if you use AGVs or whatever, autonomous vehicles or whatever, that's uh the the the how, but at the end, and you need to produce products and ship them to the client at the right point of time yeah and that's why the process can change more often especially um as we have shifts in demand and supply for example which requires process changes in manufacturing so processes may change frequently and uh so and and very important there should not be replicated to create a business capability model so typically uh companies start with processes and then they simply say the top processes are the same as business capabilities that's something where you need to be a bit careful I I would say that business capabilities can help cluster and categorize processes but at the end the processes um have a certain sequence yeah they have let's say um uh orders and and variance yeah but uh the the capabilities could be seen and mapped processes so processes and business capability have a deep relationship but they are not the same if we move to the process uh if you move to the organization uh it's very important that you need to have clear responsibilities and accountabilities for processes and also for business capabilities and unfortunately in current times yes uh processes also organizations may change frequently especially due to the fact that we need to uh implement and uh uh uh install new AI roles and responsibilities uh and that you need to uh enhance your operating model the hype of AI but also due to other disruptions.
+
+00:15:47.160 --> 00:15:50.520
+Yeah, that's that's very important to mention here as well.
+
+00:15:50.520 --> 00:15:53.240
+But all the three of them are closely related.
+
+00:15:53.240 --> 00:15:55.440
+Why do I focus on business capabilities?
+
+00:15:55.440 --> 00:16:10.520
+Because they are less complex and you can already make critical business decisions only with a one-page business capability map, which not necessarily is possible with complex process maps.
+
+00:16:10.520 --> 00:16:13.240
+So how does a business capability map look like?
+
+00:16:13.240 --> 00:16:20.520
+It's a as I mentioned, it's a one-pager slide pages, but we have templates for 10 industries, even more.
+
+00:16:20.520 --> 00:16:27.880
+If we add the sub-industries, 10 plus X industries, we have these standard business capability map templates.
+
+00:16:27.880 --> 00:16:40.200
+It doesn't mean that you have to apply these templates, but can figure out if you have gaps in your capability map or if you don't have any capability maps at all, you can use these as a starting point.
+
+00:16:40.200 --> 00:16:41.720
+And the structure is quite simple.
+
+00:16:41.720 --> 00:16:44.680
+So it starts on the top with business objectives.
+
+00:16:44.680 --> 00:16:52.520
+Then you have on the left-hand side value realizing business capabilities, which can be modeled in certain hierarchies.
+
+00:16:52.520 --> 00:16:56.200
+And on the business capability map, we only focus on level zero and one.
+
+00:16:56.200 --> 00:17:02.360
+You could go deeper if you want, but then that would be models sitting underneath.
+
+00:17:34.600 --> 00:17:40.840
+The business capability increase customer experience would directly pay into that objectives.
+
+00:17:40.840 --> 00:17:49.840
+But for example, management of this underlying CIM system, that would be a business capability which which enables the value.
+
+00:17:49.840 --> 00:17:58.400
+So it doesn't directly pay into the business outcome, but the system needs to be up and running because otherwise you cannot really realize value.
+
+00:17:58.400 --> 00:18:16.400
+You need to have the data backbone infrastructure in order to, let's say, automate the business capability of increased customer experience to achieve the business outcome of 10% revenue increase, for example.
+
+00:18:16.400 --> 00:18:21.280
+But if we go to the next, so at the end, that's that's the key.
+
+00:18:21.280 --> 00:18:26.960
+Um the key here in this presentation, industry business capability maps are accelerators.
+
+00:18:26.960 --> 00:18:27.520
+Why?
+
+00:18:27.520 --> 00:18:39.920
+Because they directly give you insights of the business impact of AI investments and use cases.
+
+00:18:59.120 --> 00:19:00.320
+Also in later steps.
+
+00:19:00.320 --> 00:19:05.760
+For example, if you already have a great business capability web in place, you can start this step two.
+
+00:19:05.760 --> 00:19:15.840
+Yeah, um, but usually clients start from the very beginning, and we see it's already always validated through, let's say, case examples.
+
+00:19:15.840 --> 00:19:37.800
+So whenever you walk through a third step, Gartner can provide you with real case examples, success stories from clients, um, uh, how they achieved uh certain outcomes, how they use business capabilities, and how they implemented AI initiatives successfully so that they delivered the expected outcomes.
+
+00:19:37.800 --> 00:19:43.400
+So let's get started with the business capability map itself.
+
+00:19:43.400 --> 00:19:48.360
+So this is a manufacturing example, as I mentioned, we have it for 10 or even more industries.
+
+00:19:53.080 --> 00:20:00.680
+Then the white boxes, which are business capability level one, and the gray frames are business capabilities level zero.
+
+00:20:00.680 --> 00:20:03.560
+And at the bottom, it might be a little bit difficult to read.
+
+00:20:03.560 --> 00:20:09.720
+It's a digital execution scorecard, it's a document which includes hierarchies of matrix.
+
+00:20:09.720 --> 00:20:27.640
+So if you take, for example, on the top optimized asset utilization, yeah, you could say, okay, a KPI could be minimization of asset downtime or customer experience, yeah, uh customer uh digital revenue, generate digital revenue on the top left-hand side.
+
+00:20:27.640 --> 00:20:32.840
+The outcome could be, for example, um servitized products or something.
+
+00:20:32.840 --> 00:20:37.160
+Yeah, so so this is um percentage of certized products, for example.
+
+00:20:37.160 --> 00:20:50.040
+So um that or uh or or in in other industries, it would be, for example, um revenue through new products, new product innovation or new product variants or services.
+
+00:20:50.040 --> 00:20:53.960
+So that is very important that underneath there's a lot of business logic.
+
+00:20:53.960 --> 00:20:55.160
+We have a toolkit for this.
+
+00:20:55.160 --> 00:21:14.520
+It's an Excel based toolkit where you can also let's say select more detailed KPIs, and the tool will automatically highlight what are the critical business capabilities based on selection of business objectives and KPIs.
+
+00:21:14.520 --> 00:21:16.240
+And it's maybe a bit difficult to read.
+
+00:21:16.240 --> 00:21:23.600
+So here in this case, achieve operational excellence and optimize asset utilization are highlighted objectives.
+
+00:21:23.600 --> 00:21:27.920
+Underneath you could select certain KPIs and matrix.
+
+00:21:28.480 --> 00:21:39.760
+And based on this selection, the business capabilities which have high importance for you, yeah, um will be highlighted in the color coded color.
+
+00:21:39.760 --> 00:21:42.480
+And here you see commodity, keep up and differentiating.
+
+00:21:42.480 --> 00:21:43.840
+We name it pace layers.
+
+00:21:43.840 --> 00:21:50.080
+So the white ones mean okay, no real action needed because it works well, no issues.
+
+00:21:50.080 --> 00:22:02.960
+Yeah, keep up means yes, it's in a good shape, but uh we need to keep it under control because if it gets out of control, you may have an issue, and then differentiating means okay, here we need to innovate here.
+
+00:22:02.960 --> 00:22:11.760
+We have a lot of potential, for example, to improve um KPIs and performance with the help of AI.
+
+00:22:11.760 --> 00:22:21.920
+By the way, you could also use it for other technologies, but here we focus on AI because now I want to build the linkage to AI use case.
+
+00:22:21.920 --> 00:22:28.320
+But before we do that, uh, very important that it's not just the capabilities.
+
+00:22:28.320 --> 00:22:35.600
+You remember at the beginning I talked about organization as well, so there needs to be clearly defined uh roles and responsibilities.
+
+00:22:35.600 --> 00:22:56.880
+So it's not just an IT project, you need to talk to these business stakeholders when it comes to identification of challenges, maturity levels of these capabilities or opportunities for process and performance improvement related to the specific business capability.
+
+00:22:56.880 --> 00:23:01.960
+So now we talk about use cases, and you may have seen the these use case assessments.
+
+00:23:01.960 --> 00:23:05.240
+Um this is an example for manufacturing operations.
+
+00:23:05.240 --> 00:23:13.880
+We have more than 200 of these maturity assessments for value generating and for value enabling capabilities.
+
+00:23:13.880 --> 00:23:18.520
+Yeah, and uh, and uh here you see um a simple structure.
+
+00:23:18.520 --> 00:23:28.680
+Uh it's a quadrant on the on the x-axis we have feasibility, technical feasibility, but also internal maturity, and on the on the on the y-axis we see value.
+
+00:23:28.680 --> 00:23:33.640
+Yeah, and uh value means the degree of contribution to these broader business objectives.
+
+00:23:33.640 --> 00:23:36.760
+And you see a little bit of the color coding of the use cases themselves.
+
+00:23:36.760 --> 00:23:40.760
+So it could be a directly impacted use case or it could be a related use case.
+
+00:23:40.760 --> 00:23:47.480
+For example, in manufacturing, we have a very popular use case is predictive maintenance on the top right hand side.
+
+00:23:47.480 --> 00:23:52.520
+There are many vendors offering standard solutions for that, so it's high feasibility and high value.
+
+00:23:52.520 --> 00:24:02.520
+We have many case studies for this use case in asset-intensive industries like energy and utilities as well, manufacturing, transportation and so on, mining, yeah.
+
+00:24:02.520 --> 00:24:06.440
+Um, this is Gardner's view because we have found many case examples.
+
+00:24:06.440 --> 00:24:12.520
+For you, it might not be that easy to implement, yeah, because you may have technical debt and obsolete equipment and infrastructure.
+
+00:24:12.520 --> 00:24:20.600
+Yeah, so but you could you could build your own maturity assessment, your own use case uh assessment.
+
+00:24:20.600 --> 00:24:28.440
+But this is a proposal from Gartner where you see what others are doing, and the value can be very, let's say, different.
+
+00:24:28.440 --> 00:24:34.840
+It could be contribution business outcomes like like revenue increase or cost saving or risk avoidance.
+
+00:24:34.840 --> 00:24:48.080
+So every use case you could click on each use case and see what are the KPIs related to this use case, what are the underlying data sources, and uh what uh let's say technologies and AI techniques do you need for that.
+
+00:24:48.400 --> 00:24:55.440
+Um, very important to mention the the bright uh red or the rose and the red buttons uh bubbles, what does it mean?
+
+00:24:55.440 --> 00:25:03.920
+So, for example, industrial data management is more enabling, but without industrial data management, predictive maintenance is difficult to realize.
+
+00:25:03.920 --> 00:25:10.240
+Yeah, so that's why we you could also classify the use case because at the end, what do you want to do?
+
+00:25:10.240 --> 00:25:13.360
+You want to prioritize these use cases in a roadmap.
+
+00:25:13.360 --> 00:25:14.880
+What are the most important use cases?
+
+00:25:14.880 --> 00:25:19.120
+And you prioritize these use cases based on value and feasibility.
+
+00:25:19.120 --> 00:25:25.440
+And another criterion, what I often recommend is prioritize them based on logical dependencies as well.
+
+00:25:25.440 --> 00:25:33.760
+And one logical dependency is what is the related use case and what is the directly impacted use case.
+
+00:25:33.760 --> 00:25:45.360
+But it's not just what is the value of the use case, and yes, someone you may say, ah, we have a low feasibility, but how do you visualize, how do you quantify readiness for that use case?
+
+00:25:45.360 --> 00:25:53.280
+For that, we have AI readiness assessment tools, which you could apply for business capabilities as well.
+
+00:25:53.280 --> 00:26:03.200
+Yeah, so you have these seven dimensions on the left hand side strategy, value, organization, people and culture, uh, governance, AI engineering, and AI data.
+
+00:26:03.200 --> 00:26:12.240
+So you see the bubbles on the left hand side, you should assess at the very beginning what is the current state and what is the future state in the upcoming two, three, four, five years.
+
+00:26:12.240 --> 00:26:14.000
+So that's very important to consider.
+
+00:26:14.000 --> 00:26:23.680
+It's not just the value, it's also the current maturity, and the bigger the gap between the current stage and the future stage, future stage, the more action has to be taken.
+
+00:26:23.680 --> 00:26:33.160
+And don't remember, you don't have to do it for all capabilities, you only do it for those which are critical, as you see on the little screen on the right-hand side.
+
+00:26:29.280 --> 00:26:46.360
+Those which have a dark blue color coding are the most important ones, and here you should do jointly with the business stakeholders an assessment of the maturity and the potential.
+
+00:26:46.360 --> 00:26:51.640
+And then we have these nice AI opportunity radar, which some of you may have seen.
+
+00:26:51.640 --> 00:26:57.320
+And this also is a mapping between business capabilities and use cases.
+
+00:26:57.320 --> 00:26:59.560
+You see the headers of the segments.
+
+00:26:59.560 --> 00:27:10.200
+You have core capabilities, you have capabilities which uh relate to the back office, which is mainly enablement capabilities, while core capabilities are more value generating ones.
+
+00:27:10.200 --> 00:27:16.440
+Product and services is also value generating capabilities, and we have the front office, everything which is customer-facing.
+
+00:27:16.440 --> 00:27:17.880
+And we have different patterns here.
+
+00:27:17.880 --> 00:27:23.640
+Some organizations say we mainly focus on productivity and internal operational excellence.
+
+00:27:23.640 --> 00:27:29.480
+Others want to start with customer-facing use cases, others want to start on product innovation.
+
+00:27:29.480 --> 00:27:37.080
+So here you already recognize certain patterns, uh, and that's that is what we call AI ambitions.
+
+00:27:37.080 --> 00:27:38.360
+Is it more customer-facing?
+
+00:27:38.360 --> 00:27:44.840
+Is it more product innovation, or is it more optimization of internal or even administrative processes?
+
+00:27:44.840 --> 00:27:59.960
+And you see the four use cases which are prioritized here, uh, fall more into the pattern of productivity per source, uh, but mainly on the core capabilities, which are which is internal operations and supply chains.
+
+00:27:59.960 --> 00:28:10.520
+By the way, that's a typical pattern of manufacturing customers in consumer goods retail banking, it might be different.
+
+00:28:10.520 --> 00:28:15.600
+And now the most complex uh um let's say topic is coming here.
+
+00:28:15.600 --> 00:28:19.040
+So, because how do you connect it with AI now?
+
+00:28:14.840 --> 00:28:20.560
+So, we have plenty of use cases.
+
+00:28:20.800 --> 00:28:27.280
+It's not so easy to read, but these are manufacturing use cases where we map uh AI techniques.
+
+00:28:27.280 --> 00:28:33.040
+So, what is the value contribution of certain AI techniques to certain use cases?
+
+00:28:33.040 --> 00:28:35.040
+So that's uh that's something.
+
+00:28:35.040 --> 00:28:37.840
+So, do you really need a genet AI for any use case?
+
+00:28:37.840 --> 00:28:40.080
+Yeah, do you really need generative AI?
+
+00:28:40.080 --> 00:28:41.120
+Does it really add value?
+
+00:28:41.120 --> 00:28:41.840
+Yes or no?
+
+00:28:41.840 --> 00:28:48.320
+And what it also shows is yes, you could automate every use case to a large degree, but does it really pay back?
+
+00:28:48.320 --> 00:29:06.480
+Does it really add enough value, or or even do you have the budget to implement a use case with a high degree of automation from the very beginning, or should you start with a minimum viable product and then scale stepwise once they have built up more knowledge and skills and see what the impact is?
+
+00:29:06.480 --> 00:29:19.280
+So, very important that one use case requires multiple technologies and often also multiple AI technologies, but you don't need to implement them all at once.
+
+00:29:19.280 --> 00:29:35.760
+So, if if you dig a little bit into more detail, what are the categories of AI agent capabilities and the level of agency you see on the on the Y axis on the Y axis, the agent capability, perception, decisioning, actioning, agency, adaptability, knowledge?
+
+00:29:35.760 --> 00:29:46.800
+I don't dig that deep here, but you see on the but it's very important that it's not always the goal to let's say automate everything, often human interaction is needed.
+
+00:29:46.800 --> 00:29:52.240
+Human in the loop is very important, but also adaptability and flexibility.
+
+00:29:52.240 --> 00:29:58.880
+It's not necessarily the requirement to let's say maximize the degree of automation.
+
+00:29:59.480 --> 00:30:08.600
+It's often also very important to deal with disruptions and changes and to be more adaptable and flexible.
+
+00:30:08.600 --> 00:30:13.560
+So these are partly contradicting, let's say, categories and objectives.
+
+00:30:13.560 --> 00:30:26.600
+And on the right hand side on the top on the header, so the y-axis, let's say, you have the AI assistants, the AI agents, and yes, you could start with a minimal deployment, emerging, basic intermediate advanced.
+
+00:30:26.600 --> 00:30:30.920
+So the more you move to the right-hand side, the higher will be the level of autonomy.
+
+00:30:30.920 --> 00:30:34.440
+You would could start with a simple AI assistant and a chatbot.
+
+00:30:34.440 --> 00:30:45.560
+It's not necessarily agentic AI, but at the end on the right hand side, you have agentic AI with a high degree of autonomy and minimum human interaction.
+
+00:30:45.560 --> 00:30:51.480
+And even for the high degrees of autonomy on the right-hand side, we have five levels.
+
+00:30:59.320 --> 00:31:01.480
+I forgot that I have this example in here.
+
+00:31:01.480 --> 00:31:04.440
+So inventory management relevant for many industries.
+
+00:31:04.520 --> 00:31:15.480
+You could have a warehouse management system where you simply are a stock follower and you have a report, and where you we need to proactively log into the system and open a report to see what is on stock.
+
+00:31:15.880 --> 00:31:19.960
+Emerging means, oh yes, I get some limited help.
+
+00:31:19.960 --> 00:31:29.320
+So I have a barcode scanner, I scan a barcode of a part which is somewhere in the factory, and then yes, you would get detailed information how much of that material is on stock.
+
+00:31:29.320 --> 00:31:31.960
+It's a little bit more advanced.
+
+00:31:32.360 --> 00:31:36.840
+Basic is already quite advanced because it has some intelligence.
+
+00:31:36.840 --> 00:31:38.520
+It suggests restocking.
+
+00:31:38.520 --> 00:31:50.240
+For example, uh, you have a container of screws, and uh a sensor measures how many screws screws do I have in that container.
+
+00:31:50.400 --> 00:31:57.680
+And then there is the threshold of 2080% consumption, only 20% left.
+
+00:31:57.920 --> 00:31:59.680
+It gives you a trigger.
+
+00:32:01.920 --> 00:32:08.320
+But it doesn't really do it automatically, but it reminds you automatically based on a simple rule.
+
+00:32:08.320 --> 00:32:13.920
+And at the end, I don't go through all the details here, but at the end, the very advanced one would be it's fully agentic.
+
+00:32:13.920 --> 00:32:15.440
+It's what we call a machine customer.
+
+00:32:15.440 --> 00:32:21.200
+The Kanban container automatically, let's say, reorders screws.
+
+00:32:41.680 --> 00:32:47.040
+And that's why we have different let's say degrees of autonomy.
+
+00:32:50.800 --> 00:32:53.680
+Machine provides insights, but humans decide and act.
+
+00:32:53.680 --> 00:32:57.040
+Assistive means machine and humans work together.
+
+00:32:58.560 --> 00:33:04.960
+And last but not least, autonomous means machine decides and acts independently of humans if you want.
+
+00:33:04.960 --> 00:33:07.360
+And it's always a question if you want.
+
+00:33:25.600 --> 00:33:27.400
+It does what it should do.
+
+00:33:27.720 --> 00:33:33.160
+Or it executes automatically and necessarily informs humans based on certain rules.
+
+00:33:27.360 --> 00:33:33.800
+Very important.
+
+00:33:34.360 --> 00:33:46.920
+So for example, the Kanban container, the screw container, after 10% or after 80% has been consumed, the 20% is left, it automatically informs humans.
+
+00:33:46.920 --> 00:33:52.040
+Three means it executes automatically and for informs humans only if asked.
+
+00:33:52.040 --> 00:33:55.640
+If asked that's generally that's a typical generative AI case.
+
+00:34:18.760 --> 00:34:26.120
+Then yes, you might not agree with the trigger points when a human being is involved and asked.
+
+00:34:26.120 --> 00:34:27.400
+So that's kind of dangerous.
+
+00:34:27.400 --> 00:34:30.120
+So you need to really trust in that system.
+
+00:34:30.120 --> 00:34:38.280
+Or it needs to be a very simple process which can run in the background, a very suitable process for lights out execution.
+
+00:34:38.600 --> 00:34:41.640
+So then you don't want to be asked all the time.
+
+00:34:42.040 --> 00:34:47.240
+So maybe that is something which really depends on the use case.
+
+00:34:47.240 --> 00:34:53.160
+And last but not least, number one, it's fully autonomous and ignoring humans, which is kind of dangerous.
+
+00:34:53.160 --> 00:35:05.800
+And I I think also that full autonomy is science fiction for many industries, because uh the whole uh you can do it for some selective processes, but you can't do it for an end-to-end value chain.
+
+00:35:05.800 --> 00:35:26.800
+So, very important to consider most companies start with five, or they even start with um less mature stages where they simply use assistance, yeah, but they don't agenda AI from the very beginning, even though the value is there for many use cases.
+
+00:35:26.880 --> 00:35:28.640
+Other aspect is the business case.
+
+00:35:28.640 --> 00:35:38.720
+Yeah, you can take the use case political maintenance, or you can take a use case like uh let's say scheduling or something, planning, uh, drug design, drug development.
+
+00:35:38.720 --> 00:35:50.560
+Uh all these use cases have different uh let's say business impacts and uh and um also business certain uns a bit of uncertainty to some degree.
+
+00:35:50.560 --> 00:35:55.440
+Yeah, so uh you are less risky if you start with the defend case.
+
+00:35:55.440 --> 00:36:15.360
+So you have you augment individual productivity, it's more an incremental approach, which is predictable, and uh this mainly relates to the case of return on employee, and you can easily calculate what is uh let's say the improvement, what is the impact of your AI investment?
+
+00:36:15.360 --> 00:36:19.360
+Then what we see most often is a classical return on investment.
+
+00:36:19.360 --> 00:36:22.720
+Here you change the process, you transform the process.
+
+00:36:22.720 --> 00:36:27.600
+Uh good example is customer service or transformed claims processes.
+
+00:36:27.600 --> 00:36:37.040
+Here you have a large number of standard use cases available from vendors, AI use cases, AI agents being available in the market.
+
+00:36:37.040 --> 00:36:47.680
+Yeah, um, and here you can really create a clear ROI in business case because you have packaged solutions available in the market to some degree.
+
+00:36:47.680 --> 00:36:52.560
+Yeah, and upend means, oh, yes, that's a bit risky, it's more investment into the future.
+
+00:36:52.560 --> 00:36:55.520
+It's a lot of disruptions and a lot of uncertainty here.
+
+00:36:55.520 --> 00:37:01.960
+You typically use uh a variety of new AI techniques, or you combine multiple AI techniques.
+
+00:37:01.960 --> 00:37:07.480
+So it's very difficult to predict what is the cost and what is the impact.
+
+00:37:07.480 --> 00:37:16.440
+But if you do it in the right way, you can reach the highest, let's say, ROI, but it can also be a large investment.
+
+00:37:16.440 --> 00:37:21.960
+So we see often use cases like this in the farm and life science sector, drug discovery.
+
+00:37:21.960 --> 00:37:33.560
+If you detect a new drug, if you develop a new recipe formula, for example, which is not existing yet on the market, that can be a huge let's say business driver.
+
+00:37:33.560 --> 00:37:38.680
+Yeah, and uh and uh but it also requires huge investments.
+
+00:37:38.680 --> 00:37:41.560
+But that is exactly the the message here.
+
+00:37:41.560 --> 00:38:10.680
+Um, AI to some degree also means investment into the future, and also the fact that in some areas you may want to be a first mover, and uh let's say with a high degree of digital ambition to take the risk to also invest in uh emerging uh new AI techniques or very innovative use cases, but that is high risk, but high risk often also if you succeed, high return on investment.
+
+00:38:10.680 --> 00:38:23.720
+And this is mainly frameworks and uh theoretical um let's say um guidelines, and but what I want to mention here is for validation we have a lot of use cases.
+
+00:38:23.720 --> 00:38:28.680
+You see the AI use case insights tool is referenced here on gartner.com.
+
+00:38:28.680 --> 00:38:29.880
+And this is the format.
+
+00:38:29.880 --> 00:38:31.840
+It's simply, what is the use case?
+
+00:38:31.840 --> 00:38:33.280
+What is the business outcome?
+
+00:38:33.280 --> 00:38:34.800
+What were the initial challenges?
+
+00:38:34.800 --> 00:38:44.920
+What technologies were used, and also more details about the implementation approach if you click on the detailed uh links at the bottom of these one pager slides.
+
+00:38:45.520 --> 00:38:54.160
+And we have that for multiple industries available, and also to mention as I have a large group in this audience.
+
+00:38:54.480 --> 00:38:57.760
+We have a so-called I on Innovation Award.
+
+00:38:57.760 --> 00:39:11.280
+So if you have innovative AI case examples, successful implementations, feel free to click on to search by Ion Innovation on our Gartner webpage, Ion Innovation.
+
+00:39:11.280 --> 00:39:13.840
+You will find it if you just simply open Gartner.com.
+
+00:39:13.840 --> 00:39:36.800
+It's easy to find.com, independent if you are a Gartner client or not.
+
+00:39:36.800 --> 00:39:38.960
+So that's very important to mention here.
+
+00:39:38.960 --> 00:39:59.760
+The more use cases we have, case studies, I have to say, case examples, real implementations, the better we can validate our frameworks and concepts, and the more benchmark data you will also have as a Gartner client to validate your AI use case prioritization and your return on investment calculations.
+
+00:39:59.760 --> 00:40:30.680
+Because from these case examples, you get real uh KPI ranges, what KPIs can you achieve with what type of technologies and and uh and solutions overall that helps us a lot in order to improve the quality of our assessment tools and also estimations of let's say the value of AI.
+
+00:40:29.520 --> 00:40:36.600
+So finally, last slide enterprises investment outcomes, not in technology.
+
+00:40:36.840 --> 00:40:43.720
+AI is only as valuable as the business impact it delivers.
+
+00:40:43.720 --> 00:40:45.160
+Thank you very much.
+
+00:40:45.160 --> 00:40:54.280
+I will now hand over to my colleague Sniha, and I'm happy to answer your questions.
+
+00:40:54.280 --> 00:40:58.120
+And I see many questions have come together.
+
+00:40:58.120 --> 00:41:00.840
+But first of all, I hand over to you, Snea.
+
+00:41:01.320 --> 00:41:03.480
+Thank you, Alexander.
+
+00:41:03.480 --> 00:41:11.080
+We have time to take some questions now, so please continue to submit your questions in the ask the speaker box and remember to rate this session.
+
+00:41:11.080 --> 00:41:14.920
+To submit your rating, you can locate the rate session link below the player.
+
+00:41:14.920 --> 00:41:20.360
+A box will open for you to select one to five hearts and please know that five hearts is the top rating.
+
+00:41:20.360 --> 00:41:25.480
+Share your feedback on the insights provided in the leave further feedback box and click send.
+
+00:41:25.480 --> 00:41:30.840
+But before we get to the QA, we want to share some resources that Gartner clients have access to.
+
+00:41:30.840 --> 00:41:40.360
+And if you're not already a Gartner client, please reach out to a Gartner representative to learn how you can advance your mission critical priorities.
+
+00:41:40.360 --> 00:41:44.680
+The Gartner clients have access to a suite of benefits that you don't want to miss.
+
+00:41:44.680 --> 00:41:53.880
+Drive value across business by arming yourself with the latest business and technology insights, trends and technologies shaping the future, all specialized for your role.
+
+00:41:53.880 --> 00:41:57.320
+You can click the link to learn more.
+
+00:41:57.320 --> 00:42:10.440
+And join us at the Center of Technology Strategy and Inspiration at Gartner IT Symposium Expo as we explore the technology insights and trends shaping the future of IT and business.
+
+00:42:10.440 --> 00:42:14.320
+Visit the link on this slide for conference updates.
+
+00:42:13.960 --> 00:42:18.800
+Please find a slide with recommended research hand selected by our analyst today.
+
+00:42:18.960 --> 00:42:27.200
+If you're not a Gartner client, you can reach out to a Gartner representative and find out how you can access materials like this and more.
+
+00:42:27.200 --> 00:42:31.200
+You can download these resources from the bottom of the page.
+
+00:42:31.200 --> 00:42:39.680
+Plus, you can get more Gartner insights, access additional resources and see upcoming and on demand webinars at Gartner.com/slash webinars.
+
+00:42:39.680 --> 00:42:47.600
+Please reach out to your Gartner representative to take advantage of these entitlements and maximize your Gartner relationship.
+
+00:42:47.600 --> 00:42:52.000
+All right, ex Alexander, over to you to address the questions.
+
+00:42:52.400 --> 00:42:53.360
+Yeah, thanks.
+
+00:42:53.360 --> 00:42:54.560
+Thanks, Dea.
+
+00:42:55.120 --> 00:43:03.200
+So yeah, so let's start with because it's it's it's a methodology, the whole business capability topic.
+
+00:43:03.200 --> 00:43:09.040
+There was a nice question from let me see if I find it again.
+
+00:43:09.040 --> 00:43:10.960
+So it hasn't disappeared.
+
+00:43:12.160 --> 00:43:16.720
+There was a question on let me see.
+
+00:43:16.720 --> 00:43:18.960
+I thought I have it here.
+
+00:43:18.960 --> 00:43:20.320
+I need to scroll back.
+
+00:43:20.320 --> 00:43:23.120
+Ah, um yeah, from Martin Vishodek.
+
+00:43:23.120 --> 00:43:27.600
+Is the page layer defined per capability and business objectives?
+
+00:43:27.600 --> 00:43:32.480
+Uh so a capability can have different pace layer for each objective.
+
+00:43:32.480 --> 00:43:33.760
+That's that's a great question.
+
+00:43:33.760 --> 00:43:37.360
+So, first of all, uh it's a hierarchical approach.
+
+00:43:37.360 --> 00:43:44.720
+You can build, you can start with a business capability map, but often a one page of business capability map is not sufficient.
+
+00:43:44.720 --> 00:43:46.960
+You may have to go to level two, three, and four.
+
+00:43:46.960 --> 00:43:47.320
+Yeah.
+
+00:43:47.200 --> 00:43:48.640
+Um, um so it's flexible.
+
+00:43:48.640 --> 00:43:51.840
+It doesn't restrict how many hierarchies you can model.
+
+00:43:51.840 --> 00:43:56.000
+But we typically recommend to start first of all with the business outcome.
+
+00:43:56.000 --> 00:43:59.120
+Do you have an issue with revenue or this cost?
+
+00:43:59.120 --> 00:44:01.400
+Yeah, so that's the first question.
+
+00:44:01.480 --> 00:44:13.320
+And yes, you need to go more deep to detail to figure out where are what are the cost uh drivers, for example, or what are areas where you can have investment, where you have uh revenue opportunities.
+
+00:44:13.320 --> 00:44:21.480
+Then you go one level deeper on level zero and one, and then you see, oh yes, uh, this capability pays into that business outcome.
+
+00:44:21.480 --> 00:44:31.400
+But yes, one business capability could support multiple business outcomes, and that is an indicator that you may have to go one level deeper on level two.
+
+00:44:31.400 --> 00:44:44.760
+So usually we see six to seven business capabilities on level two for each capability, and this gives you the opportunity to really differentiate which capabilities on lower levels pay into which KPIs.
+
+00:44:44.760 --> 00:44:53.880
+So you should ensure that you go to a level where you have a business capability which directly pays into a certain outcome, but it's not always possible.
+
+00:44:53.880 --> 00:45:12.440
+Yeah, but we recommend to do the modeling for those business capabilities where you see a lot of let's say impact, yeah, and uh don't hesitate to go over level deeper, but you don't need to do detailed modeling for all capabilities, only for those where you see high potential.
+
+00:45:12.440 --> 00:45:27.160
+Yeah, so the question is yes and no, but um, at the end, you should get to a level where you can first of all directly map KPIs which pay to the business outcomes, and where you can directly map concrete basis.
+
+00:45:27.160 --> 00:45:41.880
+So it's difficult to explain, but this is uh we have a couple of examples, and we have a toolkit, as I mentioned, where you can select multiple objectives and where you can even have multiple pace layers per level one capability if you want, yeah.
+
+00:45:41.200 --> 00:45:57.520
+Yeah, but if that situation comes up, go one level deeper and see where is the difference and where are let's say what is the originating capability where each of these pace uh layer pace layers is originating.
+
+00:45:57.520 --> 00:46:08.880
+So that is a very important question because it it's it's very critical to define how to define these hierarchies and how many modeling efforts do you want to spend.
+
+00:46:08.880 --> 00:46:13.680
+Um is AI merely that's another good question from Atul Fett.
+
+00:46:14.000 --> 00:46:16.320
+Hopefully, I pronounce it correctly.
+
+00:46:16.480 --> 00:46:23.280
+Uh, is AI merely a resource, or is it often necessarily to realign strategy and execution to benefit from AI?
+
+00:46:23.280 --> 00:46:24.560
+That's a very important question.
+
+00:46:24.560 --> 00:46:28.240
+So many companies, all of you probably have business strategies.
+
+00:46:28.240 --> 00:46:32.240
+All of you probably have IT strategies.
+
+00:46:32.240 --> 00:46:36.720
+Probably all of you or many of you have data strategy because it's all about data.
+
+00:46:36.720 --> 00:46:40.400
+Without data and access to the data sources, you can't do much with AI.
+
+00:46:40.400 --> 00:46:41.280
+Yeah.
+
+00:46:41.280 --> 00:46:46.240
+But yes, we also recommend, and that's often a CIO or AI leader task.
+
+00:46:46.240 --> 00:46:49.840
+Yeah, you also need to build an AI strategy in roadmap.
+
+00:46:49.840 --> 00:46:55.200
+AI, as I mentioned, uh, is a strategic competitive advantage if you do it in the right way.
+
+00:46:55.200 --> 00:46:59.200
+And I can tell you, if you don't do any AI, you will lose competitive advantage.
+
+00:46:59.200 --> 00:47:07.360
+But even if you don't do it in the right way, if you don't prioritize your AI investments in the right way, you could even damage your business with AI.
+
+00:47:07.360 --> 00:47:16.320
+Also, if you don't take care of security, data governance and privacy, you could fail, and AI could even cause damages and additional challenges.
+
+00:47:16.320 --> 00:47:18.240
+So, what is the essence here?
+
+00:47:18.240 --> 00:47:19.920
+Yes, you need to have an AI strategy.
+
+00:47:19.920 --> 00:47:23.760
+The AI strategy needs to be aligned with business strategy.
+
+00:47:23.760 --> 00:47:37.080
+And last year we published for all industries a research let's say a series of research nodes, how to build an AI strategy in alignment with your business strategy and your IT strategy.
+
+00:47:37.160 --> 00:47:41.560
+So it's an additional effort, and these strategies play hand in hand.
+
+00:47:41.560 --> 00:47:45.720
+And it's not just the strategy, it's also the operating model.
+
+00:47:46.120 --> 00:47:54.920
+You remember the slide with these little diamonds and squares, where I explained where the business capabilities are sitting between strategy and operations.
+
+00:47:59.720 --> 00:48:05.080
+Because many jobs will change a lot and due to AI.
+
+00:48:05.080 --> 00:48:11.960
+Not only replaced, but especially also augmented with AI.
+
+00:48:17.800 --> 00:48:21.160
+How many levels of business capabilities are ideal to develop?
+
+00:48:21.160 --> 00:48:27.880
+Sometimes organizations want to go till level six to get to the common terminology that they need and want.
+
+00:48:36.840 --> 00:48:54.600
+But whenever you have a business capability where you have a high impact or major challenges, you should figure out what is the level of detail where the root causes can be identified, where the real potential can be achieved, and where the critical KPIs become relevant.
+
+00:48:54.600 --> 00:48:57.560
+And don't forget, it's not just capability modeling.
+
+00:48:57.560 --> 00:49:03.560
+At the end, and that's another webinar that we plan to do in the second half of the year.
+
+00:49:03.560 --> 00:49:10.760
+We need to also connect business capabilities with technology with your system landscape.
+
+00:49:10.760 --> 00:49:11.560
+What does it mean?
+
+00:49:11.560 --> 00:49:14.680
+So you need to figure out what are the business capabilities, yes.
+
+00:49:15.360 --> 00:49:21.760
+What are the applications, data sources, and systems and technologies which support this business capability?
+
+00:49:21.760 --> 00:49:24.080
+What is the data input and output?
+
+00:49:24.080 --> 00:49:28.400
+And I forgot to mention there is a process model also behind it and an organizational chart.
+
+00:49:28.400 --> 00:49:30.160
+So it's it's a starting point.
+
+00:49:30.160 --> 00:49:38.160
+So don't get started with six levels of business capabilities because the risk, if you do that, is that you start with building process models.
+
+00:49:38.160 --> 00:49:44.080
+So you need to really figure out what is the transition between a business capability and a process model.
+
+00:49:44.080 --> 00:49:50.160
+As I mentioned, business capability models models have help structure and categorize processes.
+
+00:49:50.160 --> 00:49:54.560
+But at some point of time, you need to say from here, it's more the how, it's not the what.
+
+00:49:54.560 --> 00:49:57.920
+Yeah, and that's the something where we can provide detailed guidance.
+
+00:49:57.920 --> 00:49:59.360
+There is not a common recipe.
+
+00:49:59.360 --> 00:50:16.400
+It might make sense in some areas to go to level three, in some areas you may have to go to level six, but it really depends on let's say the strategic relevance of this business capability and the KPIs and the challenges that you have with that capability.
+
+00:50:16.400 --> 00:50:20.560
+Best practice, I can say in average, I did many client interactions.
+
+00:50:20.560 --> 00:50:25.920
+Typically don't need more than level two or three.
+
+00:50:25.920 --> 00:50:30.240
+Because imagine on level one, we have 50 level one capabilities.
+
+00:50:30.240 --> 00:50:35.280
+If you go to level two, you have to build 50 additional capability models.
+
+00:50:35.280 --> 00:50:44.160
+Yeah, then you have uh let's say uh so 50 additional capability models, and each of them, let's say, have six, seven, eight capabilities.
+
+00:50:44.160 --> 00:50:46.720
+So you have thousands of a complex hierarchy of models.
+
+00:50:46.720 --> 00:50:56.560
+So you should be very careful with defining these hierarchies, and very important, you should only do the detailed modeling work on the capabilities side.
+
+00:50:56.560 --> 00:50:59.920
+For those capabilities are business critical.
+
+00:51:02.680 --> 00:51:10.280
+Yeah, so does Gartner use these business capabilities slides with CEO, CFO, and also non-IT roles as well?
+
+00:51:10.280 --> 00:51:11.400
+Absolutely.
+
+00:51:11.400 --> 00:51:15.320
+So we have different stakeholders within Gartner.
+
+00:51:15.480 --> 00:51:21.240
+We have supply chain leaders, business stakeholders, CEOs, we have CIOs.
+
+00:51:21.240 --> 00:51:24.520
+Yeah, that's my main target audience.
+
+00:51:24.520 --> 00:51:29.960
+But we also use this for technology and service providers because they use it as a scoping tool.
+
+00:51:29.960 --> 00:51:36.200
+They use it in order to define and manage their product and services portfolio, such kind of things.
+
+00:51:37.000 --> 00:51:40.120
+So I ran workshops with supply chain leaders.
+
+00:51:40.360 --> 00:51:44.440
+I ran workshops with uh technology and service providers two weeks ago.
+
+00:51:44.440 --> 00:51:52.520
+Yeah, and we did a similar session for TSPs on the same topic, slightly different content, but the story is the same.
+
+00:51:52.520 --> 00:51:58.200
+And especially also the CFO and the CEO, they say, Oh, all these enterprise architecture stuff, that's very important.
+
+00:51:58.200 --> 00:52:01.080
+Uh, but uh it's you spend too much time on it.
+
+00:52:01.080 --> 00:52:02.840
+Can we minimize these efforts?
+
+00:52:02.840 --> 00:52:16.360
+Uh because they know that companies spent years and years on their process models and IT IT system landscape modeling, they often like it because it's a simple approach because on the level zero and bond level, the business capability map.
+
+00:52:16.360 --> 00:52:20.200
+That's something the CFOs and CEOs understand what is going on.
+
+00:52:20.200 --> 00:52:25.240
+They also like transparency, they like to have a big picture end-to-end view on their business.
+
+00:52:25.240 --> 00:52:43.960
+So they really we really get very good feedback from the top level C level um stakeholders, even though, on the other hand, yeah, if you talk to a lot of business managers or IT leaders or enterprise architects, yes, they want to dig deeper and see uh what is uh the root cause of a third problem and issue.
+
+00:52:43.960 --> 00:52:57.360
+But um, yes, you need to uh use capability is a great method to build context and load specific views on business opportunities and challenges in your organization across all hierarchy levels.
+
+00:52:57.360 --> 00:53:07.920
+And the answer is yes, we do webinars and customer sessions and inquiries uh uh quite often with all of these roles.
+
+00:53:07.920 --> 00:53:11.280
+Another good question how value streams map to business capabilities.
+
+00:53:11.280 --> 00:53:16.720
+I forgot to mention value streams, good question because the capabilities it's like Lego bricks.
+
+00:53:16.720 --> 00:53:24.880
+You have a box with red and blue and green Lego bricks, yeah, but they don't have any sequence and any direct connection.
+
+00:53:24.880 --> 00:53:47.760
+The direct connection, you could get these processes, but as I mentioned, the processes can change a lot, and in between, there is um there is the value stream approach where you see each capability has KPIs, each capability uh has some relationship to other capabilities, and that's something what customers often do.
+
+00:53:47.760 --> 00:53:56.720
+They start with the business capability map, then they build value stream models for which we also have a methodology, which you typically don't do with level zero or one capabilities.
+
+00:53:56.720 --> 00:54:10.960
+For that, you typically go to level two or three, to be honest, yeah, where you have the direct assignment to business KPIs, and yes, then you would build a value stream model by connecting these business capabilities, absolutely.
+
+00:54:10.960 --> 00:54:33.960
+But then the next level would then be to add the to derive the processes and connect the processes, and yes, we have information flows uh and value stream flows between these capabilities, which could then be also mirrored into your system landscape, what we call the digital thread, where you map value streams to data flows because it's all about data.
+
+00:54:33.960 --> 00:54:36.360
+So that's another discussion.
+
+00:54:36.360 --> 00:54:46.040
+So for that, you need not only the value stream model, you also need to have the linkage to the reference architecture to the IT system landscape.
+
+00:54:52.920 --> 00:55:02.920
+But these are great questions, and I see that's uh uh we it looks as if you also have some enterprise architecture architects here on the call.
+
+00:55:02.920 --> 00:55:13.720
+Um so um what a question from Iro Hara why do you avoid the big gap as securing data readiness before AI?
+
+00:55:13.720 --> 00:55:18.360
+Um so I think it's it's all about data.
+
+00:55:18.360 --> 00:55:21.800
+So and and now the question has disappeared again.
+
+00:55:21.800 --> 00:55:23.720
+I need to read the whole thing.
+
+00:55:23.720 --> 00:55:27.480
+Yeah, sorry, I'm the new questions are coming in.
+
+00:55:27.480 --> 00:55:31.800
+But um, so yeah, data readiness is a big issue.
+
+00:55:31.800 --> 00:55:45.480
+You can't directly relate data to business capabilities, but if you um we need to consider that a business capability is not just the model, each of these boxes they have characteristics.
+
+00:55:45.480 --> 00:55:46.920
+What are these characteristics?
+
+00:55:46.920 --> 00:55:50.840
+They're it's like a little spreadsheet underneath each business capability.
+
+00:55:50.840 --> 00:56:00.760
+So where you have the data input, the data output, what are the supporting system, who is responsible, and the more detailed description what the business capability stands for.
+
+00:56:00.760 --> 00:56:06.600
+Yeah, and then you can do uh uh an assessment of data readiness.
+
+00:56:06.600 --> 00:56:08.840
+It's like like a color coding, yeah.
+
+00:56:08.840 --> 00:56:11.880
+For data readiness, you may have level three out of five.
+
+00:56:11.880 --> 00:56:18.960
+Yeah, for for let's say for process for skills.
+
+00:56:14.840 --> 00:56:20.320
+Let's say skills is very simple.
+
+00:56:20.400 --> 00:56:25.280
+You may have level three for availability of defined processes, you may have level two.
+
+00:56:25.280 --> 00:56:39.840
+So you can assess the capabilities and the lifecycle based on a variety of different uh let's say criteria, and then you can identify the gap between the current situation and the to be situation.
+
+00:56:39.840 --> 00:56:50.080
+Yeah, you can you can uh let's say in in our AI maturity assessment, you have these seven dimensions data, engineering, value, strategy, and so on.
+
+00:56:50.080 --> 00:57:02.880
+This assessment can be done for each of the capabilities, and each of the maturity stages will lead to a different, let's say color coding, yeah, of a business capability similar to the paste layout model.
+
+00:57:02.880 --> 00:57:10.400
+We have a tool for that, and then you can do some reporting and say, okay, what where is the gap between the current state and the future state the biggest?
+
+00:57:10.400 --> 00:57:20.880
+And it might come out that you don't have a gap with skills, you have more gap with data or this uh this um uh availability of resources and skills.
+
+00:57:20.880 --> 00:57:33.600
+So it's difficult to explain, but the gap analysis is very important, and I also strongly advise you that you should do realistic estimations of the future vision that you want to have.
+
+00:57:33.600 --> 00:57:43.200
+The current maturity can be assessed with our tools, the future vision is often too optimistic, and that's why I came up with the autonomy autonomy slides.
+
+00:57:43.200 --> 00:57:46.440
+Um if you have two ambitious goals.
+
+00:57:46.440 --> 00:57:51.680
+If you want to say I want in two in two years, I want to have uh a lights out factory, yeah.
+
+00:57:51.080 --> 00:57:53.600
+Yeah, that's impossible.
+
+00:57:53.600 --> 00:57:54.720
+It's not realistic.
+
+00:57:54.720 --> 00:58:01.960
+There's not any single case study, even for one factory, which can be made lights out in two years.
+
+00:58:02.040 --> 00:58:12.920
+Yeah, so that's why you need to be very careful with setting realistic goals and revisiting your assessments, not doing it and then take a next look in the two years if you have achieved the goal.
+
+00:58:12.920 --> 00:58:27.720
+It's a continuous monitoring process, and that's why the capability method is not only used to justify the business case and to additional maturity analysis and analysis of innovation potential, it's an ongoing governance tool.
+
+00:58:30.920 --> 00:58:41.480
+Every year, every half a year, depending on the use case and the and the feasibility, yeah, um, to see if you are still on track.
+
+00:58:41.480 --> 00:59:00.120
+Yeah, because many uh you remember the second slide, many POCs fail because you don't really engage and track um the performance of the cap the capabilities and the AI use cases behind it uh in alignment with business stakeholders.
+
+00:59:00.120 --> 00:59:03.640
+Um yeah, strategy and implementation should be top-down.
+
+00:59:03.800 --> 00:59:05.240
+Good question, Anonymous.
+
+00:59:05.240 --> 00:59:10.280
+That's that's uh that's another question, which is very often it's it's a hierarchical top-down approach.
+
+00:59:10.280 --> 00:59:15.800
+What I explained here, but as you remember, I talked a lot about case studies.
+
+00:59:15.800 --> 00:59:24.120
+But case studies are often not necessarily have not necessarily been implemented based on the same boundary condition.
+
+00:59:24.120 --> 00:59:28.760
+Yeah, and that's why it's very important to do a bottom-up approach in parallel.
+
+00:59:28.760 --> 00:59:36.840
+Why you need to build POCs and prototypes, you need to provide early look and field experience for the final end users of any use case that you implement.
+
+00:59:36.840 --> 00:59:44.280
+You also need to build the foundational backbone infrastructure and platforms in order to be able to scale the use case.
+
+00:59:44.280 --> 00:59:45.760
+So we name it bimodal.
+
+00:59:44.760 --> 00:59:48.800
+It's a top-down approach when it comes to requirements definitions.
+
+00:59:49.120 --> 00:59:59.360
+This use case, this uh this uh webinar focuses on accelerate your AI journey, mainly starting with scoping and AI use case privatization.
+
+00:59:59.360 --> 01:00:15.200
+But at the end, you also need to do a bottom-up approach where you validate and implement POCs and prototypes to involve people from the very beginning so that they can say if that really helps them improve their day-to-day work.
+
+01:00:15.200 --> 01:00:16.480
+We are at time.
+
+01:00:16.480 --> 01:00:18.720
+Thank you for all these great questions.
+
+01:00:18.720 --> 01:00:32.320
+Um I'm happy to uh follow up on these questions with uh clients in inquiries, or please, if you have urgent questions, contact uh as uh SNEA mentioned your Gartner uh sales representative.
+
+01:00:32.320 --> 01:00:34.400
+I hand over back to my colleague SNEA.
+
+01:00:34.400 --> 01:00:37.520
+Thank you very much, and uh yeah, have a great rest of the week.
+
+01:00:37.520 --> 01:00:38.080
+Take care.
+
+01:00:38.080 --> 01:00:47.360
+Bye-bye.
+
+01:00:47.360 --> 01:00:49.200
+Thank you so much, Alexander.
+
+01:00:49.200 --> 01:00:58.320
+Before you go, just a quick reminder you can access additional resources at the bottom of the page and please rate session and share your feedback on the insights provided.
+
+01:00:58.320 --> 01:01:02.800
+You can read the session by some by clicking on rate session below the playoff.
+
+01:01:02.800 --> 01:01:07.360
+A box will open for you to select one to five hearts with five hearts being the top rating.
+
+01:01:07.360 --> 01:01:12.400
+Share your feedback on the insights provided in the leave further feedback box and click send.
+
+01:01:12.400 --> 01:01:19.440
+All right, with that, I'd like to again thank our presenter and of course, whether you're a Gartner client or new to Gartner.
+
+01:01:19.440 --> 01:01:20.960
+Thank you for joining us today.
+
+01:01:20.960 --> 01:01:22.000
+Have a great day.
+
+01:01:22.000 --> 01:01:25.680
+Goodbye.

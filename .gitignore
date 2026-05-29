@@ -1,0 +1,19 @@
+# 原片不進 repo（檔案太大，留本地）
+*.mp4
+*.mov
+*.mkv
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Notes drafts / scratch
+*_draft.md
+*.tmp

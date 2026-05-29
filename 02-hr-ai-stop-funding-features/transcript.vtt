@@ -1,0 +1,1789 @@
+WEBVTT
+
+00:00:34.800 --> 00:00:37.520
+Hello, and welcome to this Gartner webinar.
+
+00:00:37.520 --> 00:00:40.160
+Stop Finding Features and Start Building Value.
+
+00:00:40.160 --> 00:00:43.760
+How CHROs win with HR AI.
+
+00:00:43.760 --> 00:00:48.160
+Your task with driving stronger performance on your organization's mission critical priorities.
+
+00:00:48.160 --> 00:00:52.240
+To do that, you need trusted guidance that provides clarity, not just information.
+
+00:00:52.240 --> 00:01:00.080
+At Gartner, we deliver that clarity by combining forward-looking insights from our 2500 experts with rigorous proprietary research methodologies.
+
+00:01:00.080 --> 00:01:08.880
+Our perspective is uniquely informed by our hands-on work with 500,000 client interactions across every major function, geography, industry, and sector.
+
+00:01:08.880 --> 00:01:16.720
+We don't just provide the business and technology insights, we work with you to apply that, equipping your team with practical tools and expert guidance to achieve your goals.
+
+00:01:16.720 --> 00:01:26.240
+So whether you are new to Gardener or one of our existing clients, today you get actionable, objective insights rooted in human intelligence to help you move forward with confidence.
+
+00:01:26.240 --> 00:01:28.400
+I'm Robert, your operator for this session.
+
+00:01:28.400 --> 00:01:32.480
+Before we get started, I have a few tips to enhance your webinar experience.
+
+00:01:48.720 --> 00:01:54.480
+We encourage you to participate by clicking the Ask a Speaker box to submit your questions and thoughts throughout this program.
+
+00:01:54.480 --> 00:02:00.600
+You can submit a question anonymously, or if you choose, your name, title, and company can be visible along with your question.
+
+00:02:00.600 --> 00:02:04.440
+Navigate to the bottom of the page to download additional resources.
+
+00:01:59.840 --> 00:02:07.320
+Throughout the program, you can write the session and share feedback.
+
+00:02:07.800 --> 00:02:11.000
+Submit your rating, locate the rate session link below the player.
+
+00:02:11.000 --> 00:02:13.640
+Also open up or use the one to five hearts.
+
+00:02:13.640 --> 00:02:16.280
+Please note that five hearts is the top writing.
+
+00:02:16.280 --> 00:02:21.000
+Share your feedback on the insights provided and leave for the feedback box and then click send.
+
+00:02:21.000 --> 00:02:28.680
+So webinar is being recorded, so you can watch this presentation again by Mercury Insights on Demand at Gar.com slash webinars.
+
+00:02:28.680 --> 00:02:33.880
+And now I'd like to welcome Gardner Vice President Anlis, Harsh Kondooli, and Senior Director of Anlis, Lydia Wu.
+
+00:02:33.960 --> 00:02:37.320
+Harsh and Lydia, thanks for joining us now.
+
+00:02:38.280 --> 00:02:39.720
+Thank you, Robert.
+
+00:02:39.720 --> 00:02:42.360
+And welcome everyone.
+
+00:02:42.360 --> 00:02:51.160
+I'm Harsh Kondole, and I want to start by getting all of you involved right away with a quick poll.
+
+00:02:51.160 --> 00:02:54.520
+You should see the poll now pop up on your screen.
+
+00:02:54.520 --> 00:02:57.720
+If you can't see it, refresh the browser window.
+
+00:02:57.720 --> 00:03:04.760
+And once the poll is visible, simply select the answer option of your choice and click submit.
+
+00:03:04.760 --> 00:03:13.720
+So tell us, what outcome is your organization trying to achieve with AI in HR?
+
+00:03:13.720 --> 00:03:18.600
+Is the priority to focus people on more strategic work?
+
+00:03:18.600 --> 00:03:28.120
+Create cost savings or avoidance, drive top line growth, improve internal user satisfaction, or is it something else?
+
+00:03:28.120 --> 00:03:35.920
+Take a few minutes to respond on screen.
+
+00:03:35.640 --> 00:03:37.280
+And I will add here, I just want to do that.
+
+00:03:37.400 --> 00:03:38.280
+Yes, our poll is not open.
+
+00:03:38.680 --> 00:03:42.240
+There is no right or wrong answer for this.
+
+00:03:39.080 --> 00:03:46.480
+Excellent.
+
+00:03:46.800 --> 00:03:47.920
+Thank you so much, Lydia.
+
+00:03:48.080 --> 00:03:50.000
+To our audience, the poll is not open.
+
+00:03:50.000 --> 00:03:51.120
+You should see an answer.
+
+00:03:51.120 --> 00:03:53.760
+You should see the poll pop up right above the slides.
+
+00:03:53.760 --> 00:03:56.960
+If you can't see the poll on your screens, please refresh your browser window.
+
+00:03:56.960 --> 00:04:00.560
+We'll suppose this will simply select the answer of your choice and click submit.
+
+00:04:00.560 --> 00:04:04.640
+Once the polls close, we'll display the results for everyone to see in the video player.
+
+00:04:04.640 --> 00:04:05.360
+Thank you so much.
+
+00:04:05.360 --> 00:04:12.880
+Over to y'all.
+
+00:04:15.040 --> 00:04:18.880
+I think we have given folks good enough time.
+
+00:04:18.880 --> 00:04:20.320
+What do you say?
+
+00:04:20.880 --> 00:04:22.320
+Okay, sample.
+
+00:04:22.800 --> 00:04:23.360
+Great.
+
+00:04:23.360 --> 00:04:23.760
+All right.
+
+00:04:23.760 --> 00:04:25.040
+So this is this is great.
+
+00:04:25.040 --> 00:04:31.200
+So looks like focusing on strategic work and creating cost savings are the winners here.
+
+00:04:31.200 --> 00:04:38.880
+Now clearly, uh what the shows, Lydia, expectations with AI are sky high today.
+
+00:04:38.880 --> 00:04:42.640
+And so let me let's let's go back to the slide.
+
+00:04:42.640 --> 00:04:44.640
+Uh yeah.
+
+00:04:44.640 --> 00:04:45.760
+All right.
+
+00:04:45.760 --> 00:04:50.560
+So the data, here's what the data is showing.
+
+00:04:50.560 --> 00:04:54.240
+The potential upside with AI is enormous.
+
+00:04:54.240 --> 00:05:02.800
+Gartner estimates that by 2027, AI infused HR functions could be twice as productive as their peers.
+
+00:05:02.800 --> 00:05:11.120
+And looking a bit further out, up to half of current HR work could be automated or agent handled by 2030.
+
+00:05:11.120 --> 00:05:15.280
+So it's a transformational change that we are looking at here.
+
+00:05:15.280 --> 00:05:18.160
+And HR is investing.
+
+00:05:18.120 --> 00:05:26.680
+Our data shows that 60% of HR leaders are planning to increase their HR tech spending, including AI.
+
+00:05:26.640 --> 00:05:29.840
+But the question is, what about the results?
+
+00:05:30.840 --> 00:05:36.040
+The results are, to put it mildly, disappointing.
+
+00:05:36.040 --> 00:05:42.600
+Only 5% of CHROs say that they have fully integrated AI into their HR operating model.
+
+00:05:42.600 --> 00:05:44.920
+So readiness is pretty low.
+
+00:05:44.920 --> 00:05:53.800
+And even more telling, only 18% of CHROs say that they have gotten significant value from AI.
+
+00:05:53.800 --> 00:06:00.280
+And one in three actually say they have received no value from AI.
+
+00:06:00.280 --> 00:06:01.800
+So what gives?
+
+00:06:01.800 --> 00:06:04.040
+What's happening here?
+
+00:06:04.040 --> 00:06:15.240
+Well, there are three patterns that consistently explain why AI pilots stall and why value becomes so hard to achieve.
+
+00:06:15.240 --> 00:06:19.320
+First, features outweigh outcomes.
+
+00:06:19.320 --> 00:06:21.960
+I hear the story distressingly often.
+
+00:06:21.960 --> 00:06:27.320
+The CHRO will tell me, oh, we are under immense pressure in HR to use AI.
+
+00:06:27.320 --> 00:06:33.240
+So we just turn to all of our vendors and ask them, hey, ABC, what AI features do you have?
+
+00:06:33.240 --> 00:06:38.200
+And they gave us a list and we started checking them off one by one.
+
+00:06:38.200 --> 00:06:49.240
+This is one of the biggest reasons why we are not getting value because we start with what the vendors have to offer rather than what we as HR want to achieve.
+
+00:06:49.240 --> 00:06:54.200
+Second, AI deployments happen without AI readiness.
+
+00:06:54.200 --> 00:07:03.160
+Weak data foundations, limited workflow redesign, and underestimating adoption efforts make it hard to scale.
+
+00:07:03.160 --> 00:07:08.840
+And finally, CHROs often struggle to prove and communicate tangible ROI.
+
+00:07:08.840 --> 00:07:16.640
+Costs are often underestimated and benefits overestimated, or many benefits come across as soft and one-off.
+
+00:07:16.800 --> 00:07:22.560
+In consistent value messaging damages confidence.
+
+00:07:22.560 --> 00:07:31.840
+If HR can't show tangible impact, CHROs risk stalled pilots and accumulating technical debt.
+
+00:07:31.840 --> 00:07:36.720
+Tools that just suck money and effort without results.
+
+00:07:36.720 --> 00:07:43.200
+So it's time for the CHRO to own the value story for AI.
+
+00:07:43.200 --> 00:07:49.600
+And that means using a three-step approach.
+
+00:07:49.600 --> 00:07:53.360
+The first step is to set the North Star.
+
+00:07:53.360 --> 00:08:06.320
+Focus focus on those top two or three CEO and board level outcomes that matter most growth, margin, productivity, and define the outcome metrics that AI must move.
+
+00:08:06.320 --> 00:08:16.080
+That anchor in outcomes will help you being unduly swayed by will help you avoid being unduly swayed by features.
+
+00:08:16.080 --> 00:08:19.120
+Step two is to decide where to play.
+
+00:08:19.120 --> 00:08:26.320
+Prioritize the three to five HR processes where AI can have the biggest impact on those outcome metrics.
+
+00:08:26.320 --> 00:08:34.960
+Then build a balanced portfolio of use cases with both near-term safer bets and longer term high risk high reward bets.
+
+00:08:34.960 --> 00:08:40.720
+That positions you to create measurable value while also building future advantage.
+
+00:08:40.720 --> 00:08:44.080
+Step three is to design for value.
+
+00:08:44.080 --> 00:08:50.000
+Ready your data, processes, op model, and people to capture the value.
+
+00:08:50.000 --> 00:08:51.600
+And then don't stop there.
+
+00:08:51.600 --> 00:08:59.400
+Communicate it by estimating defensible benefits and consistently showing results over time.
+
+00:08:58.960 --> 00:09:03.720
+This is the golden path to AI value.
+
+00:09:04.200 --> 00:09:12.920
+Set the North Star, decide where to play, and design for value.
+
+00:09:12.920 --> 00:09:15.240
+Lydia, do you want to take over?
+
+00:09:15.560 --> 00:09:16.280
+All right.
+
+00:09:16.280 --> 00:09:20.680
+So let's get into the first part of it, um, setting the North Star.
+
+00:09:20.680 --> 00:09:24.280
+I think this is the interesting question of what are we actually trying to do?
+
+00:09:24.280 --> 00:09:31.640
+And it's not uncommon to hear a lot of times when you ask these questions to have really blank stares in the room saying, Well, we're trying to do exactly.
+
+00:09:31.640 --> 00:09:34.120
+We just know AI.
+
+00:09:34.920 --> 00:09:42.840
+With folks when it comes to setting the North Star, ask yourselves the question: what is not happening today that I want to happen 12 months from now?
+
+00:09:42.840 --> 00:09:50.760
+Ask yourself more that question as well, because that will help you solidify that North Star just that much better.
+
+00:09:50.760 --> 00:09:57.480
+Now, as beauty is within the eyes of the beholder, value is also within the eyes of the receiver.
+
+00:09:59.560 --> 00:10:06.120
+Look from the idea and angle of the receiver, using my husband as a primary example of this.
+
+00:10:06.120 --> 00:10:08.440
+The man does not believe in leftover cake.
+
+00:10:08.440 --> 00:10:10.760
+Do not ask me why, we don't have time to get into it.
+
+00:10:10.760 --> 00:10:23.240
+However, that said, after the first few years of buying him whole birthday cakes and having to go through the debate of what do we do with the leftovers, I have now we do birthday cake slices instead.
+
+00:10:23.240 --> 00:10:31.000
+Taking this into a more of a corporate environment setting, your stakeholders are the executives, the board chairs, the C-suite.
+
+00:10:31.000 --> 00:10:36.440
+And just as they carry the titles with them, you also need to remember that they're human.
+
+00:10:36.440 --> 00:10:39.880
+They're motivated also by fear, uncertainty, and doubt.
+
+00:10:39.880 --> 00:10:42.440
+Something drives them, something scares them.
+
+00:10:42.440 --> 00:10:44.160
+Understand what that is.
+
+00:10:44.160 --> 00:10:51.840
+Because when you can truly understand your stakeholders, that's really when you can see through their eyes and through their lenses.
+
+00:10:51.840 --> 00:11:04.640
+And this is really an area where internal political capital becomes incredibly important as you're trying to shape and have these conversations related to driving value for AI and HR.
+
+00:11:04.640 --> 00:11:08.080
+So let's talk a little bit about mapping outcomes here, right?
+
+00:11:08.080 --> 00:11:16.480
+Because at the end of the day, achieving efficiency, um, having reductions, having optimizations, etc., these are examples of outcomes.
+
+00:11:16.480 --> 00:11:17.840
+There are many outcomes.
+
+00:11:17.840 --> 00:11:22.240
+AI is just one of the ways to get there, ways of getting there as well.
+
+00:11:22.240 --> 00:11:31.280
+So the question now becomes what it is that you're trying to do, being very, very specific about the business outcome to achieve.
+
+00:11:31.280 --> 00:11:36.080
+Then asking yourself the question, well, how can AI help me solve the problem?
+
+00:11:36.080 --> 00:11:41.520
+Maybe it's through the AI virtual assistant use cases, maybe it's an AI-enabled virtual coach.
+
+00:11:41.520 --> 00:11:48.560
+AI does with a much more robust historically previous in HR.
+
+00:11:48.560 --> 00:11:54.400
+And because of that, it better enables us to solve a lot of the business challenges our organizations are facing.
+
+00:11:54.400 --> 00:11:58.960
+And finally, when you're through with all of that, make sure you also define the success metrics.
+
+00:11:58.960 --> 00:12:01.200
+How do you know if something is working?
+
+00:12:01.200 --> 00:12:03.360
+How do you know if it's not working?
+
+00:12:03.360 --> 00:12:06.640
+Both of those signals are equally as important.
+
+00:12:09.520 --> 00:12:10.640
+All right, great.
+
+00:12:10.640 --> 00:12:17.680
+So, step one, what Lydia walked through, that's all about anchoring AI and the outcomes that matter.
+
+00:12:17.680 --> 00:12:21.600
+Now, step two is about deciding where to play.
+
+00:12:21.600 --> 00:12:25.920
+Because I can promise you, and I'm I'm sure Lydia can also vouch for this.
+
+00:12:25.920 --> 00:12:33.160
+That second column that you saw there, the list of use cases, that can get very long very quickly.
+
+00:12:33.160 --> 00:12:41.080
+So let's look at how to prioritize the right HR processes and AI use cases.
+
+00:12:41.080 --> 00:12:54.200
+So our recommendation is to use the Gartner Use Case Assessment Framework, which evaluates each use case on two critical dimensions: value and feasibility.
+
+00:12:54.200 --> 00:13:12.040
+Now, value measures how much a particular use case could have, how much impact the use case could have on key HR value drivers like employee experience, workforce productivity, HR efficiency, all those things that you aligned with stakeholders on step one.
+
+00:13:12.040 --> 00:13:27.640
+Feasibility looks at internal readiness, so data, people, process governance, and external factors like vendor maturity, proven customer success, and regulatory privacy or security considerations.
+
+00:13:27.640 --> 00:13:39.640
+Now, using these two dimensions, HR AI use cases typically fall into three categories: likely wins, calculated risks, and marginal gains.
+
+00:13:39.640 --> 00:13:52.120
+Now, this gives CHROs a disciplined way to decide which use case prioritization sessions, uh which use case prior which use cases matter.
+
+00:13:52.120 --> 00:14:02.840
+And what we consistently see is that use cases that land in the likely wins category tend to cluster in three big HR areas.
+
+00:14:02.840 --> 00:14:09.160
+And they are talent acquisition, learning, and HR virtual assistance.
+
+00:14:09.160 --> 00:14:18.960
+These are the areas where HR leaders consistently tell me that they are seeing the strongest combination of business value and execution feasibility.
+
+00:14:18.960 --> 00:14:29.120
+So let's bring this to life with a few examples, stories from the trenches and talk about what uh what we are seeing in each of those areas.
+
+00:14:29.120 --> 00:14:33.040
+And let's begin with talent acquisition.
+
+00:14:33.040 --> 00:14:37.440
+So you can see these are some of the most common uh likely wins uh that we see.
+
+00:14:37.440 --> 00:14:41.520
+So candidate sourcing uh screening and matching, interview scheduling.
+
+00:14:41.520 --> 00:14:51.440
+So I was just speaking with the CHRO uh the other day and large global organization, and they had two people doing interview scheduling full time.
+
+00:14:51.440 --> 00:15:04.880
+And they were able to deploy an AI solution and get 100% automation and tell their CFO that they will need to hire two less people next year because they have already absorbed those uh two people into general HR roles.
+
+00:15:04.880 --> 00:15:08.080
+So that's clear ROI there.
+
+00:15:08.080 --> 00:15:13.760
+Another one here is uh um candidate communications and recruiting virtual assistants.
+
+00:15:13.760 --> 00:15:18.880
+Any any interesting stories from your experience, Lydia?
+
+00:15:18.880 --> 00:15:21.440
+There's so many interesting stories on this one, Harsh.
+
+00:15:21.600 --> 00:15:31.040
+So I will say a lot of times I think when we talk about AI and talent acquisition, there's always a hesitancy, like, ooh, there's so much headline news items out there.
+
+00:15:31.040 --> 00:15:33.600
+How do we not be one of those?
+
+00:15:33.600 --> 00:15:39.600
+And the interesting case is true, the case that I had recently was where a client just said, like, hey, you know what?
+
+00:15:39.600 --> 00:15:52.320
+We know there are what we decided to do is that instead of applying AI solutions to our active candidates and our active pipeline, we've just decided to baby step and pilot it through our passive candidate sourcing.
+
+00:15:52.320 --> 00:16:03.480
+And that actually gave them a much more robust passive candidate pipeline that they were then able to present candidates at a much faster pace to their hiring managers when job requisitions were opening.
+
+00:16:03.560 --> 00:16:04.680
+That's a great story.
+
+00:16:04.680 --> 00:16:20.120
+And and that hesitancy is perhaps uh nowhere um uh nowhere stronger than in this emerging use case, which you can see we have we have highlighted that as a calculated risk, the recruiter AI agent.
+
+00:16:20.120 --> 00:16:23.880
+Now I'm sure you never expected to hear the word agent today, right?
+
+00:16:24.120 --> 00:16:25.240
+Sorry, just kidding.
+
+00:16:25.240 --> 00:16:30.680
+I know you're you're being bombarded with agent messaging uh every minute of every day.
+
+00:16:30.680 --> 00:16:32.680
+So the potential is real.
+
+00:16:32.680 --> 00:16:38.600
+No, no, don't get me wrong there, but right now it's very much a calculated risk.
+
+00:16:38.600 --> 00:16:39.320
+Why?
+
+00:16:39.320 --> 00:16:52.840
+Because while we do have narrow agents being deployed for things like sourcing, matching and scheduling, we do not yet have proven interviewer or selection agents at scale.
+
+00:16:52.840 --> 00:17:05.480
+And when I use the word agent, so it's it's the these are truly AI solutions that can that have adaptive reasonings that that can jump into action proactively, that can learn as they do things.
+
+00:17:05.480 --> 00:17:15.800
+So we we don't yet have broad AI agents yet, and just as importantly, agent-to-agent interoperability is still immature.
+
+00:17:15.800 --> 00:17:23.560
+So the idea of seamlessly orchestrating multiple agents across the full recruiting workflow has just not happened yet.
+
+00:17:23.560 --> 00:17:26.200
+So be wary of the hype out there.
+
+00:17:26.200 --> 00:17:30.360
+So let's move on to uh learning and development.
+
+00:17:30.360 --> 00:17:36.040
+Uh now, of course, this is uh this is another area uh where uh you know there's there's a lot of energy.
+
+00:17:36.040 --> 00:17:48.880
+So I have some uh some CHROs tell me that sometimes it's the chief legal officer who is concerned uh about AI and they are they're not really open to uh experimenting here.
+
+00:17:48.960 --> 00:18:00.000
+In those cases, learning could be a great opportunity because this is an area where there's lots of data, but there's very little PII uh data here or sensitive data.
+
+00:18:00.000 --> 00:18:01.920
+So this could be a great place to start.
+
+00:18:01.920 --> 00:18:05.280
+And one of the things I'm hearing about is learning content generation.
+
+00:18:05.280 --> 00:18:23.200
+It used to be a massive pain until just a few months ago when one HR leader told me that um I'm using uh chat GPT for to generate text, something else to generate video, something else to generate uh audio, and bringing it all together in into something and putting it into LMS.
+
+00:18:23.200 --> 00:18:26.400
+I'm not even even sure if I'm saving any time here, right?
+
+00:18:26.400 --> 00:18:28.000
+But that has changed.
+
+00:18:28.000 --> 00:18:31.600
+That has changed now with uh with a lot of newer tools.
+
+00:18:31.600 --> 00:18:37.840
+Uh content generation has progressed from being a calculated risk to a likely win.
+
+00:18:37.840 --> 00:18:41.440
+And that virtual career coach is also something I hear quite a bit about.
+
+00:18:41.440 --> 00:18:46.880
+What do you well have you have you heard any interesting anecdotes or stories here, Lydia?
+
+00:18:46.880 --> 00:18:49.680
+I mean it's a fascinating story.
+
+00:18:49.680 --> 00:18:54.000
+I will share a story about a virtual career coach in a manufacturing facility.
+
+00:18:54.000 --> 00:19:02.640
+I think a lot of times if you're an HR business partner or HR leader working in manufacturing or larger frontline and not exactly for me.
+
+00:19:02.640 --> 00:19:04.960
+I don't have the technical infrastructure, etc.
+
+00:19:05.120 --> 00:19:17.840
+But this is actually really someone on where essentially we are looking at a 24-7 sort of three shifts around the clock facility where HR business partners and generalists are not available 24-7 around the clock.
+
+00:19:17.840 --> 00:19:20.080
+I mean, they try the best they can to cover, but at 3 a.m.
+
+00:19:20.160 --> 00:19:23.360
+in the morning, you're not gonna find a neutral pricing at the facility.
+
+00:19:23.360 --> 00:19:31.240
+So at 3 a.m., however, the line managers are still having conversations with their frontline staff, and there might be some employee-related issues that they're still trying to solve.
+
+00:19:31.320 --> 00:19:45.320
+So what they've decided to do is actually deploy a virtual coach, not in the traditional coaching and performance management sense, but just as a tool for the frontline managers to have at the ready in case they had to handle one of those 3 a.m.
+
+00:19:45.320 --> 00:19:48.440
+conversations, and HR isn't ready at the C dial.
+
+00:19:48.440 --> 00:20:05.640
+And what they realize from a value perspective is that they're able to have much more consistent and robust conversations with the employees with a much more consistent messaging set, and they're also able to reduce and pull a lot of the repetitive conversations that the generalist were having previously.
+
+00:20:05.720 --> 00:20:06.120
+Right.
+
+00:20:06.120 --> 00:20:12.760
+Now that's that's an example of what I call hidden value, and we'll get to it very quickly.
+
+00:20:13.000 --> 00:20:15.880
+So let me let me talk about some of the other areas as well.
+
+00:20:15.880 --> 00:20:22.200
+HR virtual assistance, of course, uh one of the most deployed HR technologies in general this year.
+
+00:20:22.200 --> 00:20:25.480
+Uh, but it's also um it's a likely win.
+
+00:20:25.480 --> 00:20:41.720
+There's clear benefit uh in in especially some of the tier zero, tier one, um tier one shared services uh areas, but you do need to be careful here because I do hear stories of lack of accuracy uh in virtual agent responses.
+
+00:20:41.720 --> 00:20:51.240
+Um, I hear concerns around um, you know, everybody has a chat has a chatbot, so and none of them speak with each other, which makes for terrible employee experience.
+
+00:20:51.240 --> 00:20:59.000
+And there are also change management challenges where some segments of your workforce might just not want to speak with the board.
+
+00:20:59.000 --> 00:21:01.160
+So it's an area where there's a lot of traps.
+
+00:21:01.160 --> 00:21:06.840
+So you need to uh you need to you need to have a solid readiness plan associated with this.
+
+00:21:06.840 --> 00:21:18.080
+There are other areas here like voice of the employee, knowledge-based content generation, skills management, and labor market intelligence, uh, which are also emerging as uh likely wins here.
+
+00:21:18.080 --> 00:21:26.240
+Uh, the labor market intelligence piece is uh is is is an interesting one.
+
+00:21:26.240 --> 00:21:27.440
+It for sure is.
+
+00:21:27.440 --> 00:21:38.000
+I think it's one of those situations where back in my days, and for those of who are listening to this and on the line with us right now, if you ever worked with compensation survey data, you go and appreciate this.
+
+00:21:38.000 --> 00:21:43.680
+Every time we receive market survey data, we always looked at it and we kind of said, you know what, this is helpful.
+
+00:21:43.680 --> 00:21:54.000
+This is a year in the rear view, because by the time the data get into your hand, it's pretty much outdated just because of how long it took everyone to synthesize the type of survey data.
+
+00:21:54.000 --> 00:22:12.000
+So, because of the rise of labor market intelligence providers, what a lot of our audiences and a lot of clients I speak to are working on is how can I use AI enabled labor market intelligence to effectively give me another data point about what my competitors are doing.
+
+00:22:12.000 --> 00:22:13.120
+What are they hiring for?
+
+00:22:13.120 --> 00:22:14.880
+Which geographies are they hiring for?
+
+00:22:14.880 --> 00:22:16.160
+What skills are they hiring for?
+
+00:22:16.160 --> 00:22:17.920
+How much are they paying for them?
+
+00:22:17.920 --> 00:22:24.240
+And all of that data can now be accessed almost in near real time through labor market intelligence tools.
+
+00:22:24.240 --> 00:22:29.360
+And you don't have to wait for the market survey to come about.
+
+00:22:29.360 --> 00:22:50.560
+You're essentially getting real-time or near real-time information in terms of your competitor movements, and that makes you that much better, even if it's like a fraction of a second, if you will, when it comes to getting the right talent, getting ahead of your talent plans and being able to business leaders in the right direction when it comes to the future of work and workforce planning.
+
+00:22:50.560 --> 00:22:50.960
+Right.
+
+00:22:50.960 --> 00:22:54.960
+No, it's a great input to uh strategic workforce planning.
+
+00:22:54.960 --> 00:22:59.360
+Lots of CHROs um interested in learning more about this.
+
+00:22:59.360 --> 00:23:09.400
+Another area that several HR and IT leaders are excited about is the idea of a single AI powered front door for employees.
+
+00:23:09.400 --> 00:23:12.200
+One entry point into the enterprise.
+
+00:23:12.200 --> 00:23:16.200
+So you can see that we have highlighted that as a calculated risk here.
+
+00:23:16.200 --> 00:23:17.640
+So the idea is simple.
+
+00:23:26.760 --> 00:23:28.040
+What do I need to do?
+
+00:23:28.040 --> 00:23:29.160
+Natural language.
+
+00:23:29.160 --> 00:23:40.040
+And the system could automatically surface draft payroll forms and I9 verifications to submit, uh policies to review, people to connect with, and so on.
+
+00:23:40.040 --> 00:23:58.520
+So the promise is real, but it's still for now very much a calculated risk because agent interoperability, reliability, and data access are just not mature enough at the moment to make that experience work seamlessly at scale.
+
+00:23:58.520 --> 00:24:01.800
+So that's something to keep in mind here.
+
+00:24:01.800 --> 00:24:09.320
+So that all uh what I what we wanted to show was um um that we have done the homework for you, right?
+
+00:24:09.320 --> 00:24:17.960
+At Gartner, we have created a lot of these AI use case assessments for HR, for TA, TM, learning and workforce management.
+
+00:24:17.960 --> 00:24:23.880
+And what I'll do now is shut up for 30 minutes so that you can squint and read all the dots here.
+
+00:24:23.880 --> 00:24:25.240
+Sorry, just kidding.
+
+00:24:25.240 --> 00:24:28.920
+Uh what screw zoom in.
+
+00:24:28.920 --> 00:24:29.400
+Right.
+
+00:24:29.400 --> 00:24:36.520
+So what you can do is use this as a starting point to build out your own use case assessment.
+
+00:24:36.520 --> 00:24:44.920
+So there are frameworks and tools available on Gartner.com that can help you bring your stakeholders together and build out uh this framework.
+
+00:24:45.280 --> 00:24:54.240
+Now, as you build these out, uh, one of the stories I hear from CHROs is that uh they are either under pressure.
+
+00:24:54.240 --> 00:24:55.840
+So I I see two camps here.
+
+00:24:55.840 --> 00:25:04.400
+They're either under pressure to show immediate short-term wins, or they have a stakeholder who said, Oh, I saw that ad from that vendor uh at the airport.
+
+00:25:04.400 --> 00:25:05.360
+Why don't we try that?
+
+00:25:05.360 --> 00:25:05.600
+Right?
+
+00:25:05.600 --> 00:25:08.400
+So there's the shiny new object syndrome as well.
+
+00:25:08.400 --> 00:25:15.120
+So, what you need to understand is that there are three types of AI investments.
+
+00:25:15.120 --> 00:25:20.240
+The first one is AI investments or use cases within boundaries.
+
+00:25:20.240 --> 00:25:29.760
+So these are use cases where there's proven customers' uh success stories outside, you know the value, you know how much time it will take to get to value.
+
+00:25:29.760 --> 00:25:37.360
+And a great example is talent acquisition, especially the earlier parts of the recruiting process as we discussed.
+
+00:25:37.360 --> 00:25:39.600
+The second one is pushing boundaries.
+
+00:25:39.600 --> 00:25:44.880
+This is where the value exists, but the extent is unclear.
+
+00:25:44.880 --> 00:25:47.920
+So again, uh a great example is AI coaching.
+
+00:25:47.920 --> 00:25:50.480
+I know Lydia has just shared a great example.
+
+00:25:50.480 --> 00:26:23.680
+Another one is where um where it's a it was a frontline worker company, they had rolled out an AI coach to managers mainly for employee experience and manager effectiveness or soft squishy benefits, but the managers realized after six months of using the coach that they could get feedback on improving of all things, inventory management processes, and they ended up saving $10,000 per manager.
+
+00:26:23.680 --> 00:26:31.320
+So this was a this was a hidden store of value that they would have never reached had they said, Oh, this is a soft, squishy benefit.
+
+00:26:31.320 --> 00:26:32.920
+Let's not invest in this, right?
+
+00:26:32.920 --> 00:26:34.440
+So that's an example.
+
+00:26:34.440 --> 00:26:39.400
+Another one here is break the third type of investment is breaking boundaries.
+
+00:26:39.400 --> 00:26:43.800
+Here, 80% of projects will fail.
+
+00:26:43.800 --> 00:26:53.880
+You don't even know if the value actually exists, but you still pursue it for competitive differentiation, future readiness, and so on.
+
+00:26:53.880 --> 00:26:57.880
+And a classic example here is skills management.
+
+00:26:57.880 --> 00:27:20.200
+Now, almost all of the CHROs I speak with want to do something related to skills management, but very few, less than 10% actually get demonstable value from it because of several factors like job architecture, change management, um fragmented tech landscape and so on.
+
+00:27:20.200 --> 00:27:24.440
+But the ones who do succeed, they succeed spectacularly.
+
+00:27:24.440 --> 00:27:38.440
+So again, I was speaking with a consulting company the other day, and they were using skills to uh to infer consultants, uh they were using AI to infer consultant skills and map them to their next project.
+
+00:27:38.440 --> 00:27:46.200
+So this was significant improvement in efficiency, and it was also improvement in experience because it was much fairer.
+
+00:27:46.200 --> 00:27:48.840
+So, but that's a that's an exception, right?
+
+00:27:48.840 --> 00:27:51.480
+Very few people get that kind of benefits.
+
+00:27:51.480 --> 00:28:05.160
+So, what you need to do is avoid being fully fully focused on within boundaries, because if you do that, you lose a lot of the hidden value, the future readiness benefits.
+
+00:28:05.160 --> 00:28:15.000
+And you also don't want to go after the latest shiny new object, because if you do that, you don't have a solid proven base for ROI.
+
+00:28:16.080 --> 00:28:19.280
+What you need is a portfolio.
+
+00:28:19.280 --> 00:28:23.920
+And you need to decide what that portfolio is like for you.
+
+00:28:23.920 --> 00:28:27.040
+So these are some of the most common portfolios that we see.
+
+00:28:27.040 --> 00:28:34.640
+The first one is the conservative one that I was talking about, where you're fully focused on almost fully focused on within boundaries.
+
+00:28:34.640 --> 00:28:41.840
+Then you have FOMO, where you are betting heavily on the breaking boundaries use cases.
+
+00:28:41.840 --> 00:28:51.280
+And then there is optimized returns, which is much more balanced with about 70% within, 30% pushing and 10% breaking.
+
+00:28:51.280 --> 00:28:52.960
+And the final one is interesting.
+
+00:28:52.960 --> 00:29:11.360
+And I usually see this in some leading financial services and high-tech companies where they take conscious decisions about investing in pushing boundaries and breaking boundaries use cases because that's directly tied to their strategic outcomes.
+
+00:29:11.360 --> 00:29:14.480
+So that's the disruptor persona.
+
+00:29:14.480 --> 00:29:30.880
+So you need to decide as a CHRO what's the portfolio that we want to achieve based on our strategy and our stakeholders' appetite and risk appetite and ambition.
+
+00:29:40.240 --> 00:29:41.520
+Lydia?
+
+00:29:41.600 --> 00:29:42.480
+Awesome.
+
+00:29:42.480 --> 00:29:46.800
+So let's move on to the third piece of it then, design for value.
+
+00:29:46.800 --> 00:29:52.720
+I would say this is probably the part of the webinar where everyone is waiting for, kind of going like, okay, but what am I supposed to do tomorrow?
+
+00:29:52.720 --> 00:29:53.840
+What do I have to think about?
+
+00:29:53.840 --> 00:29:55.040
+What do I need to calculate?
+
+00:29:55.040 --> 00:29:57.520
+Give me something on paper that I can actually use.
+
+00:29:57.520 --> 00:30:01.800
+And so we're hoping to spend the last little bit of our conversation specifically on this.
+
+00:30:01.800 --> 00:30:12.520
+Now, before we get started, I would love to just kind of get a sense from the audience in terms of how would you rate your team's AI readiness when it comes to HR?
+
+00:30:12.520 --> 00:30:14.680
+The poll should be up on as usual.
+
+00:30:14.680 --> 00:30:16.840
+This is our test of how many are still with us.
+
+00:30:16.840 --> 00:30:18.680
+We also love to get your input.
+
+00:30:18.680 --> 00:30:20.040
+Um, so let us know.
+
+00:30:20.040 --> 00:30:23.480
+Do you feel like your HR team is not ready at all?
+
+00:30:23.640 --> 00:30:25.480
+Are you not sure about your readiness?
+
+00:30:25.480 --> 00:30:27.400
+You're like, yes, I'm ready, I've got this.
+
+00:30:27.400 --> 00:30:29.960
+We're so ready to go where we're headed.
+
+00:30:29.960 --> 00:30:37.480
+Um, let us know where you are.
+
+00:30:37.480 --> 00:30:41.560
+All right, I see the numbers are coming in.
+
+00:30:41.560 --> 00:30:44.760
+Okay, we're somewhere ready, somewhat there.
+
+00:30:44.760 --> 00:30:47.640
+I'm glad we're not seeing a I'm not sure answer yet.
+
+00:30:47.640 --> 00:30:54.280
+Although I will say there is no right or wrong answer to this one.
+
+00:30:54.280 --> 00:30:59.800
+All right, let's take a look here.
+
+00:30:59.800 --> 00:31:03.640
+Um I think we've got enough of a sample size.
+
+00:31:03.640 --> 00:31:05.240
+Uh, Robert, yeah, there we go.
+
+00:31:05.240 --> 00:31:08.120
+So most of us are somewhat ready, somewhat not ready.
+
+00:31:08.120 --> 00:31:09.080
+I get it, I get it.
+
+00:31:09.080 --> 00:31:13.800
+Sometimes you're just like, I don't know what I don't know, and I'm not ready to tell you that I actually know what's going on.
+
+00:31:13.800 --> 00:31:39.880
+And that is totally normal, and quite frankly, I I much rather have conversations in the I don't know what I don't know category than the I know exactly everything that is going on category because as you will see in later parts of this conversation as we're talking through a lot of the pitfalls, AI functions a little bit differently, and knowledge is one of those critical aspects that plays a very interesting role in how you configure and how you deliver value with AI.
+
+00:31:39.880 --> 00:31:43.960
+So, with that in mind, let's talk a little bit about AI readiness, right?
+
+00:31:43.960 --> 00:31:47.280
+So, what on earth does AI readiness even mean?
+
+00:31:47.280 --> 00:31:49.840
+Again, it's a very big meaty topic.
+
+00:31:49.840 --> 00:31:52.640
+We've probably we can probably spend days talking about this.
+
+00:31:52.640 --> 00:32:00.800
+And I'm sure if you were to ever put this out in front of a leadership audience or your enterprise audience, you might get a few like stairs in the room as well.
+
+00:32:00.800 --> 00:32:07.440
+So, very, very simply, when you think about AI readiness, think about it in four different dimensions.
+
+00:32:07.440 --> 00:32:14.080
+And typically, when you're able to cover these four different dimensions, you've got the bulk of AI readiness assess and downpact.
+
+00:32:14.080 --> 00:32:16.000
+Number one, people readiness.
+
+00:32:16.000 --> 00:32:20.080
+I know a lot of times when we talk about people readiness, we're like, okay, well, are they trained for AI?
+
+00:32:20.080 --> 00:32:20.880
+Can they prompt?
+
+00:32:20.880 --> 00:32:22.160
+Can they engineer?
+
+00:32:22.160 --> 00:32:28.240
+Yes, and the and is in the question of are they motivated?
+
+00:32:28.240 --> 00:32:31.760
+Do they have psychological safety to exercise the experiments?
+
+00:32:31.760 --> 00:32:38.400
+Are the systems designed so that's easier for them to use AI than it is to use the paper and pencil method?
+
+00:32:38.400 --> 00:32:40.320
+Because AI is a brilliant solution.
+
+00:32:40.320 --> 00:32:54.240
+But let's all be honest with ourselves here for a moment that if the AI solution requires three clicks and the good old Excel solution only requires one click, chances are most of us are still going to use that one click Excel solution, even if the AI solution is that much smarter.
+
+00:32:54.240 --> 00:32:58.480
+So, in that people readiness, don't forget the motivation of your stakeholders.
+
+00:32:58.480 --> 00:33:03.280
+Don't forget what makes them tick and what makes them adopt a solution a lot easier.
+
+00:33:03.280 --> 00:33:06.800
+The second thing you want to look at is process and governance readiness.
+
+00:33:06.800 --> 00:33:13.360
+So it's really asking the question: what changes in the work and how do we manage and control those changes?
+
+00:33:13.360 --> 00:33:22.080
+One of the things I always advise our clients on this one is that we have thrived as HR over the last two to three decades in participating in the process.
+
+00:33:22.080 --> 00:33:28.160
+We've measured ourselves in how fast we work, how quickly we turned around, how many tickets we were able to answer.
+
+00:33:28.160 --> 00:33:30.000
+AI changes that a little bit.
+
+00:33:30.120 --> 00:33:45.320
+And that's where process and governance comes in because it's now HR's job to architect the system of how the work is done and not actively participate in the system because quite frankly, none of us are going to outrun the speed and pace of which AI can perform.
+
+00:33:45.320 --> 00:33:47.480
+And arguably that's not our strong suit.
+
+00:33:47.480 --> 00:33:51.240
+Our strong suit isn't designing that system of how work is done.
+
+00:33:51.240 --> 00:33:54.360
+The third piece of it is really around the technology readiness.
+
+00:33:54.360 --> 00:33:58.680
+So this is the can AI actually operate across your entire tech stack.
+
+00:33:58.680 --> 00:34:09.320
+And this is where we say, did you duct tape your existing solution with AI, or did you actually intentionally go and reinvent your workflows, your processes, and your tech stack with AI?
+
+00:34:09.320 --> 00:34:17.560
+Simple question, two entirely different meanings and two significantly different, I would argue, value delivery curves at the end of the day.
+
+00:34:17.560 --> 00:34:19.640
+And last but not least, is data ready.
+
+00:34:19.640 --> 00:34:26.120
+Now, when I say is data ready, I don't mean is your HRIS data ready to go and is 100% clean.
+
+00:34:26.120 --> 00:34:39.320
+Having started my career out in People Analytics, I will assure you that there is no such thing as 100% clean HR data because unless you say everybody stop, nobody move, even after a data clean exercise, something is gonna go wrong.
+
+00:34:39.320 --> 00:34:43.880
+Data readiness really looks at the aspect of are the characteristics documented?
+
+00:34:43.880 --> 00:34:46.360
+Do we have everything that we need captured?
+
+00:34:46.360 --> 00:34:53.000
+And do we have the architecture and the structure of data that is required to exercise AI?
+
+00:34:53.000 --> 00:35:09.880
+So, simplifying and boiling down a lot of the conversations that we're just having, here are some of the areas where we have seen things go south a little bit, and that we would caution against, if you will, as you're embarking on your AI transformation journey and looking to deliver value for the organization.
+
+00:35:09.880 --> 00:35:14.760
+Area number one where things derail from a value delivery perspective is actually people readiness.
+
+00:35:15.040 --> 00:35:22.640
+Because believe it or not, your ROI conversation in the organization happens much before the metrics are actually defined.
+
+00:35:22.640 --> 00:35:26.800
+And this goes back to the internal political capital conversation I brought up earlier.
+
+00:35:26.800 --> 00:35:34.640
+Because a lot of times when we get excited about going in with AI, we start thinking about what could the success scenario look like, what could a win look like?
+
+00:35:34.640 --> 00:35:36.000
+And everyone feels great about it.
+
+00:35:36.000 --> 00:35:38.160
+Everyone wants to own that win.
+
+00:35:38.160 --> 00:35:42.880
+But very few of us pause and ask, what does a failure look like?
+
+00:35:42.880 --> 00:35:47.280
+And if we were to have a failure, who is responsible for that failure?
+
+00:35:47.280 --> 00:35:56.480
+And that question is incredibly important because AI has exponentially grown the number of stakeholders required in an enterprise transformation program.
+
+00:35:56.480 --> 00:36:03.200
+Before it used to be IT rolled out the system, they own it, HR rolled out the system, they own it, et cetera, et cetera.
+
+00:36:03.200 --> 00:36:08.080
+Now, if you're rolling out an HR virtual assistant, IT could own the platform.
+
+00:36:08.080 --> 00:36:09.600
+You can own the process.
+
+00:36:09.600 --> 00:36:14.400
+Someone else can own the actual SME subject matter expertise and the content.
+
+00:36:14.400 --> 00:36:18.160
+So when an employee doesn't get the right answer, who is it?
+
+00:36:18.160 --> 00:36:33.280
+If you haven't gone down the path of defining that level of ownership and going through the discomfort of having that conversation, that could be a missed opportunity and quite frankly a hidden trigger for a lot of the times when ROI cases start to fail.
+
+00:36:33.280 --> 00:36:37.040
+The second area we look at is process documentation and readiness.
+
+00:36:37.040 --> 00:36:38.720
+I mean, let's be honest with ourselves.
+
+00:36:38.720 --> 00:36:45.280
+There is always how we think the work is done in the organization and how the work is actually done in the organization.
+
+00:36:45.280 --> 00:36:51.760
+There is a reason why all of us have at least 10 different Excel spreadsheets manually tracking things going on somewhere.
+
+00:36:51.760 --> 00:36:52.960
+That's not an issue.
+
+00:36:52.960 --> 00:36:59.520
+Where the issue comes in is when you don't spend the time on the onset to discover those hidden processes.
+
+00:36:59.800 --> 00:37:04.040
+Because AI works on existing knowledge and existing processes.
+
+00:37:04.040 --> 00:37:10.760
+So unless you kind of discover this, what could very well end up happening is that you're going to go on an AI transformation.
+
+00:37:10.760 --> 00:37:24.600
+You're going to implement this great solution with very promising value, only to come to realize that this entire solution is predicated on five Excel files that are manually updated by two people in your organization on a weekly basis.
+
+00:37:24.600 --> 00:37:30.760
+And the entire system is hinged on those two people delivering the technology automation.
+
+00:37:30.760 --> 00:37:33.560
+Not exactly an ideal outcome.
+
+00:37:33.560 --> 00:37:36.840
+Last but not least, we also look at technology readiness, right?
+
+00:37:36.840 --> 00:37:46.600
+This is where we encourage everyone, if you're working with a vendor solution or any technology solution, regardless if it's your IT team that's providing it or a vendor that's providing it.
+
+00:37:46.600 --> 00:37:49.080
+Always, always, always ask the question.
+
+00:37:49.080 --> 00:37:51.880
+How do I know it's not working?
+
+00:37:51.880 --> 00:37:53.240
+Because it gives you two things.
+
+00:37:53.240 --> 00:38:01.160
+Number one, it tells you if your vendor is in it for you and if they're in it to be your partner, and if your IT team are in it to be your partner.
+
+00:38:01.160 --> 00:38:08.680
+And number two, it allows you to think through those early trigger signs, those early warning signs about systems not working.
+
+00:38:08.680 --> 00:38:19.800
+So you can hit that pause button or you can hit that stop button much before the actual go live, and when you're starting to hemorrhage more costs and expenses related to the solution.
+
+00:38:19.800 --> 00:38:23.160
+All of this comes together to provide data.
+
+00:38:23.480 --> 00:38:25.240
+Remember what I mentioned earlier?
+
+00:38:25.240 --> 00:38:27.960
+Data isn't just HR system data.
+
+00:38:27.960 --> 00:38:43.000
+It is about how you have prepared your people, how you have documented your process even previous outcomes, and how you're working with your technology vendors and using all of that to enable the conversation in HR.
+
+00:38:43.160 --> 00:38:46.640
+Harsh, great.
+
+00:38:44.200 --> 00:38:52.880
+So yeah, so once you're ready to capture value, you need to measure it, like uh like Idia said.
+
+00:38:52.880 --> 00:38:58.320
+And the first thing to remember is that not all value looks the same.
+
+00:38:58.320 --> 00:39:11.040
+Depending on the outcomes that you prioritized in step one, you could be measuring productivity gains, cost savings or avoidance, improvements in experience and effectiveness and and so on.
+
+00:39:11.040 --> 00:39:22.800
+So here you you can see productiveness, uh productivity being highlighted, uh, and uh a set of metrics that you could use to demonstrate uh the productivity gains.
+
+00:39:22.800 --> 00:39:25.600
+Now, two big pitfalls to avoid here.
+
+00:39:25.600 --> 00:39:30.560
+Number one, don't forget the baselines and attributions.
+
+00:39:30.560 --> 00:39:36.240
+So if you don't know where you're starting from, you won't be able to show how AI made an impact.
+
+00:39:36.240 --> 00:39:48.480
+And if you don't have, I know some clients who build out uh control groups and pilot groups to show that it's AI that's actually making the difference rather than something else happening in the organization.
+
+00:39:48.480 --> 00:39:58.640
+And second, if you do use uh I review a lot of HR AI business cases, and many of them are built fully on vendor supply benchmarks.
+
+00:39:58.640 --> 00:40:13.120
+Now that is good, but the challenge is in many cases, those benchmarks are not contextualized to your organization's size, geography, industry, and so on.
+
+00:40:13.120 --> 00:40:18.400
+So that's it's it's it's very open to being challengeable, right?
+
+00:40:18.400 --> 00:40:24.160
+So this estimates won't be defensible if you just take benchmarks that are not contextualized.
+
+00:40:24.160 --> 00:40:27.600
+So ask for contextualized benchmarks.
+
+00:40:27.600 --> 00:40:41.080
+The next uh type of uh most common uh value driver is employee experience, and the a lot of these benefits may not directly try uh translate to dollar value, but are still very valuable to the organization.
+
+00:40:41.080 --> 00:40:43.640
+So capture them, make them part of the story.
+
+00:40:43.640 --> 00:40:48.760
+Uh so employee experience is an example here, another one is growth and innovation.
+
+00:40:48.760 --> 00:40:59.480
+So you can see uh a lot of the key metrics or some of the key metrics that um that IC organizations look at uh to show value here.
+
+00:40:59.480 --> 00:41:16.120
+So the message here is that CHRO should capture the full menu of benefits, depending on what is important to your stakeholders and also quantify wherever possible, especially for your CFO audience.
+
+00:41:16.120 --> 00:41:21.640
+Uh and unfortunately, many HR leaders skip this, but this is how finance thinks.
+
+00:41:21.640 --> 00:41:26.920
+So you need to do this work if you want to secure and protect that uh that funding.
+
+00:41:26.920 --> 00:41:44.520
+So you need a model like this, a breakeven model that shows when the overall HR AI portfolio breaks even, what the ROI is, how long payback takes, and what the NPV or the net present value looks like.
+
+00:41:44.520 --> 00:41:47.080
+And don't do this for individual use cases.
+
+00:41:47.080 --> 00:41:49.960
+You will you will struggle to show a good ROI.
+
+00:41:49.960 --> 00:41:52.520
+Think about it as a portfolio.
+
+00:41:52.520 --> 00:42:01.320
+And if you're not comfortable building this model, partner with your finance colleagues or reach out to us, uh Gartner Anless.
+
+00:42:01.320 --> 00:42:07.240
+So you need to create this, and this kind of thing uh cannot be a one-time exercise, too.
+
+00:42:07.240 --> 00:42:20.960
+So to sustain confidence and funding, you need to consistently communicate both quantitative value like this and qualitative value that we saw, like employee experience and future readiness.
+
+00:42:21.120 --> 00:42:27.440
+And the best way to do that is to use a value realization dashboard.
+
+00:42:27.440 --> 00:42:31.680
+So this is an example from this is an example that you could use.
+
+00:42:31.920 --> 00:42:37.600
+Progressive CHROs don't treat value communication as a one-time exercise.
+
+00:42:37.600 --> 00:42:51.760
+They establish a regular cadence with stakeholders to show where they are, what HRAI has delivered in the last quarter, what's coming next, and where support is needed.
+
+00:42:51.760 --> 00:43:00.480
+So this kind of ongoing visibility is critical because it makes the value realized tangible.
+
+00:43:00.480 --> 00:43:09.360
+And this is what helps you secure and sustain investment over time.
+
+00:43:09.360 --> 00:43:12.080
+So let's bring it all together.
+
+00:43:12.080 --> 00:43:27.280
+As CEOs and boards increasingly ask about measurable value from AI in HR, CHROs need to stop reporting, oh, we have deployed this much AI and start reporting.
+
+00:43:38.560 --> 00:43:41.840
+That's the shift that we need to make.
+
+00:43:41.840 --> 00:44:04.040
+The CHROs who lead credibly with AI will be the ones who anchor AI in business outcomes, focus on the right HR processes and use cases, prepare their people, processes, and data, and prove value consistently over time.
+
+00:44:04.040 --> 00:44:13.880
+That is how CHRO secure budget, sustain investment, and win with AI in HR.
+
+00:44:13.880 --> 00:44:14.600
+Thank you.
+
+00:44:14.600 --> 00:44:16.280
+It was a pleasure speaking with all of you.
+
+00:44:16.280 --> 00:44:19.640
+I know we have a few questions that have come in.
+
+00:44:20.280 --> 00:44:25.320
+So let me start with the first one here.
+
+00:44:25.320 --> 00:44:27.160
+Okay, this is uh okay.
+
+00:44:27.160 --> 00:44:33.640
+Do you have any recommendations on how to calculate value and feasibility?
+
+00:44:33.640 --> 00:44:38.920
+I can take this one uh and Lydia, please feel free to add if you if you have any thoughts here.
+
+00:44:38.920 --> 00:44:42.280
+So the answer is we have a toolkit to help you do that.
+
+00:44:42.280 --> 00:44:49.960
+And that toolkit will help you score each use case based on key value drivers.
+
+00:44:49.960 --> 00:45:00.040
+And those value drivers could be impact on employee experience, impact on EVP, impact on talent agility, HR efficiency, and so on.
+
+00:45:00.040 --> 00:45:16.840
+And for feasibility, there could be technical business uh and other aspects of feasibility, and the the this detailed guidance on how do you bring together key stakeholders in uh in workshops, have that discussion, get to those ratings and so on.
+
+00:45:16.840 --> 00:45:25.080
+Uh so so there's there's uh there's a really structured approach behind getting to those value uh and feasibility scores.
+
+00:45:25.160 --> 00:45:33.240
+And if I can chime in here really quick, I think one of the things that often gets underestimated is a power of a longitudinal study when it comes to measuring value.
+
+00:45:33.240 --> 00:45:36.120
+Because to Harsha's point, you've got a baseline.
+
+00:45:36.120 --> 00:45:40.600
+Results don't just come from a moment in time, results come from progress.
+
+00:45:40.600 --> 00:45:51.920
+So being able to think ahead early, define the metrics early, and define your data parameter and collection method early is also a really critical success factor here.
+
+00:45:51.920 --> 00:45:52.560
+Right.
+
+00:45:52.560 --> 00:45:53.040
+Great.
+
+00:45:53.040 --> 00:45:55.680
+So let's move on to the next one in the interest of time.
+
+00:45:56.080 --> 00:46:02.400
+How are you seeing folks dealing with some of the responsibility or ethical considerations?
+
+00:46:02.400 --> 00:46:07.600
+How are others who are adopting this solving for difficult or regrettable outcomes?
+
+00:46:07.840 --> 00:46:12.880
+And where have they relied on a virtual assistant, recruiter, or coach?
+
+00:46:12.880 --> 00:46:14.000
+Do you want to take this one?
+
+00:46:14.320 --> 00:46:15.600
+Yes, I like this one.
+
+00:46:16.000 --> 00:46:18.400
+A lot of good goodness in that question.
+
+00:46:18.400 --> 00:46:21.120
+So I think let's try to unpack it a little bit, right?
+
+00:46:21.120 --> 00:46:26.640
+The ethical and responsible aspect of it, you can't just come out and say, I want to do ethical AI.
+
+00:46:26.640 --> 00:46:37.360
+Ethical AI starts with one fundamental question, and that has to be one question that you are aligned as an entire organization on, which is what is the role of the technology?
+
+00:46:37.360 --> 00:46:39.200
+What is the role of the human?
+
+00:46:39.200 --> 00:46:53.120
+That answer may vary across different business areas, across certain different use cases, but fundamentally speaking, you need to draw that sandbox, if you will, of where you are expecting the human play and where you're expecting technology to play.
+
+00:46:53.120 --> 00:46:58.480
+Because one of the surefire ways of losing your audience in a transformation is in consistency.
+
+00:46:58.480 --> 00:47:07.840
+And unless you have that level of information defined, it's really easy to get a level where one function says, like technology is here, and the other function goes and says, No, actually, humans are here.
+
+00:47:07.840 --> 00:47:12.640
+That creates confusion very quickly, and that kind of gets lost in translation.
+
+00:47:12.640 --> 00:47:18.080
+Going back to the other part of the question, which is how are others adopting this quickly solving for it?
+
+00:47:18.080 --> 00:47:20.560
+Um, a gentec AI code of conduct, if you will.
+
+00:47:20.560 --> 00:47:24.800
+We have tons of research on this in terms of how do you govern agents, how do you design them?
+
+00:47:24.800 --> 00:47:37.480
+But more importantly, and more tactically, what are some of the conditions that you need to code into your agents as a code of conduct so they don't behave out of bounds or out of what you define as a boundary phenomenon?
+
+00:47:37.480 --> 00:47:38.200
+Right.
+
+00:47:38.760 --> 00:47:48.840
+That's probably connected to this next question, which is I've also heard candidate feedback on overfiltering by AI, dehumanizing candidate experience and so on.
+
+00:47:48.840 --> 00:47:55.240
+What's your what are your learnings on striking the balance between candidate experience and efficiency?
+
+00:47:55.480 --> 00:47:59.000
+I can take a shot at it, and I would I'm very curious to know your thoughts.
+
+00:47:59.240 --> 00:48:08.760
+And my answer is based on a recent piece of research that we ran at Gartner where we surveyed thousands of candidates.
+
+00:48:09.000 --> 00:48:17.640
+And the key learning from that research was that candidates, candidates value efficiency earlier in the process.
+
+00:48:17.640 --> 00:48:21.480
+So they really want to know are they in with the chance here?
+
+00:48:21.720 --> 00:48:24.200
+And am I wasting time here or not?
+
+00:48:24.200 --> 00:48:35.720
+And they value experience later in the process than they're actually getting closer to making that decision based on fit and culture and other aspects.
+
+00:48:35.720 --> 00:48:44.200
+So that is why we do see a lot more AI being deployed in the earlier parts of the process because it helps from a candidate experience as well.
+
+00:48:44.200 --> 00:48:47.320
+It helps them move forward to the steps that matter.
+
+00:48:47.320 --> 00:48:54.040
+But then in later stages, you do have to give higher priority to that human touch and candidate experience.
+
+00:48:54.040 --> 00:48:56.040
+I don't know if you have anything else to add.
+
+00:48:56.200 --> 00:48:58.200
+I'll chime in here with a bit of an opinion.
+
+00:48:58.200 --> 00:49:04.600
+So having run HR technology functions before, I know sometimes, and any HR tech person on the line can echo with this.
+
+00:49:04.600 --> 00:49:07.560
+It's easy to say that technology is doing X.
+
+00:49:07.560 --> 00:49:15.520
+But a lot of times when I talk to customers who are experiencing this issue, I always encourage everyone to take a step back and ask, what did you teach the technology?
+
+00:49:14.280 --> 00:49:17.680
+What did you set out as a parameter of the technology?
+
+00:49:18.480 --> 00:49:20.800
+Because here's a little hack for everyone.
+
+00:49:20.800 --> 00:49:26.960
+Every AI tool, somewhere in the settings, you may not have access to it, but your system admin sure does.
+
+00:49:26.960 --> 00:49:28.640
+There's a temperature setting.
+
+00:49:28.640 --> 00:49:36.400
+That temperature setting allows you to dial up and down the sensitivity of an AI response and condition certain AI responses.
+
+00:49:36.400 --> 00:49:47.120
+So the question is, how much time did you spend on A B testing and kind of figuring out what sensitivity setting works best for your audience and your organization?
+
+00:49:47.120 --> 00:50:00.800
+Versus how much time do we just say, like, all right, system is going in, AI is brilliant, we're gonna trust AI to run this, and then some negative feedback are coming in the sort of back of that process.
+
+00:50:00.880 --> 00:50:02.640
+Right, right, great.
+
+00:50:02.640 --> 00:50:07.520
+And this next one, of course, we we have to get a question on agents, otherwise it's not an AI webinar.
+
+00:50:07.520 --> 00:50:12.960
+Uh so where do you see AI agents being uh deployed in HR?
+
+00:50:12.960 --> 00:50:18.160
+Um so so AI agents, uh it's a very high topic.
+
+00:50:18.160 --> 00:50:19.680
+Uh actually, why do we do this?
+
+00:50:19.680 --> 00:50:22.000
+Uh Robert, can we can we go back to slides?
+
+00:50:22.000 --> 00:50:26.560
+So we have a few slides um that we we we wanted to add, but we couldn't.
+
+00:50:26.560 --> 00:50:27.920
+Yeah, this one, exactly.
+
+00:50:27.920 --> 00:50:28.480
+Thank you.
+
+00:50:28.480 --> 00:50:29.120
+Thank you.
+
+00:50:29.120 --> 00:50:29.680
+Right.
+
+00:50:29.680 --> 00:50:37.680
+So the thing about AI agents is uh it is not like uh you can say this is an agent and this is not an agent, right?
+
+00:50:37.680 --> 00:50:41.840
+There is a spectrum of agency uh for AI and HR.
+
+00:50:41.840 --> 00:50:49.840
+And on the left hand side, you have the the classic chat GPT experience, the rigid, reactive, static ping pong.
+
+00:50:49.840 --> 00:50:52.160
+You ask a question, you get an answer, right?
+
+00:50:52.400 --> 00:50:56.400
+And on the right hand side, you have the true AI agents.
+
+00:50:56.400 --> 00:51:02.760
+So AI solutions that proactively jump into actions without a human even triggering them.
+
+00:51:03.080 --> 00:51:08.760
+They are independent, which means they have they reason themselves into new steps in the workflow.
+
+00:51:08.760 --> 00:51:11.960
+So it doesn't always have to be deterministic workflow.
+
+00:51:12.120 --> 00:51:13.560
+And they also evolve.
+
+00:51:13.560 --> 00:51:16.200
+So they learn while they do things, right?
+
+00:51:16.200 --> 00:51:18.520
+So that is the true AI agent.
+
+00:51:18.520 --> 00:51:25.560
+And an example here could be this was a European company, and I was speaking with the CHRO.
+
+00:51:25.560 --> 00:51:33.800
+They are trying to build an AI agent that can proactively sense attrition spikes in various parts of the business.
+
+00:51:33.800 --> 00:51:52.200
+And based on a previously supplied rubric of what good looks like, the AI agent proactively jumps into the market and scans candidates, including passive candidates, and gets a short list ready for the hiring manager even before the attrition happens.
+
+00:51:52.760 --> 00:51:55.720
+Now, this is I'll be very clear.
+
+00:51:55.720 --> 00:51:57.080
+I don't know if they will succeed.
+
+00:51:57.080 --> 00:51:58.200
+This is their vision.
+
+00:51:58.200 --> 00:52:01.480
+They were trying to build this out internally.
+
+00:52:01.480 --> 00:52:20.600
+So the fact is we don't know of a truly proven uh deployed at scale uh example of that kind of true AI agents in HR, which is why you'll see that the Gardner position is that there are zero high agency AI agents in HR today.
+
+00:52:20.600 --> 00:52:32.360
+Now we do have a few medium agency AI agents, uh which are a little further down, they're narrower, and most of them are in tier zero, tier one uh HR shared services.
+
+00:52:32.360 --> 00:52:39.880
+Uh, they are in candidate sourcing, screening, matching, and scheduling, uh, and also in onboarding and crossboarding.
+
+00:52:39.880 --> 00:52:54.320
+Everything else is low agency AI agents, or in other words, that is just AI agent washing, where yesterday's assistants are being called agents, and what has changed is marketing and not technology.
+
+00:52:54.320 --> 00:52:57.680
+And you you get asked to pay more, of course, for that.
+
+00:52:57.680 --> 00:53:07.120
+So this is the spectrum of agency, and we need to make sure you need to make sure what is actually an agent versus not.
+
+00:53:07.120 --> 00:53:08.080
+Any other words on the other side?
+
+00:53:10.880 --> 00:53:16.560
+I think I think everyone here recognizes this, but I just want to put a name to this, if you will, right?
+
+00:53:16.560 --> 00:53:43.200
+The catch 22 of agentic AI in HR right now is fundamentally a piece of technology that is designed to be probabilistic in nature, because it's chances and percentage of response to a function that has always been on a more deterministic side of the house mean that we're policy question wrong, because the aftermath of that is a little HR department.
+
+00:53:43.200 --> 00:53:52.560
+So trying to marry the deterministic nature of HR to the probabilistic nature of AI is also part of the reason why we have yet to see certain use cases.
+
+00:53:52.560 --> 00:53:59.280
+Now, some of the leading edge thinkers are beginning to realize that catch 22 is ended work that exists.
+
+00:53:59.280 --> 00:54:17.440
+So what they're saying is okay, but what happens if we apply the level of determinism in how we design the system and we allow the level of probable probability to actually occur in the system of itself, as long as we design the sandbox of which that probability can essentially play in.
+
+00:54:17.440 --> 00:54:20.720
+So something to think about there as well.
+
+00:54:20.800 --> 00:54:21.840
+Right.
+
+00:54:21.840 --> 00:54:22.240
+Right.
+
+00:54:22.240 --> 00:54:27.680
+So the other one here I can see is, and this is I don't know if this might be our last uh question.
+
+00:54:27.680 --> 00:54:35.400
+So change management, especially stakeholder management is quite challenging in implementing AI across HR processes.
+
+00:54:35.720 --> 00:54:37.960
+Any framework to work with this?
+
+00:54:37.960 --> 00:54:43.000
+I thought this might be interesting one for you, Lydia, if you have thoughts.
+
+00:54:43.080 --> 00:54:44.600
+It is a really fun one.
+
+00:54:44.840 --> 00:54:49.640
+So I'm gonna whip out what I believe, I think it was Emily Rose McCrae that came up with this.
+
+00:54:49.640 --> 00:54:51.880
+I could be wrong, but we do have research behind this.
+
+00:54:51.880 --> 00:54:54.360
+It's called the AI adoption triad.
+
+00:54:54.360 --> 00:55:02.040
+And it's a triangle that I keep whipping up time and time again because essentially, number one, we are currently in an era of ungovernable change.
+
+00:55:02.040 --> 00:55:06.120
+So take all of the awareness, desire, knowledge framework that you have known in the past.
+
+00:55:06.120 --> 00:55:07.880
+We don't work on that curve anymore.
+
+00:55:07.880 --> 00:55:14.040
+And we're just a little bit random right now, understandable and understandably so given the environment that we are currently in.
+
+00:55:14.040 --> 00:55:17.560
+Now, the AI adoption triad looks at three areas.
+
+00:55:17.560 --> 00:55:23.160
+Number one, from a change management perspective, did you give everyone the skills they need to be successful?
+
+00:55:23.160 --> 00:55:28.840
+So when you're asking everyone to play around and experiment, did you give them the basics that they needed to do that?
+
+00:55:28.840 --> 00:55:31.480
+Did you give them the tool set that they needed to do that?
+
+00:55:31.480 --> 00:55:33.800
+Then we look at motivation.
+
+00:55:33.800 --> 00:55:35.960
+How are you encouraging individuals?
+
+00:55:35.960 --> 00:55:39.720
+How are you giving them that level of psychological safety to thrive?
+
+00:55:39.720 --> 00:55:43.560
+How are you creating an environment that embraces failure in a way?
+
+00:55:43.560 --> 00:55:47.640
+Because experiments sometimes lead to failure, where people feel safe to fail.
+
+00:55:47.640 --> 00:55:57.800
+And with AI, especially with AI use cases, there is an expected level of failure in certain cases because you don't know if something that has work for someone else is going to work for your organization.
+
+00:55:57.800 --> 00:55:59.560
+So motivation is the second part.
+
+00:55:59.560 --> 00:56:01.560
+The third part is ease of use.
+
+00:56:01.560 --> 00:56:15.280
+So this is actually a very interesting technology design as part of change management question, because we're not just designing a system now in the name of designing a system, but we're designing a system accounting for all of the human psyche psychological factors.
+
+00:56:14.840 --> 00:56:19.840
+We're designing a system that accounts for how people will think and interact with the system.
+
+00:56:20.000 --> 00:56:30.000
+So being very intentional about where you place certain things, what systems and what frameworks you turn on, how you communicate about it, how you talk about it is also really important.
+
+00:56:30.000 --> 00:56:31.280
+So I'll set it down.
+
+00:56:31.280 --> 00:56:35.360
+As long as you focus on the skills, the motivation, and the ease of use aspect of it.
+
+00:56:35.360 --> 00:56:41.840
+Typically, we have a pretty good structure for change management in the AI era.
+
+00:56:42.720 --> 00:56:43.680
+Right.
+
+00:56:43.680 --> 00:56:44.240
+Great.
+
+00:56:44.240 --> 00:56:44.960
+Thank you for that.
+
+00:56:44.960 --> 00:56:50.000
+I think we we might have time for one more and a quick answer.
+
+00:56:50.560 --> 00:57:01.920
+So the question is how do you balance the decision to build internal homegrown AI products versus utilizing our vendors' products?
+
+00:57:02.240 --> 00:57:15.120
+Now we we we just have uh gotten fresh data on uh on some of the big AI and HR questions, uh, and I can tell you that build is making a comeback uh in the HR tech space.
+
+00:57:15.120 --> 00:57:29.520
+So there are quite a few um uh HR leaders who are working with IT uh to build uh new AI solutions, and most of them are uh in the in the HR uh chatbot uh space, self-service, etc.
+
+00:57:29.600 --> 00:57:37.680
+Some of them are trying to build that digital front door because more because they're frustrated with what they're getting out of the box from the vendors.
+
+00:57:37.680 --> 00:57:53.720
+Uh, but for the most part, I would say that the fundamental calculus remains the same unless there are really unique strategic regulatory privacy considerations uh for you to build.
+
+00:57:53.720 --> 00:57:59.280
+Having uncontrolled building can lead to technical debt tomorrow.
+
+00:57:59.280 --> 00:58:15.960
+So you need to be very careful about what you build versus what you blend, which is buying from the market and trying to adapt it to your organizational needs using retrieval augmented generation or other uh other techniques.
+
+00:58:15.960 --> 00:58:26.120
+Uh so there are a few use cases where it makes sense for you to consider build, but for the most part, you want to you want to be very careful about uh about that approach.
+
+00:58:26.120 --> 00:58:27.720
+Any anything else you would add?
+
+00:58:28.040 --> 00:58:31.480
+Yeah, quick thoughts.
+
+00:58:31.480 --> 00:58:32.920
+I mean, how much can you afford?
+
+00:58:32.920 --> 00:58:34.360
+What did you put into your budget?
+
+00:58:34.600 --> 00:58:38.280
+That's probably the most immediate question for the next six months, I guess.
+
+00:58:38.280 --> 00:58:38.920
+Right.
+
+00:58:38.920 --> 00:58:39.800
+Okay, great.
+
+00:58:39.800 --> 00:58:44.840
+I know we are at time, and I I can see uh Robert already uh pinging us here.
+
+00:58:44.840 --> 00:58:45.720
+It's time to stop.
+
+00:58:45.720 --> 00:58:58.120
+So back over to you, Robert.
+
+00:58:58.120 --> 00:59:03.160
+Yes, thank you so much to uh Lydia and Harsh for sharing their insights.
+
+00:59:03.160 --> 00:59:06.040
+I know we are at time, so I'm gonna make this very brief.
+
+00:59:06.040 --> 00:59:08.520
+But again, thank you all so much for joining us.
+
+00:59:08.520 --> 00:59:12.280
+Before you go, we've included some additional resources at the bottom of the page.
+
+00:59:12.280 --> 00:59:20.040
+Quick reminder: this webinar is being recorded, so you can watch this presentation again and get more great insights on demand at guard.com/slash webinars.
+
+00:59:20.040 --> 00:59:24.280
+And lastly, we ask you to please rate this webinar, the bottom right of your screens.
+
+00:59:24.280 --> 00:59:27.000
+Just submit your rating, click the rate session below the player.
+
+00:59:27.160 --> 00:59:29.480
+Box open up is like the one to five hearts.
+
+00:59:29.480 --> 00:59:31.840
+Please note that five hearts is the top rating.
+
+00:59:31.840 --> 00:59:37.960
+You can share your feedback, your additional feedback and the insights provided in the leave for the feedback box, and then click send.
+
+00:59:38.120 --> 00:59:41.640
+With that, you'd like to thank our presenters and of course, thank you for joining us.
+
+00:59:41.640 --> 00:59:42.760
+Have a great day.
+
+00:59:42.760 --> 00:59:44.840
+Goodbye.
