@@ -10,7 +10,7 @@
 
 | # | 標題 | 講者 / 角色 | 主軸 | 資料夾 |
 |---|---|---|---|---|
-| 01 | Accelerate Your AI Journey With Business Capability Maps | Alexander Hope（VP Analyst，製造） | CIO 視角：用 BCM 把 AI 投資錨在 capability 而不是 use case | [`01-ai-journey-business-capability-maps/`](./01-ai-journey-business-capability-maps/) |
+| 01 | Accelerate Your AI Journey With Business Capability Maps | Alexander Hoeppe（VP Analyst，製造） | CIO 視角：用 BCM 把 AI 投資錨在 capability 而不是 use case | [`01-ai-journey-business-capability-maps/`](./01-ai-journey-business-capability-maps/) |
 | 02 | Stop Funding Features and Start Building Value — How CHROs Win With HR AI | Harsh Kondoli + Lydia Wu | CHRO 視角：North Star → Where to Play → Design for Value | [`02-hr-ai-stop-funding-features/`](./02-hr-ai-stop-funding-features/) |
 | 03 | Transforming Communications for an AI-enabled World | Paul Catherwood + Emily L. | CCO 視角：逃離 efficiency trap，把 comms 從 cost center 變 strategic partner | [`03-comms-ai-enabled-world/`](./03-comms-ai-enabled-world/) |
 
