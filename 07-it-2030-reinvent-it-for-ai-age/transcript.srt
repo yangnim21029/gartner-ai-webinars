@@ -1,0 +1,5680 @@
+1
+00:00:06,560 --> 00:00:11,918
+Okay Rajesh Kandaswamy Gartner CIO IT 2030
+
+2
+00:00:11,918 --> 00:00:11,918
+democratization North Star reskilling
+
+3
+00:00:41,442 --> 00:00:43,602
+Hello and welcome to this Gartner webinar
+
+4
+00:00:43,922 --> 00:00:47,362
+IT 2030 How CIOs Should Re Invent IT for
+
+5
+00:00:47,362 --> 00:00:48,482
+the AI Age
+
+6
+00:00:49,442 --> 00:00:51,202
+Your task is driving stronger performance
+
+7
+00:00:51,202 --> 00:00:52,722
+on your organization's missioncritical
+
+8
+00:00:52,802 --> 00:00:53,362
+priorities
+
+9
+00:00:54,727 --> 00:00:56,407
+To do that you need trusted guidance that
+
+10
+00:00:56,407 --> 00:00:58,087
+provides clarity not just information At
+
+11
+00:00:59,047 --> 00:01:00,487
+Gartner we deliver that clarity by
+
+12
+00:01:00,487 --> 00:01:02,807
+combining forwardlooking insights from our
+
+13
+00:01:02,807 --> 00:01:04,567
+twentyfive hundred experts with rigorous
+
+14
+00:01:04,887 --> 00:01:06,407
+proprietary research methodologies
+
+15
+00:01:07,367 --> 00:01:08,807
+Our perspective is uniquely informed by
+
+16
+00:01:08,807 --> 00:01:10,087
+our handson work with five hundred
+
+17
+00:01:10,087 --> 00:01:11,927
+thousand client interactions across every
+
+18
+00:01:11,927 --> 00:01:14,247
+major function geography industry and
+
+19
+00:01:14,247 --> 00:01:14,567
+sector
+
+20
+00:01:16,216 --> 00:01:17,256
+We don't just provide the business and
+
+21
+00:01:17,256 --> 00:01:19,016
+technology insights We work with you to
+
+22
+00:01:19,016 --> 00:01:20,616
+apply them equipping your team with
+
+23
+00:01:20,696 --> 00:01:22,216
+practical tools and expert guidance to
+
+24
+00:01:22,216 --> 00:01:23,016
+achieve your goals
+
+25
+00:01:24,216 --> 00:01:25,736
+So whether you are new to Gartner or one
+
+26
+00:01:25,736 --> 00:01:26,616
+of our existing clients
+
+27
+00:01:28,776 --> 00:01:29,176
+today you
+
+28
+00:01:30,136 --> 00:01:32,376
+will get actionable objective insights
+
+29
+00:01:32,616 --> 00:01:34,296
+through an inhuman intelligence to help
+
+30
+00:01:34,296 --> 00:01:35,976
+you move forward with confidence I'm
+
+31
+00:01:35,976 --> 00:01:37,256
+Robert your moderator for this session
+
+32
+00:01:37,656 --> 00:01:39,976
+Before we get started I have a few tips to
+
+33
+00:01:39,976 --> 00:01:41,256
+enhance your webinar experience
+
+34
+00:01:43,864 --> 00:01:45,304
+Here are rules of engagement for watching
+
+35
+00:01:45,304 --> 00:01:47,064
+this session We'll pause for a moment to
+
+36
+00:01:47,064 --> 00:01:48,024
+give you time to review them
+
+37
+00:01:57,856 --> 00:01:58,976
+Around the video player you'll find a
+
+38
+00:01:58,976 --> 00:02:00,016
+variety of ways to interact with the
+
+39
+00:02:00,016 --> 00:02:01,936
+session We encourage you to participate by
+
+40
+00:02:01,936 --> 00:02:03,856
+clicking the Ask a Speaker box to submit
+
+41
+00:02:03,856 --> 00:02:05,136
+your questions and thoughts about this
+
+42
+00:02:05,136 --> 00:02:05,536
+program
+
+43
+00:02:06,496 --> 00:02:08,176
+You can submit a question anonymously or
+
+44
+00:02:08,176 --> 00:02:09,776
+if you choose your name title and company
+
+45
+00:02:09,776 --> 00:02:11,296
+can be visible along with your question
+
+46
+00:02:12,652 --> 00:02:13,932
+Navigate to the bottom of the page to
+
+47
+00:02:13,932 --> 00:02:15,452
+download additional resources
+
+48
+00:02:16,572 --> 00:02:17,852
+About this program you can rate the
+
+49
+00:02:17,852 --> 00:02:19,932
+session and share feedback To submit your
+
+50
+00:02:19,932 --> 00:02:21,692
+rating locate the rate session link below
+
+51
+00:02:21,692 --> 00:02:24,092
+the player Boxes open up using the one to
+
+52
+00:02:24,092 --> 00:02:26,812
+five hearts Please note that five hearts
+
+53
+00:02:26,812 --> 00:02:27,612
+is the top rating
+
+54
+00:02:28,412 --> 00:02:29,452
+Share your feedback on the insights
+
+55
+00:02:29,452 --> 00:02:31,372
+provided in the leave for the feedback box
+
+56
+00:02:31,452 --> 00:02:32,252
+and then click send This
+
+57
+00:02:33,212 --> 00:02:34,972
+webinar is being recorded You can watch
+
+58
+00:02:34,972 --> 00:02:35,772
+this presentation again
+
+59
+00:02:37,350 --> 00:02:38,710
+Find more insights on demand at
+
+60
+00:02:38,710 --> 00:02:39,030
+gartnercomslashwebinars
+
+61
+00:02:41,830 --> 00:02:43,350
+Now I'd like to welcome Gartner's
+
+62
+00:02:43,350 --> 00:02:44,630
+distinguished vice president analyst
+
+63
+00:02:44,950 --> 00:02:47,270
+Rajesh Kandaswamy Rajesh thanks for
+
+64
+00:02:47,270 --> 00:02:48,630
+joining us and now I'll turn it over to
+
+65
+00:02:48,630 --> 00:02:48,870
+you
+
+66
+00:02:50,895 --> 00:02:53,535
+Thank you Robert Hello everyone Thank you
+
+67
+00:02:53,535 --> 00:02:56,175
+for taking some time to spend with us
+
+68
+00:02:57,375 --> 00:02:59,775
+IT 2030 This is our topic
+
+69
+00:03:01,135 --> 00:03:04,895
+CIOs and technology leaders worldwide are
+
+70
+00:03:04,895 --> 00:03:05,855
+all wondering
+
+71
+00:03:06,735 --> 00:03:09,295
+more than delivering AI for business
+
+72
+00:03:09,375 --> 00:03:12,815
+should they be reinventing IT itself for
+
+73
+00:03:12,815 --> 00:03:13,695
+the AI age
+
+74
+00:03:14,895 --> 00:03:17,295
+Some of you are already working on a plan
+
+75
+00:03:18,204 --> 00:03:20,764
+Some of you are considering and some of
+
+76
+00:03:20,764 --> 00:03:22,044
+you are asked by the board
+
+77
+00:03:22,844 --> 00:03:25,164
+To address this me and a few of my
+
+78
+00:03:25,164 --> 00:03:27,324
+colleagues started putting together
+
+79
+00:03:27,324 --> 00:03:29,324
+research at the end of last year
+
+80
+00:03:30,204 --> 00:03:32,844
+and since the time we have taken feedback
+
+81
+00:03:32,844 --> 00:03:35,084
+from many of you who have been gracious
+
+82
+00:03:35,084 --> 00:03:37,724
+with your input to shape this presentation
+
+83
+00:03:38,684 --> 00:03:39,484
+Let's jump right in
+
+84
+00:03:44,232 --> 00:03:44,552
+So
+
+85
+00:03:45,352 --> 00:03:49,023
+as we all know AI is a powerful force And
+
+86
+00:03:49,023 --> 00:03:51,663
+I think we can all agree that while there
+
+87
+00:03:51,663 --> 00:03:54,303
+are many different forces that can impact
+
+88
+00:03:54,303 --> 00:03:59,183
+IT and here are some geopolitics economic
+
+89
+00:03:59,183 --> 00:04:02,383
+activity and so there could be others that
+
+90
+00:04:02,383 --> 00:04:05,823
+impact IT I think we can all agree AI is
+
+91
+00:04:05,903 --> 00:04:08,383
+the fundamental powerful force that is
+
+92
+00:04:08,383 --> 00:04:09,343
+going to reshape IT
+
+93
+00:04:11,044 --> 00:04:13,684
+And when we talk to many of you we see
+
+94
+00:04:13,684 --> 00:04:16,164
+that there are three big areas why this
+
+95
+00:04:16,164 --> 00:04:17,284
+question becomes important
+
+96
+00:04:18,644 --> 00:04:21,364
+One is AIdriven efficiencies
+
+97
+00:04:22,724 --> 00:04:26,164
+We can all see that because of AI the
+
+98
+00:04:26,164 --> 00:04:28,324
+ability to build technology is getting
+
+99
+00:04:28,324 --> 00:04:28,724
+easier
+
+100
+00:04:29,604 --> 00:04:32,164
+It might not be as much as some people in
+
+101
+00:04:32,164 --> 00:04:34,884
+the media or in the tech industries
+
+102
+00:04:34,884 --> 00:04:35,764
+portrayed to be
+
+103
+00:04:36,648 --> 00:04:37,688
+But there is benefit
+
+104
+00:04:38,648 --> 00:04:41,288
+whether it's in building code or managing
+
+105
+00:04:41,368 --> 00:04:41,768
+IT
+
+106
+00:04:43,048 --> 00:04:45,768
+So based on that will the IT organization
+
+107
+00:04:45,768 --> 00:04:48,488
+in the future be smaller or bigger
+
+108
+00:04:49,848 --> 00:04:50,248
+Second
+
+109
+00:04:51,208 --> 00:04:53,688
+we all see increased interest from
+
+110
+00:04:53,768 --> 00:04:55,848
+business wanting to build their own
+
+111
+00:04:55,848 --> 00:04:56,408
+technology
+
+112
+00:04:57,288 --> 00:04:58,648
+We call it democratization
+
+113
+00:04:59,737 --> 00:05:02,137
+This used to have a negative connotation a
+
+114
+00:05:02,137 --> 00:05:03,017
+few years ago
+
+115
+00:05:03,897 --> 00:05:06,777
+with shadow IT I'm sure most of you are
+
+116
+00:05:06,777 --> 00:05:09,817
+familiar with shadow IT When the worry was
+
+117
+00:05:09,977 --> 00:05:12,697
+rampant technology use that is done
+
+118
+00:05:12,697 --> 00:05:14,937
+without guardrails in business ends up
+
+119
+00:05:15,017 --> 00:05:15,737
+impacting IT
+
+120
+00:05:16,581 --> 00:05:19,861
+But now democratization is on a forward
+
+121
+00:05:19,861 --> 00:05:23,381
+march No code agent builders wipe coding
+
+122
+00:05:23,941 --> 00:05:26,261
+These type of tools are enabling business
+
+123
+00:05:26,341 --> 00:05:26,741
+to build more
+
+124
+00:05:28,021 --> 00:05:29,141
+And the third one is
+
+125
+00:05:30,128 --> 00:05:33,088
+Because of the ability to use AI directly
+
+126
+00:05:33,968 --> 00:05:37,488
+or use AI to build code we have a new
+
+127
+00:05:37,488 --> 00:05:41,155
+question Should I increase my build mix
+
+128
+00:05:41,155 --> 00:05:42,835
+versus buy compared to before
+
+129
+00:05:43,955 --> 00:05:47,075
+I'll give an example A few months ago
+
+130
+00:05:47,875 --> 00:05:50,675
+a CIO of a large global bank asked me
+
+131
+00:05:51,235 --> 00:05:54,995
+Rajesh I have this big fat check that I am
+
+132
+00:05:54,995 --> 00:05:57,635
+about to sign for a large enterprise
+
+133
+00:05:57,635 --> 00:05:58,435
+software vendor
+
+134
+00:05:59,316 --> 00:06:01,956
+Hundreds of millions of dollars I'm not
+
+135
+00:06:01,956 --> 00:06:04,036
+sure if we should sign it Why
+
+136
+00:06:04,836 --> 00:06:05,236
+One
+
+137
+00:06:06,116 --> 00:06:07,956
+I don't know what all AI is going to
+
+138
+00:06:07,956 --> 00:06:08,516
+change
+
+139
+00:06:09,752 --> 00:06:12,792
+Second this vendor is telling everybody on
+
+140
+00:06:12,792 --> 00:06:15,032
+Wall Street that they are getting twenty
+
+141
+00:06:15,032 --> 00:06:17,912
+thirty percent efficiency because of AI
+
+142
+00:06:18,552 --> 00:06:20,552
+but I'm not seeing my bill go down twenty
+
+143
+00:06:20,552 --> 00:06:21,192
+thirty percent
+
+144
+00:06:22,472 --> 00:06:25,192
+And lastly I don't even use everything
+
+145
+00:06:25,272 --> 00:06:27,032
+that they're buying from them
+
+146
+00:06:27,983 --> 00:06:28,863
+We use only a part
+
+147
+00:06:29,823 --> 00:06:31,423
+So this is what I am thinking Rajesh She
+
+148
+00:06:31,423 --> 00:06:31,663
+said
+
+149
+00:06:33,183 --> 00:06:35,663
+Should I get a set of developers from my
+
+150
+00:06:35,663 --> 00:06:35,903
+team
+
+151
+00:06:37,023 --> 00:06:39,503
+and ask them to build parts of the
+
+152
+00:06:39,503 --> 00:06:40,303
+software
+
+153
+00:06:41,200 --> 00:06:44,320
+Using Claude Code or other you know coding
+
+154
+00:06:44,320 --> 00:06:47,600
+tools and then use it and then instead of
+
+155
+00:06:47,600 --> 00:06:50,160
+me maintaining it turn the whole thing to
+
+156
+00:06:50,720 --> 00:06:51,360
+open source
+
+157
+00:06:52,320 --> 00:06:55,520
+This was in September even before we saw
+
+158
+00:06:55,520 --> 00:06:57,760
+the market trash software stocks
+
+159
+00:06:58,720 --> 00:07:01,280
+So CIOs are grappling with these questions
+
+160
+00:07:01,280 --> 00:07:02,800
+How will impact the future of IT
+
+161
+00:07:04,536 --> 00:07:06,376
+So we looked deep into that and then what
+
+162
+00:07:06,376 --> 00:07:09,336
+we realized is that there are a set of
+
+163
+00:07:09,336 --> 00:07:11,496
+things that need to be considered This is
+
+164
+00:07:11,496 --> 00:07:14,296
+not a trivial exercise We all know how
+
+165
+00:07:14,376 --> 00:07:16,376
+hard transformation programs are that you
+
+166
+00:07:16,376 --> 00:07:16,776
+work on
+
+167
+00:07:18,136 --> 00:07:20,456
+So in this presentation we wanted to offer
+
+168
+00:07:20,456 --> 00:07:22,296
+you three things that are the outcome of
+
+169
+00:07:22,296 --> 00:07:23,016
+that research
+
+170
+00:07:24,418 --> 00:07:28,098
+The first is what is the future state that
+
+171
+00:07:28,178 --> 00:07:31,298
+you should aim for What is that North Star
+
+172
+00:07:32,098 --> 00:07:34,498
+We developed a few models We call them
+
+173
+00:07:34,578 --> 00:07:36,818
+archetypes to help you bring through that
+
+174
+00:07:38,805 --> 00:07:39,205
+Second
+
+175
+00:07:40,005 --> 00:07:42,885
+what is the level of reskilling or job
+
+176
+00:07:42,885 --> 00:07:44,725
+changes you will have to consider for
+
+177
+00:07:44,725 --> 00:07:45,605
+people in your team
+
+178
+00:07:46,890 --> 00:07:48,730
+And it's not just deciding on the level of
+
+179
+00:07:48,730 --> 00:07:49,450
+changes
+
+180
+00:07:50,410 --> 00:07:52,010
+What is the right pace for you
+
+181
+00:07:53,050 --> 00:07:55,050
+Some of you might want to be AI first and
+
+182
+00:07:55,050 --> 00:07:55,770
+go all in
+
+183
+00:07:56,650 --> 00:07:58,250
+but at the other extreme some of you want
+
+184
+00:07:58,330 --> 00:08:00,330
+to be really cautious That's
+
+185
+00:08:00,330 --> 00:08:02,010
+understandable based on the nature of the
+
+186
+00:08:02,010 --> 00:08:02,570
+industry
+
+187
+00:08:03,931 --> 00:08:06,171
+And third we will look into the
+
+188
+00:08:06,171 --> 00:08:08,171
+implication to the tech stack itself
+
+189
+00:08:09,691 --> 00:08:11,291
+So these are the three areas that we are
+
+190
+00:08:11,291 --> 00:08:12,731
+going to look into as part of this
+
+191
+00:08:12,731 --> 00:08:14,571
+presentation and we have much more
+
+192
+00:08:14,571 --> 00:08:15,531
+research on this
+
+193
+00:08:17,451 --> 00:08:21,051
+So now to look into the future state model
+
+194
+00:08:22,142 --> 00:08:24,462
+What we see is it's important to consider
+
+195
+00:08:24,542 --> 00:08:25,582
+three different factors
+
+196
+00:08:26,462 --> 00:08:26,782
+One
+
+197
+00:08:27,662 --> 00:08:28,382
+supply itself
+
+198
+00:08:29,822 --> 00:08:33,582
+Because of AIdriven efficiency we see that
+
+199
+00:08:33,742 --> 00:08:36,222
+more can be done with the same number of
+
+200
+00:08:36,222 --> 00:08:37,262
+people or less
+
+201
+00:08:38,858 --> 00:08:39,258
+Second
+
+202
+00:08:40,058 --> 00:08:42,058
+what is your business telling you about
+
+203
+00:08:42,218 --> 00:08:43,258
+demand in the future
+
+204
+00:08:44,378 --> 00:08:47,098
+Not just based on how business is today
+
+205
+00:08:47,818 --> 00:08:49,578
+but what are their aspirations for
+
+206
+00:08:49,578 --> 00:08:51,338
+business Will they be investing in new
+
+207
+00:08:51,338 --> 00:08:54,218
+markets Will they want to increase margin
+
+208
+00:08:54,618 --> 00:08:57,258
+improve customer service Based on that
+
+209
+00:08:57,418 --> 00:08:58,618
+what is the trajectory
+
+210
+00:09:00,058 --> 00:09:02,138
+And these two used to be somewhat standard
+
+211
+00:09:02,138 --> 00:09:03,738
+when we match demand and supply
+
+212
+00:09:04,778 --> 00:09:08,458
+But the third factor is very important now
+
+213
+00:09:09,498 --> 00:09:12,778
+democratization the ability of business to
+
+214
+00:09:12,858 --> 00:09:15,418
+build technology What is the appetite in
+
+215
+00:09:15,418 --> 00:09:16,218
+your business
+
+216
+00:09:17,680 --> 00:09:20,000
+So when you use these three factors and
+
+217
+00:09:20,080 --> 00:09:22,000
+then determine what are the models that
+
+218
+00:09:22,000 --> 00:09:26,000
+are possible we find there are four key
+
+219
+00:09:26,160 --> 00:09:29,280
+archetypes that are important for you to
+
+220
+00:09:29,280 --> 00:09:30,720
+consider and we offer you to them
+
+221
+00:09:33,290 --> 00:09:35,690
+So what you see on the left is the demand
+
+222
+00:09:35,690 --> 00:09:38,890
+supply and then the democratization Notice
+
+223
+00:09:38,890 --> 00:09:41,210
+supply has got two elements number of
+
+224
+00:09:41,210 --> 00:09:43,130
+people and the units of work being
+
+225
+00:09:43,130 --> 00:09:45,370
+delivered They are not exactly the same
+
+226
+00:09:46,250 --> 00:09:48,650
+The belief is because of AI you can
+
+227
+00:09:48,650 --> 00:09:51,130
+deliver more with the same number of
+
+228
+00:09:51,130 --> 00:09:53,370
+people or less but how much more it
+
+229
+00:09:53,370 --> 00:09:54,170
+depends on your appetite
+
+230
+00:09:55,770 --> 00:09:57,850
+The first archetype is what we call lean
+
+231
+00:09:57,850 --> 00:09:58,010
+IT
+
+232
+00:09:59,332 --> 00:09:59,812
+Here
+
+233
+00:10:00,772 --> 00:10:02,292
+the demand is more or less the same
+
+234
+00:10:03,572 --> 00:10:06,052
+but the expectation is IT can be more
+
+235
+00:10:06,052 --> 00:10:08,852
+efficient with AI and can the size of IT
+
+236
+00:10:08,852 --> 00:10:11,652
+can go somewhat smaller than it is today
+
+237
+00:10:12,870 --> 00:10:14,710
+There are organizations who to whom I
+
+238
+00:10:14,710 --> 00:10:18,470
+presented this that clearly say Yes you
+
+239
+00:10:18,470 --> 00:10:21,670
+know my CEO or my board expects me to be
+
+240
+00:10:21,910 --> 00:10:26,070
+lean IT or We are owned by a private
+
+241
+00:10:26,070 --> 00:10:28,390
+equity firm that is expecting us to
+
+242
+00:10:28,390 --> 00:10:29,190
+proceed that way
+
+243
+00:10:31,173 --> 00:10:33,333
+Some of you tell us that you are seeing
+
+244
+00:10:33,333 --> 00:10:34,373
+demand increase
+
+245
+00:10:35,333 --> 00:10:38,293
+but there is no appetite to increase
+
+246
+00:10:38,293 --> 00:10:39,253
+headcount in IT
+
+247
+00:10:40,613 --> 00:10:43,093
+Through AIdriven efficiencies you want to
+
+248
+00:10:43,093 --> 00:10:43,893
+match the demand
+
+249
+00:10:45,093 --> 00:10:46,213
+This is amplified IT
+
+250
+00:10:49,173 --> 00:10:51,573
+Some of you tell us that you know we are
+
+251
+00:10:51,573 --> 00:10:52,853
+seeing significant demand
+
+252
+00:10:53,897 --> 00:10:56,377
+But there is no appetite to increase IT
+
+253
+00:10:56,377 --> 00:10:59,497
+Yes we do want IT to deliver more
+
+254
+00:11:00,457 --> 00:11:02,697
+but we expect some of the demand to be
+
+255
+00:11:02,697 --> 00:11:06,137
+satisfied directly by business We call
+
+256
+00:11:06,137 --> 00:11:07,257
+this democratized IT
+
+257
+00:11:10,037 --> 00:11:13,317
+And some of you say that we are seeing
+
+258
+00:11:13,317 --> 00:11:15,637
+significant potential for technology
+
+259
+00:11:15,717 --> 00:11:16,357
+across
+
+260
+00:11:17,397 --> 00:11:20,277
+We want to build more In fact technology
+
+261
+00:11:20,277 --> 00:11:23,557
+is so critical we might reduce our buy
+
+262
+00:11:23,557 --> 00:11:26,677
+solutions and build somewhat more using AI
+
+263
+00:11:26,677 --> 00:11:27,237
+tools
+
+264
+00:11:28,116 --> 00:11:31,076
+So we want business to become more adept
+
+265
+00:11:31,156 --> 00:11:33,636
+in building technology but we also want to
+
+266
+00:11:33,716 --> 00:11:36,436
+invest in IT to deliver more technology
+
+267
+00:11:37,316 --> 00:11:39,476
+Because everybody builds we call it the
+
+268
+00:11:39,556 --> 00:11:40,596
+dual builder IT
+
+269
+00:11:42,413 --> 00:11:43,453
+So take a look at this
+
+270
+00:11:44,653 --> 00:11:46,413
+In terms of these four archetypes
+
+271
+00:11:47,613 --> 00:11:48,813
+this is not a progression
+
+272
+00:11:50,013 --> 00:11:52,413
+It is not unnecessarily one has to go from
+
+273
+00:11:52,413 --> 00:11:53,133
+one to the other
+
+274
+00:11:54,253 --> 00:11:56,413
+There might be a couple of places where
+
+275
+00:11:56,653 --> 00:11:58,333
+some might consider you know why we are
+
+276
+00:11:58,333 --> 00:12:00,413
+amplified We want to go to democratize
+
+277
+00:12:00,653 --> 00:12:01,213
+That's okay
+
+278
+00:12:02,093 --> 00:12:04,013
+Some might say we are democratized We want
+
+279
+00:12:04,093 --> 00:12:05,773
+to go to dual builder That's okay
+
+280
+00:12:06,573 --> 00:12:08,013
+But it's not a natural progression
+
+281
+00:12:10,710 --> 00:12:13,190
+Think about what do you think is the model
+
+282
+00:12:13,270 --> 00:12:13,670
+that suits you
+
+283
+00:12:14,630 --> 00:12:17,110
+and also think about what does your CEO
+
+284
+00:12:17,350 --> 00:12:19,910
+think the model that is needed for your
+
+285
+00:12:19,910 --> 00:12:22,550
+organization And how do you determine that
+
+286
+00:12:23,430 --> 00:12:24,790
+There are two factors to keep in mind
+
+287
+00:12:25,990 --> 00:12:28,550
+If the transformation that you expect to
+
+288
+00:12:28,550 --> 00:12:31,350
+do because of AI is fundamentally only in
+
+289
+00:12:31,350 --> 00:12:32,070
+technology
+
+290
+00:12:33,190 --> 00:12:34,470
+these two models are fine
+
+291
+00:12:35,554 --> 00:12:38,354
+But if the model has to address changes on
+
+292
+00:12:38,354 --> 00:12:39,474
+the business side as well
+
+293
+00:12:40,754 --> 00:12:43,714
+the other two modelsdemocratized and dual
+
+294
+00:12:43,794 --> 00:12:44,754
+buildercome to the fore
+
+295
+00:12:47,954 --> 00:12:50,114
+The other way to look at this also is
+
+296
+00:12:50,194 --> 00:12:52,754
+depends on how vital is technology to your
+
+297
+00:12:52,754 --> 00:12:53,314
+business
+
+298
+00:12:54,274 --> 00:12:55,874
+Everybody says technology is important
+
+299
+00:12:56,034 --> 00:12:56,674
+That's not the issue
+
+300
+00:12:58,192 --> 00:12:59,632
+But in some places
+
+301
+00:13:00,592 --> 00:13:02,432
+it's much much more important to be stable
+
+302
+00:13:03,072 --> 00:13:04,432
+not risk unnecessarily
+
+303
+00:13:05,552 --> 00:13:07,312
+Stability triumphs innovation in those
+
+304
+00:13:07,312 --> 00:13:10,592
+places We tend to see lean and amplified
+
+305
+00:13:10,592 --> 00:13:10,992
+IT
+
+306
+00:13:12,352 --> 00:13:14,272
+And in the middle this is where we expect
+
+307
+00:13:14,352 --> 00:13:15,472
+most of you to be
+
+308
+00:13:16,352 --> 00:13:19,552
+It is you are investing in technology to
+
+309
+00:13:19,552 --> 00:13:21,152
+make use of the opportunities
+
+310
+00:13:22,118 --> 00:13:24,438
+Which is common but then there is a subset
+
+311
+00:13:24,438 --> 00:13:26,198
+of you for whom technology is critical
+
+312
+00:13:26,678 --> 00:13:27,558
+What do I mean by that
+
+313
+00:13:28,438 --> 00:13:29,637
+In these companies
+
+314
+00:13:30,517 --> 00:13:32,998
+if a competitor or a new entrant
+
+315
+00:13:32,998 --> 00:13:36,118
+introduces a technologybased product and
+
+316
+00:13:36,118 --> 00:13:39,318
+that can impact you or your business
+
+317
+00:13:40,258 --> 00:13:42,018
+Then you fit in that category
+
+318
+00:13:43,538 --> 00:13:45,778
+Okay we expect most to be in the middle
+
+319
+00:13:46,098 --> 00:13:50,098
+but the idea is you identify what suits
+
+320
+00:13:50,258 --> 00:13:50,418
+you
+
+321
+00:13:51,850 --> 00:13:54,410
+As I mentioned earlier there is no
+
+322
+00:13:54,410 --> 00:13:57,130
+onesizefitsall and there is not really
+
+323
+00:13:57,130 --> 00:13:59,930
+only one good one Not everybody needs to
+
+324
+00:13:59,930 --> 00:14:00,730
+be dual builder
+
+325
+00:14:01,770 --> 00:14:03,690
+So think about your situation
+
+326
+00:14:05,130 --> 00:14:06,810
+And the most important thing is this
+
+327
+00:14:08,090 --> 00:14:09,930
+this is really important to pay attention
+
+328
+00:14:10,010 --> 00:14:10,410
+Is
+
+329
+00:14:11,370 --> 00:14:14,250
+all the work that we see now lot in the
+
+330
+00:14:14,250 --> 00:14:18,250
+IT departments is focused on how IT can do
+
+331
+00:14:18,410 --> 00:14:19,450
+better in the AI world
+
+332
+00:14:20,958 --> 00:14:24,238
+But we are dangerously underinvesting in
+
+333
+00:14:24,238 --> 00:14:27,118
+the planning that's required to take care
+
+334
+00:14:27,118 --> 00:14:29,198
+of the technology that is going to be
+
+335
+00:14:29,198 --> 00:14:31,998
+built outside technology outside the IT
+
+336
+00:14:31,998 --> 00:14:32,558
+department
+
+337
+00:14:35,272 --> 00:14:36,632
+So how do you go about this
+
+338
+00:14:37,512 --> 00:14:40,072
+Start with business have conversations
+
+339
+00:14:40,152 --> 00:14:43,272
+with them to determine whether the demand
+
+340
+00:14:43,272 --> 00:14:44,312
+is expected to be more
+
+341
+00:14:45,287 --> 00:14:46,967
+Work with your business partners to
+
+342
+00:14:46,967 --> 00:14:49,367
+determine what is the model that is
+
+343
+00:14:49,447 --> 00:14:49,927
+required
+
+344
+00:14:50,967 --> 00:14:53,767
+And what we are urging is while you are
+
+345
+00:14:53,847 --> 00:14:57,127
+investing in AI it is time to take a
+
+346
+00:14:57,287 --> 00:15:00,567
+deliberate step to determine what is the
+
+347
+00:15:00,567 --> 00:15:03,127
+future state model for you in IT
+
+348
+00:15:04,007 --> 00:15:06,967
+and set that as the North Star And that
+
+349
+00:15:07,047 --> 00:15:09,367
+will enable you to plan the rest of the IT
+
+350
+00:15:09,527 --> 00:15:12,487
+changes required for your organization to
+
+351
+00:15:12,567 --> 00:15:13,447
+thrive in AI age
+
+352
+00:15:16,137 --> 00:15:18,057
+So you've taken a look at this Now we
+
+353
+00:15:18,057 --> 00:15:18,697
+wanted to
+
+354
+00:15:19,497 --> 00:15:23,257
+get your view on this based on what I have
+
+355
+00:15:23,257 --> 00:15:23,737
+shared
+
+356
+00:15:24,697 --> 00:15:27,577
+these four archetypes Which of these
+
+357
+00:15:27,657 --> 00:15:30,617
+archetypes is closest to what you think
+
+358
+00:15:30,617 --> 00:15:32,537
+your organization will need in the future
+
+359
+00:15:33,417 --> 00:15:34,857
+Robert can we kick the poll on
+
+360
+00:15:37,672 --> 00:15:40,072
+Absolutely thank you so much Rajesh Our
+
+361
+00:15:40,072 --> 00:15:42,232
+poll is now open and we'd like to know
+
+362
+00:15:42,232 --> 00:15:43,592
+what you are thinking You should see the
+
+363
+00:15:43,672 --> 00:15:45,992
+poll now pop up right over the slides in
+
+364
+00:15:45,992 --> 00:15:47,112
+case you can't see the poll on your
+
+365
+00:15:47,112 --> 00:15:49,706
+screens Please refresh your browser window
+
+366
+00:15:49,706 --> 00:15:52,266
+once the poll is visible Simply select the
+
+367
+00:15:52,266 --> 00:15:54,586
+answer of your choice and click submit And
+
+368
+00:15:54,586 --> 00:15:56,106
+then once we close the poll you'll be able
+
+369
+00:15:56,106 --> 00:15:57,466
+to see the final results in the video
+
+370
+00:15:57,466 --> 00:15:59,306
+player And please continue to enter your
+
+371
+00:15:59,306 --> 00:16:02,586
+questions into the speaker box Rajesh
+
+372
+00:16:02,586 --> 00:16:04,826
+looks like we're getting a lot of votes
+
+373
+00:16:04,826 --> 00:16:06,986
+coming in now
+
+374
+00:16:07,842 --> 00:16:09,682
+Um I can read them out for you right now
+
+375
+00:16:09,682 --> 00:16:14,162
+It's um let me sorry three Let me about
+
+376
+00:16:14,162 --> 00:16:15,122
+forty three percent
+
+377
+00:16:16,172 --> 00:16:19,212
+Yeah So let me spend thirty seconds while
+
+378
+00:16:19,212 --> 00:16:21,452
+people are voting to read you know
+
+379
+00:16:22,492 --> 00:16:25,132
+explain the four archetypes again just to
+
+380
+00:16:25,132 --> 00:16:27,852
+refresh your mind as you vote Number one
+
+381
+00:16:27,932 --> 00:16:29,772
+is for situations when you expect the
+
+382
+00:16:29,852 --> 00:16:31,852
+demand to be more or less the same but you
+
+383
+00:16:31,852 --> 00:16:34,092
+want to get more done with less IT
+
+384
+00:16:34,092 --> 00:16:35,292
+resourceslean IT
+
+385
+00:16:36,168 --> 00:16:38,568
+Number two in amplified IT you expect some
+
+386
+00:16:38,568 --> 00:16:40,648
+more demand but there is no appetite to
+
+387
+00:16:40,728 --> 00:16:43,208
+increase IT's resources But you want to
+
+388
+00:16:43,768 --> 00:16:45,288
+deliver more and be more efficient
+
+389
+00:16:46,342 --> 00:16:49,542
+Number three is democratizing IT further
+
+390
+00:16:49,542 --> 00:16:52,582
+increase in demand but no increase in IT
+
+391
+00:16:52,582 --> 00:16:55,062
+resources but somewhat more capacity with
+
+392
+00:16:55,142 --> 00:16:58,502
+AI But business does some more work with
+
+393
+00:16:58,502 --> 00:16:59,302
+democratization
+
+394
+00:17:00,402 --> 00:17:02,882
+Number four is dual builder IT
+
+395
+00:17:03,762 --> 00:17:06,242
+Here is the highest level of demand and
+
+396
+00:17:06,242 --> 00:17:08,322
+the organization starts to work and think
+
+397
+00:17:08,322 --> 00:17:10,162
+like a tech company and building more
+
+398
+00:17:10,162 --> 00:17:12,082
+rather than buying There is capacity to
+
+399
+00:17:12,162 --> 00:17:13,282
+increase across the board
+
+400
+00:17:14,807 --> 00:17:17,367
+Hopefully all had a chance chance to vote
+
+401
+00:17:17,847 --> 00:17:20,007
+Robert is the vote stopping to trickle
+
+402
+00:17:20,007 --> 00:17:20,247
+down
+
+403
+00:17:21,773 --> 00:17:23,533
+Yeah it looks like it's it's kind of
+
+404
+00:17:24,253 --> 00:17:26,173
+slowing down right now I'll close it in
+
+405
+00:17:26,253 --> 00:17:27,773
+just a minute because you'll see some
+
+406
+00:17:27,853 --> 00:17:29,373
+votes still coming in But right now it is
+
+407
+00:17:29,373 --> 00:17:32,333
+looking like number three democratized IT
+
+408
+00:17:32,333 --> 00:17:34,093
+is in lead with about forty two percent
+
+409
+00:17:34,733 --> 00:17:37,933
+and second is number two Amplified IT with
+
+410
+00:17:38,013 --> 00:17:40,333
+thirty five percent The votes are now
+
+411
+00:17:40,413 --> 00:17:41,613
+really slowing down So I'm just going to
+
+412
+00:17:41,613 --> 00:17:43,933
+close the poll for everyone to see and
+
+413
+00:17:43,933 --> 00:17:45,613
+bring up those final results
+
+414
+00:17:46,658 --> 00:17:50,097
+And as you can see a three democratized IT
+
+415
+00:17:50,178 --> 00:17:52,178
+is at top with fortyone percent and then
+
+416
+00:17:52,258 --> 00:17:53,938
+amplified IT with thirtyfive
+
+417
+00:17:54,978 --> 00:17:57,857
+four dual builder is at ten percent and
+
+418
+00:17:57,857 --> 00:18:00,418
+then lean IT is at eight and then I don't
+
+419
+00:18:00,418 --> 00:18:02,738
+know is at bottom at six percent
+
+420
+00:18:04,028 --> 00:18:04,428
+Excellent
+
+421
+00:18:05,468 --> 00:18:07,548
+First thank you all for if you don't if
+
+422
+00:18:07,548 --> 00:18:08,988
+you don't mind showing the results for a
+
+423
+00:18:08,988 --> 00:18:12,794
+little bit So people can digest the
+
+424
+00:18:12,794 --> 00:18:15,754
+results So thank you all for participating
+
+425
+00:18:15,754 --> 00:18:18,474
+in the poll So there are certain things
+
+426
+00:18:18,474 --> 00:18:21,434
+that stand out One democratized IT being
+
+427
+00:18:21,754 --> 00:18:25,754
+number one with Amplified Not Too Far is
+
+428
+00:18:25,834 --> 00:18:28,074
+what we do see in our conversations as
+
+429
+00:18:28,074 --> 00:18:30,554
+well And so your output matches what we
+
+430
+00:18:30,554 --> 00:18:31,034
+are seeing
+
+431
+00:18:32,074 --> 00:18:35,674
+And then notice the democratization this
+
+432
+00:18:35,674 --> 00:18:37,754
+element of business building our own
+
+433
+00:18:37,754 --> 00:18:38,234
+technology
+
+434
+00:18:39,308 --> 00:18:42,028
+If that is the most prevalent one the
+
+435
+00:18:42,028 --> 00:18:45,148
+question becomes Are we spending enough
+
+436
+00:18:45,228 --> 00:18:47,388
+time and effort to really get ready for
+
+437
+00:18:47,468 --> 00:18:50,828
+that across enablement across governance
+
+438
+00:18:51,148 --> 00:18:53,228
+and the tools and all of that
+
+439
+00:18:54,418 --> 00:18:55,938
+And notice one more thing in the poll
+
+440
+00:18:56,818 --> 00:18:59,218
+It's only six percent said I don't know
+
+441
+00:19:00,658 --> 00:19:03,058
+So ninetyfour percent of you have some
+
+442
+00:19:03,138 --> 00:19:05,698
+idea about the future state Hopefully
+
+443
+00:19:05,698 --> 00:19:07,778
+that's aligned with your executives
+
+444
+00:19:09,082 --> 00:19:12,522
+So now the question is If you have a clear
+
+445
+00:19:12,522 --> 00:19:15,082
+idea of the future do you have a
+
+446
+00:19:15,082 --> 00:19:16,842
+deliberate plan to get there
+
+447
+00:19:17,802 --> 00:19:19,882
+and what are the things to put in place to
+
+448
+00:19:19,962 --> 00:19:22,922
+initiate that plan and progress over time
+
+449
+00:19:23,562 --> 00:19:24,842
+That's the thing to consider
+
+450
+00:19:26,522 --> 00:19:28,522
+So we can take the poll of Robert Thank
+
+451
+00:19:28,522 --> 00:19:30,362
+you all for participating again Now
+
+452
+00:19:32,362 --> 00:19:34,522
+let us look into the next area
+
+453
+00:19:35,479 --> 00:19:38,199
+Which is transforming the workforce itself
+
+454
+00:19:39,879 --> 00:19:42,199
+So we identify the North Star on the
+
+455
+00:19:42,199 --> 00:19:44,279
+workforce side There are few things to
+
+456
+00:19:44,279 --> 00:19:45,799
+keep in mind One
+
+457
+00:19:46,759 --> 00:19:48,999
+in the last year symposium we shared that
+
+458
+00:19:49,159 --> 00:19:51,079
+you know one fifth of the work is done
+
+459
+00:19:51,159 --> 00:19:53,639
+with some help of AI but you expect all
+
+460
+00:19:53,639 --> 00:19:56,039
+the IT work is going to use some AI in
+
+461
+00:19:56,039 --> 00:19:56,599
+the next few years
+
+462
+00:19:58,268 --> 00:20:01,308
+But how will that automation be What will
+
+463
+00:20:01,308 --> 00:20:02,428
+be the collaboration be
+
+464
+00:20:03,388 --> 00:20:05,548
+One of my colleagues Kabe and her team
+
+465
+00:20:05,788 --> 00:20:07,948
+worked really wonderful work in this area
+
+466
+00:20:08,428 --> 00:20:11,948
+to really identify how much human AI
+
+467
+00:20:11,948 --> 00:20:13,788
+collaboration is possible in different
+
+468
+00:20:13,788 --> 00:20:14,668
+areas of IT
+
+469
+00:20:15,675 --> 00:20:18,795
+And it's not simple just replacing They
+
+470
+00:20:18,795 --> 00:20:20,075
+use a fivepoint scale
+
+471
+00:20:21,195 --> 00:20:24,075
+At the lowest end of the scale is when you
+
+472
+00:20:24,075 --> 00:20:25,995
+are using AI on the site
+
+473
+00:20:27,042 --> 00:20:29,522
+If I'm a developer I am using an AI
+
+474
+00:20:29,522 --> 00:20:32,002
+chatbot on the site to generate snippets
+
+475
+00:20:32,002 --> 00:20:34,082
+of code I copy paste and use
+
+476
+00:20:35,682 --> 00:20:38,722
+But at the middle level is when I am using
+
+477
+00:20:38,722 --> 00:20:41,602
+AI for specific tasks The same developer
+
+478
+00:20:41,602 --> 00:20:44,402
+using AI to generate a set of test scripts
+
+479
+00:20:44,962 --> 00:20:47,202
+run test scripts generate documentation
+
+480
+00:20:47,942 --> 00:20:50,662
+That is middle level of automation and at
+
+481
+00:20:50,662 --> 00:20:53,542
+the highest level it is across the board
+
+482
+00:20:54,502 --> 00:20:58,342
+Now in the same instance in SDLC it is not
+
+483
+00:20:58,342 --> 00:21:00,102
+only in development but it's also in
+
+484
+00:21:00,102 --> 00:21:02,982
+design putting the code in testing and
+
+485
+00:21:02,982 --> 00:21:03,862
+testing etc
+
+486
+00:21:05,431 --> 00:21:07,751
+Now how much of this automation is
+
+487
+00:21:07,751 --> 00:21:08,231
+possible
+
+488
+00:21:09,031 --> 00:21:11,351
+and more importantly what is a speed
+
+489
+00:21:11,351 --> 00:21:12,471
+that's suitable for you
+
+490
+00:21:13,591 --> 00:21:14,951
+The speed for somebody in a
+
+491
+00:21:14,951 --> 00:21:17,031
+technologically advanced company is not
+
+492
+00:21:17,031 --> 00:21:18,871
+the same as somebody who is not
+
+493
+00:21:20,237 --> 00:21:23,677
+Be identified three levels of speed that
+
+494
+00:21:23,677 --> 00:21:24,877
+you can think about
+
+495
+00:21:25,757 --> 00:21:28,957
+One certain companies are very cautious
+
+496
+00:21:29,117 --> 00:21:31,837
+Caution is more paramount than innovation
+
+497
+00:21:32,877 --> 00:21:34,557
+Some companies are opportunistic
+
+498
+00:21:35,912 --> 00:21:39,352
+They take the opportunity when business is
+
+499
+00:21:39,352 --> 00:21:40,632
+investing in AI
+
+500
+00:21:41,432 --> 00:21:43,512
+to make any IT enhancements
+
+501
+00:21:44,552 --> 00:21:46,552
+And third are organizations that are AI
+
+502
+00:21:46,552 --> 00:21:49,432
+first they make deliberate and proactive
+
+503
+00:21:49,432 --> 00:21:50,472
+investments in IT
+
+504
+00:21:51,832 --> 00:21:54,072
+without aligning to business to get ready
+
+505
+00:21:54,072 --> 00:21:56,472
+for the AI age So think about what is
+
+506
+00:21:56,472 --> 00:21:57,272
+suitable for you
+
+507
+00:21:58,312 --> 00:22:01,112
+And when you think that what we see is
+
+508
+00:22:01,752 --> 00:22:04,472
+across the different areas within IT that
+
+509
+00:22:04,472 --> 00:22:05,112
+you see here
+
+510
+00:22:06,270 --> 00:22:08,110
+The level of automation that's possible
+
+511
+00:22:08,110 --> 00:22:09,070
+for you varies
+
+512
+00:22:10,110 --> 00:22:13,150
+If you are an AIfirst company the level of
+
+513
+00:22:13,230 --> 00:22:15,470
+automation that's possible for you can be
+
+514
+00:22:15,470 --> 00:22:17,390
+quite high in an area like software
+
+515
+00:22:17,390 --> 00:22:19,550
+development or an enterprise applications
+
+516
+00:22:19,870 --> 00:22:20,990
+but not an IT core
+
+517
+00:22:22,510 --> 00:22:24,750
+But notice the level of automation that's
+
+518
+00:22:24,830 --> 00:22:27,950
+possible in software engineering by 2030
+
+519
+00:22:29,489 --> 00:22:31,329
+Four point eight out of five
+
+520
+00:22:33,569 --> 00:22:36,209
+But it's not just automation There is a
+
+521
+00:22:36,209 --> 00:22:37,889
+level of reskilling that's required
+
+522
+00:22:38,849 --> 00:22:41,169
+In some areas it's significant software
+
+523
+00:22:41,169 --> 00:22:42,129
+engineering and data
+
+524
+00:22:44,228 --> 00:22:46,068
+And what we see is in some areas the
+
+525
+00:22:46,068 --> 00:22:47,348
+headcount actually trending
+
+526
+00:22:48,228 --> 00:22:50,388
+We get these questions But Rajesh won't AI
+
+527
+00:22:50,868 --> 00:22:54,148
+impact headcount in these areas But what
+
+528
+00:22:54,148 --> 00:22:56,068
+we see is in software engineering and
+
+529
+00:22:56,068 --> 00:22:58,548
+cybersecurity As of now based on the
+
+530
+00:22:58,548 --> 00:22:59,828
+technologies we see coming
+
+531
+00:23:01,089 --> 00:23:03,569
+The efficiencies that you gain while it
+
+532
+00:23:03,809 --> 00:23:07,409
+reduces the demand it also creates more
+
+533
+00:23:07,489 --> 00:23:10,049
+additional work that can be satisfied so
+
+534
+00:23:10,049 --> 00:23:10,849
+there is more demand
+
+535
+00:23:11,729 --> 00:23:12,529
+And as of now
+
+536
+00:23:13,649 --> 00:23:15,729
+CIOs across the board are experiencing
+
+537
+00:23:15,729 --> 00:23:16,369
+increased demand
+
+538
+00:23:18,618 --> 00:23:20,858
+But if you take a cautious approach
+
+539
+00:23:21,738 --> 00:23:25,178
+not AI first what appears in orange is
+
+540
+00:23:25,178 --> 00:23:27,658
+possible for you The level of automation
+
+541
+00:23:27,658 --> 00:23:30,458
+may not be as much as AI first but it's
+
+542
+00:23:30,458 --> 00:23:31,338
+still quite a bit
+
+543
+00:23:32,378 --> 00:23:35,898
+But notice one area one line cybersecurity
+
+544
+00:23:36,858 --> 00:23:39,898
+Even if you take a cautious approach you
+
+545
+00:23:39,898 --> 00:23:42,058
+will need to make a level of investment to
+
+546
+00:23:42,058 --> 00:23:42,618
+automate
+
+547
+00:23:43,534 --> 00:23:46,174
+Because you are not fully in control of
+
+548
+00:23:46,174 --> 00:23:46,734
+your destiny
+
+549
+00:23:47,694 --> 00:23:50,734
+it depends on bad actors trying to you
+
+550
+00:23:50,734 --> 00:23:53,134
+know do bad things to you So you need a
+
+551
+00:23:53,134 --> 00:23:54,814
+level of investment for automation
+
+552
+00:23:55,712 --> 00:23:57,072
+Otherwise it's hard to keep up
+
+553
+00:23:59,232 --> 00:24:01,472
+I know this is a busy slide My apologies
+
+554
+00:24:01,952 --> 00:24:04,912
+There is much more detail behind it We
+
+555
+00:24:04,912 --> 00:24:06,672
+understand that the transformation that
+
+556
+00:24:06,832 --> 00:24:09,312
+needs to occur at each of these levels is
+
+557
+00:24:09,392 --> 00:24:09,872
+immense
+
+558
+00:24:10,912 --> 00:24:13,072
+and so this covers that
+
+559
+00:24:15,143 --> 00:24:18,503
+So I just mentioned it In some areas there
+
+560
+00:24:18,583 --> 00:24:21,463
+is efficiency but there is also increased
+
+561
+00:24:21,463 --> 00:24:23,303
+demand Software engineering and
+
+562
+00:24:23,303 --> 00:24:24,503
+cybersecurity stand out
+
+563
+00:24:26,065 --> 00:24:27,825
+That is on the skills and the people side
+
+564
+00:24:29,185 --> 00:24:30,065
+But how do they work
+
+565
+00:24:31,345 --> 00:24:32,865
+This is an important element that's
+
+566
+00:24:32,865 --> 00:24:33,745
+emerging now
+
+567
+00:24:34,726 --> 00:24:35,366
+Tiny teams
+
+568
+00:24:37,206 --> 00:24:40,726
+And in the age before AI say whether it is
+
+569
+00:24:40,726 --> 00:24:45,206
+in ERP or mobile we used to have this
+
+570
+00:24:45,206 --> 00:24:47,126
+concept of big program teams
+
+571
+00:24:48,246 --> 00:24:50,486
+We knew what we wanted to achieve We knew
+
+572
+00:24:50,486 --> 00:24:53,366
+an instinct for the technology build a
+
+573
+00:24:53,366 --> 00:24:56,246
+large program achieve it ERP core banking
+
+574
+00:24:56,246 --> 00:24:58,406
+supply chain internetall of them were like
+
+575
+00:24:58,406 --> 00:24:58,566
+that
+
+576
+00:24:59,446 --> 00:25:01,206
+But AI is not like that
+
+577
+00:25:02,140 --> 00:25:04,220
+There is no clear instate in AI
+
+578
+00:25:05,260 --> 00:25:06,860
+Right Do we all know the instate in AI for
+
+579
+00:25:06,860 --> 00:25:09,420
+your organization For most of the people I
+
+580
+00:25:09,420 --> 00:25:10,220
+speak with they don't
+
+581
+00:25:11,790 --> 00:25:14,510
+But we all know which way to go Though
+
+582
+00:25:15,310 --> 00:25:17,950
+it's like kind of running in a race versus
+
+583
+00:25:18,030 --> 00:25:19,950
+running in one direction In either case
+
+584
+00:25:19,950 --> 00:25:21,470
+you need to train Either case you need
+
+585
+00:25:21,470 --> 00:25:23,550
+shoes Though in race you know the
+
+586
+00:25:23,550 --> 00:25:26,590
+destination but in some cases you don't
+
+587
+00:25:26,590 --> 00:25:27,710
+You still need these other things
+
+588
+00:25:28,590 --> 00:25:29,310
+So now
+
+589
+00:25:30,232 --> 00:25:33,272
+What organizations are doing is they are
+
+590
+00:25:33,352 --> 00:25:37,112
+building these small tiny teams in part of
+
+591
+00:25:37,112 --> 00:25:39,112
+AI without necessarily having a large
+
+592
+00:25:39,112 --> 00:25:41,192
+program team Let me give an example
+
+593
+00:25:42,571 --> 00:25:45,051
+A payroll company that I speak with
+
+594
+00:25:46,411 --> 00:25:49,291
+They get all these requests from their
+
+595
+00:25:49,371 --> 00:25:51,531
+customers On Wednesday they may get a
+
+596
+00:25:51,531 --> 00:25:54,171
+request for a payroll to be done over the
+
+597
+00:25:54,171 --> 00:25:54,651
+weekend
+
+598
+00:25:55,451 --> 00:25:58,171
+saying Hey Lucy did not work thirty hours
+
+599
+00:25:58,171 --> 00:26:00,091
+She worked fortytwo hours Can you make a
+
+600
+00:26:00,091 --> 00:26:01,771
+change This might come by email
+
+601
+00:26:02,811 --> 00:26:05,211
+And these emails are in different shapes
+
+602
+00:26:05,211 --> 00:26:05,851
+and forms
+
+603
+00:26:06,731 --> 00:26:09,051
+They used to have a human handling all
+
+604
+00:26:09,051 --> 00:26:09,451
+this
+
+605
+00:26:10,406 --> 00:26:12,166
+What they did was they built an AIbased
+
+606
+00:26:12,166 --> 00:26:12,486
+agent
+
+607
+00:26:13,366 --> 00:26:15,846
+The agent will process the email identify
+
+608
+00:26:15,846 --> 00:26:18,086
+what needs to be done extract the data
+
+609
+00:26:18,646 --> 00:26:20,486
+check internal systems validate it
+
+610
+00:26:21,686 --> 00:26:23,526
+check with the human whether that's the
+
+611
+00:26:23,526 --> 00:26:25,526
+right action and then make the change
+
+612
+00:26:26,246 --> 00:26:26,566
+Great
+
+613
+00:26:27,766 --> 00:26:29,446
+The customers are very happy because this
+
+614
+00:26:29,446 --> 00:26:31,366
+is faster and more efficient
+
+615
+00:26:32,317 --> 00:26:33,917
+The company is happy because it's cheaper
+
+616
+00:26:35,517 --> 00:26:39,277
+Now what did this company do is after that
+
+617
+00:26:39,517 --> 00:26:41,997
+they identified that this use case is not
+
+618
+00:26:41,997 --> 00:26:42,957
+repeatable everywhere
+
+619
+00:26:44,006 --> 00:26:45,286
+But the under there is an underlying
+
+620
+00:26:45,286 --> 00:26:45,766
+pattern
+
+621
+00:26:46,646 --> 00:26:49,046
+The pattern is about processing an email
+
+622
+00:26:49,126 --> 00:26:51,366
+extracting the data validating it checking
+
+623
+00:26:51,366 --> 00:26:52,166
+with the human
+
+624
+00:26:53,126 --> 00:26:54,406
+and then making the transaction
+
+625
+00:26:55,366 --> 00:26:57,926
+That's the same in customer service sales
+
+626
+00:26:57,926 --> 00:27:01,206
+enablement and other areas in the company
+
+627
+00:27:02,006 --> 00:27:04,486
+So they took that pattern and made it as a
+
+628
+00:27:04,486 --> 00:27:05,126
+platform
+
+629
+00:27:06,451 --> 00:27:08,931
+Supported by a very small team in
+
+630
+00:27:08,931 --> 00:27:09,491
+technology
+
+631
+00:27:10,771 --> 00:27:11,891
+that will work with
+
+632
+00:27:12,771 --> 00:27:14,531
+one or two people in business in different
+
+633
+00:27:14,531 --> 00:27:17,091
+areas and here is the kicker and will
+
+634
+00:27:17,171 --> 00:27:20,531
+proactively identify opportunities to make
+
+635
+00:27:20,531 --> 00:27:21,091
+that change
+
+636
+00:27:22,211 --> 00:27:24,451
+This is how we see AIbased transformation
+
+637
+00:27:24,451 --> 00:27:24,771
+today
+
+638
+00:27:25,971 --> 00:27:28,851
+find a new way to use AI where it used
+
+639
+00:27:28,851 --> 00:27:29,891
+to be done differently
+
+640
+00:27:30,940 --> 00:27:33,180
+Uncover the underlying pattern create a
+
+641
+00:27:33,180 --> 00:27:35,980
+platform and then go methodically apply it
+
+642
+00:27:35,980 --> 00:27:39,100
+everywhere Instead of one large team
+
+643
+00:27:40,060 --> 00:27:42,460
+that's what people are doing So the key is
+
+644
+00:27:43,020 --> 00:27:45,260
+to ensure there is an underlying platform
+
+645
+00:27:46,140 --> 00:27:47,820
+and supported by a tiny team
+
+646
+00:27:48,766 --> 00:27:51,486
+Might be one or two developers one or two
+
+647
+00:27:51,566 --> 00:27:52,286
+business people
+
+648
+00:27:53,246 --> 00:27:54,446
+but this is vital
+
+649
+00:27:55,486 --> 00:27:57,166
+That developer just doesn't say I will do
+
+650
+00:27:57,166 --> 00:27:59,806
+only developer They stretch themselves
+
+651
+00:27:59,885 --> 00:28:01,885
+They might do database work They might do
+
+652
+00:28:01,885 --> 00:28:02,526
+testing work
+
+653
+00:28:03,368 --> 00:28:05,608
+The business person might be one designing
+
+654
+00:28:05,608 --> 00:28:08,088
+the UI might be one using user acceptance
+
+655
+00:28:08,088 --> 00:28:08,408
+testing
+
+656
+00:28:10,168 --> 00:28:12,808
+So tiny teams are this emerging concept
+
+657
+00:28:13,945 --> 00:28:16,425
+This is not easy for most organizations to
+
+658
+00:28:16,425 --> 00:28:18,665
+absorb Many of you have been working to
+
+659
+00:28:18,665 --> 00:28:21,385
+simplify your teams Some of you rolled out
+
+660
+00:28:21,465 --> 00:28:23,065
+product teams That's great
+
+661
+00:28:23,945 --> 00:28:25,865
+But agents are not about products they are
+
+662
+00:28:25,865 --> 00:28:28,745
+about process So this is being needs to be
+
+663
+00:28:28,745 --> 00:28:29,145
+addressed
+
+664
+00:28:30,505 --> 00:28:32,825
+Let's play this movie out What happens if
+
+665
+00:28:33,305 --> 00:28:35,065
+tiny teams take hold more and more
+
+666
+00:28:35,865 --> 00:28:39,225
+Tiny teams operate mostly at the you know
+
+667
+00:28:39,225 --> 00:28:41,225
+the lower levels of the organization where
+
+668
+00:28:41,305 --> 00:28:42,425
+work actually gets done
+
+669
+00:28:44,231 --> 00:28:47,191
+And tiny teams have one or two people with
+
+670
+00:28:47,271 --> 00:28:49,831
+the help of AI to get stuff done right So
+
+671
+00:28:49,831 --> 00:28:52,631
+over time then you end up with a structure
+
+672
+00:28:52,631 --> 00:28:54,551
+like diamonds instead of pyramids
+
+673
+00:28:55,751 --> 00:28:58,071
+And then at the bottom the tiny teams use
+
+674
+00:28:58,151 --> 00:29:00,391
+AI to get work done whether in your
+
+675
+00:29:00,391 --> 00:29:03,111
+organization or in your service provider
+
+676
+00:29:05,123 --> 00:29:07,603
+A key question that comes to leaders is
+
+677
+00:29:08,243 --> 00:29:10,483
+Are we ready to make the change And second
+
+678
+00:29:11,283 --> 00:29:13,523
+when we think about this change if the
+
+679
+00:29:13,523 --> 00:29:15,283
+bottom level becomes narrow
+
+680
+00:29:16,089 --> 00:29:17,769
+How do we ensure we are grooming
+
+681
+00:29:17,849 --> 00:29:19,449
+tomorrow's leaders That's something to
+
+682
+00:29:19,609 --> 00:29:20,009
+think about
+
+683
+00:29:22,649 --> 00:29:25,209
+So the key takeaway in this is the this
+
+684
+00:29:25,209 --> 00:29:25,929
+area is this
+
+685
+00:29:27,007 --> 00:29:28,767
+We looked at the skill changes and that
+
+686
+00:29:28,767 --> 00:29:31,247
+needs to be addressed at a function you
+
+687
+00:29:31,727 --> 00:29:33,407
+know at a job level
+
+688
+00:29:34,367 --> 00:29:36,367
+Second it's not only about the skills it's
+
+689
+00:29:36,367 --> 00:29:39,327
+also about the tiny teams and thinking
+
+690
+00:29:39,327 --> 00:29:41,247
+what suits your organization
+
+691
+00:29:43,407 --> 00:29:45,247
+So we looked at that There is much more
+
+692
+00:29:45,247 --> 00:29:47,647
+detail on that area We have heat maps and
+
+693
+00:29:47,727 --> 00:29:49,887
+and whatnot to help you go through the
+
+694
+00:29:49,887 --> 00:29:50,207
+planning
+
+695
+00:29:51,327 --> 00:29:52,927
+Now the last one is on the technology
+
+696
+00:29:52,927 --> 00:29:53,647
+stack itself
+
+697
+00:29:56,832 --> 00:30:00,352
+Before I do this so let me ask a question
+
+698
+00:30:00,672 --> 00:30:02,912
+on democratization We spoke about
+
+699
+00:30:02,912 --> 00:30:05,632
+democratization business building software
+
+700
+00:30:05,952 --> 00:30:08,272
+So we wanted to run one more poll by you
+
+701
+00:30:09,392 --> 00:30:11,792
+Um Robert can you kick the poll Yeah
+
+702
+00:30:13,072 --> 00:30:14,752
+So we welcome your participation in this
+
+703
+00:30:14,752 --> 00:30:15,072
+poll
+
+704
+00:30:16,341 --> 00:30:18,261
+Democratization is the concept that I
+
+705
+00:30:18,261 --> 00:30:20,741
+mentioned is when business starts to build
+
+706
+00:30:20,741 --> 00:30:23,861
+more technology using web coding no code
+
+707
+00:30:23,861 --> 00:30:26,101
+agent builders and whatnot You have a
+
+708
+00:30:26,101 --> 00:30:28,581
+cloud cowork or something else In some
+
+709
+00:30:28,581 --> 00:30:30,741
+organizations you are actively promoting
+
+710
+00:30:30,741 --> 00:30:33,141
+this as a key strategy You might even have
+
+711
+00:30:33,141 --> 00:30:35,381
+platforms and guardrails in place Might
+
+712
+00:30:35,381 --> 00:30:36,661
+not be perfect but you have a clear
+
+713
+00:30:36,661 --> 00:30:37,141
+strategy
+
+714
+00:30:38,188 --> 00:30:39,788
+In some organizations you are
+
+715
+00:30:39,788 --> 00:30:42,588
+experimenting in some areas Either it
+
+716
+00:30:42,588 --> 00:30:45,308
+could be say within IT it could be in some
+
+717
+00:30:45,308 --> 00:30:47,308
+areas of business You might have just some
+
+718
+00:30:47,308 --> 00:30:49,628
+tools so you are encouraging it actively
+
+719
+00:30:50,028 --> 00:30:54,028
+but in some parts In some organizations
+
+720
+00:30:54,028 --> 00:30:56,348
+you are allowing it but with a clear
+
+721
+00:30:56,428 --> 00:30:58,668
+enterprise approach For instance
+
+722
+00:30:59,590 --> 00:31:01,670
+When Microsoft rolls out Microsoft Copilot
+
+723
+00:31:01,910 --> 00:31:04,470
+your people have ability to build agents
+
+724
+00:31:04,870 --> 00:31:06,230
+So you might have allowed it without a
+
+725
+00:31:06,230 --> 00:31:08,230
+clear strategy That's an example
+
+726
+00:31:09,368 --> 00:31:11,448
+Some organizations you're actively
+
+727
+00:31:12,088 --> 00:31:13,928
+limiting it not that you want to limit it
+
+728
+00:31:13,928 --> 00:31:15,448
+forever but right now you're being
+
+729
+00:31:15,448 --> 00:31:18,968
+cautious In some organizations you've been
+
+730
+00:31:18,968 --> 00:31:20,968
+worried about things like shadow IT and
+
+731
+00:31:20,968 --> 00:31:22,888
+the risk is so much or you might have been
+
+732
+00:31:22,888 --> 00:31:25,208
+burnt before with shadow IT so you're
+
+733
+00:31:25,288 --> 00:31:26,488
+actively discouraging it
+
+734
+00:31:28,248 --> 00:31:31,288
+Where do you fall in this Let's take our
+
+735
+00:31:31,288 --> 00:31:32,808
+30 seconds to answer that
+
+736
+00:31:36,058 --> 00:31:38,938
+Robert tell me when you have the numbers
+
+737
+00:31:38,938 --> 00:31:39,578
+are trickling down
+
+738
+00:31:41,943 --> 00:31:44,343
+Absolutely will do Again the poll should
+
+739
+00:31:44,343 --> 00:31:46,023
+have popped up on your screen So please
+
+740
+00:31:46,023 --> 00:31:48,343
+select your answer and then in
+
+741
+00:31:49,383 --> 00:31:50,583
+case you don't see it please refresh your
+
+742
+00:31:50,583 --> 00:31:52,823
+screen and that will be able to show up
+
+743
+00:31:53,303 --> 00:31:54,903
+And then click submit again when you have
+
+744
+00:31:54,903 --> 00:31:56,663
+your answer We'll close the poll in just a
+
+745
+00:31:56,663 --> 00:31:58,983
+moment for everyone to see the results
+
+746
+00:32:00,103 --> 00:32:02,663
+All right looks like still going pretty
+
+747
+00:32:02,663 --> 00:32:04,903
+strong there So and please continue to
+
+748
+00:32:04,903 --> 00:32:06,503
+keep your questions coming in for the
+
+749
+00:32:06,583 --> 00:32:08,023
+audience So I think we can
+
+750
+00:32:09,195 --> 00:32:12,315
+Close it out right about right about now
+
+751
+00:32:12,315 --> 00:32:13,915
+just for everyone to kind of take a look
+
+752
+00:32:14,075 --> 00:32:14,875
+and see
+
+753
+00:32:16,075 --> 00:32:18,475
+So here we go and we'll present the
+
+754
+00:32:18,475 --> 00:32:19,515
+results
+
+755
+00:32:20,861 --> 00:32:24,221
+And here you are So what we're seeing is
+
+756
+00:32:24,221 --> 00:32:27,021
+right now it's number two We are
+
+757
+00:32:27,021 --> 00:32:29,661
+encouraging encouraging it selectively in
+
+758
+00:32:29,741 --> 00:32:32,301
+specific areas thirty three percent and
+
+759
+00:32:32,301 --> 00:32:34,221
+then we're allowing it but without a clear
+
+760
+00:32:34,301 --> 00:32:36,141
+enterprise approach twenty four percent
+
+761
+00:32:36,141 --> 00:32:39,138
+That's tied With we are cautious and
+
+762
+00:32:39,138 --> 00:32:40,978
+limiting it due to risk and governance
+
+763
+00:32:40,978 --> 00:32:43,458
+concerns also twenty four percent and then
+
+764
+00:32:43,458 --> 00:32:45,378
+we are actively promoting it it's a key
+
+765
+00:32:45,378 --> 00:32:47,058
+strategy with platforms and guardrails in
+
+766
+00:32:47,058 --> 00:32:49,458
+place that sixteen percent and then the
+
+767
+00:32:49,458 --> 00:32:51,778
+last three percent is we are actively
+
+768
+00:32:52,578 --> 00:32:54,658
+discouraging it I'll hand it back over to
+
+769
+00:32:54,658 --> 00:32:54,898
+you
+
+770
+00:32:55,767 --> 00:32:57,847
+Yeah this is quite interesting As
+
+771
+00:32:58,727 --> 00:33:01,927
+you can see democratization is taking hold
+
+772
+00:33:02,407 --> 00:33:04,727
+Only three in three percent say they are
+
+773
+00:33:04,727 --> 00:33:07,207
+actively discouraging it This was not the
+
+774
+00:33:07,207 --> 00:33:10,087
+case with Shadow IT a few years ago I'm
+
+775
+00:33:10,087 --> 00:33:12,327
+sure we can all agree that if we had done
+
+776
+00:33:12,327 --> 00:33:15,607
+this poll five years ago the three percent
+
+777
+00:33:15,607 --> 00:33:16,647
+would have been much higher
+
+778
+00:33:17,687 --> 00:33:20,087
+So AI is definitely a change in mindset
+
+779
+00:33:20,087 --> 00:33:22,007
+about people wanting to use technology
+
+780
+00:33:22,884 --> 00:33:25,444
+And as you can see the you know the pretty
+
+781
+00:33:25,444 --> 00:33:27,764
+much every other option is about having
+
+782
+00:33:27,844 --> 00:33:29,604
+democratization in some fashion
+
+783
+00:33:30,484 --> 00:33:33,524
+and this supports this aspect of what you
+
+784
+00:33:33,524 --> 00:33:35,124
+all told us in the first call
+
+785
+00:33:35,982 --> 00:33:38,062
+With with support for like an amplified
+
+786
+00:33:38,062 --> 00:33:40,382
+and democratization so this is something
+
+787
+00:33:40,382 --> 00:33:43,822
+to really keep in mind Thank you all for
+
+788
+00:33:44,382 --> 00:33:47,342
+answering there and I notice that like you
+
+789
+00:33:47,342 --> 00:33:49,102
+know we haven't addressed any questions so
+
+790
+00:33:49,102 --> 00:33:51,182
+far since we are nearly at the halfway
+
+791
+00:33:51,182 --> 00:33:53,902
+mark Robert maybe I can address a few
+
+792
+00:33:53,902 --> 00:33:55,822
+questions before I spend time on the
+
+793
+00:33:55,822 --> 00:33:56,702
+technology section
+
+794
+00:33:58,254 --> 00:34:01,854
+Absolutely So question came in Sorry yeah
+
+795
+00:34:02,254 --> 00:34:04,574
+question came in about controlling risk A
+
+796
+00:34:04,574 --> 00:34:05,934
+question is like older days
+
+797
+00:34:06,974 --> 00:34:08,654
+Microsoft Access produced shadow IT
+
+798
+00:34:08,654 --> 00:34:11,774
+solutions How do you embrace AI but
+
+799
+00:34:11,774 --> 00:34:14,974
+control AI code creating further shadow IT
+
+800
+00:34:15,054 --> 00:34:16,014
+applications
+
+801
+00:34:17,046 --> 00:34:17,206
+Yeah
+
+802
+00:34:18,086 --> 00:34:18,726
+this is um
+
+803
+00:34:19,766 --> 00:34:22,966
+this this not an first There is not an
+
+804
+00:34:23,046 --> 00:34:27,046
+easy answer What we find is in this age
+
+805
+00:34:27,446 --> 00:34:31,286
+saying no it's not as much possible
+
+806
+00:34:31,846 --> 00:34:34,406
+because democratization is taking hold and
+
+807
+00:34:34,406 --> 00:34:36,006
+there is a new generation of technologies
+
+808
+00:34:36,006 --> 00:34:37,606
+and new generation There is more adapted
+
+809
+00:34:37,606 --> 00:34:40,246
+technology The question becomes How do you
+
+810
+00:34:40,246 --> 00:34:43,446
+balance governance and enablement at the
+
+811
+00:34:43,446 --> 00:34:44,086
+same time
+
+812
+00:34:44,921 --> 00:34:47,721
+One what we find is IT has got a
+
+813
+00:34:47,721 --> 00:34:51,001
+significant role compared to their role
+
+814
+00:34:51,161 --> 00:34:52,521
+during the age of shadow IT
+
+815
+00:34:54,003 --> 00:34:57,363
+AI most organizations or most people do
+
+816
+00:34:57,363 --> 00:34:59,603
+not fully have an exact understanding of
+
+817
+00:34:59,683 --> 00:35:01,683
+it It's not one technology and it's hard
+
+818
+00:35:01,683 --> 00:35:04,323
+to put a finger And this problem is worse
+
+819
+00:35:04,323 --> 00:35:06,963
+outside IT So first the part of the answer
+
+820
+00:35:06,963 --> 00:35:10,243
+is How do you control the risk First we
+
+821
+00:35:10,323 --> 00:35:11,843
+believe that IT needs to have an
+
+822
+00:35:11,923 --> 00:35:14,563
+enablement function to help business
+
+823
+00:35:15,283 --> 00:35:17,923
+achieve democratization How do you do that
+
+824
+00:35:18,483 --> 00:35:21,078
+Putting some clear controls Some
+
+825
+00:35:21,078 --> 00:35:23,878
+organizations have identified and curated
+
+826
+00:35:23,958 --> 00:35:26,278
+tools for specific people in business
+
+827
+00:35:27,878 --> 00:35:30,758
+and as they show proficiency can do more
+
+828
+00:35:31,750 --> 00:35:33,430
+Some organizations have created like you
+
+829
+00:35:33,430 --> 00:35:34,390
+know those type of no
+
+830
+00:35:35,190 --> 00:35:36,070
+code or like you know
+
+831
+00:35:37,350 --> 00:35:38,790
+agent sandboxes
+
+832
+00:35:40,390 --> 00:35:42,710
+where people can build In some places
+
+833
+00:35:42,790 --> 00:35:44,470
+where they start thinking about which
+
+834
+00:35:44,470 --> 00:35:46,070
+business capability that you want to
+
+835
+00:35:46,150 --> 00:35:49,484
+promote democratization more So the key
+
+836
+00:35:49,484 --> 00:35:51,084
+answer to you is How do you balance the
+
+837
+00:35:51,164 --> 00:35:55,244
+risk You identify where you can allow and
+
+838
+00:35:55,244 --> 00:35:56,524
+where you're going to benefit from
+
+839
+00:35:56,524 --> 00:35:59,724
+democratization while you can control risk
+
+840
+00:35:59,724 --> 00:36:02,044
+in doing it that way rather than only
+
+841
+00:36:02,044 --> 00:36:04,284
+looking at it as a tool enablement issue
+
+842
+00:36:04,844 --> 00:36:05,404
+That's what we see
+
+843
+00:36:07,637 --> 00:36:09,077
+Excellent Another question that came in
+
+844
+00:36:09,077 --> 00:36:10,677
+was actually similar to that What
+
+845
+00:36:11,637 --> 00:36:13,477
+advice would you have for the CIO whose
+
+846
+00:36:13,477 --> 00:36:15,077
+teams in the last three years
+
+847
+00:36:15,077 --> 00:36:17,797
+unfortunately earned the department of no
+
+848
+00:36:17,877 --> 00:36:20,117
+perception of the business You know what's
+
+849
+00:36:20,117 --> 00:36:22,277
+the most critical rotation in your view
+
+850
+00:36:23,295 --> 00:36:25,535
+Getting in in your view getting in front
+
+851
+00:36:25,535 --> 00:36:27,935
+of the AI challenge Did you sort of cover
+
+852
+00:36:27,935 --> 00:36:29,935
+that in that last answer Would you want to
+
+853
+00:36:29,935 --> 00:36:31,935
+expand specifically on this I can
+
+854
+00:36:32,015 --> 00:36:33,855
+specifically expand on this So this is
+
+855
+00:36:33,935 --> 00:36:34,815
+important I think
+
+856
+00:36:35,615 --> 00:36:39,535
+one it is vital to signal the changed
+
+857
+00:36:39,615 --> 00:36:41,887
+behavior Clearly the nature of the
+
+858
+00:36:41,887 --> 00:36:43,807
+question itself shows that there is an
+
+859
+00:36:43,807 --> 00:36:46,927
+intent to change I would follow that up
+
+860
+00:36:47,007 --> 00:36:50,207
+with specific signals For example maybe
+
+861
+00:36:50,207 --> 00:36:53,807
+you might want to consider providing a No
+
+862
+00:36:53,967 --> 00:36:56,447
+Code Agent Builder farm to a subset of
+
+863
+00:36:56,447 --> 00:36:58,847
+business people Maybe you simplify some
+
+864
+00:36:58,847 --> 00:37:02,020
+process One AI leader told me to build
+
+865
+00:37:02,020 --> 00:37:04,340
+that to create that behavior What he did
+
+866
+00:37:04,340 --> 00:37:07,380
+was he worked really hard to simplify the
+
+867
+00:37:07,380 --> 00:37:08,660
+vendor management process in their
+
+868
+00:37:08,660 --> 00:37:10,980
+organization He said it used to take eight
+
+869
+00:37:10,980 --> 00:37:12,660
+months Eight months
+
+870
+00:37:13,620 --> 00:37:16,792
+in the AI world Want to say for example
+
+871
+00:37:16,792 --> 00:37:18,472
+one of the most popular technologies is AI
+
+872
+00:37:18,472 --> 00:37:21,432
+agents He didn't even know about AI agents
+
+873
+00:37:21,912 --> 00:37:24,632
+this type of AI agents 15 months ago so
+
+874
+00:37:24,632 --> 00:37:27,352
+eight months is unacceptable He worked
+
+875
+00:37:27,352 --> 00:37:29,832
+hard to change from a assessment based
+
+876
+00:37:29,832 --> 00:37:31,352
+system to a rating based system
+
+877
+00:37:32,312 --> 00:37:35,112
+That showed business that you know the
+
+878
+00:37:35,192 --> 00:37:37,512
+people from IT really want to work with us
+
+879
+00:37:37,832 --> 00:37:39,752
+So you'd want to signal things like that
+
+880
+00:37:39,752 --> 00:37:41,832
+and then build more and more structure
+
+881
+00:37:41,912 --> 00:37:42,792
+into democratization
+
+882
+00:37:45,330 --> 00:37:45,970
+Hope that helps
+
+883
+00:37:48,450 --> 00:37:49,250
+Any other questions
+
+884
+00:37:50,690 --> 00:37:52,050
+That's big Do you have time for one more
+
+885
+00:37:52,050 --> 00:37:53,570
+or should we go Yeah we have a couple more
+
+886
+00:37:53,570 --> 00:37:55,250
+if we have time or we can Yeah we can
+
+887
+00:37:55,250 --> 00:37:57,170
+go forward Yeah this one may be too a
+
+888
+00:37:57,250 --> 00:38:00,610
+little bit broad But are there any Are
+
+889
+00:38:00,610 --> 00:38:02,290
+there differences by industry in what
+
+890
+00:38:02,290 --> 00:38:04,370
+you're seeing For which archetypes are
+
+891
+00:38:04,370 --> 00:38:05,250
+more prevalent
+
+892
+00:38:06,877 --> 00:38:08,557
+Yes the industry
+
+893
+00:38:09,357 --> 00:38:11,117
+so normally typically tends to be a very
+
+894
+00:38:11,277 --> 00:38:15,437
+very broad term There are some signals One
+
+895
+00:38:15,997 --> 00:38:19,117
+in organizations where there is higher
+
+896
+00:38:19,117 --> 00:38:20,157
+regulatory risk
+
+897
+00:38:21,113 --> 00:38:23,753
+The nature of dual builder might be
+
+898
+00:38:23,753 --> 00:38:26,073
+somewhat less other than in certain
+
+899
+00:38:26,073 --> 00:38:27,753
+pockets because
+
+900
+00:38:28,633 --> 00:38:32,713
+of the regulatory like you know compliance
+
+901
+00:38:32,793 --> 00:38:34,633
+needs that makes it a little harder to
+
+902
+00:38:34,633 --> 00:38:36,393
+achieve full dual builder There is some
+
+903
+00:38:36,393 --> 00:38:39,033
+democratization but not full dual builder
+
+904
+00:38:40,029 --> 00:38:42,349
+In some organais so that's in certain
+
+905
+00:38:42,349 --> 00:38:44,269
+industries like you know such as banking
+
+906
+00:38:44,269 --> 00:38:46,909
+in certain set of sectors of healthcare We
+
+907
+00:38:46,909 --> 00:38:48,829
+might we see but doesn't mean they fully
+
+908
+00:38:48,829 --> 00:38:50,909
+ignore it In some places they identify
+
+909
+00:38:50,909 --> 00:38:52,749
+certain areas for dual builder and
+
+910
+00:38:52,749 --> 00:38:54,749
+democratization within those organizations
+
+911
+00:38:54,829 --> 00:38:56,429
+and embrace it there with sufficient
+
+912
+00:38:56,429 --> 00:38:56,829
+guardrails
+
+913
+00:38:58,269 --> 00:38:59,949
+In some of well you know but the
+
+914
+00:38:59,949 --> 00:39:01,789
+interesting thing that we have observed is
+
+915
+00:39:02,526 --> 00:39:05,246
+Overall there is a shift towards more
+
+916
+00:39:05,246 --> 00:39:07,406
+democratization and dual builder compared
+
+917
+00:39:07,406 --> 00:39:08,206
+to a few years ago
+
+918
+00:39:09,166 --> 00:39:11,566
+Even say like I've had conversations with
+
+919
+00:39:11,566 --> 00:39:14,286
+certain public sector companies or highly
+
+920
+00:39:14,286 --> 00:39:16,446
+regulated healthcare companies that want
+
+921
+00:39:16,446 --> 00:39:18,286
+to look at like you know what are the
+
+922
+00:39:18,286 --> 00:39:20,846
+places in the organizations I can do a
+
+923
+00:39:20,846 --> 00:39:23,086
+democratize Maybe not full organization
+
+924
+00:39:23,326 --> 00:39:24,686
+maybe some parts That's what we are seeing
+
+925
+00:39:26,372 --> 00:39:28,132
+I can take one or two more Robert
+
+926
+00:39:29,892 --> 00:39:31,972
+more question Okay another question that
+
+927
+00:39:31,972 --> 00:39:32,372
+came in
+
+928
+00:39:33,593 --> 00:39:36,233
+I'd like to know what would be the ROI for
+
+929
+00:39:36,313 --> 00:39:38,473
+agentic AI in a highly regulated
+
+930
+00:39:38,473 --> 00:39:41,033
+environment The cost savings are no good
+
+931
+00:39:41,113 --> 00:39:42,793
+when there's a risk of the agent going
+
+932
+00:39:42,793 --> 00:39:43,193
+wrong
+
+933
+00:39:45,113 --> 00:39:48,153
+Yes rogue agent is a problem agent sprawl
+
+934
+00:39:48,153 --> 00:39:50,873
+is a problem orphaned agents are a problem
+
+935
+00:39:50,953 --> 00:39:52,313
+There are quite a few problems in that
+
+936
+00:39:52,313 --> 00:39:53,273
+area The
+
+937
+00:39:54,073 --> 00:39:57,913
+ROI is not necessarily only based on
+
+938
+00:39:57,913 --> 00:39:59,833
+whether the industry is regulated or not
+
+939
+00:40:00,568 --> 00:40:03,048
+It really depends on the strength of the
+
+940
+00:40:03,048 --> 00:40:03,528
+use case
+
+941
+00:40:04,328 --> 00:40:09,288
+There are some traps to avoid one trying
+
+942
+00:40:09,368 --> 00:40:12,088
+to automate a process that is inefficient
+
+943
+00:40:12,728 --> 00:40:15,048
+and lacks clarity or has bad data
+
+944
+00:40:16,325 --> 00:40:19,045
+The temptation is using agents to automate
+
+945
+00:40:19,045 --> 00:40:21,445
+a process that's inefficient Ironically
+
+946
+00:40:22,165 --> 00:40:24,805
+agents work better when the process has
+
+947
+00:40:25,525 --> 00:40:27,765
+clarity and the data is clean
+
+948
+00:40:29,132 --> 00:40:30,012
+I'll repeat that again
+
+949
+00:40:30,812 --> 00:40:32,572
+Well the belief is agents can solve
+
+950
+00:40:32,572 --> 00:40:35,212
+inefficient processes Ironically agents
+
+951
+00:40:35,292 --> 00:40:37,212
+work best when the process is clarity and
+
+952
+00:40:37,212 --> 00:40:37,932
+the data is clean
+
+953
+00:40:39,292 --> 00:40:40,652
+So that is one to keep in mind
+
+954
+00:40:41,532 --> 00:40:45,052
+Second is in many cases people try to take
+
+955
+00:40:45,132 --> 00:40:47,532
+process that exists today and think Can I
+
+956
+00:40:47,532 --> 00:40:48,492
+use agents to improve
+
+957
+00:40:49,618 --> 00:40:52,018
+But if the process doesn't have scale
+
+958
+00:40:52,898 --> 00:40:54,898
+then you don't get the benefit because of
+
+959
+00:40:54,898 --> 00:40:55,778
+AI agents
+
+960
+00:40:56,578 --> 00:40:58,658
+And if there are too many exceptions you
+
+961
+00:40:58,658 --> 00:41:00,338
+handle those exceptions by hard coding
+
+962
+00:41:00,338 --> 00:41:02,418
+again and again You reach a point of
+
+963
+00:41:02,498 --> 00:41:03,938
+diminishing returns very quickly
+
+964
+00:41:04,978 --> 00:41:07,138
+So the value might come in first
+
+965
+00:41:08,258 --> 00:41:10,738
+reengineering the process for agents not
+
+966
+00:41:10,738 --> 00:41:11,298
+humans
+
+967
+00:41:12,284 --> 00:41:14,284
+Or in some cases consolidating the process
+
+968
+00:41:14,284 --> 00:41:16,924
+against multiple units and doing it for
+
+969
+00:41:16,924 --> 00:41:18,604
+agents So you'd want to consider an
+
+970
+00:41:18,604 --> 00:41:21,884
+approach like that but then still look to
+
+971
+00:41:21,964 --> 00:41:24,844
+build an ROI business case factoring in
+
+972
+00:41:25,084 --> 00:41:27,644
+all the variable costs for agents and then
+
+973
+00:41:27,644 --> 00:41:28,044
+proceeding
+
+974
+00:41:29,515 --> 00:41:29,995
+Hope that helps
+
+975
+00:41:34,475 --> 00:41:36,235
+Um done with the questions Robert
+
+976
+00:41:39,837 --> 00:41:42,637
+A few more If you wanted to continue um
+
+977
+00:41:42,797 --> 00:41:44,477
+absolutely I'll take one more and then
+
+978
+00:41:44,477 --> 00:41:45,837
+we'll move I'll take one more and then
+
+979
+00:41:45,869 --> 00:41:47,677
+we'll move Okay one more All right
+
+980
+00:41:48,717 --> 00:41:51,757
+Next question is What happens if you do
+
+981
+00:41:51,757 --> 00:41:55,197
+not embrace democratization If you keep
+
+982
+00:41:55,437 --> 00:41:57,757
+the tech folks being the ones building the
+
+983
+00:41:57,757 --> 00:41:59,757
+solutions and business and the business
+
+984
+00:41:59,757 --> 00:42:02,637
+remains only users of the systems do you
+
+985
+00:42:02,797 --> 00:42:05,357
+fall so far behind in terms of velocity to
+
+986
+00:42:05,357 --> 00:42:06,557
+build capabilities
+
+987
+00:42:07,436 --> 00:42:09,596
+It depends on the industry It depends on
+
+988
+00:42:09,596 --> 00:42:12,476
+situation If you are in an industry where
+
+989
+00:42:13,036 --> 00:42:15,756
+you know the possibilities because of AI
+
+990
+00:42:15,756 --> 00:42:18,556
+and technology is high in business use
+
+991
+00:42:18,556 --> 00:42:21,116
+whether for your products and services or
+
+992
+00:42:21,116 --> 00:42:23,356
+for their everyday decision making or
+
+993
+00:42:23,356 --> 00:42:26,632
+working with the customer Then relying
+
+994
+00:42:26,632 --> 00:42:29,352
+only on technology people to build
+
+995
+00:42:29,352 --> 00:42:31,912
+technology solutions in this age of you
+
+996
+00:42:31,912 --> 00:42:34,792
+know cloud co work and white coding then
+
+997
+00:42:34,792 --> 00:42:37,032
+you might not be fully leveraging what's
+
+998
+00:42:37,112 --> 00:42:38,552
+possible in today's world
+
+999
+00:42:39,465 --> 00:42:41,065
+Definitely if that's the case you are
+
+1000
+00:42:41,065 --> 00:42:44,345
+risking that And what are your competitors
+
+1001
+00:42:44,345 --> 00:42:44,585
+doing
+
+1002
+00:42:45,545 --> 00:42:47,785
+If they are embracing it or new startups
+
+1003
+00:42:47,785 --> 00:42:49,145
+that can come and impact you are doing
+
+1004
+00:42:49,145 --> 00:42:50,345
+that then yes there is risk
+
+1005
+00:42:53,092 --> 00:42:54,132
+Thank you all for the question That's
+
+1006
+00:42:54,132 --> 00:42:56,452
+wonderful Please keep the questions coming
+
+1007
+00:42:56,452 --> 00:42:58,372
+We just have another five or so more
+
+1008
+00:42:58,372 --> 00:43:00,132
+minutes and we'll have time at the end for
+
+1009
+00:43:00,132 --> 00:43:01,652
+to address any additional questions as
+
+1010
+00:43:01,652 --> 00:43:01,892
+well
+
+1011
+00:43:03,377 --> 00:43:06,337
+So let me proceed So the last area is on
+
+1012
+00:43:06,577 --> 00:43:09,377
+democratization the technology stack So we
+
+1013
+00:43:09,377 --> 00:43:11,857
+all just saw that many of you are looking
+
+1014
+00:43:11,857 --> 00:43:14,017
+at rolling democratization out
+
+1015
+00:43:14,657 --> 00:43:17,777
+incausiously or putting processes in place
+
+1016
+00:43:17,937 --> 00:43:20,657
+But overall democratization is of interest
+
+1017
+00:43:20,657 --> 00:43:22,817
+to ninetyseven percent of you in some
+
+1018
+00:43:22,817 --> 00:43:24,497
+fashion Only three percent said you're
+
+1019
+00:43:24,497 --> 00:43:25,537
+actively discouraging it
+
+1020
+00:43:26,657 --> 00:43:29,516
+So That means that we need to get ready
+
+1021
+00:43:29,516 --> 00:43:29,916
+for that
+
+1022
+00:43:31,036 --> 00:43:31,436
+Now
+
+1023
+00:43:32,476 --> 00:43:34,556
+all of you have been working very hard to
+
+1024
+00:43:34,556 --> 00:43:36,476
+make your technology stack AI ready
+
+1025
+00:43:37,351 --> 00:43:40,151
+I get it it's not easy There is a whole
+
+1026
+00:43:40,151 --> 00:43:42,711
+lot of things to do Data needs to be AI
+
+1027
+00:43:42,711 --> 00:43:45,191
+ready Your apps need to be AI enhanced
+
+1028
+00:43:45,191 --> 00:43:46,631
+Your middle bear has to be strong Your
+
+1029
+00:43:46,631 --> 00:43:48,471
+infrastructure has to support the load
+
+1030
+00:43:48,711 --> 00:43:49,271
+It's not easy
+
+1031
+00:43:50,231 --> 00:43:52,231
+And some of you are just you know in the
+
+1032
+00:43:52,231 --> 00:43:53,031
+process of doing it
+
+1033
+00:43:54,299 --> 00:43:55,819
+But now I'm going to ask you to think
+
+1034
+00:43:55,819 --> 00:43:56,299
+about
+
+1035
+00:43:57,179 --> 00:43:59,579
+Do you have a plan for agent readiness
+
+1036
+00:44:00,859 --> 00:44:02,219
+Your business might be coming up with
+
+1037
+00:44:02,219 --> 00:44:03,339
+ideas for agents
+
+1038
+00:44:04,459 --> 00:44:06,859
+and that's okay that's well and good But
+
+1039
+00:44:07,099 --> 00:44:09,499
+as leaders of technology we urge you to
+
+1040
+00:44:09,499 --> 00:44:12,619
+take a step back and think about what
+
+1041
+00:44:12,779 --> 00:44:14,299
+portions of your IT stack
+
+1042
+00:44:15,259 --> 00:44:17,419
+will offer the highest points of leverage
+
+1043
+00:44:17,419 --> 00:44:19,099
+for you to roll out AI agents
+
+1044
+00:44:20,284 --> 00:44:22,364
+What investments you need to make to get
+
+1045
+00:44:22,364 --> 00:44:22,764
+them ready
+
+1046
+00:44:24,844 --> 00:44:28,284
+And also are there programs that you
+
+1047
+00:44:28,444 --> 00:44:29,964
+designed and planned
+
+1048
+00:44:31,164 --> 00:44:33,644
+that were done before we all came to know
+
+1049
+00:44:33,644 --> 00:44:35,964
+of AI agents but you're still continuing
+
+1050
+00:44:35,964 --> 00:44:39,244
+to do that Maybe you can stop because you
+
+1051
+00:44:39,244 --> 00:44:41,564
+don't want to transform once now based on
+
+1052
+00:44:41,644 --> 00:44:44,204
+that old plan and then transform again
+
+1053
+00:44:44,204 --> 00:44:45,644
+because you think agents are going to help
+
+1054
+00:44:45,644 --> 00:44:45,804
+you
+
+1055
+00:44:47,419 --> 00:44:49,019
+So that might be a place to save money
+
+1056
+00:44:50,699 --> 00:44:52,859
+Now beyond that as we look to 2030
+
+1057
+00:44:54,813 --> 00:44:56,813
+As all of you mentioned democratization in
+
+1058
+00:44:56,813 --> 00:44:59,453
+some form what does it mean to your
+
+1059
+00:44:59,453 --> 00:45:00,413
+technology stack
+
+1060
+00:45:02,013 --> 00:45:03,933
+One enabling your technology stack to
+
+1061
+00:45:03,933 --> 00:45:06,173
+support democratization when and where
+
+1062
+00:45:07,055 --> 00:45:10,975
+Also providing business tools or sandboxes
+
+1063
+00:45:11,375 --> 00:45:13,055
+or enablement or
+
+1064
+00:45:14,335 --> 00:45:15,775
+governancewhat are the things necessary
+
+1065
+00:45:15,775 --> 00:45:18,175
+That's worth that should be thought about
+
+1066
+00:45:18,175 --> 00:45:20,415
+sooner than later That's where we see
+
+1067
+00:45:21,295 --> 00:45:25,055
+your IT technology stack evolving by 2030
+
+1068
+00:45:26,102 --> 00:45:28,342
+You will start moving from AI readiness to
+
+1069
+00:45:28,342 --> 00:45:30,742
+agent readiness and democratization
+
+1070
+00:45:30,742 --> 00:45:31,222
+readiness
+
+1071
+00:45:32,342 --> 00:45:33,782
+This is not sequential
+
+1072
+00:45:34,742 --> 00:45:36,342
+Some of you will have to do some of the
+
+1073
+00:45:36,342 --> 00:45:38,022
+work sooner I mean most of you will have
+
+1074
+00:45:38,022 --> 00:45:40,262
+to do some of the work sooner in stages
+
+1075
+00:45:40,662 --> 00:45:41,862
+because your business demands it
+
+1076
+00:45:44,731 --> 00:45:46,411
+So the question is how much
+
+1077
+00:45:46,411 --> 00:45:49,771
+democratization does business want to You
+
+1078
+00:45:49,771 --> 00:45:51,851
+know they want to move more from using it
+
+1079
+00:45:51,851 --> 00:45:54,891
+to building it They do they want to also
+
+1080
+00:45:55,131 --> 00:45:56,891
+like you know run it and secure it
+
+1081
+00:45:58,968 --> 00:46:01,288
+As this drops what do some of you think
+
+1082
+00:46:01,288 --> 00:46:01,688
+about
+
+1083
+00:46:02,488 --> 00:46:04,728
+the risk that IT might have to handle with
+
+1084
+00:46:06,088 --> 00:46:07,288
+Things are all well and good when things
+
+1085
+00:46:07,288 --> 00:46:07,848
+go right
+
+1086
+00:46:08,968 --> 00:46:10,408
+but what if things go wrong Who's going to
+
+1087
+00:46:10,408 --> 00:46:13,688
+get the call I would bet it'll be somebody
+
+1088
+00:46:13,688 --> 00:46:15,448
+in your organization for the most part
+
+1089
+00:46:16,248 --> 00:46:17,768
+So that's something to really think about
+
+1090
+00:46:17,768 --> 00:46:21,288
+What do we want business to own in this
+
+1091
+00:46:21,368 --> 00:46:22,968
+area of democratization Having
+
+1092
+00:46:22,968 --> 00:46:26,088
+conversations and laying out an approach
+
+1093
+00:46:27,467 --> 00:46:29,227
+In some of you say that you know what
+
+1094
+00:46:30,107 --> 00:46:32,347
+they are going to split and identify
+
+1095
+00:46:32,347 --> 00:46:35,387
+places where every day democratization is
+
+1096
+00:46:35,387 --> 00:46:36,907
+possible Certain set of things business
+
+1097
+00:46:36,907 --> 00:46:38,107
+can do fine
+
+1098
+00:46:39,307 --> 00:46:41,867
+Certain set of things we are going to hold
+
+1099
+00:46:41,867 --> 00:46:42,267
+the line
+
+1100
+00:46:43,846 --> 00:46:48,006
+Business can use it but we will build it
+
+1101
+00:46:48,086 --> 00:46:49,846
+and run it Thank you very much
+
+1102
+00:46:50,966 --> 00:46:52,646
+For example things like core banking in
+
+1103
+00:46:52,646 --> 00:46:56,006
+banking and that's okay So those types of
+
+1104
+00:46:56,006 --> 00:46:58,166
+models can lead on to like you know a dual
+
+1105
+00:46:58,166 --> 00:46:58,886
+builder type of approach
+
+1106
+00:47:01,520 --> 00:47:01,841
+Now
+
+1107
+00:47:03,120 --> 00:47:05,440
+this we just spoke about this Another
+
+1108
+00:47:05,520 --> 00:47:07,360
+element on the technology stack to
+
+1109
+00:47:07,360 --> 00:47:09,920
+consider You know we started initially
+
+1110
+00:47:10,241 --> 00:47:12,480
+with this example of the bank CIO who
+
+1111
+00:47:12,480 --> 00:47:13,841
+wanted to build their own enterprise
+
+1112
+00:47:13,841 --> 00:47:14,241
+software
+
+1113
+00:47:15,761 --> 00:47:18,400
+Our answer to them is that it's not as
+
+1114
+00:47:18,400 --> 00:47:20,801
+simple as AI replacing your software
+
+1115
+00:47:22,241 --> 00:47:24,321
+Will AI and AI agents impact the
+
+1116
+00:47:24,321 --> 00:47:26,080
+enterprise software build versus buy
+
+1117
+00:47:26,080 --> 00:47:27,761
+landscape Absolutely
+
+1118
+00:47:29,115 --> 00:47:30,715
+And you can be very strategic about it
+
+1119
+00:47:32,635 --> 00:47:35,995
+So if you look at software some are highly
+
+1120
+00:47:36,155 --> 00:47:37,995
+like you know business differentiating and
+
+1121
+00:47:37,995 --> 00:47:39,595
+some are not You can talk to your business
+
+1122
+00:47:39,595 --> 00:47:41,915
+partners to identify and you know whether
+
+1123
+00:47:41,915 --> 00:47:43,915
+some software is highly technically
+
+1124
+00:47:43,915 --> 00:47:45,515
+complex to build or not
+
+1125
+00:47:46,555 --> 00:47:48,075
+If a software is simple
+
+1126
+00:47:49,115 --> 00:47:51,435
+not very technically complex there is no
+
+1127
+00:47:51,435 --> 00:47:52,795
+big business differentiation
+
+1128
+00:47:53,595 --> 00:47:55,995
+then clearly that's a good candidate for
+
+1129
+00:47:56,235 --> 00:47:59,035
+replacing with custom AI or even finding a
+
+1130
+00:47:59,035 --> 00:48:02,555
+new AInative vendor who might be using AI
+
+1131
+00:48:02,555 --> 00:48:05,835
+secret sauce or use agent coding to offer
+
+1132
+00:48:05,835 --> 00:48:07,275
+you a different value proposition
+
+1133
+00:48:08,313 --> 00:48:10,153
+In this case it's not worth investing too
+
+1134
+00:48:10,153 --> 00:48:11,113
+much in embedded AI
+
+1135
+00:48:12,713 --> 00:48:14,713
+But in some cases you may find that
+
+1136
+00:48:14,713 --> 00:48:16,153
+actually this is a huge competitive
+
+1137
+00:48:16,153 --> 00:48:18,313
+differentiator But that technology itself
+
+1138
+00:48:18,313 --> 00:48:19,993
+is no complex Oh that's risky
+
+1139
+00:48:21,273 --> 00:48:25,193
+What can you do to invest in that with AI
+
+1140
+00:48:26,153 --> 00:48:28,393
+or like you know finding other vendors to
+
+1141
+00:48:28,393 --> 00:48:30,633
+really strengthen your position so you are
+
+1142
+00:48:30,633 --> 00:48:31,273
+not at risk
+
+1143
+00:48:32,501 --> 00:48:35,461
+In some areas what you might see is it's
+
+1144
+00:48:35,461 --> 00:48:37,621
+very complex for me to build an AI to like
+
+1145
+00:48:37,621 --> 00:48:39,381
+you know to do The competitive
+
+1146
+00:48:39,381 --> 00:48:41,781
+differentiation is not as much so I'm not
+
+1147
+00:48:41,781 --> 00:48:43,221
+going to replace it I'm going to add more
+
+1148
+00:48:43,221 --> 00:48:46,661
+AI to it And the very last is areas which
+
+1149
+00:48:46,661 --> 00:48:49,461
+are really technically complex high
+
+1150
+00:48:49,461 --> 00:48:52,341
+competitive differentiation What can you
+
+1151
+00:48:52,341 --> 00:48:53,781
+do even more
+
+1152
+00:48:55,048 --> 00:48:57,528
+With a strategic investment to exploit
+
+1153
+00:48:57,528 --> 00:48:58,008
+that further
+
+1154
+00:48:59,608 --> 00:49:01,688
+So if I remove the thing in the middle
+
+1155
+00:49:01,928 --> 00:49:04,168
+what I would urge is look at your
+
+1156
+00:49:04,168 --> 00:49:05,048
+technology stack
+
+1157
+00:49:06,488 --> 00:49:09,368
+Where if you plot your key applications
+
+1158
+00:49:09,368 --> 00:49:10,328
+where would they fall
+
+1159
+00:49:11,288 --> 00:49:13,208
+And based on that you can start building a
+
+1160
+00:49:13,208 --> 00:49:15,848
+nuanced strategy for your software stack
+
+1161
+00:49:15,848 --> 00:49:16,568
+for 2030
+
+1162
+00:49:20,484 --> 00:49:20,884
+So
+
+1163
+00:49:21,844 --> 00:49:23,844
+we saw build versus buy I gave you that
+
+1164
+00:49:23,844 --> 00:49:26,244
+example and I have been talking to a lot
+
+1165
+00:49:26,244 --> 00:49:28,564
+of CIOs about this But I'm curious on your
+
+1166
+00:49:28,564 --> 00:49:28,884
+take
+
+1167
+00:49:30,901 --> 00:49:33,541
+Because of AIbased coding and the
+
+1168
+00:49:33,621 --> 00:49:35,381
+capabilities that you're building and
+
+1169
+00:49:35,381 --> 00:49:36,981
+because of other reasons whether you like
+
+1170
+00:49:36,981 --> 00:49:39,301
+your relationship with your vendors are
+
+1171
+00:49:39,301 --> 00:49:41,621
+you considering changing your posture for
+
+1172
+00:49:41,621 --> 00:49:46,661
+2030 Do you expect more build or more buy
+
+1173
+00:49:47,221 --> 00:49:48,981
+So here is the our last survey Thanks
+
+1174
+00:49:49,141 --> 00:49:51,701
+Robert for kicking that in
+
+1175
+00:49:52,588 --> 00:49:55,388
+So I the option one is you thinking you're
+
+1176
+00:49:55,388 --> 00:49:57,788
+going to significantly do more by versus
+
+1177
+00:49:57,788 --> 00:49:58,668
+build in the future
+
+1178
+00:49:59,868 --> 00:50:01,628
+Option two is somewhat more by
+
+1179
+00:50:02,500 --> 00:50:04,260
+Option three is now our build by mix is
+
+1180
+00:50:04,260 --> 00:50:06,180
+going to be approximately the same and
+
+1181
+00:50:06,180 --> 00:50:07,780
+then like you know leaning more on the
+
+1182
+00:50:07,780 --> 00:50:08,420
+build angle
+
+1183
+00:50:09,380 --> 00:50:11,060
+So think about your software landscape
+
+1184
+00:50:11,060 --> 00:50:13,380
+primarily I'm not talking services this is
+
+1185
+00:50:13,460 --> 00:50:15,860
+all about software and it's about the mix
+
+1186
+00:50:16,500 --> 00:50:17,700
+It's the shift in the mix You might
+
+1187
+00:50:17,700 --> 00:50:19,780
+increase both but the shift in the mix is
+
+1188
+00:50:19,780 --> 00:50:22,500
+what we are trying to identify here
+
+1189
+00:50:23,316 --> 00:50:24,996
+You can take a few you know another thirty
+
+1190
+00:50:24,996 --> 00:50:25,796
+forty seconds
+
+1191
+00:50:33,076 --> 00:50:35,556
+Absolutely thank you so much Rajesh Um yes
+
+1192
+00:50:35,556 --> 00:50:37,876
+again poll is not open So click on your
+
+1193
+00:50:37,876 --> 00:50:39,796
+response in your screen and then click
+
+1194
+00:50:39,796 --> 00:50:41,876
+submit And then once the poll is closed
+
+1195
+00:50:41,876 --> 00:50:43,636
+we'll display those results for everyone
+
+1196
+00:50:44,116 --> 00:50:46,756
+to see And with the about ten minutes we
+
+1197
+00:50:46,756 --> 00:50:48,756
+have left after this when we wrap up we
+
+1198
+00:50:48,756 --> 00:50:50,916
+will be answering your questions
+
+1199
+00:50:52,655 --> 00:50:54,095
+All right looks like polls results are
+
+1200
+00:50:54,175 --> 00:50:56,415
+still coming in pretty strong right now So
+
+1201
+00:50:56,415 --> 00:50:58,895
+won't close the poll just yet but we are
+
+1202
+00:50:58,895 --> 00:51:02,015
+seeing number four somewhat more build in
+
+1203
+00:51:02,015 --> 00:51:03,615
+the lead with about thirty five percent
+
+1204
+00:51:03,695 --> 00:51:05,375
+and then followed up by no significant
+
+1205
+00:51:05,375 --> 00:51:07,055
+change to our current mix now about twenty
+
+1206
+00:51:07,055 --> 00:51:09,455
+seven percent there Let's give them twenty
+
+1207
+00:51:09,455 --> 00:51:11,215
+twenty more seconds and let
+
+1208
+00:51:15,615 --> 00:51:16,575
+me know when it tickles
+
+1209
+00:51:29,882 --> 00:51:31,722
+Alright thanks Close the poll right now
+
+1210
+00:51:31,722 --> 00:51:34,282
+Looks like we stopped There's results Yes
+
+1211
+00:51:34,922 --> 00:51:36,282
+yeah So here we go
+
+1212
+00:51:37,242 --> 00:51:40,202
+Yeah so it's a So yeah please go ahead
+
+1213
+00:51:42,507 --> 00:51:44,987
+So looks like again somewhat more build
+
+1214
+00:51:44,987 --> 00:51:46,827
+thirty six percent followed by no
+
+1215
+00:51:46,827 --> 00:51:48,667
+significant change to our current mix at
+
+1216
+00:51:48,667 --> 00:51:51,707
+twenty six and then somewhat more buy at
+
+1217
+00:51:51,707 --> 00:51:54,027
+nineteen percent significantly more build
+
+1218
+00:51:54,107 --> 00:51:56,027
+at ten percent and then
+
+1219
+00:51:56,907 --> 00:51:58,187
+sorry significantly more build at ten
+
+1220
+00:51:58,187 --> 00:52:00,107
+percent and a significantly more buy at
+
+1221
+00:52:00,507 --> 00:52:03,408
+ten percent So Five in one tied at the
+
+1222
+00:52:04,048 --> 00:52:07,488
+bottom there Yeah so as we can see it
+
+1223
+00:52:07,568 --> 00:52:11,488
+leans more towards build The the
+
+1224
+00:52:11,649 --> 00:52:13,488
+significantly more build and significantly
+
+1225
+00:52:13,488 --> 00:52:15,728
+more buy cancel each other out The last
+
+1226
+00:52:15,728 --> 00:52:18,848
+two options and around a quarter don't
+
+1227
+00:52:18,848 --> 00:52:21,954
+expect a change So it's really among the
+
+1228
+00:52:21,954 --> 00:52:24,194
+the rest of the fifty five It very much
+
+1229
+00:52:24,194 --> 00:52:25,954
+skewed towards somewhat more build
+
+1230
+00:52:25,954 --> 00:52:28,834
+compared to somewhat more buy That lines
+
+1231
+00:52:28,834 --> 00:52:32,434
+with what we are seeing Of course building
+
+1232
+00:52:32,434 --> 00:52:35,794
+more has its own set of challenges The
+
+1233
+00:52:35,794 --> 00:52:37,794
+question is as you think about ID twenty
+
+1234
+00:52:37,794 --> 00:52:40,786
+thirty If we think it's going to be more
+
+1235
+00:52:40,786 --> 00:52:42,866
+built are you gearing up your
+
+1236
+00:52:42,866 --> 00:52:45,826
+organizations with investment in software
+
+1237
+00:52:45,826 --> 00:52:49,186
+engineering tools across SDLC with AI to
+
+1238
+00:52:49,186 --> 00:52:51,426
+really uncover the efficiencies for you to
+
+1239
+00:52:51,506 --> 00:52:52,146
+achieve that
+
+1240
+00:52:53,365 --> 00:52:55,125
+And here we started identifying which
+
+1241
+00:52:55,125 --> 00:52:57,045
+areas are you going to build more
+
+1242
+00:52:57,925 --> 00:52:59,445
+and that areas could be areas of
+
+1243
+00:52:59,445 --> 00:53:01,125
+competitive advantage for you not
+
+1244
+00:53:01,125 --> 00:53:03,845
+commoditization And how are you managing
+
+1245
+00:53:03,845 --> 00:53:05,605
+that How are you going to manage the shift
+
+1246
+00:53:05,605 --> 00:53:08,005
+towards more build Is something to
+
+1247
+00:53:08,005 --> 00:53:12,005
+consider Thank you for participating So if
+
+1248
+00:53:12,005 --> 00:53:15,605
+we go back to the presentation so that's
+
+1249
+00:53:15,605 --> 00:53:18,325
+the last part So what do we see when that
+
+1250
+00:53:18,325 --> 00:53:18,725
+occurs
+
+1251
+00:53:19,851 --> 00:53:22,011
+When that occurs you know if you look at
+
+1252
+00:53:22,011 --> 00:53:23,931
+the slide this shows a simple
+
+1253
+00:53:23,931 --> 00:53:25,931
+representation of how an application is
+
+1254
+00:53:26,011 --> 00:53:28,411
+laid out right Or a technology solution
+
+1255
+00:53:28,811 --> 00:53:30,491
+You got user interface at the top systems
+
+1256
+00:53:30,491 --> 00:53:31,371
+of record at the bottom
+
+1257
+00:53:32,576 --> 00:53:35,696
+So this is how it used to be in the
+
+1258
+00:53:35,696 --> 00:53:38,416
+sense that most of the things we buy now
+
+1259
+00:53:38,416 --> 00:53:40,416
+with AI we were doing little bit things at
+
+1260
+00:53:40,416 --> 00:53:40,816
+the top
+
+1261
+00:53:42,096 --> 00:53:46,096
+In fact one of the CIOs we spoke with
+
+1262
+00:53:46,976 --> 00:53:49,056
+told us this and he's the CEO of one of
+
+1263
+00:53:49,056 --> 00:53:51,376
+the largest companies in the world He said
+
+1264
+00:53:51,376 --> 00:53:52,736
+they are fundamentally thinking about
+
+1265
+00:53:52,736 --> 00:53:54,576
+giving away all the UI building to
+
+1266
+00:53:54,576 --> 00:53:55,056
+business
+
+1267
+00:53:56,242 --> 00:53:57,282
+IT won't manage it anymore
+
+1268
+00:53:59,042 --> 00:54:00,802
+Business will directly take care of you I
+
+1269
+00:54:00,802 --> 00:54:02,642
+knock yourself out We are good there
+
+1270
+00:54:05,850 --> 00:54:08,650
+In AI agents we are starting to see this
+
+1271
+00:54:08,650 --> 00:54:11,290
+line go down With AI agents now with
+
+1272
+00:54:11,290 --> 00:54:12,970
+workflow and business largely could be
+
+1273
+00:54:13,050 --> 00:54:14,410
+done with AI agents
+
+1274
+00:54:15,210 --> 00:54:17,210
+So to what level for which business
+
+1275
+00:54:17,290 --> 00:54:19,050
+capability that needs to be thought about
+
+1276
+00:54:19,290 --> 00:54:21,450
+That'll help you when you say you're going
+
+1277
+00:54:21,530 --> 00:54:24,170
+to do more building where and what is the
+
+1278
+00:54:24,170 --> 00:54:26,330
+mix what business is going to do all that
+
+1279
+00:54:27,983 --> 00:54:30,543
+So when you do that that leads on to new
+
+1280
+00:54:30,543 --> 00:54:33,503
+questions Instead of buying an entire
+
+1281
+00:54:33,503 --> 00:54:36,863
+package software top to bottom do you need
+
+1282
+00:54:36,863 --> 00:54:38,703
+to start negotiating with your vendors to
+
+1283
+00:54:38,863 --> 00:54:40,863
+buy headless applications or unpacked
+
+1284
+00:54:40,863 --> 00:54:42,543
+software They're not going to like it I
+
+1285
+00:54:42,543 --> 00:54:44,623
+can tell you right now they want to go
+
+1286
+00:54:44,623 --> 00:54:46,703
+move up and up and sell you more AI agents
+
+1287
+00:54:47,955 --> 00:54:48,355
+In fact
+
+1288
+00:54:49,155 --> 00:54:51,715
+I'll give you a little anecdote I recently
+
+1289
+00:54:51,715 --> 00:54:54,275
+asked a group of people in a conference
+
+1290
+00:54:54,515 --> 00:54:56,435
+How many of you have not been approached
+
+1291
+00:54:56,435 --> 00:54:59,555
+by your enterprise vendor to sell you AI
+
+1292
+00:54:59,555 --> 00:55:01,795
+agents Show off hands Most of the people
+
+1293
+00:55:01,795 --> 00:55:05,136
+raised hands But one person in the front
+
+1294
+00:55:05,136 --> 00:55:06,336
+asked me Today
+
+1295
+00:55:07,456 --> 00:55:09,456
+that is they have been reaching them so
+
+1296
+00:55:09,456 --> 00:55:11,056
+much every day He's getting calls from
+
+1297
+00:55:11,056 --> 00:55:11,776
+enterprise vendors
+
+1298
+00:55:14,336 --> 00:55:14,976
+So our
+
+1299
+00:55:16,416 --> 00:55:17,936
+suggestion is think about
+
+1300
+00:55:19,056 --> 00:55:21,776
+signing longterm contracts especially in
+
+1301
+00:55:21,776 --> 00:55:23,936
+places that can be impacted by AI
+
+1302
+00:55:25,107 --> 00:55:26,307
+So this is our final thing
+
+1303
+00:55:27,187 --> 00:55:29,907
+assess your IT stack readiness for AI
+
+1304
+00:55:30,147 --> 00:55:32,387
+agent readiness and democratization
+
+1305
+00:55:33,587 --> 00:55:34,547
+So as we come to the end
+
+1306
+00:55:35,846 --> 00:55:38,966
+We looked at what is possible thinking
+
+1307
+00:55:38,966 --> 00:55:42,646
+about an instate for IT because of AI We
+
+1308
+00:55:42,646 --> 00:55:45,446
+looked at changes to your people the speed
+
+1309
+00:55:46,166 --> 00:55:47,686
+and lastly the technology stack
+
+1310
+00:55:48,646 --> 00:55:51,366
+Hopefully that enable you to think about
+
+1311
+00:55:52,166 --> 00:55:55,286
+the importance of identifying a deliberate
+
+1312
+00:55:55,900 --> 00:55:58,940
+Plan for IT to transform itself with AI
+
+1313
+00:56:01,180 --> 00:56:03,900
+We share these archetypes Most of you have
+
+1314
+00:56:03,900 --> 00:56:05,740
+an idea where you want to be
+
+1315
+00:56:06,914 --> 00:56:08,754
+Do people in your organization share that
+
+1316
+00:56:09,314 --> 00:56:11,874
+Is it worth talking to them to identifying
+
+1317
+00:56:11,874 --> 00:56:14,594
+a deliberate plan so you can use that for
+
+1318
+00:56:14,594 --> 00:56:16,274
+all the other decisions to come
+
+1319
+00:56:17,074 --> 00:56:20,034
+And we believe that it will We believe
+
+1320
+00:56:20,034 --> 00:56:22,114
+having a deliberate plan and transforming
+
+1321
+00:56:22,114 --> 00:56:25,474
+IT is the single biggest thing that IT can
+
+1322
+00:56:25,474 --> 00:56:28,034
+do to transform your business for the AI
+
+1323
+00:56:28,114 --> 00:56:28,274
+era
+
+1324
+00:56:30,461 --> 00:56:32,781
+Thank you for your time and making time
+
+1325
+00:56:33,341 --> 00:56:35,021
+this morning or this evening wherever you
+
+1326
+00:56:35,101 --> 00:56:36,941
+are We have another three four minutes for
+
+1327
+00:56:36,941 --> 00:56:38,621
+the final questions I will turn it back to
+
+1328
+00:56:38,861 --> 00:56:39,101
+Robert
+
+1329
+00:56:41,874 --> 00:56:44,354
+Excellent Yes thank you so much Rajesh for
+
+1330
+00:56:44,354 --> 00:56:46,354
+sharing your insights And to our audience
+
+1331
+00:56:46,354 --> 00:56:48,434
+we will get to some Q and A now So
+
+1332
+00:56:48,834 --> 00:56:49,954
+with a few minutes we have left maybe
+
+1333
+00:56:49,954 --> 00:56:51,874
+answer a couple questions Um
+
+1334
+00:56:52,978 --> 00:56:54,738
+First questions we have here Are there any
+
+1335
+00:56:55,378 --> 00:56:57,058
+sorry are there emerging design or
+
+1336
+00:56:57,058 --> 00:56:59,458
+architectural patterns that we can
+
+1337
+00:56:59,458 --> 00:57:01,938
+leverage to improve agent output quality
+
+1338
+00:57:02,018 --> 00:57:03,858
+to ensure we get the right get
+
+1339
+00:57:04,658 --> 00:57:07,378
+it right in high risk use cases
+
+1340
+00:57:08,249 --> 00:57:10,649
+There are evaluation patterns and
+
+1341
+00:57:10,649 --> 00:57:12,729
+guardrails around those patterns It's not
+
+1342
+00:57:12,809 --> 00:57:16,089
+as mature as the development areas in AI
+
+1343
+00:57:16,089 --> 00:57:18,969
+agent We wish those those areas are much
+
+1344
+00:57:18,969 --> 00:57:20,889
+more Unfortunately we can't get into the
+
+1345
+00:57:20,889 --> 00:57:22,729
+details of the pattern We have published a
+
+1346
+00:57:22,729 --> 00:57:24,649
+set of patterns around that So we consider
+
+1347
+00:57:24,649 --> 00:57:26,969
+this there are some emerging not as mature
+
+1348
+00:57:30,195 --> 00:57:32,675
+Next question Can you jump over from today
+
+1349
+00:57:32,755 --> 00:57:36,035
+to agentready technology stack skipping
+
+1350
+00:57:36,035 --> 00:57:38,595
+the AIready technology stack or even jump
+
+1351
+00:57:38,675 --> 00:57:40,515
+to democratizationready stack
+
+1352
+00:57:43,798 --> 00:57:45,718
+Yes and no In the sense first we would
+
+1353
+00:57:45,718 --> 00:57:47,638
+urge you to start thinking about them
+
+1354
+00:57:48,278 --> 00:57:51,238
+together but not fully finalizing But some
+
+1355
+00:57:51,238 --> 00:57:52,918
+element of agent you know
+
+1356
+00:57:54,046 --> 00:57:55,726
+Democratization is really you want to work
+
+1357
+00:57:55,726 --> 00:57:58,766
+on now Now there are some elements of
+
+1358
+00:57:58,766 --> 00:58:00,766
+which they depend on each other For
+
+1359
+00:58:00,766 --> 00:58:02,926
+instance AI ready data you might still
+
+1360
+00:58:02,926 --> 00:58:05,086
+want it for your agent readiness That's no
+
+1361
+00:58:05,246 --> 00:58:07,307
+question But there are some elements that
+
+1362
+00:58:07,307 --> 00:58:10,107
+can proceed independently For instance we
+
+1363
+00:58:10,107 --> 00:58:11,707
+ask you to think about an agent readiness
+
+1364
+00:58:11,787 --> 00:58:13,947
+audit which areas of your application
+
+1365
+00:58:13,947 --> 00:58:15,307
+stack you really know what you want to get
+
+1366
+00:58:15,307 --> 00:58:17,627
+ready For that you don't necessarily need
+
+1367
+00:58:17,787 --> 00:58:20,347
+everything in the AI readiness stack to be
+
+1368
+00:58:20,347 --> 00:58:22,267
+laid out So there is some dependency but
+
+1369
+00:58:22,267 --> 00:58:24,347
+not all But we wouldn't think about it as
+
+1370
+00:58:24,347 --> 00:58:25,787
+a purely sequential either
+
+1371
+00:58:27,649 --> 00:58:31,009
+One last question maybe and then Yes time
+
+1372
+00:58:32,049 --> 00:58:34,849
+horizon for the latest survey is pretty
+
+1373
+00:58:34,849 --> 00:58:36,609
+short to fundamentally change mix
+
+1374
+00:58:37,569 --> 00:58:40,129
+I think it's more about trends towards
+
+1375
+00:58:40,209 --> 00:58:43,009
+well trend toward but to do all the
+
+1376
+00:58:43,009 --> 00:58:45,009
+necessary things to shift the mix
+
+1377
+00:58:45,409 --> 00:58:47,649
+contracts organizations reskilling etc At
+
+1378
+00:58:47,649 --> 00:58:48,929
+an enterprise level will be tough
+
+1379
+00:58:49,809 --> 00:58:50,929
+I think there will be pockets of major
+
+1380
+00:58:50,929 --> 00:58:53,169
+disruption Do you see areas where you
+
+1381
+00:58:53,169 --> 00:58:54,689
+think it will be more disruptive
+
+1382
+00:58:57,276 --> 00:58:59,516
+And I think it'll be front office apps
+
+1383
+00:58:59,516 --> 00:59:01,836
+maybe how we interact with SW
+
+1384
+00:59:02,876 --> 00:59:05,596
+A front office depending on the nature of
+
+1385
+00:59:05,676 --> 00:59:07,276
+the organization in very
+
+1386
+00:59:08,796 --> 00:59:11,356
+customer focus customer brand focus it is
+
+1387
+00:59:11,356 --> 00:59:13,116
+front office But there are organizations
+
+1388
+00:59:13,116 --> 00:59:15,116
+that are very asset heavy say oil and gas
+
+1389
+00:59:15,116 --> 00:59:16,876
+It's more in a back office It depends on
+
+1390
+00:59:16,876 --> 00:59:19,337
+the organization Sorry we couldn't get to
+
+1391
+00:59:19,337 --> 00:59:21,177
+all the questions Hopefully we were able
+
+1392
+00:59:21,257 --> 00:59:23,177
+to address some Hopefully that helped We
+
+1393
+00:59:23,177 --> 00:59:25,097
+have much more research available Thank
+
+1394
+00:59:25,097 --> 00:59:26,297
+you for participating Let me turn it to
+
+1395
+00:59:26,297 --> 00:59:26,537
+Robert
+
+1396
+00:59:28,133 --> 00:59:30,453
+Excellent Yes thank you so much Rajesh I'm
+
+1397
+00:59:30,453 --> 00:59:31,813
+sorry we couldn't get all your questions
+
+1398
+00:59:31,813 --> 00:59:33,413
+but please reach out to your Gartner
+
+1399
+00:59:33,413 --> 00:59:34,933
+representative with that Us and then we'll
+
+1400
+00:59:34,933 --> 00:59:37,173
+try our best to get those answered Again
+
+1401
+00:59:37,733 --> 00:59:40,213
+thank you so much to all of you for your
+
+1402
+00:59:40,293 --> 00:59:42,373
+attendance Before you go we've included
+
+1403
+00:59:42,373 --> 00:59:44,133
+some additional resources at the bottom of
+
+1404
+00:59:44,133 --> 00:59:46,453
+the page far bottom of the page Quick
+
+1405
+00:59:46,453 --> 00:59:48,373
+reminder this webinar is being recorded so
+
+1406
+00:59:48,373 --> 00:59:51,316
+you can watch this presentation again And
+
+1407
+00:59:51,316 --> 00:59:53,156
+get more great insights on demand at
+
+1408
+00:59:53,156 --> 00:59:53,876
+Gartnercomwebinars And
+
+1409
+00:59:55,396 --> 00:59:57,076
+lastly we ask you to please rate this
+
+1410
+00:59:57,076 --> 00:59:59,796
+webinar below on the bottom right below
+
+1411
+00:59:59,796 --> 01:00:02,408
+the video player To submit your rating
+
+1412
+01:00:02,408 --> 01:00:04,328
+click the rate session below Click the
+
+1413
+01:00:04,328 --> 01:00:06,008
+rate session button A box will open up You
+
+1414
+01:00:06,008 --> 01:00:08,008
+select one to five hearts Please note that
+
+1415
+01:00:08,008 --> 01:00:10,248
+five hearts is the top rating Share your
+
+1416
+01:00:10,248 --> 01:00:11,608
+feedback on the insights provided and
+
+1417
+01:00:11,608 --> 01:00:13,288
+leave for the feedback box And then click
+
+1418
+01:00:13,288 --> 01:00:16,168
+send Again I'd like to thank our presenter
+
+1419
+01:00:16,568 --> 01:00:18,488
+Rajesh and of course thank you for joining
+
+1420
+01:00:18,488 --> 01:00:20,408
+us Have a great day Goodbye
+
