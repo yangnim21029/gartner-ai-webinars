@@ -1,6 +1,6 @@
 # Accelerate Your AI Journey With Business Capability Maps
 
-> **來源**：Gartner Webinar，Alexander Hope（VP Analyst，製造業專精，但跨產業適用）
+> **來源**：Gartner Webinar，Alexander Hoeppe（VP Analyst，製造業專精，但跨產業適用）
 > **涵蓋**：用 Business Capability Map (BCM) 把 AI 投資錨在策略上 — 從 use case 評估到 readiness 評估到 agency spectrum 到 business case 三型態，串成完整 governance pipeline
 
 ---
@@ -29,7 +29,7 @@
 
 ## 這場 webinar 要回答的事
 
-Alexander Hope 鎖定的問題很具體：CIO / IT leader 投 AI 投了一堆 POC，60% 失敗。原因不在技術，在跟 business outcome 對不齊。三件事：
+Alexander Hoeppe 鎖定的問題很具體：CIO / IT leader 投 AI 投了一堆 POC，60% 失敗。原因不在技術，在跟 business outcome 對不齊。三件事：
 
 1. **解釋為什麼 process map 不夠用，BCM 才是 AI 投資的對的單位**
 2. **示範怎麼用 BCM + Use Case Assessment + Readiness Assessment + Opportunity Radar 串成一條 AI prioritization pipeline**
