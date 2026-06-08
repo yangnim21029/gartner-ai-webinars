@@ -1,0 +1,6020 @@
+1
+00:00:00,560 --> 00:00:00,560
+Lucas
+
+2
+00:00:09,520 --> 00:00:13,440
+Kobat Gartner enterprise architecture EA
+
+3
+00:00:14,080 --> 00:00:14,480
+AI transformation value orchestrator
+
+4
+00:00:16,000 --> 00:00:34,880
+The
+
+5
+00:00:38,178 --> 00:00:40,418
+Hello and welcome to this Gartner webinar
+
+6
+00:00:41,458 --> 00:00:44,498
+Leading Enterprise Architecture in twenty
+
+7
+00:00:44,498 --> 00:00:47,138
+twenty six a guide for AI enabled
+
+8
+00:00:47,138 --> 00:00:47,858
+transformation
+
+9
+00:00:48,978 --> 00:00:50,498
+Your task is driving stronger performance
+
+10
+00:00:50,498 --> 00:00:51,938
+on your organization's mission critical
+
+11
+00:00:51,938 --> 00:00:54,338
+priorities To do that you need trusted
+
+12
+00:00:54,338 --> 00:00:55,778
+guidance that provides clarity not just
+
+13
+00:00:55,778 --> 00:00:56,338
+information
+
+14
+00:00:57,576 --> 00:00:59,256
+At Gartner we deliver that clarity by
+
+15
+00:00:59,496 --> 00:01:00,936
+combining forwardlooking insights from
+
+16
+00:01:01,096 --> 00:01:03,096
+twentyfive hundred experts with rigorous
+
+17
+00:01:03,096 --> 00:01:04,936
+proprietary research methodologies
+
+18
+00:01:05,816 --> 00:01:07,416
+Our perspective is uniquely informed by
+
+19
+00:01:07,416 --> 00:01:08,856
+our handson work with five hundred
+
+20
+00:01:08,856 --> 00:01:10,536
+thousand client interactions across every
+
+21
+00:01:10,536 --> 00:01:13,176
+major function geography industry and
+
+22
+00:01:13,176 --> 00:01:13,576
+sector
+
+23
+00:01:14,561 --> 00:01:15,681
+We don't just provide the business and
+
+24
+00:01:15,681 --> 00:01:17,441
+technology insights We work with you to
+
+25
+00:01:17,441 --> 00:01:19,361
+apply them equipping your team with
+
+26
+00:01:19,361 --> 00:01:21,041
+practical tools and expert guidance to
+
+27
+00:01:21,041 --> 00:01:22,001
+achieve your goals
+
+28
+00:01:22,961 --> 00:01:24,561
+So whether you're a new to Gartner or one
+
+29
+00:01:24,561 --> 00:01:26,401
+of our existing clients today you'll get
+
+30
+00:01:26,401 --> 00:01:28,241
+actionable objective insights rooted in
+
+31
+00:01:28,321 --> 00:01:30,321
+human intelligence to help you move
+
+32
+00:01:30,641 --> 00:01:31,521
+forward with confidence
+
+33
+00:01:32,641 --> 00:01:34,241
+I'm Robert the operator for this session
+
+34
+00:01:34,241 --> 00:01:35,841
+Before we get started I have a few tips to
+
+35
+00:01:35,841 --> 00:01:36,961
+enhance your webinar experience
+
+36
+00:01:39,052 --> 00:01:40,332
+Here are our rules of engagement for
+
+37
+00:01:40,332 --> 00:01:42,252
+watching this session We'll pause a moment
+
+38
+00:01:42,492 --> 00:01:43,612
+to give you time to review them
+
+39
+00:01:52,988 --> 00:01:54,508
+Around the video player you find a variety
+
+40
+00:01:54,508 --> 00:01:56,588
+of ways to interact with the session We
+
+41
+00:01:56,588 --> 00:01:57,868
+encourage you to participate by clicking
+
+42
+00:01:57,868 --> 00:01:59,468
+the Ask a Speaker box to submit your
+
+43
+00:01:59,468 --> 00:02:00,988
+questions and thoughts about this program
+
+44
+00:02:02,605 --> 00:02:04,205
+You can submit a question honestly or if
+
+45
+00:02:04,205 --> 00:02:06,285
+you choose your name title and company can
+
+46
+00:02:06,285 --> 00:02:07,565
+be visible along with your question
+
+47
+00:02:08,445 --> 00:02:09,885
+Navigate to the bottom of the page
+
+48
+00:02:10,365 --> 00:02:11,725
+download additional resources
+
+49
+00:02:12,685 --> 00:02:14,445
+Throughout the program you can rate the
+
+50
+00:02:14,445 --> 00:02:16,445
+session and share feedback Submit your
+
+51
+00:02:16,445 --> 00:02:18,205
+rating Locate the rate session link below
+
+52
+00:02:18,205 --> 00:02:19,965
+the player A box will open up for you to
+
+53
+00:02:19,965 --> 00:02:21,965
+select one to five hearts Please note that
+
+54
+00:02:21,965 --> 00:02:23,245
+five hearts is the top rating
+
+55
+00:02:24,123 --> 00:02:25,243
+Share your feedback on the insights
+
+56
+00:02:25,243 --> 00:02:27,003
+provided and leave for the feedback box
+
+57
+00:02:27,083 --> 00:02:27,883
+and then click send
+
+58
+00:02:29,083 --> 00:02:31,083
+Webinar is being recorded Watch this
+
+59
+00:02:31,083 --> 00:02:32,523
+presentation again and find more great
+
+60
+00:02:32,523 --> 00:02:33,643
+insights on the minute at
+
+61
+00:02:33,643 --> 00:02:34,283
+gartnercomwebinars
+
+62
+00:02:36,440 --> 00:02:37,720
+And now I'd like to welcome Gartner's
+
+63
+00:02:37,720 --> 00:02:39,960
+director analyst and chief of research
+
+64
+00:02:40,440 --> 00:02:42,760
+Lucas Kobat Lucas thanks for joining us
+
+65
+00:02:42,920 --> 00:02:43,240
+And now
+
+66
+00:02:45,960 --> 00:02:47,560
+thanks Robert and thanks everyone for
+
+67
+00:02:47,560 --> 00:02:49,400
+joining today Really excited to be here
+
+68
+00:02:49,400 --> 00:02:52,440
+with you Um like Robert said my name is
+
+69
+00:02:52,440 --> 00:02:54,200
+Lucas Kobat I'm the chief of research for
+
+70
+00:02:54,200 --> 00:02:56,040
+enterprise architecture here at Gartner
+
+71
+00:02:56,360 --> 00:02:58,840
+and it's my honor to facilitate this
+
+72
+00:02:58,840 --> 00:03:00,120
+session today with you all
+
+73
+00:03:01,720 --> 00:03:05,000
+So Robert went over some of our legal and
+
+74
+00:03:05,000 --> 00:03:06,840
+compliance rules that we always have to
+
+75
+00:03:06,840 --> 00:03:09,320
+share with you Really there's there's one
+
+76
+00:03:09,320 --> 00:03:11,480
+real ground rule for today and that is to
+
+77
+00:03:11,560 --> 00:03:14,680
+please ask questions We have a very large
+
+78
+00:03:14,680 --> 00:03:16,520
+audience but we want to make this as
+
+79
+00:03:16,600 --> 00:03:19,400
+interactive as we possibly can And the way
+
+80
+00:03:19,400 --> 00:03:21,080
+that you can do that is you can use the
+
+81
+00:03:21,160 --> 00:03:23,400
+ask the speaker box to enter questions
+
+82
+00:03:23,720 --> 00:03:26,790
+throughout our session So without further
+
+83
+00:03:26,790 --> 00:03:29,350
+ado and in the famous words of Peter Pan
+
+84
+00:03:29,350 --> 00:03:31,670
+Come on everybody because here we go
+
+85
+00:03:33,680 --> 00:03:35,680
+All right Our agenda for today is pretty
+
+86
+00:03:35,680 --> 00:03:36,880
+straightforward We're going to look at
+
+87
+00:03:36,880 --> 00:03:39,120
+three key issues The first is we're going
+
+88
+00:03:39,120 --> 00:03:40,720
+to look at the state of enterprise
+
+89
+00:03:40,720 --> 00:03:42,240
+architecture in two thousand twentysix
+
+90
+00:03:43,167 --> 00:03:44,927
+The second is we're going to look at how
+
+91
+00:03:44,927 --> 00:03:46,927
+you can lead enterprise architecture
+
+92
+00:03:46,927 --> 00:03:49,887
+success in twenty twenty six and beyond
+
+93
+00:03:50,367 --> 00:03:52,047
+and then finally we're going to wrap up
+
+94
+00:03:52,127 --> 00:03:54,607
+with some pragmatic steps that you can
+
+95
+00:03:54,607 --> 00:03:58,207
+take When we end our session here today so
+
+96
+00:03:58,207 --> 00:03:59,407
+that you can get started
+
+97
+00:04:00,207 --> 00:04:03,007
+toward achieving your goals and success in
+
+98
+00:04:03,007 --> 00:04:05,727
+the enterprise architecture function that
+
+99
+00:04:05,727 --> 00:04:06,527
+you call home
+
+100
+00:04:08,686 --> 00:04:09,726
+All right let's get started
+
+101
+00:04:11,886 --> 00:04:14,046
+This slide should really not come as a
+
+102
+00:04:14,046 --> 00:04:16,206
+surprise to anyone who's been in the
+
+103
+00:04:16,766 --> 00:04:19,166
+practice of enterprise architecture for
+
+104
+00:04:19,166 --> 00:04:20,766
+any given period of time
+
+105
+00:04:21,567 --> 00:04:23,166
+What we know is that
+
+106
+00:04:25,086 --> 00:04:28,446
+enterprise architects serve a wide ranging
+
+107
+00:04:28,446 --> 00:04:31,486
+group of stakeholders from delivery teams
+
+108
+00:04:31,486 --> 00:04:33,806
+to business leaders to even executive
+
+109
+00:04:33,806 --> 00:04:36,564
+teams However each one of these
+
+110
+00:04:36,564 --> 00:04:39,444
+stakeholder groups has long had challenges
+
+111
+00:04:39,444 --> 00:04:41,204
+with the way that heads of enterprise
+
+112
+00:04:41,204 --> 00:04:43,444
+architecture and their teams deliver
+
+113
+00:04:43,444 --> 00:04:48,283
+decision guidance and support Uh when uh
+
+114
+00:04:48,283 --> 00:04:50,763
+we look at delivery teams right Often we
+
+115
+00:04:50,763 --> 00:04:53,163
+hear that EA just slows down delivery
+
+116
+00:04:53,643 --> 00:04:55,643
+We're a roadblock we're a governance
+
+117
+00:04:55,883 --> 00:04:59,483
+inhibitor right For business leaders they
+
+118
+00:04:59,483 --> 00:05:02,363
+just want their shiny new tool now right
+
+119
+00:05:02,363 --> 00:05:03,963
+They they oftentimes are trying to figure
+
+120
+00:05:03,963 --> 00:05:05,803
+out how they can get around architecture
+
+121
+00:05:05,803 --> 00:05:06,203
+governance
+
+122
+00:05:07,072 --> 00:05:09,072
+And then finally on the righthand side
+
+123
+00:05:09,072 --> 00:05:11,792
+there with executive leaders oftentimes
+
+124
+00:05:12,112 --> 00:05:13,392
+our guidance and support
+
+125
+00:05:15,392 --> 00:05:15,712
+is
+
+126
+00:05:16,849 --> 00:05:17,889
+Is too technical and
+
+127
+00:05:18,689 --> 00:05:20,129
+ITcentric for their needs
+
+128
+00:05:21,009 --> 00:05:23,089
+What this leads to is you can see across
+
+129
+00:05:23,089 --> 00:05:25,889
+the bottom row there is that delivery
+
+130
+00:05:25,889 --> 00:05:28,929
+teams and the rest of IT start to ask Well
+
+131
+00:05:29,009 --> 00:05:31,249
+can we just replace EA with AI
+
+132
+00:05:31,329 --> 00:05:31,889
+capabilities
+
+133
+00:05:32,689 --> 00:05:35,089
+or for business leaders they ask You know
+
+134
+00:05:35,089 --> 00:05:37,489
+why do we even have this EA team What is
+
+135
+00:05:37,489 --> 00:05:40,037
+their purpose And then for our executive
+
+136
+00:05:40,357 --> 00:05:42,996
+partners you know they they look in the
+
+137
+00:05:42,996 --> 00:05:44,756
+work that we provide and they say What
+
+138
+00:05:44,836 --> 00:05:48,276
+value is here What value is being provided
+
+139
+00:05:49,046 --> 00:05:50,646
+And like I said this comes as no surprise
+
+140
+00:05:50,726 --> 00:05:52,646
+to anyone who's been in EA for any given
+
+141
+00:05:52,646 --> 00:05:55,766
+period of time and it's backed up by the
+
+142
+00:05:56,326 --> 00:05:58,966
+data that we most recently got from our
+
+143
+00:05:59,046 --> 00:06:01,686
+2026 Heads of Enterprise Architecture
+
+144
+00:06:01,686 --> 00:06:03,606
+signature survey You can see some of those
+
+145
+00:06:04,006 --> 00:06:05,526
+data points on the right hand side of the
+
+146
+00:06:05,526 --> 00:06:07,846
+slide there What we know is that Heads of
+
+147
+00:06:07,846 --> 00:06:10,566
+VA are least confident in securing EA
+
+148
+00:06:10,566 --> 00:06:13,526
+resources or additional budget or staff
+
+149
+00:06:14,336 --> 00:06:17,536
+Being able to help organizations determine
+
+150
+00:06:17,536 --> 00:06:19,456
+and navigate the impacts of our volatile
+
+151
+00:06:19,456 --> 00:06:22,176
+world and also scaling artificial
+
+152
+00:06:22,176 --> 00:06:25,376
+intelligence both within their own EA
+
+153
+00:06:25,376 --> 00:06:27,376
+teams and across the enterprise
+
+154
+00:06:28,526 --> 00:06:28,926
+And
+
+155
+00:06:30,126 --> 00:06:32,206
+just compounding on top of that we know
+
+156
+00:06:32,206 --> 00:06:33,806
+that thirtyfour percent of heads of AI
+
+157
+00:06:34,366 --> 00:06:36,686
+cite the inability to effectively
+
+158
+00:06:36,686 --> 00:06:39,966
+demonstrate value and return on investment
+
+159
+00:06:39,966 --> 00:06:44,275
+in an EA capability And what that ends up
+
+160
+00:06:44,275 --> 00:06:46,035
+with right is just a simple extension of
+
+161
+00:06:46,035 --> 00:06:48,995
+today's EA function not being enough not
+
+162
+00:06:48,995 --> 00:06:51,795
+being not being sufficient to really
+
+163
+00:06:51,795 --> 00:06:55,235
+thrive in this next AI era that we find
+
+164
+00:06:55,235 --> 00:06:57,475
+ourselves in We really do need a complete
+
+165
+00:06:57,795 --> 00:07:00,755
+reimagination of enterprise architecture
+
+166
+00:07:00,755 --> 00:07:02,115
+within our organizations
+
+167
+00:07:04,062 --> 00:07:07,422
+And one reason for that right This
+
+168
+00:07:08,382 --> 00:07:11,742
+is again not a surprise is that AI sprawl
+
+169
+00:07:11,742 --> 00:07:15,342
+is creating technology risk You see you
+
+170
+00:07:15,342 --> 00:07:17,422
+know AI capabilities are hitting today's
+
+171
+00:07:17,422 --> 00:07:18,222
+organizations
+
+172
+00:07:19,182 --> 00:07:21,342
+like a tidal wave You see lots of
+
+173
+00:07:21,342 --> 00:07:24,062
+different AI capabilities with high rates
+
+174
+00:07:24,062 --> 00:07:27,502
+of adoption already in 2026 and it's
+
+175
+00:07:27,502 --> 00:07:29,102
+really only been two to three years that
+
+176
+00:07:29,182 --> 00:07:31,102
+organizations have been on this journey
+
+177
+00:07:31,901 --> 00:07:34,541
+There's lots of initiatives going on to
+
+178
+00:07:34,781 --> 00:07:37,661
+enable AIready data or to push AI to the
+
+179
+00:07:37,661 --> 00:07:40,381
+edge or to provide every employee with
+
+180
+00:07:40,381 --> 00:07:43,021
+generative capabilities or even you know
+
+181
+00:07:43,021 --> 00:07:45,661
+starting really just this last year and
+
+182
+00:07:45,901 --> 00:07:48,861
+into this year incorporating AI agents
+
+183
+00:07:48,861 --> 00:07:52,461
+into workflows and leveraging composite AI
+
+184
+00:07:52,781 --> 00:07:56,861
+to get even more finetuned capabilities by
+
+185
+00:07:56,861 --> 00:08:00,141
+pairing machine learning with generative
+
+186
+00:08:00,221 --> 00:08:02,800
+tools Um and you see at the top of the
+
+187
+00:08:02,800 --> 00:08:04,720
+title wave there are agentic systems
+
+188
+00:08:04,720 --> 00:08:07,680
+really being the next great leap As we
+
+189
+00:08:07,680 --> 00:08:10,720
+found in our CEO survey that a majority of
+
+190
+00:08:10,720 --> 00:08:13,600
+CEOs are planning to adopt autonomous
+
+191
+00:08:13,600 --> 00:08:15,520
+systems or autonomous operations
+
+192
+00:08:16,800 --> 00:08:18,800
+operations or systems operating primarily
+
+193
+00:08:18,800 --> 00:08:21,280
+without human involvement really in just
+
+194
+00:08:21,280 --> 00:08:22,160
+the next three years
+
+195
+00:08:23,748 --> 00:08:25,428
+But that creates a lot of risk right And
+
+196
+00:08:25,428 --> 00:08:27,188
+we see some of those risk examples on the
+
+197
+00:08:27,188 --> 00:08:29,508
+right hand side data privacy exposures
+
+198
+00:08:29,508 --> 00:08:31,348
+cybersecurity and operational risks
+
+199
+00:08:31,508 --> 00:08:35,028
+regulatory challenges increased AI and
+
+200
+00:08:35,028 --> 00:08:37,188
+associated cloud costs All of these things
+
+201
+00:08:37,588 --> 00:08:39,108
+are things that each one of those
+
+202
+00:08:39,108 --> 00:08:40,468
+stakeholder groups from the last
+
+203
+00:08:41,188 --> 00:08:43,508
+slidedelivery teams business partners and
+
+204
+00:08:43,508 --> 00:08:45,854
+executive groups All of these stakeholder
+
+205
+00:08:45,854 --> 00:08:48,254
+groups are looking to somebody in the
+
+206
+00:08:48,254 --> 00:08:50,734
+organization to help and enterprise
+
+207
+00:08:50,734 --> 00:08:52,894
+architecture is well positioned to do so
+
+208
+00:08:53,134 --> 00:08:54,414
+But we have to be able to do it
+
+209
+00:08:54,414 --> 00:08:54,894
+effectively
+
+210
+00:08:59,072 --> 00:09:00,832
+But what does that mean right What does
+
+211
+00:09:00,832 --> 00:09:03,232
+that mean in terms of how we can provide
+
+212
+00:09:03,232 --> 00:09:05,312
+effective guidance and support Well one of
+
+213
+00:09:05,312 --> 00:09:07,952
+the ways is within the IT portfolio
+
+214
+00:09:08,592 --> 00:09:11,072
+However we also face a big challenge here
+
+215
+00:09:11,552 --> 00:09:13,632
+There's a lot of influencing factors on
+
+216
+00:09:13,632 --> 00:09:15,952
+the fact that most easy cost reduction
+
+217
+00:09:15,952 --> 00:09:18,620
+options have already been exhausted Cost
+
+218
+00:09:18,620 --> 00:09:20,620
+optimization has been a top priority for
+
+219
+00:09:20,620 --> 00:09:22,460
+organizations for the past several years
+
+220
+00:09:22,860 --> 00:09:25,100
+given growth ambitions and technology
+
+221
+00:09:25,100 --> 00:09:26,860
+investment advancements in AI
+
+222
+00:09:27,180 --> 00:09:29,180
+Organizations are seeking to trim costs in
+
+223
+00:09:29,180 --> 00:09:31,500
+other places to accelerate their AI
+
+224
+00:09:31,500 --> 00:09:34,669
+programs Geopolitical tensions I mean this
+
+225
+00:09:34,669 --> 00:09:37,389
+is in the news every single day at the top
+
+226
+00:09:37,389 --> 00:09:39,949
+of the headlines in many different regions
+
+227
+00:09:39,949 --> 00:09:42,509
+of the world creating supply chain issues
+
+228
+00:09:42,509 --> 00:09:45,549
+creating issues in markets and in sourcing
+
+229
+00:09:45,549 --> 00:09:48,029
+raw materials and also climate events
+
+230
+00:09:48,109 --> 00:09:50,818
+Right And all of these factors contribute
+
+231
+00:09:50,898 --> 00:09:54,418
+to the need for cost optimization But
+
+232
+00:09:55,138 --> 00:09:56,978
+organizations have already been through
+
+233
+00:09:56,978 --> 00:09:57,858
+the process of
+
+234
+00:09:58,818 --> 00:10:00,978
+cutting what they can in the short term
+
+235
+00:10:01,374 --> 00:10:03,134
+And honestly cutting too much in the short
+
+236
+00:10:03,134 --> 00:10:04,974
+termthose immediate cost reductionsthey
+
+237
+00:10:06,174 --> 00:10:08,174
+usually don't go far enough And if we go
+
+238
+00:10:08,174 --> 00:10:10,894
+too far we actually risk jeopardizing
+
+239
+00:10:11,294 --> 00:10:12,494
+those growth ambitions that our
+
+240
+00:10:12,494 --> 00:10:14,014
+organizations have in the first place
+
+241
+00:10:14,600 --> 00:10:16,760
+Whereas you know long term with
+
+242
+00:10:19,160 --> 00:10:21,800
+looking towards the future those cuts are
+
+243
+00:10:21,800 --> 00:10:25,000
+usually harder to do and they may not get
+
+244
+00:10:25,000 --> 00:10:26,760
+done in time to make a difference So
+
+245
+00:10:27,240 --> 00:10:29,080
+really where organizations are stuck at is
+
+246
+00:10:29,160 --> 00:10:31,720
+this balancing act of how can we free up
+
+247
+00:10:31,720 --> 00:10:34,440
+the resources necessary to fuel the growth
+
+248
+00:10:34,680 --> 00:10:37,400
+that we see and that we need while also
+
+249
+00:10:37,400 --> 00:10:39,480
+balancing the short term risks and costs
+
+250
+00:10:39,480 --> 00:10:40,600
+that we face today
+
+251
+00:10:42,433 --> 00:10:44,353
+And all of this sort of compiles on top of
+
+252
+00:10:44,353 --> 00:10:47,393
+each other And what we see is that you
+
+253
+00:10:47,393 --> 00:10:49,633
+know with global forces driving continued
+
+254
+00:10:49,633 --> 00:10:51,713
+turmoil the mission for organizations is
+
+255
+00:10:51,713 --> 00:10:54,033
+pretty clear If you play along with me
+
+256
+00:10:54,033 --> 00:10:56,673
+with the recent success of the Artemis II
+
+257
+00:10:57,225 --> 00:11:00,025
+Mission We need to launch a proverbial
+
+258
+00:11:00,105 --> 00:11:02,585
+orbital exit that cuts through the noise
+
+259
+00:11:02,745 --> 00:11:04,985
+and above the fray right As enterprise
+
+260
+00:11:04,985 --> 00:11:06,425
+architects and heads of enterprise
+
+261
+00:11:06,425 --> 00:11:08,585
+architecture teams what we really need to
+
+262
+00:11:08,585 --> 00:11:11,465
+do in twenty twenty six and beyond is help
+
+263
+00:11:11,465 --> 00:11:14,665
+the organization leverage the benefits of
+
+264
+00:11:14,745 --> 00:11:17,625
+AI and its relentless advance and maturity
+
+265
+00:11:17,865 --> 00:11:20,397
+while mitigating those risks Help the
+
+266
+00:11:20,477 --> 00:11:22,797
+organization to navigate economic and
+
+267
+00:11:22,797 --> 00:11:24,157
+geopolitical volatility
+
+268
+00:11:25,037 --> 00:11:28,477
+and to really step up to the plate and
+
+269
+00:11:28,797 --> 00:11:31,277
+help propel our organization's growth
+
+270
+00:11:31,277 --> 00:11:31,917
+ambitions
+
+271
+00:11:32,717 --> 00:11:33,197
+and
+
+272
+00:11:35,597 --> 00:11:39,037
+close the gap in terms of our IT
+
+273
+00:11:39,037 --> 00:11:40,797
+organization's ability to deliver
+
+274
+00:11:44,916 --> 00:11:48,356
+So this like I said all wraps up to just
+
+275
+00:11:48,356 --> 00:11:50,916
+one simple fact the EA discipline faces an
+
+276
+00:11:50,916 --> 00:11:52,916
+identity crisis Multiple stakeholder
+
+277
+00:11:52,916 --> 00:11:55,556
+groups that we've served for many many
+
+278
+00:11:55,556 --> 00:11:58,356
+years are all facing challenges They all
+
+279
+00:11:58,356 --> 00:12:00,356
+have needs that are really not being met
+
+280
+00:12:00,356 --> 00:12:03,156
+by EA today and so an iterative approach
+
+281
+00:12:03,236 --> 00:12:05,556
+to improving your EA function is not
+
+282
+00:12:05,556 --> 00:12:08,204
+likely to succeed So instead what are the
+
+283
+00:12:08,204 --> 00:12:11,244
+things that we can do to ensure success in
+
+284
+00:12:11,244 --> 00:12:13,564
+2026 and beyond for EA
+
+285
+00:12:14,916 --> 00:12:15,956
+And that's what we're going to focus on
+
+286
+00:12:15,956 --> 00:12:17,476
+right We're going to focus on that in our
+
+287
+00:12:17,476 --> 00:12:21,476
+second key issue I see some good questions
+
+288
+00:12:21,476 --> 00:12:24,142
+already coming into the chat here Things
+
+289
+00:12:24,382 --> 00:12:27,022
+like what are the most common AI use cases
+
+290
+00:12:27,022 --> 00:12:28,223
+for the EA function
+
+291
+00:12:29,103 --> 00:12:30,623
+what are the most common EA activities
+
+292
+00:12:30,623 --> 00:12:33,983
+that no longer scale There's a lot of good
+
+293
+00:12:33,983 --> 00:12:35,662
+questions here We are going to get to some
+
+294
+00:12:35,662 --> 00:12:39,743
+of these in our session here today If not
+
+295
+00:12:39,823 --> 00:12:41,422
+always feel free to schedule an
+
+296
+00:12:41,422 --> 00:12:44,142
+interaction with one of our experts on our
+
+297
+00:12:44,142 --> 00:12:45,743
+enterprise architecture team to be happy
+
+298
+00:12:45,743 --> 00:12:47,022
+to go into more detail with you
+
+299
+00:12:48,708 --> 00:12:50,788
+Let's get into this next session because I
+
+300
+00:12:50,788 --> 00:12:52,148
+think we're going to address some of these
+
+301
+00:12:52,148 --> 00:12:53,508
+questions that are coming up in here in
+
+302
+00:12:53,508 --> 00:12:55,828
+the chat These are great questions So how
+
+303
+00:12:55,908 --> 00:12:58,388
+can we lead an EA success in 2026 and
+
+304
+00:12:58,388 --> 00:13:01,828
+beyond Well the process is pretty simple
+
+305
+00:13:01,988 --> 00:13:04,468
+right We make EA mission critical We have
+
+306
+00:13:04,468 --> 00:13:06,628
+to establish our function as a mission
+
+307
+00:13:06,628 --> 00:13:08,228
+critical change agent that helps our
+
+308
+00:13:08,228 --> 00:13:10,628
+organization adapt to global volatility
+
+309
+00:13:10,628 --> 00:13:12,788
+high growth and pervasive AI How do we do
+
+310
+00:13:12,868 --> 00:13:14,788
+that Well there's five imperatives There's
+
+311
+00:13:14,868 --> 00:13:16,994
+five things that we need to do One is we
+
+312
+00:13:16,994 --> 00:13:19,074
+need to step into the AI leadership vacuum
+
+313
+00:13:19,314 --> 00:13:21,714
+The second is that we need to untangle the
+
+314
+00:13:21,714 --> 00:13:23,874
+AI rollout The third is that we need to
+
+315
+00:13:23,954 --> 00:13:26,514
+begin building dynamic architectures The
+
+316
+00:13:26,514 --> 00:13:28,434
+fourth is that we need to guide technology
+
+317
+00:13:28,434 --> 00:13:30,354
+investments And the fifth is that we need
+
+318
+00:13:30,354 --> 00:13:34,514
+to reimagine EA with AI So these five
+
+319
+00:13:34,514 --> 00:13:35,954
+things are what we're going to talk about
+
+320
+00:13:35,954 --> 00:13:37,794
+today These five imperatives are what we
+
+321
+00:13:37,794 --> 00:13:40,754
+need to start to act on to deliver success
+
+322
+00:13:40,754 --> 00:13:43,714
+from EA in 2026 and into the future
+
+323
+00:13:46,128 --> 00:13:47,568
+All right let's get started with the first
+
+324
+00:13:47,568 --> 00:13:48,368
+imperative
+
+325
+00:13:49,328 --> 00:13:52,048
+This has to do with stepping into the AI
+
+326
+00:13:52,048 --> 00:13:53,568
+leadership vacuum And what do we mean by
+
+327
+00:13:53,648 --> 00:13:56,528
+that Well Gartner's belief is that we need
+
+328
+00:13:56,688 --> 00:13:59,008
+heads of VA should seize the opportunity
+
+329
+00:13:59,008 --> 00:14:01,808
+and step into any AI leadership vacuum to
+
+330
+00:14:01,888 --> 00:14:04,608
+own and drive AI direction and value Why
+
+331
+00:14:04,608 --> 00:14:07,648
+do we believe this Because currently AI is
+
+332
+00:14:08,048 --> 00:14:10,288
+the technology that CEOs believe is going
+
+333
+00:14:10,368 --> 00:14:12,128
+to fundamentally disrupt their business in
+
+334
+00:14:12,128 --> 00:14:14,128
+the next three years That's not a surprise
+
+335
+00:14:14,751 --> 00:14:16,830
+What we do know is a challenge though is
+
+336
+00:14:16,830 --> 00:14:19,391
+that many organizations do not have a
+
+337
+00:14:19,391 --> 00:14:22,350
+dedicated AI leader and what this leads to
+
+338
+00:14:22,430 --> 00:14:24,911
+is decentralized experimentation
+
+339
+00:14:26,830 --> 00:14:29,710
+Redundancy duplication of effortall of the
+
+340
+00:14:29,710 --> 00:14:30,830
+things that we try to
+
+341
+00:14:32,190 --> 00:14:34,110
+mitigate from an enterprise architecture
+
+342
+00:14:34,110 --> 00:14:36,830
+perspectiveand so what we can do and on
+
+343
+00:14:36,830 --> 00:14:39,390
+the next slide we'll get into thisis we
+
+344
+00:14:39,390 --> 00:14:43,470
+can you know know that if we step into an
+
+345
+00:14:43,550 --> 00:14:45,390
+AI leadership vacuum we're going to be
+
+346
+00:14:45,390 --> 00:14:47,470
+able to help the organization navigate
+
+347
+00:14:47,550 --> 00:14:49,550
+this big uncertainty And we're already
+
+348
+00:14:49,550 --> 00:14:51,470
+starting to see this happen right This is
+
+349
+00:14:51,470 --> 00:14:54,190
+from our signature survey for heads of
+
+350
+00:14:54,190 --> 00:14:56,430
+enterprise architecture Sixtysix percent
+
+351
+00:14:56,430 --> 00:14:57,870
+of EA leaders report that they are
+
+352
+00:14:57,870 --> 00:14:59,710
+personally invested in becoming an AI
+
+353
+00:14:59,710 --> 00:15:00,750
+expert by the end of 2026
+
+354
+00:15:01,950 --> 00:15:03,390
+This partners with a lot of other data
+
+355
+00:15:03,390 --> 00:15:04,910
+points that we see with heads of EA
+
+356
+00:15:04,990 --> 00:15:06,910
+already stepping into this AI leadership
+
+357
+00:15:06,990 --> 00:15:09,950
+role And what that means is there's a
+
+358
+00:15:09,950 --> 00:15:12,110
+couple steps that we have to take to
+
+359
+00:15:12,110 --> 00:15:14,110
+really fully realize that role and be able
+
+360
+00:15:14,110 --> 00:15:15,310
+to guide our organization
+
+361
+00:15:16,298 --> 00:15:18,218
+Organizations forward and the first is we
+
+362
+00:15:18,218 --> 00:15:20,298
+have to make the case for AI leadership
+
+363
+00:15:20,698 --> 00:15:23,178
+Right In some organizations heads of EA
+
+364
+00:15:23,178 --> 00:15:25,261
+are being asked to take this In some
+
+365
+00:15:25,261 --> 00:15:28,221
+organizations we're not right Maybe AI
+
+366
+00:15:28,621 --> 00:15:31,501
+leadership is distributed across a CIO a
+
+367
+00:15:31,501 --> 00:15:35,421
+CTO a head of data analytics Maybe it sits
+
+368
+00:15:35,421 --> 00:15:37,661
+in other areas like the business or other
+
+369
+00:15:37,661 --> 00:15:39,741
+functions like with a chief operating
+
+370
+00:15:39,741 --> 00:15:42,301
+officer But what we know is that heads of
+
+371
+00:15:42,301 --> 00:15:43,821
+enterprise architecture have a unique
+
+372
+00:15:43,901 --> 00:15:45,901
+perspective between both where our
+
+373
+00:15:45,901 --> 00:15:48,221
+business is trying to go and what our IT
+
+374
+00:15:48,301 --> 00:15:51,750
+organization can enable And what is
+
+375
+00:15:51,990 --> 00:15:54,791
+realistic in terms of our AI ambitions and
+
+376
+00:15:54,791 --> 00:15:56,550
+the roadmap that it's actually going to
+
+377
+00:15:56,630 --> 00:15:59,271
+take to get there so we need to make the
+
+378
+00:15:59,271 --> 00:16:03,229
+case to our leadership teams That EA is
+
+379
+00:16:03,229 --> 00:16:06,189
+the best home for a coordinated enterprise
+
+380
+00:16:06,269 --> 00:16:08,269
+AI effort that's really going to deliver
+
+381
+00:16:08,269 --> 00:16:09,869
+on the ambitions that the organization has
+
+382
+00:16:11,549 --> 00:16:13,069
+The second thing that we need to do
+
+383
+00:16:14,020 --> 00:16:17,220
+Is that we need to monitor emerging AI
+
+384
+00:16:17,220 --> 00:16:19,780
+capabilities and evaluate their value and
+
+385
+00:16:19,780 --> 00:16:22,260
+risk This is one of the biggest challenges
+
+386
+00:16:22,260 --> 00:16:27,814
+with AI today Is that vendors Are one
+
+387
+00:16:27,814 --> 00:16:30,614
+continuing to mature their capabilities at
+
+388
+00:16:30,614 --> 00:16:34,614
+record pace and two a lot of what they are
+
+389
+00:16:34,614 --> 00:16:37,414
+promising is simply just marketing hype
+
+390
+00:16:37,814 --> 00:16:39,974
+And so the combination of those two things
+
+391
+00:16:40,054 --> 00:16:42,614
+makes it very foggy in terms of what's
+
+392
+00:16:42,614 --> 00:16:45,014
+realistic what's feasible and what can we
+
+393
+00:16:45,014 --> 00:16:47,734
+actually get value from across all of the
+
+394
+00:16:47,894 --> 00:16:49,974
+potential AI technologies capabilities and
+
+395
+00:16:50,054 --> 00:16:52,671
+vendors that are out there As a head of EA
+
+396
+00:16:52,671 --> 00:16:54,591
+and as the enterprise architecture team we
+
+397
+00:16:54,591 --> 00:16:56,191
+need to be the source of truth and the
+
+398
+00:16:56,191 --> 00:16:58,591
+objective voice in the room about what's
+
+399
+00:16:58,671 --> 00:17:01,871
+possible and really what's not and quite
+
+400
+00:17:01,871 --> 00:17:04,831
+simply what needs AI and what simply does
+
+401
+00:17:04,831 --> 00:17:06,671
+not in today's organization
+
+402
+00:17:09,641 --> 00:17:11,561
+The third step here is that we need to
+
+403
+00:17:11,641 --> 00:17:13,321
+orchestrate stakeholder alignment and
+
+404
+00:17:13,321 --> 00:17:15,081
+influence investment decisions This goes
+
+405
+00:17:15,081 --> 00:17:19,401
+back to that portfolio balancing act that
+
+406
+00:17:19,401 --> 00:17:21,081
+we were talking about a couple minutes ago
+
+407
+00:17:21,641 --> 00:17:23,801
+There's a lot of competing demands Every
+
+408
+00:17:23,801 --> 00:17:25,721
+single business unit in your organization
+
+409
+00:17:25,721 --> 00:17:27,081
+is going to think they need something
+
+410
+00:17:27,081 --> 00:17:30,361
+different when it comes to AI Every
+
+411
+00:17:30,761 --> 00:17:33,561
+delivery team is going to think that they
+
+412
+00:17:33,561 --> 00:17:36,521
+have their favorite model or workflow or
+
+413
+00:17:36,521 --> 00:17:38,847
+what have you What we need to do is bring
+
+414
+00:17:38,847 --> 00:17:41,167
+everybody together and get everybody
+
+415
+00:17:41,167 --> 00:17:43,247
+moving in the same direction And what that
+
+416
+00:17:43,247 --> 00:17:45,327
+what that's going to come down to is some
+
+417
+00:17:45,647 --> 00:17:48,607
+tough decisions around where we invest in
+
+418
+00:17:48,687 --> 00:17:51,407
+a specific AI technologies and where we
+
+419
+00:17:51,407 --> 00:17:54,847
+don't But if we don't create that
+
+420
+00:17:54,847 --> 00:17:56,607
+orchestrated and coordinated approach
+
+421
+00:17:57,007 --> 00:17:59,167
+again what we're going to see is that AI
+
+422
+00:17:59,167 --> 00:18:01,007
+sprawl that tidal wave that hits our
+
+423
+00:18:01,087 --> 00:18:04,047
+organization creates undue complexity and
+
+424
+00:18:04,047 --> 00:18:06,127
+a lot of technical debt along the way
+
+425
+00:18:09,694 --> 00:18:12,094
+Next step that we have to take in order to
+
+426
+00:18:12,094 --> 00:18:14,094
+step into this AI leadership vacuum is
+
+427
+00:18:14,094 --> 00:18:15,694
+that we need to establish adaptive
+
+428
+00:18:15,694 --> 00:18:18,494
+governance across business and IT This is
+
+429
+00:18:18,494 --> 00:18:20,014
+a concept that we've been talking about at
+
+430
+00:18:20,014 --> 00:18:22,014
+Gartner for some time Is this concept of
+
+431
+00:18:22,014 --> 00:18:24,414
+adaptive governance Really there's four
+
+432
+00:18:24,654 --> 00:18:27,694
+flavors or four styles of an adaptive
+
+433
+00:18:27,694 --> 00:18:29,694
+governance framework They range all the
+
+434
+00:18:29,694 --> 00:18:32,814
+way from control style governance which is
+
+435
+00:18:33,614 --> 00:18:36,251
+done through rules and compliance To
+
+436
+00:18:36,331 --> 00:18:38,651
+outcome style governance where we
+
+437
+00:18:39,451 --> 00:18:42,651
+prioritize and triage based on value To
+
+438
+00:18:42,731 --> 00:18:44,811
+agile style governance where
+
+439
+00:18:45,771 --> 00:18:49,531
+we are able to continuously reprioritize
+
+440
+00:18:49,531 --> 00:18:51,931
+and continuously reassess initiatives all
+
+441
+00:18:51,931 --> 00:18:53,771
+the way to autonomous styles of governance
+
+442
+00:18:54,420 --> 00:18:57,940
+And what this really means is introducing
+
+443
+00:18:57,940 --> 00:18:59,940
+new and kind capabilities that our
+
+444
+00:18:59,940 --> 00:19:02,740
+organization might not have had before to
+
+445
+00:19:02,740 --> 00:19:05,220
+automate governance processes and even
+
+446
+00:19:05,300 --> 00:19:08,820
+create workflows that are conducive to
+
+447
+00:19:08,820 --> 00:19:11,300
+agentic ways of working Um even bringing
+
+448
+00:19:11,300 --> 00:19:13,569
+in things like Guardian Agent To
+
+449
+00:19:14,529 --> 00:19:16,929
+help to mitigate the AI sprawl that's
+
+450
+00:19:17,009 --> 00:19:19,969
+already happening and also create an
+
+451
+00:19:19,969 --> 00:19:22,449
+environment where AI capabilities can
+
+452
+00:19:22,449 --> 00:19:25,489
+successfully bring value but within
+
+453
+00:19:25,489 --> 00:19:26,129
+guardrails
+
+454
+00:19:29,206 --> 00:19:31,926
+And then finally what we need to do to
+
+455
+00:19:32,086 --> 00:19:34,406
+fully realize this AI leadership role that
+
+456
+00:19:34,566 --> 00:19:36,406
+sits out there for most of us with in our
+
+457
+00:19:36,406 --> 00:19:39,606
+grasp is to establish an AI watchtower to
+
+458
+00:19:39,606 --> 00:19:42,563
+measure success And so this what we're
+
+459
+00:19:42,643 --> 00:19:44,003
+what we're talking about across these
+
+460
+00:19:44,003 --> 00:19:46,563
+steps is really the concept of sort of an
+
+461
+00:19:46,563 --> 00:19:49,043
+elevator architect right We need to be
+
+462
+00:19:49,043 --> 00:19:50,883
+able to get into the weeds to help
+
+463
+00:19:50,883 --> 00:19:53,043
+delivery teams move as fast as they
+
+464
+00:19:53,043 --> 00:19:55,763
+possibly can with these AI initiatives We
+
+465
+00:19:55,763 --> 00:19:58,403
+need to step up a level and help our
+
+466
+00:19:58,483 --> 00:20:00,483
+portfolio teams our business partners
+
+467
+00:20:01,283 --> 00:20:03,220
+build a roadmap of initiatives That's
+
+468
+00:20:03,220 --> 00:20:04,820
+going to drive toward success and then
+
+469
+00:20:04,820 --> 00:20:07,540
+finally we need to again sort of move out
+
+470
+00:20:07,540 --> 00:20:10,420
+of the orbital chaos and get above that
+
+471
+00:20:10,500 --> 00:20:12,660
+fray and into a tower where we can see
+
+472
+00:20:12,660 --> 00:20:14,820
+what's working and what's not working and
+
+473
+00:20:14,820 --> 00:20:16,500
+then quickly kill off the things that are
+
+474
+00:20:16,500 --> 00:20:18,500
+not working prune that portfolio to
+
+475
+00:20:18,500 --> 00:20:19,860
+something that's really going to drive
+
+476
+00:20:19,860 --> 00:20:20,980
+success for our organization
+
+477
+00:20:25,078 --> 00:20:26,998
+Um before we move on to the next
+
+478
+00:20:26,998 --> 00:20:30,518
+imperative let me just check the chat Um
+
+479
+00:20:31,497 --> 00:20:32,857
+Oh there's a good question here What's the
+
+480
+00:20:32,937 --> 00:20:35,737
+relevance of TOGAF framework in the world
+
+481
+00:20:35,817 --> 00:20:38,457
+of AI It's a great question from Vicron's
+
+482
+00:20:38,457 --> 00:20:41,097
+here So Gartner's position on EA
+
+483
+00:20:41,097 --> 00:20:43,017
+frameworks has been clear for a long time
+
+484
+00:20:43,257 --> 00:20:45,417
+right We do not advocate for any specific
+
+485
+00:20:45,497 --> 00:20:48,137
+EA framework We don't say that one is
+
+486
+00:20:48,137 --> 00:20:50,537
+better than the other The purpose of an EA
+
+487
+00:20:50,537 --> 00:20:53,035
+framework is simply for inspiration Right
+
+488
+00:20:53,275 --> 00:20:55,435
+what is out there What is possible What
+
+489
+00:20:55,435 --> 00:20:58,075
+does our organization actually need An EA
+
+490
+00:20:58,155 --> 00:21:01,115
+framework should never serve as aspiration
+
+491
+00:21:01,592 --> 00:21:03,272
+Right we should never be seeking to
+
+492
+00:21:03,512 --> 00:21:05,912
+execute an EA framework down to the letter
+
+493
+00:21:05,912 --> 00:21:07,832
+of the law on every single bullet point
+
+494
+00:21:08,152 --> 00:21:09,512
+Because what we're then doing is we're
+
+495
+00:21:09,512 --> 00:21:13,032
+doing EA for the sake of doing EA rather
+
+496
+00:21:13,032 --> 00:21:15,752
+than using the EA discipline and EA
+
+497
+00:21:15,752 --> 00:21:18,072
+concepts to push our organization forward
+
+498
+00:21:18,632 --> 00:21:20,472
+and realize some of the ambitions that our
+
+499
+00:21:20,472 --> 00:21:22,552
+organization has like what we're talking
+
+500
+00:21:22,552 --> 00:21:24,952
+about here with AI So it's a great
+
+501
+00:21:24,952 --> 00:21:28,381
+question Great question Um let's see Uh
+
+502
+00:21:28,461 --> 00:21:30,061
+one more question before we move on here
+
+503
+00:21:30,461 --> 00:21:32,621
+David's got a question here How does EA
+
+504
+00:21:32,621 --> 00:21:35,421
+handle AI teams saying they are the ones
+
+505
+00:21:35,501 --> 00:21:37,901
+to drive the architecture and EA is just a
+
+506
+00:21:37,901 --> 00:21:40,058
+technology architecture David you're
+
+507
+00:21:40,058 --> 00:21:42,138
+hitting on something that I was mentioning
+
+508
+00:21:42,138 --> 00:21:44,458
+just briefly before which is in some
+
+509
+00:21:44,458 --> 00:21:47,578
+organizations the head of EA is being told
+
+510
+00:21:47,578 --> 00:21:50,938
+by the CIO or even the CEO Hey you need
+
+511
+00:21:50,938 --> 00:21:52,778
+to be our AI leader You need to bring the
+
+512
+00:21:52,778 --> 00:21:54,938
+organization forward and figure out what's
+
+513
+00:21:54,938 --> 00:21:57,898
+the path for us when it comes to AI In
+
+514
+00:21:57,898 --> 00:21:59,978
+some other organizations right that that
+
+515
+00:22:00,858 --> 00:22:03,258
+request has been made to other groups That
+
+516
+00:22:03,338 --> 00:22:05,578
+really is the third step in sort of this
+
+517
+00:22:05,818 --> 00:22:08,298
+staircase diagram that we're looking at
+
+518
+00:22:08,298 --> 00:22:09,837
+here on the page Even
+
+519
+00:22:10,877 --> 00:22:12,637
+different places of the organization that
+
+520
+00:22:12,717 --> 00:22:14,957
+have been given this responsibility of hey
+
+521
+00:22:14,957 --> 00:22:17,837
+run forward with AI look at the
+
+522
+00:22:17,837 --> 00:22:19,437
+capabilities that we need the technologies
+
+523
+00:22:19,437 --> 00:22:20,877
+that we need tell us what we need so we
+
+524
+00:22:20,877 --> 00:22:23,117
+can make the right investments A lot of
+
+525
+00:22:23,117 --> 00:22:26,637
+times if it's given to the data and
+
+526
+00:22:26,637 --> 00:22:30,157
+analytics group or if it's given to the
+
+527
+00:22:30,317 --> 00:22:33,597
+COO or if it's given to you know the head
+
+528
+00:22:33,597 --> 00:22:35,765
+of enterprise applications All of these
+
+529
+00:22:35,765 --> 00:22:37,765
+individuals are coming at it from their
+
+530
+00:22:37,765 --> 00:22:40,485
+sort of siloed lens The benefit we have as
+
+531
+00:22:40,485 --> 00:22:41,925
+enterprise architects is we're able to
+
+532
+00:22:41,925 --> 00:22:43,765
+look across all these groups and say What
+
+533
+00:22:43,765 --> 00:22:45,776
+does the organization really need So I
+
+534
+00:22:45,776 --> 00:22:47,616
+would you know say we don't want to be
+
+535
+00:22:47,616 --> 00:22:49,136
+combative right That's not going to help
+
+536
+00:22:49,136 --> 00:22:50,736
+anybody But what we can do is we can be
+
+537
+00:22:50,736 --> 00:22:52,976
+collaborative right with those groups who
+
+538
+00:22:52,976 --> 00:22:54,736
+have been given those responsibilities and
+
+539
+00:22:54,736 --> 00:22:56,896
+say hey look I know you've been asked to
+
+540
+00:22:56,896 --> 00:22:58,816
+do this These other three groups in our
+
+541
+00:22:58,816 --> 00:23:00,816
+organization have also been asked to move
+
+542
+00:23:00,816 --> 00:23:03,216
+forward really fast with AI Let's you know
+
+543
+00:23:03,376 --> 00:23:05,216
+come together and see who's working on
+
+544
+00:23:05,216 --> 00:23:06,976
+what Make sure that we're not you know
+
+545
+00:23:06,976 --> 00:23:08,896
+putting forth any sort of redundant effort
+
+546
+00:23:09,136 --> 00:23:10,976
+that we're not investing in duplicative
+
+547
+00:23:11,056 --> 00:23:13,087
+capabilities And that we're really putting
+
+548
+00:23:13,087 --> 00:23:14,767
+our organization on the best path forward
+
+549
+00:23:14,767 --> 00:23:16,367
+That's a critical role that a head of
+
+550
+00:23:16,367 --> 00:23:18,207
+enterprise architecture can play that
+
+551
+00:23:18,207 --> 00:23:20,207
+really very few others in an organization
+
+552
+00:23:20,207 --> 00:23:22,127
+can So great question David
+
+553
+00:23:24,402 --> 00:23:25,842
+Let's let's keep moving We're going to
+
+554
+00:23:25,842 --> 00:23:28,082
+move to our second imperative for our
+
+555
+00:23:28,082 --> 00:23:31,042
+session today of the five imperatives that
+
+556
+00:23:31,042 --> 00:23:33,842
+we need to act on now to realize EA
+
+557
+00:23:33,842 --> 00:23:36,082
+success in twenty twenty six and beyond
+
+558
+00:23:36,402 --> 00:23:39,122
+The second again no surprise has to deal
+
+559
+00:23:39,122 --> 00:23:39,682
+with AI
+
+560
+00:23:40,569 --> 00:23:42,409
+This actually moves beyond just taking
+
+561
+00:23:42,489 --> 00:23:44,409
+that leadership role but it gets into a
+
+562
+00:23:44,409 --> 00:23:45,929
+little more the nitty gritty on what we
+
+563
+00:23:45,929 --> 00:23:49,369
+need to do to realize AI success So
+
+564
+00:23:49,609 --> 00:23:51,289
+Gartner's position Gartner's belief here
+
+565
+00:23:51,289 --> 00:23:54,009
+is that to scale enterprise AI value we as
+
+566
+00:23:54,009 --> 00:23:56,249
+heads of VA need to sort of abandon our
+
+567
+00:23:56,249 --> 00:23:58,169
+old ways of working those designfirst
+
+568
+00:23:58,489 --> 00:24:01,129
+habits and instead pursue what we call an
+
+569
+00:24:01,129 --> 00:24:05,838
+enable deploy and adapt approach So let's
+
+570
+00:24:05,838 --> 00:24:07,838
+get into what that means just a little bit
+
+571
+00:24:07,838 --> 00:24:09,438
+because I know we'll all have questions on
+
+572
+00:24:09,518 --> 00:24:09,758
+that
+
+573
+00:24:10,638 --> 00:24:13,038
+So when it comes to untangling the rollout
+
+574
+00:24:13,038 --> 00:24:15,678
+of AI across the enterprise what we know
+
+575
+00:24:15,678 --> 00:24:17,518
+from again our signature survey that we
+
+576
+00:24:17,518 --> 00:24:19,278
+just ran for heads of enterprise
+
+577
+00:24:19,278 --> 00:24:21,758
+architecture is that about only forty
+
+578
+00:24:21,758 --> 00:24:23,838
+percent of EA leaders believe that current
+
+579
+00:24:23,838 --> 00:24:26,524
+AI investments Will have a materially
+
+580
+00:24:26,924 --> 00:24:29,484
+positive impact on their organization's
+
+581
+00:24:29,484 --> 00:24:31,644
+financial performance Again this comes
+
+582
+00:24:31,644 --> 00:24:33,244
+from just sort of the pessimism that we're
+
+583
+00:24:33,324 --> 00:24:35,084
+probably seeing as enterprise architects
+
+584
+00:24:35,404 --> 00:24:36,844
+We see all these different parts of the
+
+585
+00:24:36,844 --> 00:24:38,604
+organization running in different
+
+586
+00:24:38,604 --> 00:24:40,204
+directions The decentralized
+
+587
+00:24:40,204 --> 00:24:43,404
+experimentation when it comes to AI and so
+
+588
+00:24:43,484 --> 00:24:45,324
+how do we actually solve for that Right
+
+589
+00:24:45,404 --> 00:24:48,044
+How do we get different stakeholder groups
+
+590
+00:24:48,044 --> 00:24:50,044
+within our organization to start picking
+
+591
+00:24:50,044 --> 00:24:52,223
+the right AI investments To start making
+
+592
+00:24:52,223 --> 00:24:54,143
+the right bets and to stop sort of running
+
+593
+00:24:54,143 --> 00:24:56,303
+over each other in the process so that we
+
+594
+00:24:56,303 --> 00:24:58,783
+can actually get to that enterprise AI
+
+595
+00:24:58,783 --> 00:25:00,623
+scale that's going to push our
+
+596
+00:25:00,623 --> 00:25:02,383
+organization forward into the future
+
+597
+00:25:03,189 --> 00:25:04,389
+So how do we do that Right How do we
+
+598
+00:25:04,469 --> 00:25:06,309
+execute How do we actually untangle the
+
+599
+00:25:06,309 --> 00:25:08,869
+rollout of AI across the enterprise Well
+
+600
+00:25:08,869 --> 00:25:10,149
+the first thing that we need to do is we
+
+601
+00:25:10,149 --> 00:25:13,189
+need to enable rapid and safe AI
+
+602
+00:25:13,189 --> 00:25:14,389
+experimentation
+
+603
+00:25:15,349 --> 00:25:15,589
+What
+
+604
+00:25:16,450 --> 00:25:18,770
+What does that mean right Well what it
+
+605
+00:25:18,770 --> 00:25:21,330
+means is we need to again using that sort
+
+606
+00:25:21,330 --> 00:25:23,890
+of elevator architect analogy We need to
+
+607
+00:25:23,890 --> 00:25:25,810
+get down into the weeds with our delivery
+
+608
+00:25:25,810 --> 00:25:27,570
+teams We need to see what they're actually
+
+609
+00:25:27,570 --> 00:25:29,650
+working on what they're considering when
+
+610
+00:25:29,650 --> 00:25:32,770
+it comes to AI investment and it really
+
+611
+00:25:32,770 --> 00:25:34,370
+comes from what their business partners
+
+612
+00:25:34,370 --> 00:25:37,490
+are asking them to do So this comes into
+
+613
+00:25:37,490 --> 00:25:39,730
+the conversation of a lot of AI use case
+
+614
+00:25:40,530 --> 00:25:42,736
+conversation Right and there was actually
+
+615
+00:25:42,736 --> 00:25:44,496
+a question in the chat just a couple
+
+616
+00:25:44,496 --> 00:25:46,976
+minutes ago about what AI use cases are
+
+617
+00:25:47,136 --> 00:25:48,976
+most prominent or most relevant for an EA
+
+618
+00:25:48,976 --> 00:25:51,216
+team We can absolutely talk about that and
+
+619
+00:25:51,216 --> 00:25:52,416
+we're going to talk about that towards the
+
+620
+00:25:52,416 --> 00:25:54,336
+end of our session today One of the things
+
+621
+00:25:54,336 --> 00:25:55,696
+that we also need to talk about is what
+
+622
+00:25:55,696 --> 00:25:57,136
+are the AI use cases that are most
+
+623
+00:25:57,136 --> 00:25:59,056
+relevant to your organization and how do
+
+624
+00:25:59,056 --> 00:26:01,296
+we quickly start to execute on those Right
+
+625
+00:26:01,296 --> 00:26:03,376
+so that's step one in terms of how we
+
+626
+00:26:03,456 --> 00:26:06,785
+untangle the rollout Right and we mark out
+
+627
+00:26:06,785 --> 00:26:08,145
+some bullet points on what that means here
+
+628
+00:26:08,145 --> 00:26:09,745
+provide lightweight clear and practical
+
+629
+00:26:09,745 --> 00:26:11,905
+guardrails encourage action over
+
+630
+00:26:11,905 --> 00:26:14,785
+documentation Let's not become roadblocks
+
+631
+00:26:14,865 --> 00:26:17,185
+to AI success by saying we need a
+
+632
+00:26:17,265 --> 00:26:19,665
+seventyfive page solution architecture
+
+633
+00:26:19,665 --> 00:26:21,425
+document before anybody does anything
+
+634
+00:26:21,985 --> 00:26:23,985
+That's not going to put us in the best
+
+635
+00:26:23,985 --> 00:26:26,590
+position to succeed The second step that
+
+636
+00:26:26,590 --> 00:26:28,590
+we need to act on here is we need to
+
+637
+00:26:28,590 --> 00:26:30,510
+deploy evolving best practices and
+
+638
+00:26:30,510 --> 00:26:32,830
+patterns So as we're working alongside
+
+639
+00:26:32,830 --> 00:26:34,270
+these delivery teams we're going to see
+
+640
+00:26:34,270 --> 00:26:36,910
+what's working and what's not and what the
+
+641
+00:26:37,070 --> 00:26:39,150
+benefit we have as enterprise architects
+
+642
+00:26:39,150 --> 00:26:41,134
+and heads of enterprise architecture Is we
+
+643
+00:26:41,134 --> 00:26:43,054
+can then take those learnings and we can
+
+644
+00:26:43,054 --> 00:26:45,054
+promote them across the organization using
+
+645
+00:26:45,054 --> 00:26:46,414
+all of the available channels that we
+
+646
+00:26:46,414 --> 00:26:48,094
+already have We can work with our
+
+647
+00:26:48,094 --> 00:26:50,814
+executive partners We can work with our
+
+648
+00:26:50,814 --> 00:26:52,254
+business leaders We can work with our
+
+649
+00:26:52,254 --> 00:26:54,414
+delivery teams and communities Many of you
+
+650
+00:26:54,494 --> 00:26:56,094
+probably have centers of excellence or
+
+651
+00:26:56,094 --> 00:26:58,014
+communities of practice that you can plug
+
+652
+00:26:58,014 --> 00:27:00,174
+into and promote these ways of working
+
+653
+00:27:00,494 --> 00:27:02,014
+that will help delivery teams only move
+
+654
+00:27:02,014 --> 00:27:04,734
+faster and in a safer way when it comes to
+
+655
+00:27:04,734 --> 00:27:05,774
+AI experimentation
+
+656
+00:27:07,991 --> 00:27:10,631
+And finally we have the third step here
+
+657
+00:27:10,631 --> 00:27:12,711
+right Adapt So we need to adapt
+
+658
+00:27:12,711 --> 00:27:16,791
+architecture to scale AI success and that
+
+659
+00:27:16,791 --> 00:27:20,391
+really comes down into the conversation of
+
+660
+00:27:20,471 --> 00:27:21,991
+what are we going to scale what are we
+
+661
+00:27:21,991 --> 00:27:23,991
+going to kill and we have to be very clear
+
+662
+00:27:23,991 --> 00:27:25,865
+and very objective about what we do Here
+
+663
+00:27:26,265 --> 00:27:29,465
+and again this is less about the science
+
+664
+00:27:29,545 --> 00:27:32,345
+of architecture and as I like to call it
+
+665
+00:27:32,345 --> 00:27:35,225
+sort of the art of architecture Because
+
+666
+00:27:35,225 --> 00:27:36,825
+what we're doing is oftentimes we're
+
+667
+00:27:36,905 --> 00:27:38,905
+playing the role of even a therapist for a
+
+668
+00:27:38,905 --> 00:27:40,882
+lot of these business leaders They are you
+
+669
+00:27:40,882 --> 00:27:43,602
+know very invested in their shiny new
+
+670
+00:27:43,602 --> 00:27:46,402
+object They want their project to succeed
+
+671
+00:27:46,642 --> 00:27:48,082
+but oftentimes what's best for the
+
+672
+00:27:48,082 --> 00:27:50,162
+organization is for that project to be
+
+673
+00:27:50,162 --> 00:27:52,438
+shut down Those resources To be freed up
+
+674
+00:27:52,438 --> 00:27:54,358
+and for them to be reinvested elsewhere
+
+675
+00:27:54,678 --> 00:27:55,958
+And as a head of enterprise architecture
+
+676
+00:27:55,958 --> 00:27:57,238
+what we have to do is we have to be
+
+677
+00:27:57,238 --> 00:27:58,998
+able to bring that individual to the table
+
+678
+00:27:59,318 --> 00:28:00,758
+bring them into the fold and help them
+
+679
+00:28:00,758 --> 00:28:02,918
+understand the benefits of what they're
+
+680
+00:28:02,998 --> 00:28:05,718
+going to gain from letting go Right And
+
+681
+00:28:05,718 --> 00:28:08,518
+and so that comes down to managing that
+
+682
+00:28:08,518 --> 00:28:09,238
+portfolio
+
+683
+00:28:10,118 --> 00:28:12,438
+playing that balancing act and and again
+
+684
+00:28:12,438 --> 00:28:14,198
+like I said sometimes even playing the
+
+685
+00:28:14,198 --> 00:28:16,198
+role of therapist to get people to to come
+
+686
+00:28:16,198 --> 00:28:18,438
+along and orchestrate all the stakeholders
+
+687
+00:28:18,438 --> 00:28:18,918
+that we need
+
+688
+00:28:21,275 --> 00:28:23,355
+All right Imperative three is about
+
+689
+00:28:23,355 --> 00:28:24,795
+building dynamic and adaptive
+
+690
+00:28:24,795 --> 00:28:26,715
+architectures This is a new concept that
+
+691
+00:28:26,715 --> 00:28:29,595
+we've been sort of outlining here at
+
+692
+00:28:29,675 --> 00:28:31,515
+Gartner and I'm excited to share it with
+
+693
+00:28:31,915 --> 00:28:34,795
+you Before we move forward just want to
+
+694
+00:28:34,795 --> 00:28:37,035
+see some of these questions that are
+
+695
+00:28:37,035 --> 00:28:38,155
+coming through in the chat
+
+696
+00:28:39,115 --> 00:28:40,315
+Ian asks a question
+
+697
+00:28:41,265 --> 00:28:43,345
+Our organization has a central AI center
+
+698
+00:28:43,345 --> 00:28:44,865
+of excellence separate from the main
+
+699
+00:28:44,865 --> 00:28:47,265
+architecture team How common is this and
+
+700
+00:28:47,265 --> 00:28:49,745
+is this best practice Yeah so Ian again
+
+701
+00:28:50,865 --> 00:28:52,145
+this is the point I was trying to make
+
+702
+00:28:52,145 --> 00:28:53,665
+about stepping into that AI leadership
+
+703
+00:28:53,665 --> 00:28:56,225
+vacuum There really is no common practice
+
+704
+00:28:56,465 --> 00:28:57,985
+There's really no
+
+705
+00:28:58,865 --> 00:29:00,465
+even sort of best practice that's already
+
+706
+00:29:00,465 --> 00:29:02,385
+been established about how you lead AI
+
+707
+00:29:02,385 --> 00:29:05,745
+within an organization What I have seen
+
+708
+00:29:06,065 --> 00:29:07,985
+multiple times across multiple teams and
+
+709
+00:29:08,465 --> 00:29:11,297
+multiple industries Is that the head of EA
+
+710
+00:29:11,297 --> 00:29:13,697
+is sort of attached initially with how do
+
+711
+00:29:13,697 --> 00:29:16,497
+we get AI off the ground and then to run
+
+712
+00:29:16,497 --> 00:29:18,657
+it operationally Sometimes we turn to that
+
+713
+00:29:18,657 --> 00:29:20,337
+center of excellence and that center of
+
+714
+00:29:20,337 --> 00:29:22,257
+excellence is basically a cross section of
+
+715
+00:29:22,257 --> 00:29:24,097
+all of the stakeholders that we would have
+
+716
+00:29:24,177 --> 00:29:26,017
+to be orchestrating Right So going back to
+
+717
+00:29:26,097 --> 00:29:28,497
+that third step in that staircase diagram
+
+718
+00:29:29,146 --> 00:29:31,226
+That's really our job is figuring out who
+
+719
+00:29:31,226 --> 00:29:33,226
+in the organization needs to be in that
+
+720
+00:29:33,226 --> 00:29:34,906
+center of excellence and if that center of
+
+721
+00:29:34,906 --> 00:29:36,746
+excellence is already established it's how
+
+722
+00:29:36,746 --> 00:29:38,826
+do we get all of those players to work
+
+723
+00:29:38,826 --> 00:29:40,506
+together in the best possible way that
+
+724
+00:29:40,506 --> 00:29:43,752
+they can Um so again great question great
+
+725
+00:29:43,752 --> 00:29:45,912
+question And if everybody if you see a
+
+726
+00:29:45,912 --> 00:29:47,512
+question that's being asked and you have
+
+727
+00:29:47,512 --> 00:29:49,352
+the same one just go ahead and give it a
+
+728
+00:29:49,352 --> 00:29:51,432
+thumbs up I'm looking at the most voted
+
+729
+00:29:51,432 --> 00:29:54,072
+questions here just so that we can get the
+
+730
+00:29:54,072 --> 00:29:56,632
+the questions answered that everybody has
+
+731
+00:29:56,632 --> 00:29:57,912
+the most interest in
+
+732
+00:29:59,288 --> 00:30:01,208
+Before we move on to the third imperative
+
+733
+00:30:01,528 --> 00:30:02,888
+just looking at time here we probably have
+
+734
+00:30:02,888 --> 00:30:04,568
+time for one more James you've got a
+
+735
+00:30:04,648 --> 00:30:06,648
+question How do you deal with the
+
+736
+00:30:06,648 --> 00:30:07,368
+development
+
+737
+00:30:08,248 --> 00:30:09,288
+and
+
+738
+00:30:10,408 --> 00:30:12,488
+business teams' inability and
+
+739
+00:30:12,488 --> 00:30:14,488
+unwillingness to adequately assess the
+
+740
+00:30:14,488 --> 00:30:17,688
+business benefits and actual cost of AI
+
+741
+00:30:18,088 --> 00:30:22,248
+before building something that might not
+
+742
+00:30:22,248 --> 00:30:24,168
+make sense The rush to doing POCs and
+
+743
+00:30:24,168 --> 00:30:26,008
+pilots without any clarity of business
+
+744
+00:30:26,008 --> 00:30:26,328
+value
+
+745
+00:30:27,411 --> 00:30:28,931
+Absolutely absolutely
+
+746
+00:30:29,971 --> 00:30:32,611
+So that's where that conversation about
+
+747
+00:30:32,611 --> 00:30:35,756
+use cases becomes really critical Um and
+
+748
+00:30:36,076 --> 00:30:39,116
+James what I would recommend is as heads
+
+749
+00:30:39,116 --> 00:30:41,116
+of enterprise architecture we have to if
+
+750
+00:30:41,116 --> 00:30:42,476
+we haven't already started we have to
+
+751
+00:30:42,476 --> 00:30:44,716
+start doing our homework on the top use
+
+752
+00:30:44,716 --> 00:30:47,116
+cases for our organization That means
+
+753
+00:30:47,116 --> 00:30:49,196
+staying on top of industry press that
+
+754
+00:30:49,196 --> 00:30:51,356
+means having real conversations with our
+
+755
+00:30:51,356 --> 00:30:53,996
+business partners today that means looking
+
+756
+00:30:53,996 --> 00:30:56,156
+at what's actually feasible from AI
+
+757
+00:30:56,156 --> 00:30:57,996
+vendors and their marketplaces of
+
+758
+00:30:58,076 --> 00:31:00,476
+capabilities Um and then you know from a
+
+759
+00:31:00,476 --> 00:31:02,476
+Gartner perspective we absolutely can help
+
+760
+00:31:02,476 --> 00:31:04,507
+with that If you haven't seen it what we
+
+761
+00:31:04,507 --> 00:31:07,227
+have is we actually have an entire AI use
+
+762
+00:31:07,227 --> 00:31:09,867
+case dashboard that is broken down by
+
+763
+00:31:09,947 --> 00:31:12,187
+industry that's broken down by functional
+
+764
+00:31:12,267 --> 00:31:13,787
+area of the organization whether it be
+
+765
+00:31:13,787 --> 00:31:17,867
+marketing whether it be supply chain HR IT
+
+766
+00:31:17,947 --> 00:31:20,427
+you name it And we're we're starting to
+
+767
+00:31:20,427 --> 00:31:22,347
+see all of these use cases that actually
+
+768
+00:31:22,347 --> 00:31:24,107
+have promise We're figuring out which
+
+769
+00:31:24,107 --> 00:31:25,947
+organizations have done it successfully
+
+770
+00:31:25,947 --> 00:31:27,867
+We're providing them as case studies and
+
+771
+00:31:27,867 --> 00:31:30,347
+we're actually giving you a ranking of AI
+
+772
+00:31:30,347 --> 00:31:33,917
+use cases In terms of business benefit and
+
+773
+00:31:34,077 --> 00:31:36,797
+then feasibility right So and and risks
+
+774
+00:31:36,797 --> 00:31:38,557
+included in that feasibility metric as
+
+775
+00:31:38,557 --> 00:31:40,557
+well So you can start to if you haven't
+
+776
+00:31:40,557 --> 00:31:42,157
+already go into that dashboard start
+
+777
+00:31:42,157 --> 00:31:43,437
+seeing what's relevant for your
+
+778
+00:31:43,437 --> 00:31:45,357
+organization and bring that into the
+
+779
+00:31:45,357 --> 00:31:47,757
+conversations you are having Excuse me
+
+780
+00:31:47,757 --> 00:31:49,917
+with your with your teams right Because
+
+781
+00:31:50,798 --> 00:31:51,998
+That's the only way we're going to get
+
+782
+00:31:51,998 --> 00:31:53,918
+people to consider what's going to work
+
+783
+00:31:53,918 --> 00:31:55,998
+and what is not going to work is if we
+
+784
+00:31:55,998 --> 00:31:58,318
+have some sort of way to to think about
+
+785
+00:31:58,318 --> 00:32:00,718
+this simply right business value versus
+
+786
+00:32:00,718 --> 00:32:04,078
+feasibility and then start plotting our
+
+787
+00:32:04,078 --> 00:32:06,718
+prioritized use cases against it And that
+
+788
+00:32:06,718 --> 00:32:08,798
+doesn't mean that we you slow people down
+
+789
+00:32:08,798 --> 00:32:11,038
+on the move to POCs What it means is that
+
+790
+00:32:11,038 --> 00:32:12,718
+we at least just ask the right questions
+
+791
+00:32:12,718 --> 00:32:13,438
+before we get there
+
+792
+00:32:17,144 --> 00:32:19,944
+All right just looking at time here Let's
+
+793
+00:32:19,944 --> 00:32:21,864
+jump into this third imperative about
+
+794
+00:32:21,864 --> 00:32:23,304
+building dynamic and adaptive
+
+795
+00:32:23,304 --> 00:32:23,864
+architectures
+
+796
+00:32:24,984 --> 00:32:28,024
+So again Gartner's position is that head
+
+797
+00:32:28,104 --> 00:32:30,584
+to VA must build dynamic architectures
+
+798
+00:32:30,984 --> 00:32:32,744
+that adapt to shifts in enterprise
+
+799
+00:32:32,744 --> 00:32:33,464
+conditions
+
+800
+00:32:35,317 --> 00:32:36,677
+So there's a really interesting data point
+
+801
+00:32:36,677 --> 00:32:37,717
+that I wanted to bring to people's
+
+802
+00:32:37,717 --> 00:32:38,357
+attention
+
+803
+00:32:39,637 --> 00:32:41,797
+We asked about this actually just in our
+
+804
+00:32:41,957 --> 00:32:44,357
+last agenda poll that we got back just a
+
+805
+00:32:44,357 --> 00:32:46,357
+couple weeks ago and what we saw is that
+
+806
+00:32:46,357 --> 00:32:49,717
+only 25 of HEDSVA are very confident in
+
+807
+00:32:49,717 --> 00:32:51,717
+their ability to adapt architectures to
+
+808
+00:32:51,717 --> 00:32:54,037
+rapid business changes And why does this
+
+809
+00:32:54,037 --> 00:32:55,877
+matter Well when we were going over sort
+
+810
+00:32:55,877 --> 00:32:57,957
+of the macro challenges that organizations
+
+811
+00:32:58,037 --> 00:33:01,280
+face today we were looking at Things like
+
+812
+00:33:01,280 --> 00:33:04,480
+geopolitical instability right And one
+
+813
+00:33:04,480 --> 00:33:06,400
+risk that's really risen to the top of a
+
+814
+00:33:06,400 --> 00:33:09,200
+lot of organizations' profiles today is
+
+815
+00:33:09,200 --> 00:33:11,680
+sovereignty right Cloud sovereignty AI
+
+816
+00:33:11,680 --> 00:33:13,680
+sovereignty you know business sovereignty
+
+817
+00:33:14,080 --> 00:33:16,000
+Where are we actually going to be allowed
+
+818
+00:33:16,080 --> 00:33:18,160
+to operate and where can we source
+
+819
+00:33:18,160 --> 00:33:20,400
+capabilities and which partners can we
+
+820
+00:33:20,400 --> 00:33:22,240
+work with based on where they're at in the
+
+821
+00:33:22,240 --> 00:33:26,042
+world That has a immediate impact on our
+
+822
+00:33:26,042 --> 00:33:27,962
+architectures because a lot of them break
+
+823
+00:33:28,282 --> 00:33:31,082
+if you know two regions of the world
+
+824
+00:33:31,882 --> 00:33:34,442
+suddenly cannot trade with each other or
+
+825
+00:33:34,442 --> 00:33:36,602
+you know the level of
+
+826
+00:33:39,002 --> 00:33:40,922
+fiscal policy that's being implemented in
+
+827
+00:33:40,922 --> 00:33:43,962
+a certain area just becomes too much of a
+
+828
+00:33:43,962 --> 00:33:46,842
+burden and we then you know cannot operate
+
+829
+00:33:46,842 --> 00:33:49,562
+feasibly in that area or source from that
+
+830
+00:33:49,642 --> 00:33:52,728
+area And so the the thing that we need
+
+831
+00:33:52,728 --> 00:33:55,048
+actually is a whole new way about thinking
+
+832
+00:33:55,048 --> 00:33:58,728
+about the the enterprise architecture for
+
+833
+00:33:58,728 --> 00:33:59,528
+the organization
+
+834
+00:34:00,558 --> 00:34:03,038
+And so what we're starting to call this is
+
+835
+00:34:03,038 --> 00:34:05,998
+we're starting to call this a dynamic
+
+836
+00:34:05,998 --> 00:34:07,758
+state architecture But before I get to
+
+837
+00:34:07,758 --> 00:34:09,838
+that concept let's just play out
+
+838
+00:34:10,078 --> 00:34:12,558
+traditionally what happens Right So as as
+
+839
+00:34:12,558 --> 00:34:14,158
+heads of enterprise architecture as people
+
+840
+00:34:14,158 --> 00:34:15,758
+that lead EA teams or as enterprise
+
+841
+00:34:15,758 --> 00:34:17,998
+architects ourselves what we always do is
+
+842
+00:34:17,998 --> 00:34:18,798
+we say Well
+
+843
+00:34:20,182 --> 00:34:21,862
+Where does the organization want to go
+
+844
+00:34:22,262 --> 00:34:23,622
+right So what does our future state
+
+845
+00:34:23,622 --> 00:34:25,862
+architecture look like And we look at lots
+
+846
+00:34:25,862 --> 00:34:27,142
+of different things within that future
+
+847
+00:34:27,142 --> 00:34:28,982
+state architecture We'll look at our
+
+848
+00:34:28,982 --> 00:34:30,982
+business and technical capabilities We'll
+
+849
+00:34:30,982 --> 00:34:33,382
+look at our delivery model We'll look at
+
+850
+00:34:33,382 --> 00:34:35,942
+our current technology investments We'll
+
+851
+00:34:35,942 --> 00:34:37,462
+look at the governance model that we have
+
+852
+00:34:37,462 --> 00:34:39,222
+in place The outcomes that the
+
+853
+00:34:39,302 --> 00:34:41,142
+organization is trying to achieve and say
+
+854
+00:34:41,142 --> 00:34:42,502
+all right well how does everything need to
+
+855
+00:34:42,502 --> 00:34:43,782
+fit together What does everything need to
+
+856
+00:34:43,782 --> 00:34:46,074
+look like in that future state And then
+
+857
+00:34:46,074 --> 00:34:47,594
+we'll we'll say all right Well if that's
+
+858
+00:34:47,594 --> 00:34:49,994
+where we want to go what do we currently
+
+859
+00:34:50,074 --> 00:34:51,914
+have And we'll look at that current state
+
+860
+00:34:51,914 --> 00:34:54,474
+architecture Right same same building
+
+861
+00:34:54,474 --> 00:34:56,874
+blocks but just from the lens of what we
+
+862
+00:34:56,874 --> 00:34:59,725
+already have The challenge is is that our
+
+863
+00:34:59,805 --> 00:35:03,405
+organization moves faster than we realize
+
+864
+00:35:03,405 --> 00:35:06,285
+those future states right And so what we
+
+865
+00:35:06,285 --> 00:35:09,485
+have is this future state this beautiful
+
+866
+00:35:09,485 --> 00:35:11,565
+piece of you know architecture diagram
+
+867
+00:35:11,565 --> 00:35:13,325
+work that we've done on the right hand
+
+868
+00:35:13,325 --> 00:35:14,365
+side of the page
+
+869
+00:35:16,497 --> 00:35:18,577
+But our organization's current state is
+
+870
+00:35:18,577 --> 00:35:21,297
+already maybe five or six iterations past
+
+871
+00:35:21,537 --> 00:35:24,177
+what we started with By the time we even
+
+872
+00:35:24,177 --> 00:35:25,857
+get close to realizing that feature state
+
+873
+00:35:25,857 --> 00:35:27,942
+architecture And that is because of a lot
+
+874
+00:35:27,942 --> 00:35:29,222
+of the different risks that we've just
+
+875
+00:35:29,222 --> 00:35:30,582
+been talking about geopolitical
+
+876
+00:35:30,582 --> 00:35:31,142
+instability
+
+877
+00:35:32,982 --> 00:35:35,862
+cost optimization sovereignty as a risk
+
+878
+00:35:36,342 --> 00:35:38,422
+Right And so what we need to do is instead
+
+879
+00:35:38,422 --> 00:35:41,142
+of planning for a fixed longterm vision we
+
+880
+00:35:41,142 --> 00:35:43,462
+need to monitor in real time how our
+
+881
+00:35:43,462 --> 00:35:45,542
+current state is changing and then
+
+882
+00:35:45,542 --> 00:35:47,142
+reconfigure dynamically
+
+883
+00:35:48,152 --> 00:35:50,632
+And what that requires is it requires us
+
+884
+00:35:50,712 --> 00:35:52,472
+to look at each one of those building
+
+885
+00:35:52,472 --> 00:35:54,232
+blocks whether it be business and
+
+886
+00:35:54,232 --> 00:35:55,992
+technical capabilities whether it be our
+
+887
+00:35:55,992 --> 00:35:58,792
+delivery model or the way that we do
+
+888
+00:35:58,792 --> 00:36:02,053
+technology investment Or how we govern the
+
+889
+00:36:02,133 --> 00:36:04,453
+IT portfolio We need to look at all of
+
+890
+00:36:04,453 --> 00:36:06,373
+those different things and we need to say
+
+891
+00:36:06,373 --> 00:36:09,013
+how can we even shift those things to be
+
+892
+00:36:09,653 --> 00:36:12,293
+more autonomous those things to be more
+
+893
+00:36:12,293 --> 00:36:14,853
+automated or for them to at least be able
+
+894
+00:36:14,933 --> 00:36:17,173
+to reconfigure dynamically and more
+
+895
+00:36:17,173 --> 00:36:20,773
+modularly than they have been before And
+
+896
+00:36:21,013 --> 00:36:23,653
+so there's a lot that we can get into here
+
+897
+00:36:23,653 --> 00:36:26,095
+We're not going to have time Cover it all
+
+898
+00:36:26,095 --> 00:36:27,775
+today If you have further questions on
+
+899
+00:36:27,775 --> 00:36:29,615
+this this would be a great one to follow
+
+900
+00:36:29,615 --> 00:36:31,055
+up with one of the analysts on our team
+
+901
+00:36:31,375 --> 00:36:32,815
+because they can unpack each one of these
+
+902
+00:36:32,815 --> 00:36:35,455
+building blocks and help your organization
+
+903
+00:36:35,535 --> 00:36:37,055
+figure out Well how do we move from sort
+
+904
+00:36:37,055 --> 00:36:39,375
+of those static stagnant future state
+
+905
+00:36:39,375 --> 00:36:41,477
+architectures That really never get
+
+906
+00:36:41,557 --> 00:36:44,517
+realized to actually being able to adapt
+
+907
+00:36:44,597 --> 00:36:46,997
+and shift with our organization as these
+
+908
+00:36:46,997 --> 00:36:49,077
+new enterprise conditions are introduced
+
+909
+00:36:49,717 --> 00:36:52,517
+So again a very fascinating area a very
+
+910
+00:36:52,517 --> 00:36:54,437
+real thing that we all need to be working
+
+911
+00:36:54,437 --> 00:36:59,077
+on Let's see are there other questions
+
+912
+00:36:59,077 --> 00:36:59,957
+here in the chat that we should be
+
+913
+00:36:59,957 --> 00:37:00,517
+answering
+
+914
+00:37:02,378 --> 00:37:04,218
+Let's see a lot of AI questions A lot of
+
+915
+00:37:04,218 --> 00:37:05,498
+great AI questions So
+
+916
+00:37:06,298 --> 00:37:09,338
+somebody asked What are the key artifacts
+
+917
+00:37:09,418 --> 00:37:11,658
+that you would expect EA to ask solution
+
+918
+00:37:11,738 --> 00:37:14,618
+teams working on AI projects to produce
+
+919
+00:37:15,098 --> 00:37:16,858
+Would you have templates to share
+
+920
+00:37:17,968 --> 00:37:20,528
+Yeah absolutely So this goes back to sort
+
+921
+00:37:20,528 --> 00:37:22,848
+of like our abandon old design first
+
+922
+00:37:22,848 --> 00:37:23,328
+habits
+
+923
+00:37:24,368 --> 00:37:26,608
+Sometimes we're not going to have the time
+
+924
+00:37:26,608 --> 00:37:28,048
+to put together a seventyfive page
+
+925
+00:37:28,288 --> 00:37:31,168
+solution architecture document
+
+926
+00:37:32,040 --> 00:37:35,000
+If we really want to enable and realize
+
+927
+00:37:35,000 --> 00:37:36,920
+the value from a particular AI capability
+
+928
+00:37:37,720 --> 00:37:39,560
+what we should do is we should do sort of
+
+929
+00:37:39,640 --> 00:37:41,720
+that you know business of value versus
+
+930
+00:37:41,800 --> 00:37:44,440
+feasibility risk analysis and then we
+
+931
+00:37:44,440 --> 00:37:48,280
+should have at least considered the
+
+932
+00:37:48,920 --> 00:37:51,320
+alternative solutions in terms of how
+
+933
+00:37:51,320 --> 00:37:52,520
+we're going to source this or we're going
+
+934
+00:37:52,600 --> 00:37:56,760
+to build by blend But then beyond that
+
+935
+00:37:56,920 --> 00:37:59,609
+right Sometimes we just there's There's
+
+936
+00:37:59,609 --> 00:38:00,969
+just not the time for those traditional
+
+937
+00:38:00,969 --> 00:38:03,849
+artifacts and so what I would recommend is
+
+938
+00:38:03,849 --> 00:38:07,689
+instead of pursuing assurance by document
+
+939
+00:38:08,089 --> 00:38:10,969
+is pursue assurance by partnership Right
+
+940
+00:38:11,129 --> 00:38:13,289
+actually get down alongside these delivery
+
+941
+00:38:13,289 --> 00:38:15,289
+teams and help them move faster See the
+
+942
+00:38:15,289 --> 00:38:16,969
+risks that they as they come and you're
+
+943
+00:38:16,969 --> 00:38:18,409
+going to be able to help those delivery
+
+944
+00:38:18,409 --> 00:38:20,249
+teams navigate a lot of that complexity
+
+945
+00:38:20,489 --> 00:38:23,209
+that we try to mitigate by packing it all
+
+946
+00:38:23,209 --> 00:38:24,809
+into a document that can then be
+
+947
+00:38:24,889 --> 00:38:26,409
+referenced at a later point in time
+
+948
+00:38:28,395 --> 00:38:29,515
+Um
+
+949
+00:38:31,115 --> 00:38:32,875
+let's see Another question here Is it
+
+950
+00:38:32,875 --> 00:38:35,515
+worthwhile to ready EA pattern and
+
+951
+00:38:35,515 --> 00:38:38,955
+framework guidance as policy in markdown
+
+952
+00:38:38,955 --> 00:38:41,595
+format for inclusion in a context layer
+
+953
+00:38:41,915 --> 00:38:44,315
+for agentic solutions to consume
+
+954
+00:38:45,275 --> 00:38:47,435
+Dave you're getting ahead of me here We're
+
+955
+00:38:47,515 --> 00:38:49,435
+absolutely going to talk about this when
+
+956
+00:38:49,435 --> 00:38:53,435
+we wrap up with reimagining EA with AI Um
+
+957
+00:38:54,344 --> 00:38:56,504
+But I will just say a piece of that
+
+958
+00:38:56,584 --> 00:38:58,984
+actually is is very important to what
+
+959
+00:38:58,984 --> 00:39:00,504
+we're looking at here on the page
+
+960
+00:39:01,384 --> 00:39:03,064
+about building dynamic and adaptive
+
+961
+00:39:03,064 --> 00:39:05,624
+architectures The orchestration layer
+
+962
+00:39:06,024 --> 00:39:07,864
+within our digital foundations within our
+
+963
+00:39:07,864 --> 00:39:09,944
+technology stack is going to become more
+
+964
+00:39:09,944 --> 00:39:12,325
+important than ever Right the ability to
+
+965
+00:39:12,565 --> 00:39:15,365
+orchestrate and multiagent systems Right
+
+966
+00:39:15,365 --> 00:39:16,965
+every vendor is pushing that they have a
+
+967
+00:39:16,965 --> 00:39:19,285
+multiagent system whether it be Salesforce
+
+968
+00:39:19,365 --> 00:39:22,245
+whether it be SAP whether it be Oracle
+
+969
+00:39:22,245 --> 00:39:23,525
+whoever it is Right
+
+970
+00:39:24,485 --> 00:39:26,725
+it's great that they are providing agents
+
+971
+00:39:26,805 --> 00:39:28,965
+to our organization How do all of those
+
+972
+00:39:28,965 --> 00:39:30,965
+agents work together to actually
+
+973
+00:39:30,965 --> 00:39:33,285
+accomplish goals that our organization has
+
+974
+00:39:33,810 --> 00:39:35,330
+And so that's where that orchestration
+
+975
+00:39:35,330 --> 00:39:37,250
+layer becomes more critical than ever has
+
+976
+00:39:37,330 --> 00:39:39,410
+been And we as enterprise architects and
+
+977
+00:39:39,490 --> 00:39:41,010
+people who lead enterprise architecture
+
+978
+00:39:41,010 --> 00:39:43,090
+teams we need to be very clear on what
+
+979
+00:39:43,090 --> 00:39:44,530
+that orchestration layer needs to look
+
+980
+00:39:44,530 --> 00:39:46,450
+like and we need to start building it But
+
+981
+00:39:46,450 --> 00:39:48,610
+again we can't build it in a fashion of
+
+982
+00:39:48,850 --> 00:39:50,130
+here's what it's going to look like three
+
+983
+00:39:50,130 --> 00:39:52,050
+years from now in a nice pretty picture We
+
+984
+00:39:52,050 --> 00:39:54,050
+need to realize that the current state of
+
+985
+00:39:54,050 --> 00:39:55,970
+our organization's orchestration layer
+
+986
+00:39:56,050 --> 00:39:58,352
+even Is going to change seven times before
+
+987
+00:39:58,352 --> 00:40:00,112
+we get it right and so we need to be
+
+988
+00:40:00,112 --> 00:40:02,192
+very in tune with how that is changing and
+
+989
+00:40:02,192 --> 00:40:04,752
+help design those changes and reconfigure
+
+990
+00:40:04,752 --> 00:40:07,114
+when things are not working Right So again
+
+991
+00:40:07,194 --> 00:40:08,714
+that that that ties into what we're
+
+992
+00:40:08,714 --> 00:40:10,154
+talking about here with dynamic and
+
+993
+00:40:10,154 --> 00:40:12,714
+adaptive architectures and then how we
+
+994
+00:40:13,274 --> 00:40:15,514
+build EA guidance in a way that can be
+
+995
+00:40:15,514 --> 00:40:17,834
+consumed by agents It's a fascinating
+
+996
+00:40:17,834 --> 00:40:19,114
+question We'll get to it here in just a
+
+997
+00:40:19,194 --> 00:40:20,554
+couple minutes So so bear with me
+
+998
+00:40:22,713 --> 00:40:24,313
+All right we've got about twenty minutes
+
+999
+00:40:24,313 --> 00:40:26,713
+left in our time together today Time is
+
+1000
+00:40:26,713 --> 00:40:28,473
+flying We've got two more imperatives that
+
+1001
+00:40:28,473 --> 00:40:29,913
+I want to talk about and then there's
+
+1002
+00:40:29,913 --> 00:40:31,993
+going to be a poll question We'll wrap up
+
+1003
+00:40:31,993 --> 00:40:34,153
+with some pragmatic steps The fourth
+
+1004
+00:40:34,153 --> 00:40:35,593
+imperative that we're going to look at
+
+1005
+00:40:35,593 --> 00:40:37,193
+here in terms of the five things that we
+
+1006
+00:40:37,193 --> 00:40:39,433
+got to do to drive success in 2026
+
+1007
+00:40:40,313 --> 00:40:40,953
+is that we have to
+
+1008
+00:40:41,833 --> 00:40:44,713
+both act as an investment advisor and a
+
+1009
+00:40:44,713 --> 00:40:46,953
+venture capitalist in terms of helping to
+
+1010
+00:40:47,033 --> 00:40:50,233
+guide our CIO in balancing those immediate
+
+1011
+00:40:50,313 --> 00:40:52,697
+and long term IT investments Again this
+
+1012
+00:40:52,697 --> 00:40:53,897
+goes back to the sort of that macro
+
+1013
+00:40:53,977 --> 00:40:56,057
+challenge about you know those easy cuts
+
+1014
+00:40:56,057 --> 00:40:58,297
+have been exhausted So what do we do now
+
+1015
+00:40:58,697 --> 00:41:03,017
+And you know what we see in terms of the
+
+1016
+00:41:03,097 --> 00:41:04,777
+data that we get back from heads of
+
+1017
+00:41:04,777 --> 00:41:07,097
+enterprise architecture is that seventy
+
+1018
+00:41:07,097 --> 00:41:08,697
+nine percent of EA leaders claim that they
+
+1019
+00:41:08,697 --> 00:41:10,377
+are responsible for the IT cost
+
+1020
+00:41:10,377 --> 00:41:13,177
+optimization strategy and held accountable
+
+1021
+00:41:13,177 --> 00:41:14,937
+for actual cost optimization realized
+
+1022
+00:41:15,474 --> 00:41:17,154
+Right so this is factoring into our annual
+
+1023
+00:41:17,154 --> 00:41:19,074
+goals This is how our performance is being
+
+1024
+00:41:19,074 --> 00:41:21,554
+measured Are we able to successfully
+
+1025
+00:41:21,554 --> 00:41:23,314
+balance those shortterm costcutting
+
+1026
+00:41:23,314 --> 00:41:26,594
+strategies with the longterm cost
+
+1027
+00:41:26,594 --> 00:41:28,674
+optimization approaches that we need to
+
+1028
+00:41:28,674 --> 00:41:31,074
+really drive growth in the future And how
+
+1029
+00:41:31,074 --> 00:41:33,714
+do we balance those two things for our CIO
+
+1030
+00:41:34,121 --> 00:41:37,241
+And so what we are positioning here at
+
+1031
+00:41:37,241 --> 00:41:39,721
+Gartner is that you really need to play
+
+1032
+00:41:39,721 --> 00:41:41,721
+both roles at the same time So we need to
+
+1033
+00:41:41,721 --> 00:41:44,441
+be both the financial advisor and the
+
+1034
+00:41:44,441 --> 00:41:46,441
+venture capitalist And what does that
+
+1035
+00:41:46,441 --> 00:41:48,601
+really mean Well the first is that we need
+
+1036
+00:41:48,601 --> 00:41:51,081
+to as the financial advisor pursue those
+
+1037
+00:41:51,241 --> 00:41:53,241
+IT cost reduction and optimization
+
+1038
+00:41:53,241 --> 00:41:54,909
+initiatives We need to be able to
+
+1039
+00:41:54,909 --> 00:41:57,949
+eliminate waste maximize value and align
+
+1040
+00:41:58,269 --> 00:42:00,749
+IT spend with business strategy And at the
+
+1041
+00:42:00,749 --> 00:42:03,229
+same time and on the other hand we need to
+
+1042
+00:42:03,229 --> 00:42:06,429
+be the CIO's venture capitalist We need to
+
+1043
+00:42:06,429 --> 00:42:08,829
+be on the lookout scanning the horizon for
+
+1044
+00:42:08,829 --> 00:42:10,829
+those technology investment opportunities
+
+1045
+00:42:11,149 --> 00:42:12,989
+We need to be able to identify assess and
+
+1046
+00:42:12,989 --> 00:42:14,989
+enable those investments that are going to
+
+1047
+00:42:15,069 --> 00:42:16,189
+drive innovation and
+
+1048
+00:42:17,149 --> 00:42:18,749
+competitive advantage within our
+
+1049
+00:42:18,749 --> 00:42:21,386
+organization It was funny We were sharing
+
+1050
+00:42:21,866 --> 00:42:23,226
+some of these positions and some of these
+
+1051
+00:42:23,226 --> 00:42:25,866
+findings with with a group of heads of
+
+1052
+00:42:25,866 --> 00:42:27,786
+enterprise architecture a couple weeks ago
+
+1053
+00:42:28,266 --> 00:42:30,346
+and one of them spoke up and they said Hey
+
+1054
+00:42:30,346 --> 00:42:32,026
+you know my CIO came to my office
+
+1055
+00:42:32,986 --> 00:42:35,866
+the other day and they said that yeah your
+
+1056
+00:42:35,866 --> 00:42:36,986
+role as the head of enterprise
+
+1057
+00:42:36,986 --> 00:42:38,586
+architecture is that you are now the
+
+1058
+00:42:38,586 --> 00:42:40,266
+venture capitalist for our organization
+
+1059
+00:42:40,854 --> 00:42:42,854
+And I think this just rings true because
+
+1060
+00:42:42,854 --> 00:42:46,134
+we see that tidal wave of AI capabilities
+
+1061
+00:42:46,134 --> 00:42:48,374
+crashing in on our organization We see
+
+1062
+00:42:48,374 --> 00:42:50,854
+emerging technologies beyond AI whether it
+
+1063
+00:42:50,854 --> 00:42:54,054
+be you know post quantum cryptography or
+
+1064
+00:42:54,694 --> 00:42:57,414
+physical AI You know the the bringing of
+
+1065
+00:42:57,414 --> 00:43:00,134
+AI capabilities into polyfunctional or
+
+1066
+00:43:00,134 --> 00:43:02,294
+humanoid robots These things are not that
+
+1067
+00:43:02,374 --> 00:43:04,774
+far off in terms of their impact or
+
+1068
+00:43:04,774 --> 00:43:07,334
+ability to impact organizations today We
+
+1069
+00:43:07,334 --> 00:43:08,854
+as heads of enterprise architecture need
+
+1070
+00:43:08,854 --> 00:43:11,781
+to be experts in The technology in sort of
+
+1071
+00:43:11,781 --> 00:43:13,861
+that twelve to eighteen month maybe twenty
+
+1072
+00:43:13,861 --> 00:43:16,261
+four month horizon that has that risk or
+
+1073
+00:43:16,261 --> 00:43:18,421
+opportunity for our organization and be
+
+1074
+00:43:18,421 --> 00:43:20,901
+guiding our stakeholder groups on how they
+
+1075
+00:43:20,901 --> 00:43:23,381
+can actually act on and realize value from
+
+1076
+00:43:23,381 --> 00:43:24,421
+those technologies now
+
+1077
+00:43:27,579 --> 00:43:30,299
+Great So that brings us through four of
+
+1078
+00:43:30,299 --> 00:43:32,699
+the things that we need to do today to
+
+1079
+00:43:32,699 --> 00:43:35,179
+realize success for EA in 2026
+
+1080
+00:43:38,275 --> 00:43:39,635
+Just looking at the chat
+
+1081
+00:43:40,915 --> 00:43:43,395
+Ian Ian you've got another great question
+
+1082
+00:43:43,395 --> 00:43:45,555
+here A lot of people also had the same
+
+1083
+00:43:45,555 --> 00:43:47,155
+question Looks like a lot of thumbs up on
+
+1084
+00:43:47,155 --> 00:43:49,155
+this one Are you going to take into
+
+1085
+00:43:49,155 --> 00:43:51,627
+account different levels of maturity In
+
+1086
+00:43:51,707 --> 00:43:54,907
+different organizations yeah So when we
+
+1087
+00:43:54,907 --> 00:43:56,907
+gather survey data we make sure that we
+
+1088
+00:43:56,907 --> 00:43:58,187
+get a cross section of
+
+1089
+00:43:59,387 --> 00:44:03,787
+industry of EA profile right So when you
+
+1090
+00:44:03,787 --> 00:44:05,627
+look at the the findings that we're
+
+1091
+00:44:05,627 --> 00:44:07,867
+sharing with you this is not from the most
+
+1092
+00:44:07,867 --> 00:44:09,467
+mature clients right I would say this is
+
+1093
+00:44:09,467 --> 00:44:11,547
+actually where you know sort of the middle
+
+1094
+00:44:11,547 --> 00:44:13,321
+of the bell curve is in terms Of where
+
+1095
+00:44:13,321 --> 00:44:15,001
+heads of enterprise architecture are at
+
+1096
+00:44:15,321 --> 00:44:16,841
+what they're doing the challenges that
+
+1097
+00:44:16,841 --> 00:44:19,321
+they're considering If you're in you know
+
+1098
+00:44:19,321 --> 00:44:22,201
+more of a leading EA practice versus more
+
+1099
+00:44:22,201 --> 00:44:24,521
+like a mainstream or conservative EA
+
+1100
+00:44:24,601 --> 00:44:25,321
+practice
+
+1101
+00:44:26,478 --> 00:44:28,478
+The way that you apply these findings or
+
+1102
+00:44:28,478 --> 00:44:30,638
+the way that you pursue success might
+
+1103
+00:44:30,638 --> 00:44:32,558
+change a little bit right Your mileage may
+
+1104
+00:44:32,558 --> 00:44:35,678
+vary but these imperatives remain the same
+
+1105
+00:44:35,678 --> 00:44:37,038
+These are all things that we need to be
+
+1106
+00:44:37,038 --> 00:44:40,558
+focusing on as heads of VA and making sure
+
+1107
+00:44:40,558 --> 00:44:42,158
+that we have an answer to when somebody
+
+1108
+00:44:42,158 --> 00:44:43,758
+comes and asks us Hey what are you doing
+
+1109
+00:44:43,758 --> 00:44:47,511
+about this For our organization Now what
+
+1110
+00:44:47,911 --> 00:44:50,471
+we're turning to now with this last
+
+1111
+00:44:50,471 --> 00:44:51,111
+imperative
+
+1112
+00:44:52,471 --> 00:44:54,951
+is we're turning a little bit inward right
+
+1113
+00:44:54,951 --> 00:44:56,071
+And a lot of you have been asking
+
+1114
+00:44:56,071 --> 00:44:58,471
+questions in the chat about this How can
+
+1115
+00:44:58,471 --> 00:45:01,991
+we reimagine EA with AI Well our position
+
+1116
+00:45:01,991 --> 00:45:03,831
+at Gartner is that heads of EA who don't
+
+1117
+00:45:03,911 --> 00:45:06,311
+proactively use AI to optimize EA
+
+1118
+00:45:06,311 --> 00:45:08,711
+activities will become a roadblock to
+
+1119
+00:45:08,711 --> 00:45:10,151
+increasing demand from business and IT
+
+1120
+00:45:10,151 --> 00:45:11,671
+stakeholders and that's the last thing we
+
+1121
+00:45:11,751 --> 00:45:13,351
+want right Going all the way back to the
+
+1122
+00:45:13,351 --> 00:45:13,831
+beginning
+
+1123
+00:45:14,724 --> 00:45:17,764
+We know that our stakeholders see us as a
+
+1124
+00:45:17,764 --> 00:45:19,764
+roadblock more times than they than they
+
+1125
+00:45:19,844 --> 00:45:21,604
+probably should We know that we sort of
+
+1126
+00:45:21,604 --> 00:45:23,364
+face an identity crisis because we have
+
+1127
+00:45:23,684 --> 00:45:25,444
+too many stakeholders to serve with too
+
+1128
+00:45:25,444 --> 00:45:27,924
+many problems So how can we scale our
+
+1129
+00:45:27,924 --> 00:45:30,164
+decision support increase the capacity of
+
+1130
+00:45:30,164 --> 00:45:32,564
+our teams and deliver success A lot of
+
+1131
+00:45:32,564 --> 00:45:34,644
+it's going to come down to our ability to
+
+1132
+00:45:34,724 --> 00:45:36,884
+successfully integrate AI capabilities
+
+1133
+00:45:36,964 --> 00:45:37,764
+into our function
+
+1134
+00:45:39,290 --> 00:45:41,930
+Um and what we know is that this is
+
+1135
+00:45:41,930 --> 00:45:43,770
+already happening You guys are already
+
+1136
+00:45:43,770 --> 00:45:45,530
+doing this This comes from again that
+
+1137
+00:45:45,530 --> 00:45:46,970
+survey I've cited a couple times our
+
+1138
+00:45:46,970 --> 00:45:48,650
+signature survey for heads of enterprise
+
+1139
+00:45:48,650 --> 00:45:51,530
+architecture Um this is the percentage of
+
+1140
+00:45:51,610 --> 00:45:55,530
+AI augmented EA activities by year So last
+
+1141
+00:45:55,530 --> 00:45:58,170
+year you said that 14 of EA work was
+
+1142
+00:45:58,250 --> 00:46:01,210
+augmented by AI This year 23
+
+1143
+00:46:02,714 --> 00:46:04,474
+We asked you all what you thought about
+
+1144
+00:46:04,474 --> 00:46:05,914
+next year and you said thirty
+
+1145
+00:46:06,634 --> 00:46:09,514
+percentalmost a third of EA activities are
+
+1146
+00:46:09,514 --> 00:46:11,834
+going to be augmented by some sort of AI
+
+1147
+00:46:11,914 --> 00:46:14,484
+capability So what does that look like
+
+1148
+00:46:14,484 --> 00:46:17,124
+What does that mean Well at Gartner we've
+
+1149
+00:46:17,124 --> 00:46:19,444
+come up with a path forward to actually
+
+1150
+00:46:19,444 --> 00:46:22,964
+help transform the EA operating model
+
+1151
+00:46:23,124 --> 00:46:26,004
+using AI And I want to share those steps
+
+1152
+00:46:26,004 --> 00:46:28,804
+with you today at a high level If you have
+
+1153
+00:46:28,884 --> 00:46:30,964
+interest in any going deeper on any of
+
+1154
+00:46:30,964 --> 00:46:32,564
+these steps obviously our team would be
+
+1155
+00:46:32,644 --> 00:46:34,352
+happy to Spend some time one on one with
+
+1156
+00:46:34,432 --> 00:46:37,472
+you getting in digging into how we can
+
+1157
+00:46:37,472 --> 00:46:40,112
+enact these steps at your organization But
+
+1158
+00:46:40,112 --> 00:46:41,552
+the first one is that we just simply need
+
+1159
+00:46:41,632 --> 00:46:44,416
+to assess AI's potential for It's a first
+
+1160
+00:46:44,416 --> 00:46:46,336
+step of moving away from sort of that
+
+1161
+00:46:46,336 --> 00:46:46,816
+traditional
+
+1162
+00:46:47,616 --> 00:46:50,576
+EA model and our journey toward an AI
+
+1163
+00:46:50,656 --> 00:46:53,063
+enabled EA operating model And what that
+
+1164
+00:46:53,063 --> 00:46:54,343
+looks like right is we need to think
+
+1165
+00:46:54,343 --> 00:46:56,503
+through what are the use cases Again going
+
+1166
+00:46:56,503 --> 00:46:58,023
+back to the conversation we had about how
+
+1167
+00:46:58,103 --> 00:47:00,103
+EA helps the enterprise This is how we
+
+1168
+00:47:00,103 --> 00:47:02,183
+help ourselves now We look at the use
+
+1169
+00:47:02,183 --> 00:47:05,303
+cases that are being provided by EA
+
+1170
+00:47:05,303 --> 00:47:07,863
+vendors EA tool vendors that other AI
+
+1171
+00:47:07,863 --> 00:47:09,943
+tools are offering You know maybe we have
+
+1172
+00:47:09,943 --> 00:47:11,463
+an enterprise license with a particular
+
+1173
+00:47:11,463 --> 00:47:13,623
+vendor What kind of capabilities that can
+
+1174
+00:47:13,703 --> 00:47:15,863
+they provide that can augment the work
+
+1175
+00:47:15,863 --> 00:47:18,103
+that we're already doing EA that can
+
+1176
+00:47:18,263 --> 00:47:20,103
+offload some of the responsibilities from
+
+1177
+00:47:20,103 --> 00:47:21,703
+our architects who are already
+
+1178
+00:47:22,903 --> 00:47:25,463
+too time constrained and too spread thin
+
+1179
+00:47:26,129 --> 00:47:27,889
+So that's step one Step two is that we
+
+1180
+00:47:27,889 --> 00:47:31,249
+need to organize for an AI augmented EA So
+
+1181
+00:47:31,249 --> 00:47:34,369
+this means how our AI capability is going
+
+1182
+00:47:34,369 --> 00:47:38,059
+to come alongside our architects And what
+
+1183
+00:47:38,059 --> 00:47:40,219
+is the sort of organizational model that
+
+1184
+00:47:40,219 --> 00:47:42,139
+we're going to deploy Right are we going
+
+1185
+00:47:42,219 --> 00:47:44,939
+to have a distributed model where we have
+
+1186
+00:47:45,499 --> 00:47:47,099
+architects spread out across the
+
+1187
+00:47:47,099 --> 00:47:48,379
+organization We're going to have a
+
+1188
+00:47:48,379 --> 00:47:50,699
+centralized model where we have architects
+
+1189
+00:47:51,259 --> 00:47:53,179
+being plugged into the most impactful
+
+1190
+00:47:53,179 --> 00:47:55,499
+projects and then maybe we use AI
+
+1191
+00:47:55,499 --> 00:47:57,926
+capabilities almost as toolmates Sitting
+
+1192
+00:47:57,926 --> 00:48:00,085
+alongside those delivery teams that are
+
+1193
+00:48:00,085 --> 00:48:02,165
+distributed and giving them the guidance
+
+1194
+00:48:02,165 --> 00:48:03,846
+and support that they need What is the
+
+1195
+00:48:03,846 --> 00:48:05,446
+structure going to look like for that
+
+1196
+00:48:06,760 --> 00:48:08,920
+The next step on that journey is to
+
+1197
+00:48:08,920 --> 00:48:12,680
+identify those highvalue EA AI tools Right
+
+1198
+00:48:12,680 --> 00:48:15,480
+So what are the tools out there that can
+
+1199
+00:48:15,480 --> 00:48:17,080
+do what we need to do from an EA
+
+1200
+00:48:17,080 --> 00:48:19,320
+perspective but in a way that makes them
+
+1201
+00:48:19,320 --> 00:48:20,200
+automated or even
+
+1202
+00:48:21,800 --> 00:48:24,870
+autonomous Once we do that right Then we
+
+1203
+00:48:24,870 --> 00:48:28,630
+need to also at the same time audit EA
+
+1204
+00:48:28,630 --> 00:48:31,910
+tools for AI readiness So you know this is
+
+1205
+00:48:31,990 --> 00:48:34,630
+again what I was saying about AI tools
+
+1206
+00:48:34,710 --> 00:48:36,790
+enterprise licenses to AI vendors are
+
+1207
+00:48:36,790 --> 00:48:38,070
+going to get us part of the way
+
+1208
+00:48:38,870 --> 00:48:40,790
+EA tools and EA vendors that are
+
+1209
+00:48:40,790 --> 00:48:43,110
+specifically integrating AI capabilities
+
+1210
+00:48:43,110 --> 00:48:44,950
+for the things that we already do That's
+
+1211
+00:48:44,950 --> 00:48:47,110
+another spot to look for How do we bring
+
+1212
+00:48:47,110 --> 00:48:49,110
+these capabilities into our organization
+
+1213
+00:48:49,110 --> 00:48:49,910
+into our function
+
+1214
+00:48:51,732 --> 00:48:54,132
+After that we need to mitigate AI specific
+
+1215
+00:48:54,132 --> 00:48:56,772
+risks Again these are risks that are
+
+1216
+00:48:57,652 --> 00:48:59,812
+more known than they ever have been before
+
+1217
+00:48:59,812 --> 00:49:04,612
+right So hallucinations poor data quality
+
+1218
+00:49:04,932 --> 00:49:06,932
+What are the specific risks that we're
+
+1219
+00:49:06,932 --> 00:49:08,452
+going to face when we're trying to bring
+
+1220
+00:49:08,532 --> 00:49:10,452
+AI capabilities into our organization
+
+1221
+00:49:12,559 --> 00:49:15,759
+And then prove AI enabled value again Like
+
+1222
+00:49:15,759 --> 00:49:17,919
+anything we do with EA we probably should
+
+1223
+00:49:17,919 --> 00:49:20,159
+not be doing this with a big bang approach
+
+1224
+00:49:20,479 --> 00:49:22,399
+What we should do is we should try certain
+
+1225
+00:49:22,399 --> 00:49:26,399
+use cases within our EA function test that
+
+1226
+00:49:26,399 --> 00:49:28,239
+they are working test them with a small
+
+1227
+00:49:28,239 --> 00:49:30,399
+number of stakeholders and then after
+
+1228
+00:49:30,399 --> 00:49:32,479
+we've proved that those use cases are
+
+1229
+00:49:32,479 --> 00:49:35,180
+showing value Then scale that as a way of
+
+1230
+00:49:35,260 --> 00:49:37,100
+working across the organization Whether it
+
+1231
+00:49:37,100 --> 00:49:39,740
+be roadmap generation whether it be
+
+1232
+00:49:39,820 --> 00:49:42,060
+reference architecture generation whether
+
+1233
+00:49:42,060 --> 00:49:44,380
+it be architecture governance reviews
+
+1234
+00:49:44,460 --> 00:49:46,940
+whether it be whatever AI use cases we're
+
+1235
+00:49:47,020 --> 00:49:49,260
+pursuing from an EA standpoint Make sure
+
+1236
+00:49:49,341 --> 00:49:50,780
+that those things are working and then
+
+1237
+00:49:50,780 --> 00:49:53,996
+scale Um and then lead by example right We
+
+1238
+00:49:53,996 --> 00:49:56,556
+just talked about how as heads of VA we
+
+1239
+00:49:56,556 --> 00:49:58,956
+have a critical role to play in driving
+
+1240
+00:49:58,956 --> 00:50:00,316
+the AI direction of the entire
+
+1241
+00:50:00,316 --> 00:50:02,316
+organization That we sort of need to step
+
+1242
+00:50:02,316 --> 00:50:04,316
+into that leadership vacuum and what
+
+1243
+00:50:04,316 --> 00:50:06,236
+better way to do it than to show that we
+
+1244
+00:50:06,236 --> 00:50:08,796
+can do it within our own area of the world
+
+1245
+00:50:09,116 --> 00:50:10,876
+right That we are really maximizing the
+
+1246
+00:50:10,876 --> 00:50:13,596
+value that we're getting from AI today and
+
+1247
+00:50:13,596 --> 00:50:15,546
+the reason that we're able To do it is
+
+1248
+00:50:15,546 --> 00:50:17,626
+because we followed this path we followed
+
+1249
+00:50:17,626 --> 00:50:19,466
+these steps Because the way that we've
+
+1250
+00:50:19,546 --> 00:50:21,786
+outlined this path you really can apply to
+
+1251
+00:50:21,786 --> 00:50:23,306
+any part of your organization whether
+
+1252
+00:50:23,306 --> 00:50:24,666
+you're working with supply chain or
+
+1253
+00:50:25,066 --> 00:50:27,962
+finance For marketing right All of these
+
+1254
+00:50:27,962 --> 00:50:29,962
+different areas we can help them follow
+
+1255
+00:50:29,962 --> 00:50:31,722
+and take this same journey But if we've
+
+1256
+00:50:31,722 --> 00:50:33,322
+already done it ourselves it's just proof
+
+1257
+00:50:33,322 --> 00:50:34,842
+of concept that we know what we're talking
+
+1258
+00:50:34,842 --> 00:50:36,202
+about and we have the credibility when we
+
+1259
+00:50:36,202 --> 00:50:37,082
+walk into that room
+
+1260
+00:50:39,386 --> 00:50:40,506
+And then finally that leads us to
+
+1261
+00:50:40,506 --> 00:50:43,306
+AIenabled EA Right So then we we've gotten
+
+1262
+00:50:43,386 --> 00:50:45,146
+to a point where we have transformed that
+
+1263
+00:50:45,146 --> 00:50:47,786
+EA operating model We haven't relied just
+
+1264
+00:50:47,786 --> 00:50:50,586
+on our traditional past and we are able to
+
+1265
+00:50:50,666 --> 00:50:52,426
+to drive a path forward
+
+1266
+00:50:53,896 --> 00:50:54,376
+So that
+
+1267
+00:50:55,176 --> 00:50:57,256
+you know that wraps up those those five
+
+1268
+00:50:57,816 --> 00:51:00,536
+imperatives that we need to focus on for
+
+1269
+00:51:00,776 --> 00:51:02,456
+enterprise architecture to drive success
+
+1270
+00:51:02,456 --> 00:51:04,936
+in 2026 I do want to get to our third
+
+1271
+00:51:04,936 --> 00:51:06,296
+key issue here We've got about nine
+
+1272
+00:51:06,296 --> 00:51:08,216
+minutes left Let me just answer some of
+
+1273
+00:51:08,216 --> 00:51:10,136
+the top questions here that haven't been
+
+1274
+00:51:10,136 --> 00:51:12,616
+addressed Rich you're asking can you
+
+1275
+00:51:12,616 --> 00:51:14,616
+please share a definition list of the four
+
+1276
+00:51:14,616 --> 00:51:17,176
+different AI governance models Awesome
+
+1277
+00:51:17,176 --> 00:51:19,256
+yeah yeah So I was talking about adaptive
+
+1278
+00:51:19,256 --> 00:51:22,776
+governance This is not specific to AI but
+
+1279
+00:51:22,776 --> 00:51:25,736
+they were a control outcome based agile
+
+1280
+00:51:25,736 --> 00:51:28,117
+and autonomous For AI today that
+
+1281
+00:51:28,357 --> 00:51:30,197
+autonomous style of governance is becoming
+
+1282
+00:51:30,757 --> 00:51:32,757
+more critical and more necessary than ever
+
+1283
+00:51:32,757 --> 00:51:36,597
+before And if you either you ask your
+
+1284
+00:51:36,597 --> 00:51:38,517
+account rep from Gartner about that
+
+1285
+00:51:38,517 --> 00:51:40,757
+adaptive governance model they can provide
+
+1286
+00:51:40,757 --> 00:51:43,477
+you all the material you need Or if you
+
+1287
+00:51:44,037 --> 00:51:46,677
+schedule an inquiry or a consultation with
+
+1288
+00:51:47,157 --> 00:51:48,997
+somebody from our team we can deep dive on
+
+1289
+00:51:48,997 --> 00:51:50,357
+that with you a little bit more
+
+1290
+00:51:51,973 --> 00:51:54,693
+All right let's go to the pragmatic steps
+
+1291
+00:51:55,173 --> 00:51:56,613
+And for this I really want to hear from
+
+1292
+00:51:56,613 --> 00:51:57,973
+you because I think we can all learn from
+
+1293
+00:51:57,973 --> 00:51:59,653
+each other here just in terms of what
+
+1294
+00:51:59,653 --> 00:52:01,253
+we're going to do going forward Right
+
+1295
+00:52:01,253 --> 00:52:03,493
+Because change is hard the status quo is
+
+1296
+00:52:03,493 --> 00:52:05,364
+hard We really need to Just at the end of
+
+1297
+00:52:05,364 --> 00:52:06,964
+the day choose our heart and figure out
+
+1298
+00:52:06,964 --> 00:52:08,404
+what it's going to take to be successful
+
+1299
+00:52:08,724 --> 00:52:11,364
+across the rest of 2026 and beyond So
+
+1300
+00:52:11,364 --> 00:52:12,964
+Robert's going to help us out here but
+
+1301
+00:52:12,964 --> 00:52:15,444
+we're going to put up a poll question and
+
+1302
+00:52:15,524 --> 00:52:17,684
+it's going to ask you you know which
+
+1303
+00:52:17,764 --> 00:52:20,084
+imperative is your top focus for the rest
+
+1304
+00:52:20,084 --> 00:52:20,724
+of 2026
+
+1305
+00:52:21,589 --> 00:52:24,069
+Of the five that we talked about today so
+
+1306
+00:52:24,469 --> 00:52:27,029
+stepping into the AI leadership vacuum
+
+1307
+00:52:27,189 --> 00:52:29,989
+untangling the rollout of AI building
+
+1308
+00:52:29,989 --> 00:52:31,669
+dynamic and adaptive architectures
+
+1309
+00:52:31,829 --> 00:52:34,949
+adopting financial advisor and VC hats or
+
+1310
+00:52:34,949 --> 00:52:38,924
+reimagining EA with AI capabilities Um and
+
+1311
+00:52:39,004 --> 00:52:40,604
+after you've answered that answered that
+
+1312
+00:52:40,604 --> 00:52:42,284
+if you could just do us one more favor
+
+1313
+00:52:42,284 --> 00:52:43,484
+because I think everybody's going to get
+
+1314
+00:52:43,484 --> 00:52:45,964
+value from this If you just put in the ask
+
+1315
+00:52:46,044 --> 00:52:47,884
+the speaker chat tell us what the biggest
+
+1316
+00:52:47,884 --> 00:52:50,844
+challenge is to realizing that EA success
+
+1317
+00:52:51,244 --> 00:52:52,764
+Right What are the top things that you're
+
+1318
+00:52:52,844 --> 00:52:55,004
+facing today that are really getting in
+
+1319
+00:52:55,004 --> 00:52:56,844
+the way of you doing any of these things
+
+1320
+00:52:56,844 --> 00:52:57,484
+successfully
+
+1321
+00:52:58,444 --> 00:53:00,444
+Because ultimately you know you all will
+
+1322
+00:53:00,444 --> 00:53:01,964
+have the opportunity to learn from each
+
+1323
+00:53:01,964 --> 00:53:04,204
+other It also helps us at Gartner provide
+
+1324
+00:53:04,204 --> 00:53:05,564
+you the best kind of insights that you're
+
+1325
+00:53:05,564 --> 00:53:06,124
+looking for
+
+1326
+00:53:08,413 --> 00:53:10,333
+Excellent Thank you so much Lucas Yes our
+
+1327
+00:53:10,333 --> 00:53:11,773
+poll is not open We'd like to know what
+
+1328
+00:53:11,853 --> 00:53:14,493
+you are thinking You can see the poll pop
+
+1329
+00:53:14,493 --> 00:53:16,573
+up now on the right right over the slides
+
+1330
+00:53:16,893 --> 00:53:18,013
+In case you can't see the poll on your
+
+1331
+00:53:18,013 --> 00:53:20,653
+screens please refresh your browser window
+
+1332
+00:53:20,653 --> 00:53:22,493
+Once the poll is visible simply select the
+
+1333
+00:53:22,493 --> 00:53:24,093
+answer of your choice and click submit
+
+1334
+00:53:24,333 --> 00:53:26,173
+Once you close the poll we'll display the
+
+1335
+00:53:26,173 --> 00:53:27,613
+final results for everyone to see in the
+
+1336
+00:53:27,613 --> 00:53:29,773
+video player And please continue to enter
+
+1337
+00:53:29,773 --> 00:53:31,853
+your questions for Lucas in the bigger box
+
+1338
+00:53:32,253 --> 00:53:33,773
+I'll also since we're going to have a lot
+
+1339
+00:53:33,773 --> 00:53:36,412
+of people on the Call I may just um sort
+
+1340
+00:53:36,412 --> 00:53:37,372
+of come back in and say Here's what the
+
+1341
+00:53:37,452 --> 00:53:39,212
+most common answers are that we're seeing
+
+1342
+00:53:39,212 --> 00:53:41,052
+in that response part in the ask speaker
+
+1343
+00:53:41,052 --> 00:53:43,132
+chat just so I don't flood the chat with
+
+1344
+00:53:43,132 --> 00:53:44,412
+everyone's responses
+
+1345
+00:53:46,380 --> 00:53:48,460
+Awesome thanks Robert Thanks Robert I know
+
+1346
+00:53:48,460 --> 00:53:50,220
+we've got about five minutes left in our
+
+1347
+00:53:50,220 --> 00:53:52,860
+time together today I want to get as many
+
+1348
+00:53:52,940 --> 00:53:55,020
+of your questions answered as we possibly
+
+1349
+00:53:55,020 --> 00:53:56,780
+can So
+
+1350
+00:53:57,900 --> 00:53:59,260
+here's a question a good question from
+
+1351
+00:53:59,260 --> 00:54:00,780
+Sean It piggybacks off of what we were
+
+1352
+00:54:00,780 --> 00:54:03,660
+just talking about What organizations
+
+1353
+00:54:03,660 --> 00:54:07,900
+consistently get wrong when modernizing EA
+
+1354
+00:54:07,900 --> 00:54:10,635
+for AI Um and Sean this is a great
+
+1355
+00:54:10,635 --> 00:54:12,955
+question Um I actually just published a
+
+1356
+00:54:12,955 --> 00:54:14,555
+research note You can find it on the
+
+1357
+00:54:14,555 --> 00:54:16,315
+Gartner portal Talks about how you
+
+1358
+00:54:16,315 --> 00:54:18,475
+redesign the enterprise architecture role
+
+1359
+00:54:19,115 --> 00:54:21,515
+for the AI era and one of the things that
+
+1360
+00:54:21,515 --> 00:54:26,444
+we see is that we we Unfortunately still
+
+1361
+00:54:26,444 --> 00:54:28,924
+view AI as a silver bullet right And it's
+
+1362
+00:54:28,924 --> 00:54:31,964
+simply not What you can never take away
+
+1363
+00:54:31,964 --> 00:54:34,044
+from the enterprise architecture role is
+
+1364
+00:54:34,044 --> 00:54:37,804
+the human judgment and capacity for
+
+1365
+00:54:37,804 --> 00:54:40,444
+empathy that will never be able to be
+
+1366
+00:54:40,444 --> 00:54:43,662
+coded into any sort of AI capability And
+
+1367
+00:54:43,662 --> 00:54:45,822
+so when it comes to the strategic nature
+
+1368
+00:54:45,822 --> 00:54:47,902
+of the architecture job where we are
+
+1369
+00:54:47,982 --> 00:54:50,462
+designing where we are red mapping where
+
+1370
+00:54:50,462 --> 00:54:52,142
+we are sort of playing that therapist role
+
+1371
+00:54:52,142 --> 00:54:54,780
+between stakeholders All of that actually
+
+1372
+00:54:54,780 --> 00:54:57,500
+just becomes even more critical in an AI
+
+1373
+00:54:57,500 --> 00:55:00,700
+world where AI actually helps is it helps
+
+1374
+00:55:00,700 --> 00:55:03,660
+in sort of mitigating the redundancy of an
+
+1375
+00:55:04,140 --> 00:55:06,940
+enterprise architect's day Right How many
+
+1376
+00:55:06,940 --> 00:55:09,020
+times are we asked by a solution delivery
+
+1377
+00:55:09,100 --> 00:55:10,140
+team What
+
+1378
+00:55:11,020 --> 00:55:13,500
+is the pattern for this technology Again
+
+1379
+00:55:13,580 --> 00:55:16,262
+do we have this application with them Our
+
+1380
+00:55:16,262 --> 00:55:19,862
+portfolio Do we have something that meets
+
+1381
+00:55:19,862 --> 00:55:21,862
+these business requirements that my
+
+1382
+00:55:21,942 --> 00:55:24,022
+partner is asking me for Right all of
+
+1383
+00:55:24,022 --> 00:55:26,857
+those redundant conversations Even simply
+
+1384
+00:55:26,857 --> 00:55:28,617
+putting something like an AI assistant
+
+1385
+00:55:29,097 --> 00:55:33,017
+that is on top of your EA repository that
+
+1386
+00:55:33,097 --> 00:55:35,177
+in and of itself saves you so much time
+
+1387
+00:55:35,177 --> 00:55:36,937
+and saves your architect so much time from
+
+1388
+00:55:37,017 --> 00:55:38,457
+answering those same kind of questions
+
+1389
+00:55:38,537 --> 00:55:41,337
+over and over and over again So AI helps
+
+1390
+00:55:41,417 --> 00:55:43,177
+scale the decision support that we're able
+
+1391
+00:55:43,177 --> 00:55:45,017
+to provide It certainly doesn't replace
+
+1392
+00:55:45,017 --> 00:55:46,537
+the value that an enterprise architect
+
+1393
+00:55:46,617 --> 00:55:47,497
+brings by any means
+
+1394
+00:55:51,627 --> 00:55:53,787
+And Robert looks like we are getting these
+
+1395
+00:55:53,787 --> 00:55:55,707
+poll results back Looks like building
+
+1396
+00:55:55,707 --> 00:55:58,908
+dynamic and adaptive architectures is just
+
+1397
+00:55:58,987 --> 00:56:01,732
+being out Reimagine EA with AI for the
+
+1398
+00:56:01,732 --> 00:56:03,412
+imperative that's going to be our top
+
+1399
+00:56:03,492 --> 00:56:05,812
+focus for the rest of 2026 This is
+
+1400
+00:56:05,812 --> 00:56:08,692
+fascinating and and it really just goes
+
+1401
+00:56:08,692 --> 00:56:10,932
+back to what I was saying before You know
+
+1402
+00:56:11,012 --> 00:56:12,772
+you read the news today it's every single
+
+1403
+00:56:12,772 --> 00:56:14,612
+headline especially just in the past week
+
+1404
+00:56:15,412 --> 00:56:17,252
+Things happening in the Middle East things
+
+1405
+00:56:17,252 --> 00:56:19,252
+happening in Europe things happening in
+
+1406
+00:56:19,252 --> 00:56:21,183
+the US And how all of these different
+
+1407
+00:56:21,183 --> 00:56:22,863
+regions of the world are interacting with
+
+1408
+00:56:22,863 --> 00:56:25,903
+each other This sovereignty risk is really
+
+1409
+00:56:26,143 --> 00:56:28,463
+rising to the top and sort of changing how
+
+1410
+00:56:28,463 --> 00:56:31,789
+organizations think in terms of Where are
+
+1411
+00:56:31,869 --> 00:56:34,109
+our technology vendors located
+
+1412
+00:56:34,269 --> 00:56:36,749
+geographically What sort of resilience
+
+1413
+00:56:36,749 --> 00:56:38,749
+measures are we putting in place for how
+
+1414
+00:56:38,749 --> 00:56:41,069
+our organization how our architectures
+
+1415
+00:56:41,069 --> 00:56:44,109
+change if you know certain decisions are
+
+1416
+00:56:44,109 --> 00:56:45,949
+made Doing that scenario modeling
+
+1417
+00:56:46,984 --> 00:56:48,824
+So absolutely this is definitely a
+
+1418
+00:56:48,824 --> 00:56:51,784
+priority area for Gartner And if you have
+
+1419
+00:56:51,784 --> 00:56:53,624
+questions in this area please feel to
+
+1420
+00:56:53,624 --> 00:56:55,144
+reach out We have teams of analysts who
+
+1421
+00:56:55,144 --> 00:56:58,104
+are working on how we how we change our
+
+1422
+00:56:58,104 --> 00:56:59,944
+architectures to be more dynamic and
+
+1423
+00:56:59,944 --> 00:57:00,344
+adaptive
+
+1424
+00:57:05,438 --> 00:57:07,758
+Excellent Yes and the answers in regards
+
+1425
+00:57:07,838 --> 00:57:09,598
+to that second part we're seeing it kind
+
+1426
+00:57:09,598 --> 00:57:11,278
+of vary all over the place But a lot of
+
+1427
+00:57:11,278 --> 00:57:13,678
+it is whether it's about governments or
+
+1428
+00:57:13,678 --> 00:57:17,598
+having not having a clear leader for those
+
+1429
+00:57:17,598 --> 00:57:19,838
+initiatives in EA of deciding who's really
+
+1430
+00:57:19,838 --> 00:57:20,238
+there kind of
+
+1431
+00:57:21,220 --> 00:57:21,460
+Um
+
+1432
+00:57:22,580 --> 00:57:26,020
+muddies the waters there Um not a strong
+
+1433
+00:57:26,100 --> 00:57:28,340
+backing for EA function within the company
+
+1434
+00:57:28,340 --> 00:57:29,540
+et cetera So really kind of
+
+1435
+00:57:30,420 --> 00:57:32,100
+there's not one common theme or sort of
+
+1436
+00:57:32,100 --> 00:57:34,180
+thing that all they're sort of multiple
+
+1437
+00:57:34,580 --> 00:57:35,060
+and varied
+
+1438
+00:57:36,100 --> 00:57:38,820
+From that from that aspect Lucas But I can
+
+1439
+00:57:38,820 --> 00:57:40,980
+throw it back to you for um question
+
+1440
+00:57:42,686 --> 00:57:44,926
+Yeah thanks Robert Thanks Well we've got
+
+1441
+00:57:44,926 --> 00:57:46,606
+about two and a half minutes left I see
+
+1442
+00:57:46,606 --> 00:57:48,366
+that some folks are having to drop off
+
+1443
+00:57:48,366 --> 00:57:50,206
+Totally understand We all have busy
+
+1444
+00:57:50,206 --> 00:57:51,486
+schedules and busy lives that we're
+
+1445
+00:57:51,486 --> 00:57:52,366
+leading these days
+
+1446
+00:57:53,406 --> 00:57:56,766
+Just in the last minute here Ken asks a
+
+1447
+00:57:56,766 --> 00:57:58,366
+really great question Are there any
+
+1448
+00:57:58,366 --> 00:58:00,446
+specific tools you would recommend to help
+
+1449
+00:58:00,526 --> 00:58:03,072
+enable EA with AI Since this was the
+
+1450
+00:58:03,152 --> 00:58:05,392
+second top focus area for us for the rest
+
+1451
+00:58:05,392 --> 00:58:07,792
+of the year what I would say is yes
+
+1452
+00:58:07,872 --> 00:58:11,312
+absolutely The EA vendor market obviously
+
+1453
+00:58:11,312 --> 00:58:14,192
+they all are working on bringing AI
+
+1454
+00:58:14,192 --> 00:58:17,308
+capabilities into their tool sets Um our
+
+1455
+00:58:17,308 --> 00:58:19,628
+analyst on our team Austin Steinmetz he's
+
+1456
+00:58:19,708 --> 00:58:21,548
+leading the Magic Quadrant for enterprise
+
+1457
+00:58:21,548 --> 00:58:24,188
+architecture tools this year He would be
+
+1458
+00:58:25,085 --> 00:58:27,565
+Great person to have a conversation with
+
+1459
+00:58:27,645 --> 00:58:30,365
+about if you're already using an EA tool
+
+1460
+00:58:31,085 --> 00:58:31,325
+which
+
+1461
+00:58:32,125 --> 00:58:34,925
+capabilities can you bring in to enable
+
+1462
+00:58:35,325 --> 00:58:37,645
+that that AI success with EA or if you're
+
+1463
+00:58:37,645 --> 00:58:38,925
+not using an EA tool
+
+1464
+00:58:39,946 --> 00:58:42,586
+Who might you look at or what other tools
+
+1465
+00:58:42,586 --> 00:58:44,666
+exist out of that outside that EA vendor
+
+1466
+00:58:44,666 --> 00:58:46,666
+market that can satisfy your needs We can
+
+1467
+00:58:46,666 --> 00:58:48,346
+absolutely have that conversation with you
+
+1468
+00:58:48,586 --> 00:58:50,586
+and you sort of tailor it to your specific
+
+1469
+00:58:50,586 --> 00:58:52,906
+situation But great question I know a lot
+
+1470
+00:58:52,906 --> 00:58:54,186
+of people are thinking through that today
+
+1471
+00:58:56,440 --> 00:58:57,880
+All right Well I think that's all the time
+
+1472
+00:58:57,880 --> 00:58:59,640
+we're going to have for questions I see
+
+1473
+00:58:59,640 --> 00:59:01,400
+some more folks are dropping off Thank you
+
+1474
+00:59:01,400 --> 00:59:03,640
+all so much for your time today for
+
+1475
+00:59:03,720 --> 00:59:05,880
+plugging in and digging in with me asking
+
+1476
+00:59:05,880 --> 00:59:07,480
+a lot of great questions I know we covered
+
+1477
+00:59:07,480 --> 00:59:10,040
+a ton of material If you have specific
+
+1478
+00:59:10,040 --> 00:59:11,720
+questions or if you want to think through
+
+1479
+00:59:12,120 --> 00:59:14,754
+with a Gartner expert How you apply these
+
+1480
+00:59:14,754 --> 00:59:16,594
+imperatives or these strategies within
+
+1481
+00:59:16,594 --> 00:59:18,994
+your team within your enterprise Feel free
+
+1482
+00:59:18,994 --> 00:59:20,514
+to give us a call We are always here to
+
+1483
+00:59:20,594 --> 00:59:22,194
+help We just got to know how we can best
+
+1484
+00:59:22,194 --> 00:59:24,594
+do that for you With that I'll sign off
+
+1485
+00:59:24,594 --> 00:59:26,434
+for today and hope to talk to you all and
+
+1486
+00:59:26,434 --> 00:59:28,114
+see you all again real soon Thanks a lot
+
+1487
+00:59:37,922 --> 00:59:39,842
+Yes thank you so much to Lucas To our
+
+1488
+00:59:40,402 --> 00:59:42,162
+audience before you go we've included some
+
+1489
+00:59:42,162 --> 00:59:43,602
+additional resources at the bottom of the
+
+1490
+00:59:43,602 --> 00:59:46,082
+page Quick reminder this webinar is being
+
+1491
+00:59:46,082 --> 00:59:47,682
+recorded You can watch this presentation
+
+1492
+00:59:47,682 --> 00:59:49,602
+again and get more great insights on
+
+1493
+00:59:49,602 --> 00:59:50,082
+demand at garnercomwebinars
+
+1494
+00:59:51,122 --> 00:59:51,282
+Lastly
+
+1495
+00:59:52,402 --> 00:59:55,103
+we do ask you please rate this session And
+
+1496
+00:59:55,103 --> 00:59:57,583
+um to do so a box will um sorry submit
+
+1497
+00:59:57,583 --> 01:00:00,063
+your rating Click rate session below the
+
+1498
+01:00:00,063 --> 01:00:02,143
+player A box open up where you select one
+
+1499
+01:00:02,143 --> 01:00:04,383
+to five hearts Please note that five
+
+1500
+01:00:04,383 --> 01:00:06,223
+hearts is the top rating You share your
+
+1501
+01:00:06,223 --> 01:00:08,143
+feedback on the insights provided in leave
+
+1502
+01:00:08,143 --> 01:00:10,063
+for the feedback box and then click send
+
+1503
+01:00:10,543 --> 01:00:12,223
+That again like to thank our presenter and
+
+1504
+01:00:12,223 --> 01:00:14,943
+of course thank you the audience for
+
+1505
+01:00:14,943 --> 01:00:17,183
+listening Have a great day Goodbye
+
