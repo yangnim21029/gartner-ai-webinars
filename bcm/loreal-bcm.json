@@ -1,0 +1,42 @@
+{
+  "_note": "L'Oréal BCM image spec — the 16 capabilities from loreal-bcm-input.json clustered bottom-up into tiers/domains, pace applied per the AI 個人化/Beauty Tech 視角. 數位與資料平台 marked enabling (dashed, 養地基不准砍). Labels shortened for tile fit.",
+  "title": "L'Oréal 萊雅 Business Capability Map",
+  "subtitle": "全球美妝龍頭 · pace layer 戰略地位（AI 個人化／Beauty Tech 視角，示範）",
+  "perspective": "L'Oréal 自己，AI 個人化／Beauty Tech 差異化",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "經營治理", "capabilities": [
+        {"label": "永續與綠色科學", "pace": "differentiating"},
+        {"label": "併購與品牌組合", "pace": "keep_up"},
+        {"label": "財務與資本", "pace": "commodity"}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "研發與產品", "capabilities": [
+        {"label": "研究與配方", "pace": "differentiating", "ai": true},
+        {"label": "產品組合開發", "pace": "differentiating"},
+        {"label": "消費者洞察", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "品牌與體驗", "capabilities": [
+        {"label": "品牌與行銷", "pace": "differentiating", "ai": true},
+        {"label": "美妝科技 AR／AI", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "銷售與通路", "capabilities": [
+        {"label": "電商與 D2C", "pace": "differentiating", "ai": true},
+        {"label": "零售通路", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "供應與製造", "capabilities": [
+        {"label": "供應鏈與物流", "pace": "keep_up", "ai": true},
+        {"label": "製造營運", "pace": "commodity"},
+        {"label": "法規與安全", "pace": "keep_up"}
+      ]},
+      {"name": "數位與組織", "capabilities": [
+        {"label": "數位與資料平台", "pace": "keep_up", "ai": true, "enabling": true},
+        {"label": "客服與會員", "pace": "keep_up", "ai": true},
+        {"label": "人才與組織", "pace": "keep_up"}
+      ]}
+    ]}
+  ]
+}

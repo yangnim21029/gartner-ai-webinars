@@ -24,6 +24,10 @@
 | Bimodal | 同時跑 top-down 戰略跟 bottom-up POC 兩條 |
 | AGV | Automated Guided Vehicle，自動導引車 |
 | Lights-out Factory | 全自動工廠，無人值守 |
+| 讀法·視角（誰的地圖）| 一個框相對誰？同框對擁有者是 capability、對使用者是 product（Agent Runtime 對 Google 是能力、對買方是工具）。任何框架照字面讀前先釘死視角 |
+| 讀法·高度相對 | capability / process / product 不是字面屬性，是相對位置——往上看是能力、往下看是做法；同個東西在誰的 stack 裡決定它算哪層 |
+| 讀法·底圖 vs 疊加層 | 框本身是底圖；顏色/徽章/釘點（pace layer、heat map、New/GA、AI 標記）是有人為某決策疊上去的狀態，不是框天生的屬性 |
+| 讀法·單位純度 | 框是不是乾淨能力，過三關：what 不是 how、能力不是 outcome、同層不混型。是業務名詞 ≠ 是乾淨 capability |
 
 ---
 
@@ -44,6 +48,8 @@ Alexander 鎖定 CIO / IT leader 一個很具體的痛：AI POC 砸了一堆，6
 3. Use case 該被丟到 value × feasibility 二維圖才能排序，不能憑印象做
 4. Agency 是 5 級光譜不是「自動或手動」的開關，Level 1 在多數產業是科幻
 5. AI 投資該長成 Defend / Extend / Upend 的 portfolio，不是押單一型態
+
+> **讀法提醒（不是 webinar 原文，是更上層的通病）**：AI 整理/生成文字時，預設把概念當「字串」照字面搬，而不是當「會隨視角變形的形狀」——這不只 BCM，是通病，BCM 只是好用的例子。所以 capability 定義照字面讀會卡：遇到 Google Gemini Agent Platform 那種圖會分不清能力還是產品。讀這篇全程戴詞彙表裡那四條「讀法」眼鏡（視角、高度相對、底圖vs疊加層、單位純度），別被字面鎖住。
 
 下面 ~55 個 H2 就是把這幾點拆開填滿。
 

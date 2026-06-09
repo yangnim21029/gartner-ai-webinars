@@ -136,7 +136,7 @@
 
 ## 跨場沉澱
 
-看完三場想要 framework 層的整理 → [README.md](./README.md)
+看完 01–03 三場想要 framework 層的整理 → [README.md](./README.md)（只綜合 01–03；04–08 尚未納入）
 （共通骨架、各自獨有、跨場 hack、open question、vendor 視角）
 
 ---

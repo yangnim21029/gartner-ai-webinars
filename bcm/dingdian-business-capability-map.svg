@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1600 1067" role="img" aria-labelledby="title desc">
+  <title id="title">鼎電 Business Capability Map</title>
+  <desc id="desc">自有品牌家電製造商 · pace layer 戰略地位（示範）</desc>
+  <defs>
+  <style>
+
+    .bg { fill: #ffffff; }
+    .title { font: 800 40px "PingFang TC", "Hiragino Sans GB", "STHeiti", "Microsoft JhengHei", Arial, sans-serif; fill: #151515; }
+    .subtitle { font: 500 21px "PingFang TC", "Hiragino Sans GB", "STHeiti", "Microsoft JhengHei", Arial, sans-serif; fill: #70757d; }
+    .tier { font: 800 29px "PingFang TC", "Hiragino Sans GB", "STHeiti", "Microsoft JhengHei", Arial, sans-serif; fill: #777d86; }
+    .l1-label { font: 800 24px "PingFang TC", "Hiragino Sans GB", "STHeiti", "Microsoft JhengHei", Arial, sans-serif; fill: #24272b; }
+    .l2-label { font: 800 22px "PingFang TC", "Hiragino Sans GB", "STHeiti", "Microsoft JhengHei", Arial, sans-serif; fill: #202124; }
+    .legend { font: 700 18px "PingFang TC", "Hiragino Sans GB", "STHeiti", "Microsoft JhengHei", Arial, sans-serif; fill: #24272b; }
+    .ai-text { font: 800 14px Arial, sans-serif; fill: #ffffff; letter-spacing: 0; }
+    .container { fill: #ffffff; stroke: #cfd4dc; stroke-width: 1.4; }
+    .header { fill: #f1f3f6; }
+    .orange { fill: #d9701b; }
+    .gold { fill: #f5c266; }
+    .cream { fill: #fbf4e2; }
+    .child-stroke { stroke: #b9bec7; stroke-width: 1.2; }
+    .dashed { stroke-dasharray: 8 6; stroke-width: 2; }
+    .rule { stroke: #edf0f3; stroke-width: 1; }
+  </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1600" height="1067"/>
+
+    <text class="title" x="62" y="64" text-anchor="start">鼎電 Business Capability Map</text>
+    <text class="subtitle" x="64" y="100" text-anchor="start">自有品牌家電製造商 · pace layer 戰略地位（示範）</text>
+
+  <line class="rule" x1="62" y1="125" x2="1538" y2="125"/>
+  <line class="rule" x1="62" y1="330" x2="1538" y2="330"/>
+  <line class="rule" x1="62" y1="665" x2="1538" y2="665"/>
+  <line class="rule" x1="62" y1="962" x2="1538" y2="962"/>
+
+    <text class="tier" x="58" y="235" text-anchor="start">策略層</text>
+  <g transform="translate(335 145)">
+    <rect x="0" y="0" width="1030" height="155" rx="16" class="container"/>
+    <path class="header" d="M16 0H1014Q1030 0 1030 16V45H0V16Q0 0 16 0Z"/>
+    <text class="l1-label" x="515.0" y="31" text-anchor="middle">經營治理</text>
+    <g transform="translate(82 76)">
+    <rect x="0" y="0" width="250" height="58" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="125.0" y="37.0" text-anchor="middle">策略管理</text>
+    </g>
+    <g transform="translate(390 76)">
+    <rect x="0" y="0" width="250" height="58" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="125.0" y="37.0" text-anchor="middle">治理合規</text>
+    </g>
+    <g transform="translate(698 76)">
+    <rect x="0" y="0" width="250" height="58" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="125.0" y="37.0" text-anchor="middle">風險管理</text>
+    </g>
+  </g>
+
+    <text class="tier" x="58" y="525" text-anchor="start">核心層</text>
+  <g transform="translate(190 365)">
+    <rect x="0" y="0" width="420" height="265" rx="16" class="container"/>
+    <path class="header" d="M16 0H404Q420 0 420 16V45H0V16Q0 0 16 0Z"/>
+    <text class="l1-label" x="210.0" y="31" text-anchor="middle">產品創新</text>
+    <g transform="translate(38 88)">
+    <rect x="0" y="0" width="160" height="72" rx="11" class="orange child-stroke"/>
+    <text class="l2-label" x="80.0" y="58" text-anchor="middle">產品開發</text>
+    <rect x="117" y="10" width="32" height="20" rx="10" fill="#111111"/>
+    <text class="ai-text" x="133" y="25" text-anchor="middle">AI</text>
+    </g>
+    <g transform="translate(222 88)">
+    <rect x="0" y="0" width="160" height="72" rx="11" class="orange child-stroke"/>
+    <text class="l2-label" x="80.0" y="58" text-anchor="middle">工業設計</text>
+    <rect x="117" y="10" width="32" height="20" rx="10" fill="#111111"/>
+    <text class="ai-text" x="133" y="25" text-anchor="middle">AI</text>
+    </g>
+  </g>
+
+  <g transform="translate(590 365)">
+    <rect x="0" y="0" width="420" height="265" rx="16" class="container"/>
+    <path class="header" d="M16 0H404Q420 0 420 16V45H0V16Q0 0 16 0Z"/>
+    <text class="l1-label" x="210.0" y="31" text-anchor="middle">需求供應</text>
+    <g transform="translate(38 78)">
+    <rect x="0" y="0" width="160" height="70" rx="11" class="orange child-stroke"/>
+    <text class="l2-label" x="80.0" y="56" text-anchor="middle">需求預測</text>
+    <rect x="117" y="10" width="32" height="20" rx="10" fill="#111111"/>
+    <text class="ai-text" x="133" y="25" text-anchor="middle">AI</text>
+    </g>
+    <g transform="translate(222 78)">
+    <rect x="0" y="0" width="160" height="70" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="80.0" y="43.0" text-anchor="middle">供應鏈管理</text>
+    </g>
+    <g transform="translate(130 170)">
+    <rect x="0" y="0" width="160" height="70" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="80.0" y="43.0" text-anchor="middle">採購管理</text>
+    </g>
+  </g>
+
+  <g transform="translate(990 365)">
+    <rect x="0" y="0" width="420" height="265" rx="16" class="container"/>
+    <path class="header" d="M16 0H404Q420 0 420 16V45H0V16Q0 0 16 0Z"/>
+    <text class="l1-label" x="210.0" y="31" text-anchor="middle">品質售後</text>
+    <g transform="translate(38 88)">
+    <rect x="0" y="0" width="160" height="72" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="80.0" y="44.0" text-anchor="middle">品質管理</text>
+    </g>
+    <g transform="translate(222 88)">
+    <rect x="0" y="0" width="160" height="72" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="80.0" y="44.0" text-anchor="middle">售後服務管理</text>
+    </g>
+  </g>
+
+    <text class="tier" x="58" y="825" text-anchor="start">支援層</text>
+  <g transform="translate(190 700)">
+    <rect x="0" y="0" width="420" height="240" rx="16" class="container"/>
+    <path class="header" d="M16 0H404Q420 0 420 16V45H0V16Q0 0 16 0Z"/>
+    <text class="l1-label" x="210.0" y="31" text-anchor="middle">人才管理</text>
+    <g transform="translate(38 75)">
+    <rect x="0" y="0" width="160" height="58" rx="11" class="cream child-stroke"/>
+    <text class="l2-label" x="80.0" y="37.0" text-anchor="middle">人才招募</text>
+    </g>
+    <g transform="translate(222 75)">
+    <rect x="0" y="0" width="160" height="58" rx="11" class="cream child-stroke"/>
+    <text class="l2-label" x="80.0" y="37.0" text-anchor="middle">學習發展</text>
+    </g>
+    <g transform="translate(38 152)">
+    <rect x="0" y="0" width="160" height="58" rx="11" class="orange child-stroke"/>
+    <text class="l2-label" x="80.0" y="44" text-anchor="middle">敬業與留才</text>
+    <rect x="117" y="10" width="32" height="20" rx="10" fill="#111111"/>
+    <text class="ai-text" x="133" y="25" text-anchor="middle">AI</text>
+    </g>
+    <g transform="translate(222 152)">
+    <rect x="0" y="0" width="160" height="58" rx="11" class="cream child-stroke"/>
+    <text class="l2-label" x="80.0" y="37.0" text-anchor="middle">薪酬管理</text>
+    </g>
+  </g>
+
+  <g transform="translate(590 700)">
+    <rect x="0" y="0" width="420" height="240" rx="16" class="container"/>
+    <path class="header" d="M16 0H404Q420 0 420 16V45H0V16Q0 0 16 0Z"/>
+    <text class="l1-label" x="210.0" y="31" text-anchor="middle">財務管理</text>
+    <g transform="translate(38 82)">
+    <rect x="0" y="0" width="160" height="62" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="80.0" y="39.0" text-anchor="middle">財務會計</text>
+    </g>
+    <g transform="translate(222 82)">
+    <rect x="0" y="0" width="160" height="62" rx="11" class="cream child-stroke"/>
+    <text class="l2-label" x="80.0" y="48" text-anchor="middle">費用管理</text>
+    <rect x="117" y="10" width="32" height="20" rx="10" fill="#111111"/>
+    <text class="ai-text" x="133" y="25" text-anchor="middle">AI</text>
+    </g>
+    <g transform="translate(130 160)">
+    <rect x="0" y="0" width="160" height="62" rx="11" class="gold child-stroke"/>
+    <text class="l2-label" x="80.0" y="39.0" text-anchor="middle">資金管理</text>
+    </g>
+  </g>
+
+  <g transform="translate(990 700)">
+    <rect x="0" y="0" width="420" height="240" rx="16" class="container"/>
+    <path class="header" d="M16 0H404Q420 0 420 16V45H0V16Q0 0 16 0Z"/>
+    <text class="l1-label" x="210.0" y="31" text-anchor="middle">設備資料</text>
+    <g transform="translate(38 104)">
+    <rect x="0" y="0" width="160" height="70" rx="11" class="orange child-stroke"/>
+    <text class="l2-label" x="80.0" y="56" text-anchor="middle">設備維護管理</text>
+    <rect x="117" y="10" width="32" height="20" rx="10" fill="#111111"/>
+    <text class="ai-text" x="133" y="25" text-anchor="middle">AI</text>
+    </g>
+    <g transform="translate(222 104)">
+    <rect x="0" y="0" width="160" height="70" rx="11" class="cream child-stroke dashed"/>
+    <text class="l2-label" x="80.0" y="43.0" text-anchor="middle">資料治理</text>
+    </g>
+  </g>
+
+  <g transform="translate(78 1018)">
+    <rect class="orange" x="0" y="-20" width="34" height="24" rx="6"/>
+    <text class="legend" x="44" y="0" text-anchor="start">競爭優勢 重押AI</text>
+    <rect class="gold child-stroke" x="254" y="-20" width="34" height="24" rx="6"/>
+    <text class="legend" x="298" y="0" text-anchor="start">跟上別落後</text>
+    <rect class="cream child-stroke" x="456" y="-20" width="34" height="24" rx="6"/>
+    <text class="legend" x="500" y="0" text-anchor="start">買現成</text>
+    <rect class="cream child-stroke dashed" x="620" y="-20" width="34" height="24" rx="6"/>
+    <text class="legend" x="664" y="0" text-anchor="start">養地基 不准砍</text>
+    <rect class="container" x="860" y="-22" width="48" height="28" rx="8"/>
+    <path class="header" d="M868 -22H900Q908 -22 908 -14V-10H860V-14Q860 -22 868 -22Z"/>
+    <text class="legend" x="920" y="0" text-anchor="start">L1 母能力 內含 L2 子能力</text>
+  </g>
+</svg>

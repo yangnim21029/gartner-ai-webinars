@@ -1,0 +1,42 @@
+{
+  "_note": "TSMC BCM image spec — the 16 capabilities from tsmc-bcm-input.json clustered BOTTOM-UP into tiers/domains. Feeds the codex raster image brief. 智財與資安 marked enabling (dashed, 養地基不准砍).",
+  "title": "台積電 TSMC Business Capability Map",
+  "subtitle": "純晶圓代工 · pace layer 戰略地位（衝 AI 製程領先視角，示範）",
+  "perspective": "台積電自己，衝 AI 製程領先",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "經營治理", "capabilities": [
+        {"label": "全球製造布局", "pace": "keep_up"},
+        {"label": "資本支出與財務", "pace": "keep_up"},
+        {"label": "法遵與出口管制", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "製程與製造", "capabilities": [
+        {"label": "製程技術研發", "pace": "differentiating", "ai": true},
+        {"label": "晶圓製造", "pace": "differentiating"},
+        {"label": "良率管理", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "封裝與光罩", "capabilities": [
+        {"label": "先進封裝", "pace": "differentiating", "ai": true},
+        {"label": "光罩製作", "pace": "keep_up"}
+      ]},
+      {"name": "客戶與產能", "capabilities": [
+        {"label": "客戶設計賦能", "pace": "differentiating"},
+        {"label": "產能規劃與配置", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "營運支援", "capabilities": [
+        {"label": "供應鏈管理", "pace": "keep_up"},
+        {"label": "廠務與設備工程", "pace": "keep_up"},
+        {"label": "品質與可靠度", "pace": "keep_up"}
+      ]},
+      {"name": "資源與治理", "capabilities": [
+        {"label": "智財與資安", "pace": "keep_up", "enabling": true},
+        {"label": "人才管理", "pace": "commodity"},
+        {"label": "永續 ESG", "pace": "commodity"}
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "company": "Pandora",
+  "tagline": "全球銷量最大珠寶品牌 · BCM 輸入功課 · 品牌驅動垂直整合零售視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整",
+  "facts": [
+    {"k": "產業", "v": "affordable luxury 珠寶；垂直整合品牌珠寶商，全球銷量最大珠寶品牌"},
+    {"k": "商業模式", "v": "自有品牌設計＋泰國自製＋80%+ 自營零售（concept stores／電商），靠可負擔價位與 charm 收藏性建立高頻回購"},
+    {"k": "2024 營收", "v": "DKK 31.68B（約 €4.25B），organic +13%；毛利率 79.8%、EBIT margin 25.2%、淨利 DKK 5.23B"},
+    {"k": "2025 營收", "v": "DKK 32.5B，organic +6%（未達 7–8% 指引），EBIT margin 23.9%；北美 Q4 偏弱，受商品/FX/關稅約 300bp 逆風"},
+    {"k": "製造", "v": "約 95% 於泰國自製、逾 12,000 名工匠 hand-finished（部分 20+ 道工序）；越南新廠 USD 150M、2026 上半年投產"},
+    {"k": "通路／組合", "v": "6,785 個 POS（2,788 concept stores），線上佔 Q4 營收 27%；Core（charms）74%／Fuel with more 26%（後者毛利更高）"}
+  ],
+  "context": "Pandora 是丹麥珠寶公司、全球銷量最大珠寶品牌，2024 營收 DKK 31.68B、EBIT margin 25.2%。核心產品是可負擔價位的 charm 與手鐲（Core 佔 74%）；護城河來自泰國 12,000+ 工匠 hand-finished 的垂直自製、80%+ 自營零售與 27% 線上滲透。Pandora 正以 Phoenix 戰略從『charm 品牌』轉型為 full jewellery brand，拓展 lab-grown diamonds、達成 100% 再生金銀，並應對美國關稅與白銀成本逆風。以下依 note 1 的 BCM 輸入欄位整理：戰略目標（頂列）、能力清單（生值／養地基）；pace layer 留待製圖時再依視角上色。",
+  "objectives": [
+    {"name": "執行 Phoenix 戰略、從 charm 品牌重塑為 full jewellery brand", "kpi": "Fuel with more 本地幣別成長（2024 +33%）；品牌 consideration／unaided awareness（BE LOVE 首年 +11%／+5%）"},
+    {"name": "維持 best-in-class 獲利能力與 LFL 成長", "kpi": "2024 LFL +7%、EBIT margin 25.2%、毛利率約 80%；2026 EBIT margin 目標 26–27%"},
+    {"name": "擴張全球自營店網、深化線上", "kpi": "2024–2026 淨增 400–500 店；concept stores 2,788、總 POS 6,785；線上佔 Q4 營收 27%"},
+    {"name": "擴大高毛利非 charm 品類（含 Lab-Grown Diamonds）", "kpi": "Fuel with more 毛利 83.8% vs Core 78.4%；Lab-Grown Diamonds 規模化（金額官方未揭）"},
+    {"name": "領導永續、鞏固 100% 再生金銀與低碳製造", "kpi": "100% recycled silver & gold 已達成（提前一年）、年減約 58,000 噸 CO₂e；新廠 LEED Gold"},
+    {"name": "在美國關稅與商品成本逆風下守住獲利", "kpi": "關稅年化 gross 影響約 DKK 1.2B；以調價吸收（2024-10 +5%、2025-04 +4%）"}
+  ],
+  "capabilities": [
+    {"name": "珠寶設計與系列開發", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "設計並開發 charm、手鐲、戒指、耳環與 Lab-Grown Diamond 系列", "kpi": "新系列 LFL 貢獻、上市節奏、Fuel with more 成長"},
+    {"name": "手工製造與工藝執行", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "在泰國／越南以工匠 hand-finish 每件珠寶（鑲嵌、琺瑯、Murano 玻璃塑形）", "kpi": "週產能（約 900k 件）、單件良率、單位成本"},
+    {"name": "工藝標準與品質管控", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "訂定並稽核工藝與品質標準、確保跨廠一致", "kpi": "瑕疵／退貨率、工匠認證通過率"},
+    {"name": "原料採購與負責任溯源", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "採購 100% 再生金銀、lab-grown diamonds 與原料，管理供應商與溯源", "kpi": "再生金屬佔比（100%）、白銀成本、供應商稽核覆蓋率"},
+    {"name": "品牌建立與行銷", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "經營品牌定位（Phoenix／BE LOVE）、ambassador 與廣告，升級為 full jewellery brand", "kpi": "品牌 consideration／awareness、marketing 佔營收（約 12.7%）"},
+    {"name": "消費者洞察與個人化", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "分析顧客行為與偏好，驅動收藏性、個人化推薦與分眾溝通", "kpi": "回購率、客單價、個人化轉換"},
+    {"name": "概念店與零售營運", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "營運 2,788 家 concept stores 與 shop-in-shops，管理店內體驗與店效", "kpi": "LFL sales、新店首年 EBIT margin、淨增店數"},
+    {"name": "電商與 D2C 數位商務", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "營運自營電商新平台，提供沉浸式線上體驗", "kpi": "線上佔營收（Q4 27%）、線上成長（+20%）、轉換率"},
+    {"name": "全球批發與經銷夥伴管理", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "管理 franchise 與 wholesale 夥伴，逐步收回 franchise 店轉自營", "kpi": "wholesale 佔比、夥伴店 sell-through、POS 淨變化"},
+    {"name": "產品組合與品類擴張", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "管理 Core（charms）與 Fuel with more 的產品 mix，推動高毛利成長", "kpi": "segment mix（74%／26%）、各 segment 毛利"},
+    {"name": "定價與商品毛利管理", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "設定價位帶與調價，吸收白銀與關稅成本、維持可負擔定位", "kpi": "毛利率（約 80%）、調價幅度、關稅吸收率"},
+    {"name": "供應鏈規劃、需求預測與物流", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "預測需求、配置庫存、把自製品送到全球門市與電商", "kpi": "庫存週轉、缺貨率、履約成本佔比"},
+    {"name": "工匠人才招募與培訓", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "招募並培訓 12,000+ 工匠（越南再增至多 7,000），建立工藝梯隊", "kpi": "招募達成率、培訓到熟練時間、工匠留任率"},
+    {"name": "永續與循環經營", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "推動 100% 再生金屬、低碳製造（LEED Gold、再生電力）與碳排揭露", "kpi": "再生佔比（100%）、CO₂e 減量、再生能源覆蓋"},
+    {"name": "財務、資本配置與股東回報", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "管理獲利、capex、股利與買回", "kpi": "EBIT margin、EPS 成長、FCF、股東總回報"},
+    {"name": "數位、IT 與資料平台", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "維運電商、零售系統、CRM／會員與資料基礎設施（含 AI 客服試點）", "kpi": "平台可用度、系統 TCO、資料品質"}
+  ],
+  "notes": [
+    "objectives 達成值取自 Pandora 官方財報（Q4 2024／FY2025）；各能力的「產業典型 KPI」是通用指標名，非 Pandora 內部目標值。",
+    "charms vs 手鐲細分為第三方推估；官方只揭 Core 74%／Fuel with more 26%。Lab-Grown Diamonds 品類金額官方未單獨揭露。",
+    "2025 +6% 為 organic 口徑（已剔 FX），與部分媒體 reported +4.1% 不同；中國僅約 1% 營收，不宜視為主要地區。",
+    "pace layer 不放這份清單；它是疊在地圖上的戰略判斷，BCM 圖依「品牌驅動的垂直整合零售商」視角上色——差異化在品牌、手工自製、自營全通路三件事。",
+    "內部 metadata（owner／supporting systems／data in-out／data readiness 1–5）非公開，全欄位待補（note 1, L256–262）。"
+  ],
+  "sources": [
+    "Pandora Annual Report 2024 (pandoragroup.com)",
+    "Pandora — FY2025 announcement, +6% organic (2026-02-04)",
+    "Pandora Q4 2024 Interim Report (Co. Ann. 921)",
+    "Pandora — Crafting / craftsmanship (Thailand, Vietnam)",
+    "Pandora — 100% recycled silver & gold",
+    "WWD / FashionUnited — BE LOVE brand campaign",
+    "CNBC / Fortune — Pandora US tariffs & price rises"
+  ]
+}

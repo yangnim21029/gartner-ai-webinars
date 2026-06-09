@@ -1,0 +1,40 @@
+{
+  "_note": "Pandora BCM image spec — 16 capabilities from pandora-bcm-input.json clustered bottom-up, pace per 品牌驅動垂直整合零售 視角. AI pinned to insight/e-commerce/forecasting/marketing/data — NOT to hand-crafting (human-craft moat). 數位與資料平台 marked enabling (dashed). Labels shortened for tile fit.",
+  "title": "Pandora Business Capability Map",
+  "subtitle": "全球銷量最大珠寶品牌 · pace layer 戰略地位（品牌驅動垂直整合零售視角，示範）",
+  "perspective": "Pandora 自己，品牌＋手工自製＋自營零售 差異化",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "經營治理", "capabilities": [
+        {"label": "永續與循環", "pace": "keep_up"},
+        {"label": "定價與毛利", "pace": "keep_up"},
+        {"label": "財務與資本", "pace": "commodity"}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "設計與工藝", "capabilities": [
+        {"label": "設計與系列開發", "pace": "differentiating"},
+        {"label": "手工製造工藝", "pace": "differentiating"},
+        {"label": "工藝標準與品管", "pace": "differentiating"},
+        {"label": "原料採購與溯源", "pace": "differentiating"}
+      ]},
+      {"name": "品牌與顧客", "capabilities": [
+        {"label": "品牌與行銷", "pace": "differentiating", "ai": true},
+        {"label": "消費者洞察", "pace": "differentiating", "ai": true},
+        {"label": "產品組合擴張", "pace": "differentiating"}
+      ]},
+      {"name": "通路與銷售", "capabilities": [
+        {"label": "概念店零售", "pace": "differentiating"},
+        {"label": "電商與 D2C", "pace": "differentiating", "ai": true},
+        {"label": "批發與經銷", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "營運與數位", "capabilities": [
+        {"label": "供應鏈與需求預測", "pace": "keep_up", "ai": true},
+        {"label": "工匠人才培訓", "pace": "differentiating"},
+        {"label": "數位與資料平台", "pace": "keep_up", "ai": true, "enabling": true}
+      ]}
+    ]}
+  ]
+}

@@ -1,6 +1,6 @@
 # 原始資料 — Accelerate Your AI Journey With Business Capability Maps
 
-> 補錄日期：2026-06-07（影片與筆記先完成，官方描述後補）
+> 補錄日期：2026-06-07（影片與筆記原本就有，官方描述當天已補齊）
 > 來源平台：Gartner Webinar（Bizzabo 串流）
 > Stream URL：未記錄（影片已下載為 video.mp4）
 > 講者名更正：ASR 轉錄拼為 Alexander Hope，官方名為 **Alexander Hoeppe**

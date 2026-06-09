@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>台積電 TSMC — BCM 輸入功課</title>
+<style>
+:root{ --ink:#1a1d21; --muted:#565d66; --faint:#8b929a;
+  --rule:#d7dce1; --rule-strong:#1a1d21; --accent:#1f3a5f; --bg:#ffffff; }
+*{ box-sizing:border-box; }
+body{ margin:0; padding:56px 64px; max-width:960px; background:var(--bg); color:var(--ink);
+  font:15px/1.65 "PingFang TC","Microsoft JhengHei","Noto Sans CJK TC","Hiragino Sans GB",
+    -apple-system,"Segoe UI",Roboto,sans-serif; }
+.doc-head{ border-bottom:2px solid var(--rule-strong); padding-bottom:16px; margin-bottom:4px; position:relative; }
+.kicker{ margin:0 0 10px; font-size:11px; font-weight:600; letter-spacing:.18em; text-transform:uppercase; color:var(--accent); }
+.doc-head h1{ margin:0; font-size:26px; font-weight:700; letter-spacing:-.01em; }
+.doc-meta{ margin:7px 0 0; color:var(--muted); font-size:13px; }
+.doc-meta .dot{ margin:0 9px; color:var(--faint); }
+.classif{ position:absolute; top:0; right:0; font-size:10.5px; font-weight:700; letter-spacing:.12em;
+  text-transform:uppercase; color:var(--faint); border:1px solid var(--rule); padding:3px 8px; }
+table.facts{ width:100%; border-collapse:collapse; margin:24px 0 30px; font-size:13.5px; }
+table.facts th{ width:118px; text-align:left; vertical-align:top; padding:9px 18px 9px 0;
+  color:var(--faint); font-weight:600; border-bottom:1px solid var(--rule); }
+table.facts td{ padding:9px 0; border-bottom:1px solid var(--rule); color:var(--ink); font-weight:600; }
+section{ margin:0 0 28px; }
+section>h2{ display:flex; align-items:baseline; gap:12px; margin:0 0 12px; padding-bottom:7px;
+  font-size:16px; font-weight:700; border-bottom:1px solid var(--rule); }
+section>h2 .num{ font-size:12px; font-weight:700; color:var(--accent); font-variant-numeric:tabular-nums; }
+section>h2 .tag{ margin-left:auto; font-size:11px; font-weight:600; color:var(--faint); letter-spacing:.04em; }
+section p{ margin:0 0 9px; color:#2b2f35; }
+ul.obj{ margin:0; padding:0; list-style:none; }
+ul.obj li{ display:flex; gap:14px; padding:9px 0; border-bottom:1px solid var(--rule); }
+ul.obj .o-name{ flex:0 0 230px; font-weight:700; }
+ul.obj .o-kpi{ color:var(--muted); font-size:13.5px; }
+table.cap{ width:100%; border-collapse:collapse; font-size:13.5px; }
+table.cap thead th{ text-align:left; padding:8px 10px; border-bottom:2px solid var(--rule-strong);
+  font-size:11.5px; letter-spacing:.04em; color:var(--faint); font-weight:700; }
+table.cap td{ padding:9px 10px; border-bottom:1px solid var(--rule); vertical-align:top; }
+table.cap td.name{ font-weight:700; white-space:nowrap; }
+table.cap td.def{ color:#2b2f35; }
+table.cap td.kpi{ color:var(--muted); white-space:nowrap; }
+.aibadge{ display:inline-block; margin-left:6px; background:#111; color:#fff; font-size:9.5px;
+  font-weight:800; padding:1px 5px; border-radius:7px; letter-spacing:.5px; vertical-align:middle; }
+.intnote{ margin:12px 0 0; padding:10px 13px; background:#f6f8fa; border-left:3px solid var(--accent);
+  font-size:12.5px; color:var(--muted); }
+.foot{ margin-top:38px; padding-top:12px; border-top:1px solid var(--rule); font-size:11.5px; color:var(--faint); }
+.foot b{ color:var(--muted); font-weight:600; }
+.foot ul{ margin:5px 0 0; padding-left:18px; } .foot li{ margin:2px 0; }
+</style>
+</head>
+<body>
+<div class="doc-head"><span class="classif">公開資料彙整</span><p class="kicker">BCM 輸入功課 · Capability Map Inputs</p><h1>台積電 TSMC</h1><p class="doc-meta">BCM 輸入功課 · 衝 AI 製程領先視角<span class="dot">·</span>as of 2026-06</p></div>
+<table class="facts"><tr><th>產業</th><td>半導體晶圓代工 (pure-play foundry)</td></tr><tr><th>2025 營收</th><td>約 US$120.95B，YoY +31.6%；毛利率 59.9%</td></tr><tr><th>代工市佔</th><td>約 69.9%（Q4 70.4%）；Samsung 7.2%</td></tr><tr><th>領先製程</th><td>N2 (2nm, GAA) 2025 Q4 量產；A16 2H 2026</td></tr></table>
+<section><h2><span class="num">01</span>公司背景</h2><p>台積電是全球最大、製程最領先的純晶圓代工廠：只製造、不設計、不賣品牌晶片，「不與客戶競爭」撐起它的信任基礎。2025 年 AI/HPC 已超越智慧型手機，成為最大平台。以下不寫一般公司簡介，而是依 note 1 的 BCM 輸入欄位整理：頂列放戰略目標，主體放能力清單與 metadata。</p></section><section><h2><span class="num">02</span>戰略目標 Business Objectives<span class="tag">BCM 頂列</span></h2><ul class="obj"><li><span class="o-name">製程世代領先</span><span class="o-kpi">領先節點量產時程（N2 已量產、A16 2H26）；同功耗 PPA 領先</span></li><li><span class="o-name">AI／HPC 營收成長</span><span class="o-kpi">HPC 營收佔比（2025 達 58%）；AI 加速器 2024–29 CAGR mid-to-high 50%</span></li><li><span class="o-name">先進封裝供給</span><span class="o-kpi">CoWoS 月產能（2026 目標約 130K）</span></li><li><span class="o-name">全球產能韌性</span><span class="o-kpi">海外廠良率與獲利（Arizona 首年獲利 US$514M）</span></li><li><span class="o-name">獲利與資本效率</span><span class="o-kpi">毛利率（2025 59.9%）；capex 效率（2026 capex US$52–56B）</span></li></ul></section><section><h2><span class="num">03</span>能力清單 · 直接生值 value-realizing<span class="tag">BCM 左側 · 直接 deliver outcome</span></h2><table class="cap"><thead><tr><th>能力 Capability</th><th>層</th><th>定義（做什麼）</th><th>產業典型 KPI</th></tr></thead><tbody><tr><td class="name">製程技術研發<span class="aibadge">AI</span></td><td>L1</td><td class="def">開發新節點與電晶體架構（GAA nanosheet、背面供電 Super Power Rail）</td><td class="kpi">節點領先時程、PPA</td></tr><tr><td class="name">晶圓製造</td><td>L1</td><td class="def">量產先進與成熟節點晶圓</td><td class="kpi">產出、準交率</td></tr><tr><td class="name">良率管理與製程整合<span class="aibadge">AI</span></td><td>L1</td><td class="def">拉升 yield、收斂缺陷，用量測檢測回饋製程</td><td class="kpi">良率 %</td></tr><tr><td class="name">先進封裝<span class="aibadge">AI</span></td><td>L1</td><td class="def">以 CoWoS／SoIC／InFO 2.5D/3D 封裝整合 chiplet 與 HBM</td><td class="kpi">CoWoS 月產能、準交</td></tr><tr><td class="name">客戶設計賦能</td><td>L1</td><td class="def">經營 OIP 生態系，提供 PDK／IP／EDA 認證以縮短客戶導入</td><td class="kpi">設計導入時間、tape-out 數</td></tr><tr><td class="name">產能規劃與配置</td><td>L1</td><td class="def">決定產能投資、配置客戶產能</td><td class="kpi">產能利用率</td></tr><tr><td class="name">全球製造布局</td><td>L1</td><td class="def">在海外建廠並營運（Arizona／Japan／Germany）</td><td class="kpi">海外廠良率、獲利</td></tr></tbody></table></section><section><h2><span class="num">04</span>能力清單 · 養地基 value-enabling<span class="tag">BCM 底層 · 撐住別人、別砍</span></h2><table class="cap"><thead><tr><th>能力 Capability</th><th>層</th><th>定義（做什麼）</th><th>產業典型 KPI</th></tr></thead><tbody><tr><td class="name">光罩製作</td><td>L1</td><td class="def">製作 mask／reticle</td><td class="kpi">光罩準交、品質</td></tr><tr><td class="name">供應鏈管理</td><td>L1</td><td class="def">協調設備、材料、特殊氣體與 HBM 供應</td><td class="kpi">供應穩定度、成本</td></tr><tr><td class="name">廠務與設備工程</td><td>L1</td><td class="def">維運無塵室、廠務系統與設備</td><td class="kpi">設備稼動率</td></tr><tr><td class="name">品質與可靠度</td><td>L1</td><td class="def">驗證可靠度、運作品質管理系統</td><td class="kpi">缺陷率、客訴</td></tr><tr><td class="name">資本支出與財務管理</td><td>L1</td><td class="def">規劃 capex、管理折舊與財務</td><td class="kpi">capex 效率、毛利率</td></tr><tr><td class="name">智財與資安</td><td>L1</td><td class="def">保護製程機密與 IP，守住資訊安全</td><td class="kpi">洩密事件、稽核結果</td></tr><tr><td class="name">法遵與出口管制</td><td>L1</td><td class="def">因應出口管制與關稅，落實法規遵循</td><td class="kpi">合規達成</td></tr><tr><td class="name">人才管理</td><td>L1</td><td class="def">招募、培訓、留住人才（含海外派遣）</td><td class="kpi">到位率、留任率</td></tr><tr><td class="name">永續 ESG</td><td>L1</td><td class="def">管理能源、用水、淨零與環境治理</td><td class="kpi">再生能源 %、用水回收率</td></tr></tbody></table><p class="intnote">每個能力另需一張內部 metadata 卡：owner（單一）、supporting systems、data input/output、data readiness（1–5）。此四欄非公開資料，標「待補」由組織填（note 1, L256–262）。</p></section><section><h2><span class="num">05</span>資料註記</h2><ul class="obj"><li><span class="o-kpi">objectives 的達成值（58%、59.9%、US$514M 等）取自公開財報；各能力的「產業典型 KPI」只是通用指標名，非台積電內部目標值（note 1, L106）。</span></li><li><span class="o-kpi">pace layer 是「對某 objective」的戰略判斷，此處取「衝 AI 製程領先」視角；換目標，顏色就會變（note 1, L124）。</span></li><li><span class="o-kpi">內部 metadata（owner／supporting systems／data in-out／data readiness 1–5）非公開，全欄待補（note 1, L256–262）。</span></li><li><span class="o-kpi">最大客戶（NVIDIA vs Apple）、2025 營收口徑等爭議數字，見公司背景版簡報的資料註記。</span></li></ul></section>
+<div class="foot"><b>來源 Sources</b><ul><li>TSMC 2025 Annual Report (investor.tsmc.com)</li><li>TSMC 4Q25 results, SEC filing (sec.gov)</li><li>TrendForce 2025 foundry market share</li><li>Tom&#x27;s Hardware — TSMC N2 volume production (2nm, GAA)</li><li>DIGITIMES — CoWoS/SoIC capacity 2026</li><li>TechTimes — TSMC Arizona year-one profit US$514M</li><li>DataCenterDynamics — TSMC 2026 capex US$52–56B</li></ul></div>
+</body>
+</html>
