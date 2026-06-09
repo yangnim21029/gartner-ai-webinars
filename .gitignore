@@ -17,3 +17,10 @@
 # Notes drafts / scratch
 *_draft.md
 *.tmp
+
+# BCM: only notes & examples go to the repo — reference templates (third-party；
+# QGEA is CC BY-NC-SA non-commercial) and intermediate artifacts stay local
+bcm/apqc-pcf-*.pdf
+bcm/qgea-bcrm*
+bcm/*-bcm-input.json
+bcm/*-bcm-chatgpt-prompt.txt

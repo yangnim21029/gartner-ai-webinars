@@ -4,58 +4,196 @@
   "as_of": "2026-06",
   "classification": "公開資料彙整",
   "facts": [
-    {"k": "產業", "v": "全球美妝（護膚／彩妝／護髮／香水／皮膚科級護理），pure player"},
-    {"k": "商業模式", "v": "37+ 品牌橫跨大眾到奢華，全通路＋D2C，靠研發配方與品牌行銷驅動，併購補強組合"},
-    {"k": "2024 營收", "v": "€43.48B（+5.1% LFL）；營業利益率 20.0%（歷史新高）；淨利 €6.41B"},
-    {"k": "市場地位", "v": "全球第一大美妝公司（市佔約 16.1%，估計值；Estée Lauder 約 13.6%）"},
-    {"k": "四大事業部", "v": "Consumer €16.0B、Luxe €15.6B、Dermatological €7.0B（+9.8% 最快）、Professional €4.9B"},
-    {"k": "員工／總部", "v": "逾 90,000 人、4,000+ 科學家、21 研究中心；總部法國 Clichy"}
+    {
+      "k": "產業",
+      "v": "全球美妝（護膚／彩妝／護髮／香水／皮膚科級護理），pure player"
+    },
+    {
+      "k": "商業模式",
+      "v": "37+ 品牌橫跨大眾到奢華，全通路＋D2C，靠研發配方與品牌行銷驅動，併購補強組合"
+    },
+    {
+      "k": "2024 營收",
+      "v": "€43.48B（+5.1% LFL）；營業利益率 20.0%（歷史新高）；淨利 €6.41B"
+    },
+    {
+      "k": "市場地位",
+      "v": "全球第一大美妝公司（市佔約 16.1%，估計值；Estée Lauder 約 13.6%）"
+    },
+    {
+      "k": "四大事業部",
+      "v": "營益率：Derma 26.1%（最高）、Luxe 22.3%、Professional 22.2%、Consumer 21.1%；A&P 約 32.2% 營收為最大費用槓桿"
+    },
+    {
+      "k": "員工／總部",
+      "v": "逾 90,000 人、4,000+ 科學家、21 研究中心；總部法國 Clichy"
+    }
   ],
   "context": "L'Oréal（萊雅）是全球最大的純美妝集團，2024 年營收 €43.48B，營業利益率 20.0%、創歷史新高。旗下 37+ 品牌橫跨大眾、專業、奢華、皮膚科四個事業部，其中 Dermatological Beauty（CeraVe、La Roche-Posay）成長最快。它用 Beauty Tech（ModiFace AR 試妝、AI 膚質診斷、智慧美妝裝置）與綠色科學配方挖護城河。以下依 note 1 的 BCM 輸入欄位整理：戰略目標（頂列）、能力清單（生值／養地基）；pace layer 留待製圖時依視角上色。",
   "objectives": [
-    {"name": "鞏固全球美妝龍頭、成長超越大盤", "kpi": "市佔維持第一；LFL 成長超越美妝市場（2024 +5.1% LFL）"},
-    {"name": "維持高獲利能力", "kpi": "營業利益率 20.0%（2024 新高）持續或提升"},
-    {"name": "用 Beauty Tech／AI 個人化推升數位與電商", "kpi": "電商占營收 28.2%（€12.3B）續拉高；ModiFace 試妝使用量"},
-    {"name": "擴張皮膚科級美妝", "kpi": "Dermatological 事業部 +9.8% LFL，領先四部門"},
-    {"name": "重振 North Asia／中國市場", "kpi": "扭轉 North Asia 2024 −3.2% LFL"},
-    {"name": "執行 L'Oréal for the Future 永續目標", "kpi": "Scope 1&2 較 2019 減 57%、100% 再生能源、生質材料 90% 永續來源"},
-    {"name": "靠併購優化品牌組合", "kpi": "2025 以約 €4B 收購 Kering Beauté（Creed 等）"}
+    {
+      "name": "鞏固全球美妝龍頭、成長超越大盤",
+      "kpi": "市佔維持第一；LFL 成長超越美妝市場（2024 +5.1% LFL）"
+    },
+    {
+      "name": "維持高獲利能力",
+      "kpi": "營業利益率 20.0%（2024 新高）持續或提升"
+    },
+    {
+      "name": "用 Beauty Tech／AI 個人化推升數位與電商",
+      "kpi": "電商占營收 28.2%（€12.3B）續拉高；ModiFace 試妝使用量"
+    },
+    {
+      "name": "擴張皮膚科級美妝",
+      "kpi": "Dermatological 事業部 +9.8% LFL，領先四部門"
+    },
+    {
+      "name": "重振 North Asia／中國市場",
+      "kpi": "扭轉 North Asia 2024 −3.2% LFL"
+    },
+    {
+      "name": "執行 L'Oréal for the Future 永續目標",
+      "kpi": "Scope 1&2 較 2019 減 57%、100% 再生能源、生質材料 90% 永續來源"
+    },
+    {
+      "name": "靠併購優化品牌組合",
+      "kpi": "2025 以約 €4B 收購 Kering Beauté（Creed 等）"
+    }
   ],
   "capabilities": [
-    {"name": "研究與配方開發", "level": "L1", "role": "realizing", "ai": true,
-     "definition": "以科學研究發現活性成分、開發護膚／護髮／彩妝／香水配方", "kpi": "年度專利數（2024 694 件）、新品營收占比、R&D 占營收（約 3.1%，估計）"},
-    {"name": "產品與品牌組合開發", "level": "L1", "role": "realizing", "ai": false,
-     "definition": "把配方做成有定位的產品線，管理橫跨價格帶的 37+ 品牌", "kpi": "新品上市速度、品牌價值排名"},
-    {"name": "消費者洞察與趨勢解析", "level": "L1", "role": "realizing", "ai": true,
-     "definition": "解讀消費者數據、社群聲量與美妝趨勢，餵給產品與行銷決策", "kpi": "洞察命中率、社群聆聽涵蓋率"},
-    {"name": "品牌建立與行銷傳播", "level": "L1", "role": "realizing", "ai": true,
-     "definition": "靠廣告、代言、社群與內容（含 Gen AI）做大品牌需求", "kpi": "品牌價值、廣告投報、市佔"},
-    {"name": "美妝科技與 AR／AI 個人化", "level": "L1", "role": "realizing", "ai": true,
-     "definition": "以 ModiFace AR 試妝、AI 膚質診斷、智慧裝置提供個人化體驗", "kpi": "虛擬試妝使用量、AI 診斷使用量、CES 創新獎"},
-    {"name": "電商與 D2C 銷售", "level": "L1", "role": "realizing", "ai": true,
-     "definition": "經官網、品牌 app 與第三方平台直接賣給消費者", "kpi": "電商占營收（2024 28.2%）、電商成長率"},
-    {"name": "零售與通路管理", "level": "L1", "role": "realizing", "ai": false,
-     "definition": "管理百貨／藥妝／沙龍／旅遊零售／大賣場的上架與陳列", "kpi": "通路覆蓋、各通路 sell-out、旅遊零售營收"},
-    {"name": "永續與綠色科學", "level": "L1", "role": "realizing", "ai": false,
-     "definition": "推動再生農業、綠色配方、減碳與循環包裝", "kpi": "Scope 1&2 減排、再生能源占比、生質材料占比"},
-    {"name": "併購與品牌組合管理", "level": "L1", "role": "realizing", "ai": false,
-     "definition": "收購、整合、授權品牌來補強組合（如收購 Kering Beauté）", "kpi": "併購後綜效、組合更新速度"},
-    {"name": "全球供應鏈與物流", "level": "L1", "role": "enabling", "ai": true,
-     "definition": "預測需求、調度庫存、配送到全球通路", "kpi": "準時交貨率、庫存周轉、缺貨率"},
-    {"name": "製造與生產營運", "level": "L1", "role": "enabling", "ai": false,
-     "definition": "在全球工廠合規、大規模量產化妝品", "kpi": "產能利用率、單位成本、不良率"},
-    {"name": "法規遵循與產品安全", "level": "L1", "role": "enabling", "ai": false,
-     "definition": "確保成分與產品符合各國法規、通過安全與毒理評估", "kpi": "合規上市率、召回次數、註冊時程"},
-    {"name": "數位／IT 與資料平台", "level": "L1", "role": "enabling", "ai": true,
-     "definition": "建置雲端、資料平台與 AI 基礎設施，支援 Beauty Tech 與分析", "kpi": "資料覆蓋度、AI 模型部署數、平台可用度"},
-    {"name": "客戶服務與會員經營", "level": "L1", "role": "enabling", "ai": true,
-     "definition": "經營 CRM、忠誠計畫與線上客服，留住會員、催回購", "kpi": "會員數、回購率、NPS"},
-    {"name": "人才發展與組織能力", "level": "L1", "role": "enabling", "ai": false,
-     "definition": "招募、培育、留住逾 90,000 名員工，含 4,000+ 科學家", "kpi": "關鍵人才留任率、女性發明人占比"},
-    {"name": "財務管理與資本配置", "level": "L1", "role": "enabling", "ai": false,
-     "definition": "管理獲利、現金流、股利與併購資金", "kpi": "營業利益率、ROIC、自由現金流"}
+    {
+      "name": "研究與配方開發",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "以科學研究發現活性成分、開發護膚／護髮／彩妝／香水配方",
+      "kpi": "R&I 約 3.1% 營收（約 €13 億）；2024 提交 694 件專利、逾 4,000 研究員、推出逾 3,600 個新配方"
+    },
+    {
+      "name": "產品與品牌組合開發",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "把配方做成有定位的產品線，管理橫跨價格帶的 37+ 品牌",
+      "kpi": "37 品牌、6 個十億歐元品牌（3 個來自 derma：CeraVe >€20 億、La Roche-Posay、SkinCeuticals）；組合向高毛利 derma 傾斜（該部營益率 26.1% 最高）"
+    },
+    {
+      "name": "消費者洞察與趨勢解析",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "解讀消費者數據、社群聲量與美妝趨勢，餵給產品與行銷決策",
+      "kpi": "約 65% 數位媒體走 programmatic，支撐 precision marketing 的第一方資料個人化"
+    },
+    {
+      "name": "品牌建立與行銷傳播",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "靠廣告、代言、社群與內容（含 Gen AI）做大品牌需求",
+      "kpi": "品牌價值、廣告投報、市佔"
+    },
+    {
+      "name": "美妝科技與 AR／AI 個人化",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "以 ModiFace AR 試妝、AI 膚質診斷、智慧裝置提供個人化體驗",
+      "kpi": "precision marketing 程序化約 65%、數位投放約 70% 為其底層 enabler（AR/AI 對轉換/AOV 的貢獻屬內部）"
+    },
+    {
+      "name": "電商與 D2C 銷售",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "經官網、品牌 app 與第三方平台直接賣給消費者",
+      "kpi": "電商佔銷售 28.2%（sell-out）；電商＋精選零售約佔總營業額 38%、為各區成長主引擎"
+    },
+    {
+      "name": "零售與通路管理",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "管理百貨／藥妝／沙龍／旅遊零售／大賣場的上架與陳列",
+      "kpi": "Travel Retail 曝險主動降低、海南 <1% 銷售；通路重心轉向電商與精選零售（約 38%）"
+    },
+    {
+      "name": "永續與綠色科學",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "推動再生農業、綠色配方、減碳與循環包裝",
+      "kpi": "Scope 1&2 減排、再生能源占比、生質材料占比"
+    },
+    {
+      "name": "併購與品牌組合管理",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "收購、整合、授權品牌來補強組合（如收購 Kering Beauté）",
+      "kpi": "併購後綜效、組合更新速度"
+    },
+    {
+      "name": "全球供應鏈與物流",
+      "level": "L1",
+      "role": "enabling",
+      "ai": true,
+      "definition": "預測需求、調度庫存、配送到全球通路",
+      "kpi": "CapEx €1,641.7m（約 3.8% 營收）；DSO 約 53 天、存貨週轉約 2.5x（第三方估）"
+    },
+    {
+      "name": "製造與生產營運",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "在全球工廠合規、大規模量產化妝品",
+      "kpi": "約 38–40 座自有工廠、年產逾 60 億件、偏自製；毛利 74.2% 部分得益於垂直整合（精確自製% 未公開）"
+    },
+    {
+      "name": "法規遵循與產品安全",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "確保成分與產品符合各國法規、通過安全與毒理評估",
+      "kpi": "合規上市率、召回次數、註冊時程"
+    },
+    {
+      "name": "數位／IT 與資料平台",
+      "level": "L1",
+      "role": "enabling",
+      "ai": true,
+      "definition": "建置雲端、資料平台與 AI 基礎設施，支援 Beauty Tech 與分析",
+      "kpi": "資料覆蓋度、AI 模型部署數、平台可用度"
+    },
+    {
+      "name": "客戶服務與會員經營",
+      "level": "L1",
+      "role": "enabling",
+      "ai": true,
+      "definition": "經營 CRM、忠誠計畫與線上客服，留住會員、催回購",
+      "kpi": "會員數、回購率、NPS"
+    },
+    {
+      "name": "人才發展與組織能力",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "招募、培育、留住逾 90,000 名員工，含 4,000+ 科學家",
+      "kpi": "關鍵人才留任率、女性發明人占比"
+    },
+    {
+      "name": "財務管理與資本配置",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "管理獲利、現金流、股利與併購資金",
+      "kpi": "毛利率 74.2%、營益率 20.0%（首破）、毛現金流 €8.5B、淨現金流 €6.6B、CapEx 約 3.8% 營收"
+    }
   ],
   "notes": [
+    "能力 KPI 已升級為 analyst/IR 級：毛利→營益 bridge（毛利 74.2% − A&P 32.2% − R&I 3.1% − SG&A 18.9% ≈ 營益 20.0%）與各事業部營益率皆來自財報；DSO／存貨週轉、媒體程序化比例為〔分析估計〕。",
+    "最大費用槓桿是 A&P（約 32.2% 營收、約佔毛利 43%）——L'Oréal 的成本護城河在行銷與品牌、不在製造（呼應 Pandora 的零售+行銷發現）；2024 唯一去槓桿的是 SG&A（+40bp）。",
+    "仍在牆內：事業部/品牌層毛利、自製 vs 外包比例、電商 D2C vs marketplace 拆分與獲客成本、CRM 會員 LTV、AR/AI 對轉換的實際貢獻。",
     "objectives 達成值取自 L'Oréal 2024 年報／官方財報；各能力的「產業典型 KPI」是通用指標名，非萊雅內部目標值。",
     "市佔 16.1%／13.6% 為 Statista 二手彙整、口徑未必同官方，已降為估計值；引用前宜補 Euromonitor／官方來源。",
     "pace layer 不放進這份清單；它是疊在地圖上的戰略判斷，BCM 圖依「AI 個人化／Beauty Tech 差異化」視角上色。",

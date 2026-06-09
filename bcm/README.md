@@ -7,7 +7,8 @@
 
 | 檔 | 是什麼 |
 |---|---|
-| [`bcm-製作重點.md`](./bcm-製作重點.md) | **核心**。怎麼做一張 BCM，9 步走查（用虛構家電廠鼎電走一遍）。最難的是第 3 步「單位純度」——別把 outcome／process／use case 當能力放進框。 |
+| [`bcm-製作重點.md`](./bcm-製作重點.md) | **怎麼畫**。9 步走查（用虛構家電廠鼎電走一遍）。最難的是第 3 步「單位純度」——別把 outcome／process／use case 當能力放進框。 |
+| [`bcm-使用與治理.md`](./bcm-使用與治理.md) | **怎麼用、怎麼養**。use case 評估（6 維 agent／技術+資料+整合／Defend-Extend-Upend）、AI readiness、Capability→Value Stream→Process→IT＋Digital Thread、metadata 卡、contextual data readiness、bimodal、update cadence。BCM 是 ongoing governance backbone。 |
 | [`lesson_bcm-生圖_20260608.md`](./lesson_bcm-生圖_20260608.md) | 疊代修正紀錄：學 BCM ＋ 生圖那天連犯幾個「沒驗證就斷因果」的假設，怎麼被實測打死。 |
 
 ## 真實公司範例（`bcm-creator` 跑出）

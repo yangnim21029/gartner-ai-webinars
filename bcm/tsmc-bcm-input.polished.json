@@ -10,7 +10,7 @@
     },
     {
       "k": "2025 營收",
-      "v": "約 US$120.95B，YoY +31.6%；毛利率 59.9%"
+      "v": "2025 全年約 US$122.42B（NT$3,809B），YoY +31.6%；毛利率 59.9%、4Q25 衝上 62.3%（歷史高）"
     },
     {
       "k": "代工市佔",
@@ -51,14 +51,14 @@
       "role": "realizing",
       "ai": true,
       "definition": "開發新節點與電晶體架構（GAA nanosheet、背面供電 Super Power Rail）",
-      "kpi": "節點領先時程、PPA"
+      "kpi": "R&D 約 7% 營收；N2（首代 GAA）缺陷密度同開發階段優於 N3；roadmap 延伸 A14／1.4nm〔財報+投資人揭露〕"
     },
     {
       "name": "晶圓製造",
       "level": "L1",
       "role": "realizing",
       "definition": "量產先進與成熟節點晶圓",
-      "kpi": "產出、準交率"
+      "kpi": "各節點晶圓 ASP 階梯（分析估）N7~US$10K／N5~US$16.5K／N3~US$20K／N2~US$30K；4Q25 N3 占晶圓營收 28%、N5 35%"
     },
     {
       "name": "良率管理與製程整合",
@@ -66,7 +66,7 @@
       "role": "realizing",
       "ai": true,
       "definition": "拉升 yield、收斂缺陷，用量測檢測回饋製程",
-      "kpi": "良率 %"
+      "kpi": "N2 量產初期良率約 60%（分析估，較成熟 N3 低約 25pt），但缺陷密度同階段低於 N3/N5/N7"
     },
     {
       "name": "先進封裝",
@@ -74,28 +74,28 @@
       "role": "realizing",
       "ai": true,
       "definition": "以 CoWoS／SoIC／InFO 2.5D/3D 封裝整合 chiplet 與 HBM",
-      "kpi": "CoWoS 月產能、準交"
+      "kpi": "CoWoS 產能 2025 底約 75–80K wpm→2026 底 120–130K；ASP 約 US$10K/片、交期 50+ 週、約占營收 10%"
     },
     {
       "name": "客戶設計賦能",
       "level": "L1",
       "role": "realizing",
       "definition": "經營 OIP 生態系，提供 PDK／IP／EDA 認證以縮短客戶導入",
-      "kpi": "設計導入時間、tape-out 數"
+      "kpi": "AI 加速器占營收 high-teens%；大客戶享約 15–30% 量價折扣；SoIC 部署時程縮短達 75%"
     },
     {
       "name": "產能規劃與配置",
       "level": "L1",
       "role": "realizing",
       "definition": "決定產能投資、配置客戶產能",
-      "kpi": "產能利用率"
+      "kpi": "N2 由約 40–50K wpm（2025）擴至 100–130K（2026）；CoWoS 三年約 10 倍擴張、外包 OSAT 約 240–270K 片/年"
     },
     {
       "name": "全球製造布局",
       "level": "L1",
       "role": "realizing",
       "definition": "在海外建廠並營運（Arizona／Japan／Germany）",
-      "kpi": "海外廠良率、獲利"
+      "kpi": "Arizona 單片製造成本較台灣高 <10%（非傳言 30%，因人工占比 <2%）；海外廠目前稀釋整體毛利"
     },
     {
       "name": "光罩製作",
@@ -109,28 +109,28 @@
       "level": "L1",
       "role": "enabling",
       "definition": "協調設備、材料、特殊氣體與 HBM 供應",
-      "kpi": "供應穩定度、成本"
+      "kpi": "CoWoS 全線 booked、交期 50+ 週＝AI 供應鏈最緊瓶頸；外包 Amkor 約 180–190K、SPIL 約 60–80K 片/年"
     },
     {
       "name": "廠務與設備工程",
       "level": "L1",
       "role": "enabling",
       "definition": "維運無塵室、廠務系統與設備",
-      "kpi": "設備稼動率"
+      "kpi": "單片晶圓成本逾 2/3 為設備折舊、人工 <2%（TechInsights 成本模型）；EUV 單機 >US$150M"
     },
     {
       "name": "品質與可靠度",
       "level": "L1",
       "role": "enabling",
       "definition": "驗證可靠度、運作品質管理系統",
-      "kpi": "缺陷率、客訴"
+      "kpi": "N2 缺陷密度同開發階段低於 N3/N5/N7；4Q25 雙基地（寶山／高雄）量產 yield 良好"
     },
     {
       "name": "資本支出與財務管理",
       "level": "L1",
       "role": "enabling",
       "definition": "規劃 capex、管理折舊與財務",
-      "kpi": "capex 效率、毛利率"
+      "kpi": "2025 capex US$40.9B（約 33% 營收）；2026 指引 US$52–56B（約 40–44%）；2026 折舊年增 high-teens；4Q25 毛利率 62.3%"
     },
     {
       "name": "智財與資安",
@@ -162,6 +162,8 @@
     }
   ],
   "notes": [
+    "能力 KPI 已升級為 analyst/IR 級營運數字：硬數字（毛利 59.9%／4Q25 62.3%、capex US$40.9B≈33% 營收、R&D 7%、節點營收占比）來自財報／法說會；節點晶圓 ASP、N2 良率、CoWoS 產能、Arizona 溢價、COGS 拆分為〔分析估計〕，各家有區間（如 N2 ASP US$24.5–30K），引用宜交叉兩來源、標區間。",
+    "TSMC 護城河之一是保密：節點報價、良率曲線、COGS 拆分、分節點 utilization 都鎖在牆內，外部全為反推；智財與資安／法遵／人才／永續的營運值無公開錨點，待補。",
     "objectives 的達成值（58%、59.9%、US$514M 等）取自公開財報；各能力的「產業典型 KPI」只是通用指標名，非台積電內部目標值（note 1, L106）。",
     "pace layer 是「對某 objective」的戰略判斷，此處取「衝 AI 製程領先」視角；換目標，顏色就會變（note 1, L124）。",
     "內部 metadata（owner／supporting systems／data in-out／data readiness 1–5）非公開，全欄待補（note 1, L256–262）。",
