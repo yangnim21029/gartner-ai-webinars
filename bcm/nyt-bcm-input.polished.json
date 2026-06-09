@@ -1,0 +1,72 @@
+{
+  "company": "The New York Times（NYT）",
+  "tagline": "數位訂閱新聞商 · BCM 輸入功課 · 訂閱 LTV 飛輪 × 內容護城河視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整",
+  "facts": [
+    {"k": "產業", "v": "數位訂閱制新聞出版（含體育 The Athletic、生活 Cooking/Wirecutter、遊戲 Games/Wordle）；NYSE: NYT，家族雙層股權"},
+    {"k": "商業模式", "v": "多產品 bundle 飛輪：核心新聞引流，bundle 拉高 engagement／ARPU／留存（bundle churn 比 news-only 約低 40%），高留存回養 LTV 與訂價權"},
+    {"k": "2024 營收", "v": "約 $2.59B（+6.6%）；訂閱 $1.79B（digital-only $1.25B，+14.1%）、廣告 $506M、other $291M；adj. op. margin 17.6%"},
+    {"k": "訂閱", "v": "2024 底 11.43M total／10.82M digital-only；digital-only ARPU 約 $9.65；目標 2027 底 15M total"},
+    {"k": "營收結構", "v": "2024 約：訂閱 69%／廣告 20%／other 11%；digital 兩端升、print 兩端降"},
+    {"k": "AI 處境", "v": "雙軌：2023/12 告 OpenAI＋Microsoft 版權（2025/3 核心主張續行）；2025/5 與 Amazon 簽首份 AI 內容授權（估年付 $20–25M）"}
+  ],
+  "context": "NYT 已從報紙公司轉型為數位訂閱平台：digital 訂閱與廣告是成長引擎；print 雖結構性萎縮，仍貢獻現金。護城河來自原創新聞 IP＋多產品 bundle，撐起高 engagement、低 churn 與可漲價 ARPU。當前戰略張力集中在 AI：一邊告 OpenAI 守內容資產，一邊授權 Amazon 用同一批 IP 變現，內部導入 AI 工具輔助採編與廣告。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "2027 年底達 15M total subscribers", "kpi": "15M by EOY 2027（2024 底 11.43M → 2025 底約 12.78M）〔投資人揭露〕"},
+    {"name": "讓 bundle/multiproduct 成為留存與 ARPU 主引擎", "kpi": "bundle 佔 digital 訂戶 Q3'25 達 51%（約 6.27M）；bundle ARPU $12.84 vs 整體 digital 約 $9.79〔財報〕"},
+    {"name": "持續抬升 digital-only ARPU 與訂閱毛利", "kpi": "digital ARPU YoY +3–4%；adj. op. margin 16.1%(2023)→17.6%(2024)〔財報〕"},
+    {"name": "讓 The Athletic 由拖累轉為獲利來源", "kpi": "2024 Q3 首度季度獲利；2025 Q1 adj. op. 約 $2.9M（YoY +$11.6M）〔財報〕"},
+    {"name": "重振 digital 廣告，以 first-party data/AI 因應 cookie 退場", "kpi": "Q3'25 digital 廣告 +20.3% 至 $98.1M；BrandMatch 支援逾 150 campaign、CTR +30%〔投資人揭露〕"},
+    {"name": "以 buyback＋dividend 回饋股東並維持淨現金", "kpi": "2024 FCF 約 $381M；$85M buyback＋$83M dividend；近 $1B 現金〔財報〕"}
+  ],
+  "capabilities": [
+    {"name": "新聞採編與報導", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "產製每日新聞、突發報導與在地／國際報導，帶動整個訂閱飛輪的入口流量", "kpi": "約 2,800 名 journalism FTE（總 5,900）〔財報〕；新聞為 bundle 主要引流入口"},
+    {"name": "調查與深度報導", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "投長線調查、解釋性與專題報導，建立難複製的權威與訂價權", "kpi": "Pulitzer 等獎項為訂閱定價權來源（質性）"},
+    {"name": "數位產品與 app", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "打造並維運 News／Athletic／Cooking／Games／Audio／Wirecutter 的 app 與網站體驗", "kpi": "多產品驅動 bundle 訂戶佔比 Q3'25 達 51%（約 6.27M）〔財報〕"},
+    {"name": "訂閱獲取與會員留存", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "經營試讀→轉換→降 churn→win-back 全生命週期，以 AI 預測 churn、介入留存", "kpi": "2024 淨增 >1.1M digital subs；bundle churn 比 news-only 約低 40%〔投資人揭露〕"},
+    {"name": "定價與 bundle 設計", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "設計單品／組合／家庭方案的價格階梯，管理 promo→full-price 過渡", "kpi": "bundle ARPU Q3'25 $12.84 vs 整體 digital 約 $9.79〔財報〕"},
+    {"name": "數位廣告商業化", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "將高品質受眾與內文情境變現，含 first-party 定向與 BrandMatch GenAI 定向", "kpi": "Q3'25 digital 廣告 +20.3% 至 $98.1M；BrandMatch CTR +30%〔投資人揭露〕"},
+    {"name": "受眾數據與個人化", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "分析行為數據，驅動個人化首頁、付費牆觸發時機與訂閱傾向評分", "kpi": "支撐 ARPU 與留存（個人化貢獻度待補）"},
+    {"name": "內容推薦與分發", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "以演算法＋編輯策展把對的內容推給對的讀者，拉高跨產品使用", "kpi": "engagement 為 bundle 留存中介（reporter video/audio 拉升）〔投資人揭露〕"},
+    {"name": "遊戲與生活風格產品", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "以 Wordle／Cooking／Wirecutter／The Athletic 等高頻產品擴大 TAM、強化付費理由，帶動 bundle", "kpi": "The Athletic 2024 Q3 首季獲利、2025 Q1 adj. op. $2.9M〔財報〕"},
+    {"name": "品牌與行銷", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "維護「essential subscription for curious people」定位，累積信任資產", "kpi": "品牌信任為付費意願與訂價權基礎（質性）"},
+    {"name": "內容授權與 IP（含 AI 授權）", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "授權第三方使用新聞與生活內容 IP（含 GenAI 訓練／引用），開拓新收入並界定 AI 條款", "kpi": "2025/5 Amazon 首份 AI 授權，估年付 $20–25M〔分析估計〕"},
+    {"name": "技術平台與工程", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "自建並維運訂閱／付費牆／CMS／數據／廣告技術堆疊，導入 Echo／Vertex／Copilot", "kpi": "2025/2 對編輯與產品開放內部 AI 工具〔投資人揭露〕"},
+    {"name": "AI 輔助採編與營運", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "以 GenAI 協助 SEO 標題、摘要、研究與文件分析；禁 AI 起草，須經編輯查核", "kpi": "已核可 Echo／NotebookLM／Vertex／Copilot（2025/2 起）〔投資人揭露〕"},
+    {"name": "資料治理與隱私", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "管理 first-party 數據、合規與用戶隱私（含訴訟 discovery 的資料提交壓力）", "kpi": "OpenAI 案 discovery 曾要求交出大量 ChatGPT log〔分析估計〕"},
+    {"name": "法務與智財（含 AI 版權訴訟）", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "保護版權、推進 AI 版權訴訟、談判授權條款，將法律立場轉為授權籌碼", "kpi": "2025/3 核心 copyright claim 對 OpenAI/Microsoft 續行〔分析估計〕"},
+    {"name": "財務與資本配置", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "管理 FCF、buyback／dividend、併購（如 The Athletic $550M）與淨現金", "kpi": "2024 FCF 約 $381M；$85M buyback＋$83M dividend；近 $1B 現金〔財報〕"}
+  ],
+  "notes": [
+    "能力 KPI 為 analyst/IR 級，標註等級〔財報〕/〔投資人揭露〕/〔分析估計〕；訂閱/ARPU/margin 來自財報，Amazon 授權金額、個人化貢獻度等為估計或待補。",
+    "AI 分成「告 OpenAI（守）」與「授權 Amazon（攻）」兩塊，但兩者共用同一個內容 IP 護城河；訴訟結果直接定授權市場訂價。畫圖配資源時要綁在一起看，別當獨立格子。",
+    "pace／AI 疊加層不放入這份清單，到 BCM 圖才依「訂閱 LTV 飛輪 × 內容護城河」視角上色。",
+    "內部 metadata（owner／systems／data in-out／readiness）非公開、待補。",
+    "待查證：The Athletic 獨立訂戶/營收尚未穩定拆分；2025 底約 12.78M total 為分析彙整口徑；newsroom 人數各源略有差異。"
+  ],
+  "sources": [
+    "NYT 2024 10-K / Annual Report (SEC, investors.nytco.com)",
+    "NYT Q4 2024 & Q1/Q3 2025 earnings releases",
+    "CNN / Variety — NYT–Amazon AI licensing deal (2025-05)",
+    "NPR — NYT v OpenAI copyright case proceeds (2025-03)",
+    "Press Gazette / A Media Operator — The Athletic first profit",
+    "Semafor — NYT internal AI tools；Adweek — BrandMatch GenAI ads"
+  ]
+}

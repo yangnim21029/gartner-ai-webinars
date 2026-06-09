@@ -1,0 +1,42 @@
+{
+  "_note": "Netflix BCM image spec — 16 caps clustered bottom-up, pace per 規模經濟 × 內容資本配置 視角. 技術平台 marked enabling (dashed). AI pinned to 8.",
+  "title": "Netflix Business Capability Map",
+  "subtitle": "全球串流訂閱 · pace layer 戰略地位（規模經濟 × 內容資本配置視角，示範）",
+  "perspective": "Netflix 自己，規模經濟 × 內容資本配置",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "經營治理", "capabilities": [
+        {"label": "財務與內容資本", "pace": "keep_up"},
+        {"label": "定價與方案", "pace": "keep_up"},
+        {"label": "會員行銷", "pace": "keep_up", "ai": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "內容", "capabilities": [
+        {"label": "原創內容", "pace": "differentiating", "ai": true},
+        {"label": "內容採購授權", "pace": "keep_up"},
+        {"label": "內容組合排播", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "體驗與技術", "capabilities": [
+        {"label": "推薦與個人化", "pace": "differentiating", "ai": true},
+        {"label": "串流 CDN", "pace": "differentiating"},
+        {"label": "編碼與播放", "pace": "keep_up", "ai": true}
+      ]},
+      {"name": "會員與變現", "capabilities": [
+        {"label": "訂閱與留存", "pace": "differentiating"},
+        {"label": "廣告商業化", "pace": "differentiating", "ai": true},
+        {"label": "全球在地化", "pace": "keep_up", "ai": true}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "數據與平台", "capabilities": [
+        {"label": "受眾數據", "pace": "differentiating", "ai": true},
+        {"label": "技術平台", "pace": "keep_up", "enabling": true},
+        {"label": "支付與帳務", "pace": "commodity"}
+      ]},
+      {"name": "組織", "capabilities": [
+        {"label": "人才", "pace": "keep_up"}
+      ]}
+    ]}
+  ]
+}

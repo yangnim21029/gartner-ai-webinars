@@ -1,0 +1,69 @@
+{
+  "company": "BASF",
+  "tagline": "全球最大化工集團、Verbund 一體化母機 · BCM 輸入功課 · 能源困局下的組合重整（Winning Ways）視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整",
+  "facts": [
+    {"k": "產業", "v": "綜合化學：從基礎石化、中間體到特用化學、催化劑、農業解方的全價值鏈；總部德國 Ludwigshafen，全球最大化工公司"},
+    {"k": "商業模式", "v": "Verbund 一體化：~200 廠以 2,850+ km 管線串接，副產物互餵、能源物流共用（光 Ludwigshafen 估年省運輸~€300m＋能源~€150m＋設施~€50m）；B2B 賣給汽車/農業/營養/塗料/電子"},
+    {"k": "2024 營收", "v": "集團銷售 €65.3bn（2025 起重述為 €61.4bn）；EBITDA bsi €7,858m（margin 12.0%）、EBIT €2,033m、淨利 €1.3bn"},
+    {"k": "事業部", "v": "Core：Chemicals €10.8bn／Materials €13.5bn／Industrial Solutions €8.2bn／Nutrition & Care €6.7bn。Standalone：Surface Tech €12.9bn／Agricultural Solutions €9.8bn"},
+    {"k": "成本／能源", "v": "德國天然氣是定義性難題：2022–23 額外能源成本 €3.2bn（歐洲~84%、天然氣~69%）；CoreShift 目標 core 固定成本 2029 較 2024 砍 20%"},
+    {"k": "轉型", "v": "Winning Ways：core 聚焦降本、standalone 剝離（Coatings 售 Carlyle、Agricultural Solutions 2027 IPO）；成長 capex 移往中國 Zhanjiang Verbund；2050 net zero"}
+  ],
+  "context": "BASF 是化學產業的「底層母機」：Verbund 一體化把規模、能源與原料效率變成結構護城河，支撐無數下游產業。然這台母機架在德國，2022 後天然氣成本成了最大結構弱點，歐洲基礎化學品的成本競爭力被北美/中東/中國甩開。BASF 以 Winning Ways 回應——core 聚焦降本與整合（CoreShift 砍 20% 固定成本）、standalone（農業/塗料/電池/催化劑）分拆 IPO 或出售、成長資本押中國 Zhanjiang。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "用 CoreShift 把 core 成本壓回有競爭力水準", "kpi": "core 固定成本 2029 較 2024 降 20%；2025 結構性降本 €1.7bn、2026 目標 €2.3bn/yr〔投資人揭露〕"},
+    {"name": "剝離 standalone 業務以釋放資本與聚焦", "kpi": "Agricultural Solutions（€9.8bn）2027 IPO；Coatings 2025 售 Carlyle、2026 Q2 完成；Battery Materials 大砍固定成本〔投資人揭露〕"},
+    {"name": "把成長資本移往低成本地區、守住現金", "kpi": "2024–27 capex €19.5bn（含 €6.8bn 成長，Zhanjiang＋電池）；2025 capex 縮至 €4.3bn、FCF 回升 €1.3bn、股利 €2.25/股〔財報/投資人〕"},
+    {"name": "在減碳與能源轉型下維持生產", "kpi": "Scope 1+2 2030 較 2018 減 25%（21.9→16.4 Mt）；2050 net zero；2030 目標用電 100% 來自再生電力〔投資人揭露〕"}
+  ],
+  "capabilities": [
+    {"name": "化學研發與配方開發", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "從分子、催化、配方研發到應用解方，做出區分於通用化工的核心化學技術", "kpi": "R&D €2,061m（2024）；87% 為事業部應用/客戶導向、13% 跨部策略〔財報〕"},
+    {"name": "Verbund 一體化生產", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "用管線/能源/物流把上百座工廠串成一張網，讓副產物互餵、能源共用，築起最核心的結構護城河", "kpi": "Ludwigshafen ~200 廠／2,850+ km 管線；估年省運輸~€300m＋能源~€150m＋設施~€50m〔投資人揭露〕"},
+    {"name": "製程開發與量產放大", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "把實驗室路線放大到世界級產能，含新 Verbund 廠（如 Zhanjiang）的製程工程與啟動", "kpi": "2024–27 capex €19.5bn（含 €6.8bn 成長）；2025 Zhanjiang Verbund 多套裝置投產〔投資人揭露〕"},
+    {"name": "製程安全與 EHS", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在高危化學製程中守住人員/環境/資產安全與合規運轉，撐起運營牌照", "kpi": "待補（TRR/LTIFR/process safety incidents 未取得）"},
+    {"name": "原料與能源採購", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "在全球採購並避險大宗原料（烴、氨、貴金屬）與能源（天然氣/電力），德國氣價是最大成本變數", "kpi": "2022–23 額外能源成本 €3.2bn（歐洲~84%、天然氣~69%）；歐洲氣耗 Ludwigshafen 佔 2.2 Bcm〔分析/投資人〕"},
+    {"name": "全球供應鏈與物流", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "讓化學品（含危險品）在全球安全、準時、低成本流動，串接 Verbund 內外", "kpi": "待補（OTIF/物流成本佔比未取得）；Verbund 內部物流為主要成本槓桿"},
+    {"name": "事業部產品與應用管理", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "在六大分部內針對下游產業規劃產品線、定價與應用開發", "kpi": "Core 四分部 2024 EBITDA bsi 合計~€5.1bn；core EBITDA bsi 較 2023 增 18%〔財報〕"},
+    {"name": "農業解方（種子/作物保護）", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "研發、登記並銷售 herbicides/fungicides/seeds & traits，正籌備分拆獨立", "kpi": "2024 銷售 €9.8bn／EBITDA bsi €1,938m；2027 規劃 Frankfurt IPO〔財報/投資人〕"},
+    {"name": "特用化學與表面處理", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "經營 Surface Technologies 下的塗料、表面處理等高附加值業務（塗料 2025 售予 Carlyle 中）", "kpi": "Surface Tech 2024 銷售 €12.9bn／EBITDA bsi €1,375m〔財報〕"},
+    {"name": "催化劑與電池材料", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "經營 ECMS（環境催化劑與金屬解方）與 Battery Materials 等能源轉型下的高科技材料線", "kpi": "Battery Materials 2024 銷售 €0.6bn，已大砍固定成本/capex、與 CATL 等簽約填產能〔投資人〕"},
+    {"name": "永續與減碳", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "降低自身碳足跡（低碳製程、再生電力、電加熱 cracker）並供應低碳產品", "kpi": "Scope 1+2 2030 較 2018 減 25%（21.9→16.4 Mt）；電加熱 steam cracker 估減碳 ≥90%〔投資人〕"},
+    {"name": "數位與 AI 加速研發生產", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "用超算/分子模擬、predictive maintenance、製程與供應鏈最佳化推動研發與運營數位化", "kpi": "Quriosity 超算 3 petaflops；AI 分子模擬把~1 年計算縮到數天〔投資人〕"},
+    {"name": "客戶服務與銷售", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "經營 B2B 客戶關係、技術銷售與應用支援，跨六大分部觸及多個下游產業", "kpi": "待補（客戶/銷售 KPI 未取得）"},
+    {"name": "法規與合規", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "辦理化學品登記（REACH 等）、農藥登記，並應對環境/安全合規與多法域監管", "kpi": "農業分部導入專屬 ERP（北美完成、其餘 2027 初，IPO 前置）〔投資人〕"},
+    {"name": "人才與組織", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在轉型/裁員與分拆中維持關鍵化學/工程人才並重組組織", "kpi": "2023–25 裁減~4,800 人（不計中國新廠~1,000）、高管 -11%〔財報〕"},
+    {"name": "財務與業務組合管理", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "配置資本、推動降本、決策分拆/IPO/出售並回報股東——Winning Ways 的核心操盤", "kpi": "2025 EBITDA bsi €6.6bn、FCF €1.3bn、淨利 €1.6bn；€1.5bn 回購〔財報/投資人〕"}
+  ],
+  "notes": [
+    "能力 KPI 為 analyst/IR 級、標等級；EHS／供應鏈／客戶銷售三條如實留待補、未硬塞數字（做 readiness 時是盲區）。",
+    "口徑斷層：2024 as-reported €65.3bn vs 2025 起重述 €61.4bn（分部重組＋Coatings 處分）；跨年比較要標年度。",
+    "standalone 正在離場：Coatings 售予 Carlyle、Agricultural Solutions 2027 IPO；農業列 differentiating，但一兩年內可能不再屬 BASF core，做 radar 配資源時留意。",
+    "pace／AI 疊加層不放進清單，到 BCM 圖再依「能源困局下守底層、剝邊緣、移地理」視角上色。",
+    "內部 metadata（owner／systems／data in-out／readiness）非公開、待補。"
+  ],
+  "sources": [
+    "BASF 2024 Combined Management Report — results & segments (report.basf.com)",
+    "BASF 2025/2026 年度與 Q 財報新聞稿（p-25-026, p-26-020, p-26-105）",
+    "BASF — Winning Ways strategy / Verbund (basf.com/investors)",
+    "C&EN — BASF readies massive restructuring；Oxford Energy — German industrial gas",
+    "AgTechNavigator — Agricultural Solutions 2027 IPO；BASF — Quriosity supercomputer"
+  ]
+}

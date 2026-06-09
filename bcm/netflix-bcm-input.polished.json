@@ -1,0 +1,69 @@
+{
+  "company": "Netflix",
+  "tagline": "全球串流訂閱龍頭 · BCM 輸入功課 · 訂閱規模經濟 × 內容資本配置視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整",
+  "facts": [
+    {"k": "產業", "v": "訂閱制串流影音（SVOD）／媒體娛樂；自估僅占其市場 750M+ 寬頻家戶、$650B+ 娛樂支出約 6%，各國 TV 觀看時數佔比 <10%，仍有長跑道"},
+    {"k": "商業模式", "v": "月費訂閱為主（standard/premium/ads 多方案）＋2022 起 ad-tier 廣告與付費分享；循環＝內容投資→engagement（約 2 小時/會員/日）→留存與 ARM→現金流再投內容"},
+    {"k": "2024 營收", "v": "$39.0B（+16%）；營業利益 $10.4B、營業利益率 27%（+6pt，史上首破 $10B）；FCF $6.9B"},
+    {"k": "會員", "v": "2024 底全球付費會員 301.63M，全年淨增 41M（紀錄）；ARM Q4'24 +1%（FX-neutral +3%）。註：2025 Q1 起停報季度會員數與 ARM"},
+    {"k": "內容支出", "v": "2024 內容投入（cash）$16.2B、攤銷 $15.3B、總內容義務 $23.2B；2025 指引 cash content 約 $18B"},
+    {"k": "廣告／方案", "v": "ad-tier 2025/11 達 190M MAV（新口徑）；美國 45% 家戶用 ad-tier；廣告國家 ads plan 佔新註冊 >55%；2025 廣告營收 >$1.5B、2026 目標約 $3B"}
+  ],
+  "context": "Netflix 已從「衝會員數」轉向「衝營收與利潤率」：2024 靠付費分享尾聲＋ads＋漲價把營收推到 $39B、營業利益率拉到 27%，並自 2025 Q1 起不再按季公布會員數與 ARM，改以營收/利潤率為主指標。當前三大變數是 ad-tier 規模化（自建 Netflix Ads Suite 已全市場上線）、live/sports/games 新形態，以及 GenAI 滲透推薦、製作與在地化。護城河是龐大會員基數攤平業界最高的內容固定成本。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "重啟並穩住營收成長", "kpi": "營收 +16% 至 $39.0B（2024）；2025 指引 $45.1B（+16%）〔財報/投資人〕"},
+    {"name": "持續擴張營業利益率", "kpi": "營業利益率 27%（2024，+6pt），2025 目標 29%〔財報/投資人〕"},
+    {"name": "把 ads 養成第二成長引擎", "kpi": "2025 廣告營收 >$1.5B（>2.5x）；2026 約 $3B、2030 約 $9B 目標；ad-tier 190M MAV〔投資人/分析〕"},
+    {"name": "做大 FCF 並回購股票", "kpi": "FCF $6.9B（2024）、2025 指引約 $8B；2024 回購 $6.2B、授權額度 $17.1B〔財報〕"},
+    {"name": "維持 engagement 領先，帶動留存", "kpi": "約 2 小時/付費會員/日；週榜 Top10 觀看時數多於所有對手總和、近 3x 次大者〔投資人揭露〕"}
+  ],
+  "capabilities": [
+    {"name": "原創內容製作", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "在 50+ 國自製多語言劇集、電影、紀錄片與獨家內容，養出大型 franchise（Stranger Things、Squid Game）", "kpi": "內容投入 $16.2B、攤銷 $15.3B（2024）；週榜冠軍數多於所有對手總和〔財報/投資人〕"},
+    {"name": "內容採購與授權", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "向片廠/在地片商授權影集電影補目錄，並取得 NFL、拳擊、FIFA 女足世界盃等特定 live 版權", "kpi": "originals vs licensed 配比待補；live 聚焦「不可錯過的特別事件」〔投資人〕"},
+    {"name": "內容組合與排播規劃", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "用數據分析按自製/授權、類型與地區配置內容支出，規劃 slate 與大檔期釋出節奏", "kpi": "slate 兼顧 engagement 與得獎（2024 金球提名/獲獎居業界之冠）；命中率屬內部待補〔投資人〕"},
+    {"name": "推薦與個人化", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "用 ML/AI 做標題推薦與內容探索，含 conversational search beta 與新版個人化 TV UI", "kpi": "新 TV UI 已上線 85% TV 裝置且超預期；推薦對留存貢獻屬內部待補〔投資人〕"},
+    {"name": "串流技術與 CDN（Open Connect）", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "用自有 Open Connect CDN 把影片快取到 ISP 內嵌設備，承載 100% 影片流量，避開外部 CDN 費", "kpi": "承載 100% 影片流量；19,000+ OCA、100+ 國、1,500+ ISP 站點、尖峰數十 Tbps〔分析估計〕"},
+    {"name": "編碼與播放品質", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "用 per-title／per-shot 編碼與 codec 優化在最低位元率維持畫質，跨數百裝置靠自適應串流壓低頻寬成本", "kpi": "bitrate／QoE 改善幅度待補（codec 優化是 Open Connect 成本關鍵變數）〔分析估計〕"},
+    {"name": "訂閱獲取與留存", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "管理會員獲取、轉換與 churn，含付費分享把借用家戶轉成付費或 Extra Member", "kpi": "2024 淨增 41M（紀錄）；付費分享針對 100M+ 借用家戶、累計 +50M 訂閱〔財報/投資人〕"},
+    {"name": "定價與方案設計（含 ad-tier）", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "設計多層方案（standard/premium/ads/Extra Member）與漲價，用價格區隔擴大 TAM 並推升 ARM", "kpi": "ads plan 佔廣告國家新註冊 >55%；2025 含 modest FX-neutral ARM 成長〔投資人〕"},
+    {"name": "廣告商業化", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "經營 ad-tier：自建 first-party ad-tech（Netflix Ads Suite）、做廣告銷售與 upfront、用 AI 測試廣告格式與生成 creative", "kpi": "2025 廣告營收 >$1.5B（>2.5x）；4,000+ 廣告主（+70%）；ad-tier 190M MAV〔投資人/分析〕"},
+    {"name": "會員行銷與品牌", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "用標題行銷、社群與文化話題經營品牌、帶動需求，並用 GenAI 在地化宣傳素材", "kpi": "2024 Google 全球十大搜尋 TV 劇六席為 Netflix；CAC 屬內部待補〔投資人〕"},
+    {"name": "全球在地化（配音/字幕）", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "為跨國內容做配音與字幕，並用 GenAI 在地化素材，讓非英語內容打入全球市場", "kpi": "50+ 國多語製作；Squid Game S2 165.7M 次觀看顯示在地內容全球穿透〔投資人〕"},
+    {"name": "支付與帳務", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "管理全球多幣別訂閱收款、各地付款整合、稅務與帳務", "kpi": "支撐 $39B 營收收款；付款成功率/拒付率屬內部待補〔財報〕"},
+    {"name": "受眾數據分析", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "蒐集分析觀看、engagement 與會員行為，回灌推薦、內容投資與 ads 定向", "kpi": "engagement 報告涵蓋 99% 觀看；自陳 data assets 為 AI 優勢基礎〔投資人〕"},
+    {"name": "技術平台與工程", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "建構並維運跨數百裝置的 App/播放器、雲端後端、A/B 平台與支援 live/games 的基礎設施", "kpi": "支撐史上最大 live 串流（Tyson-Paul）；平台可用性屬內部待補〔投資人〕"},
+    {"name": "人才（創意＋工程）", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "吸引並留住創意與工程/資料人才，訂出負責任使用 GenAI 的製作指引", "kpi": "已釋出對創作者的 GenAI 製作指引；量化待補"},
+    {"name": "財務與內容資本配置", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "決定內容支出規模並按地區/類型配置，管理債務與 FX、執行回購，平衡成長與 FCF", "kpi": "2025 cash content 約 $18B、FCF 約 $8B；淨債 $6.1B；回購授權 $17.1B〔財報/投資人〕"}
+  ],
+  "notes": [
+    "能力 KPI 為 analyst/IR 級、標註等級；財務數字取自 SEC 8-K 股東信，2025（$45.1B/29%）為公司指引、標 forecast。",
+    "口徑斷裂：Netflix 自 2025 Q1 起停報季度會員數與 ARM；ad-tier 2025/11 從 MAU 換成 MAV（190M，含每戶人數乘數），不能跟舊 94M 接成同一條趨勢線。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才依「規模經濟 × 內容資本配置」視角上色；differentiating 判定（推薦/原創/Open Connect/ads）是依 IR 與競爭態勢推定，非官方分層。",
+    "內部 metadata（owner／systems／data in-out／readiness）非公開、待補。",
+    "待查證：originals vs licensed 配比、推薦對留存的量化貢獻、Open Connect 成本節省金額、行銷 CAC。"
+  ],
+  "sources": [
+    "Netflix Q4 2024 & Q1/Q2/Q3 2025 shareholder letters (SEC 8-K)",
+    "Deadline / Hollywood Reporter / The Wrap — ad-tier 190M MAV",
+    "Analysys Mason / system-design analyses — Open Connect CDN economics",
+    "Kiplinger — paid-sharing crackdown"
+  ]
+}

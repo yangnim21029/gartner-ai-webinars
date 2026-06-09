@@ -1,0 +1,42 @@
+{
+  "_note": "PoE2/GGG BCM image spec — 16 caps clustered bottom-up, pace per 道德 F2P × live-service 視角. 伺服器基礎設施 marked enabling (dashed). AI pinned to only 2 (反作弊/數據分析) — game/art craft deliberately NOT AI (human-craft moat, CEO AI-reserved).",
+  "title": "Path of Exile 2 (GGG) Business Capability Map",
+  "subtitle": "紐西蘭手工匠人 ARPG 工作室 · pace layer 戰略地位（道德 F2P × live-service 視角，示範）",
+  "perspective": "Grinding Gear Games 自己，道德 F2P × live-service 長尾",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "經營治理", "capabilities": [
+        {"label": "變現商城", "pace": "differentiating"},
+        {"label": "行銷發行", "pace": "keep_up"},
+        {"label": "財務與母公司", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "創作", "capabilities": [
+        {"label": "遊戲系統設計", "pace": "differentiating"},
+        {"label": "美術與世界", "pace": "differentiating"},
+        {"label": "經濟與平衡", "pace": "differentiating"}
+      ]},
+      {"name": "活服務", "capabilities": [
+        {"label": "live-service 營運", "pace": "differentiating"},
+        {"label": "社群經營", "pace": "differentiating"},
+        {"label": "自研引擎", "pace": "keep_up"}
+      ]},
+      {"name": "平台與玩家", "capabilities": [
+        {"label": "跨平台發行", "pace": "keep_up"},
+        {"label": "玩家支援", "pace": "keep_up"},
+        {"label": "在地化", "pace": "commodity"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "線上營運基礎", "capabilities": [
+        {"label": "伺服器基礎設施", "pace": "keep_up", "enabling": true},
+        {"label": "反作弊安全", "pace": "keep_up", "ai": true},
+        {"label": "數據分析", "pace": "keep_up", "ai": true}
+      ]},
+      {"name": "組織", "capabilities": [
+        {"label": "開發人才", "pace": "keep_up"}
+      ]}
+    ]}
+  ]
+}

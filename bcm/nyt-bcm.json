@@ -1,0 +1,42 @@
+{
+  "_note": "NYT BCM image spec — 16 capabilities clustered bottom-up, pace per 訂閱 LTV 飛輪 × 內容護城河 視角. 資料治理 marked enabling (dashed). AI pinned to 7 (訂閱留存/數位廣告/內容授權/受眾數據/內容推薦/技術平台/AI輔助採編).",
+  "title": "The New York Times Business Capability Map",
+  "subtitle": "數位訂閱新聞 · pace layer 戰略地位（訂閱 LTV 飛輪 × 內容護城河視角，示範）",
+  "perspective": "NYT 自己，訂閱 LTV 飛輪 × 內容 IP 護城河",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "經營治理", "capabilities": [
+        {"label": "法務與智財", "pace": "differentiating"},
+        {"label": "品牌與行銷", "pace": "keep_up"},
+        {"label": "財務與資本", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "內容", "capabilities": [
+        {"label": "新聞採編", "pace": "differentiating"},
+        {"label": "調查與深度", "pace": "differentiating"},
+        {"label": "遊戲與生活", "pace": "differentiating"}
+      ]},
+      {"name": "產品與訂閱", "capabilities": [
+        {"label": "數位產品", "pace": "differentiating"},
+        {"label": "訂閱與留存", "pace": "differentiating", "ai": true},
+        {"label": "定價與 bundle", "pace": "differentiating"}
+      ]},
+      {"name": "變現", "capabilities": [
+        {"label": "數位廣告", "pace": "keep_up", "ai": true},
+        {"label": "內容授權", "pace": "differentiating", "ai": true}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "數據與技術", "capabilities": [
+        {"label": "受眾數據", "pace": "keep_up", "ai": true},
+        {"label": "內容推薦", "pace": "keep_up", "ai": true},
+        {"label": "技術平台", "pace": "keep_up", "ai": true},
+        {"label": "AI 輔助採編", "pace": "keep_up", "ai": true}
+      ]},
+      {"name": "治理基礎", "capabilities": [
+        {"label": "資料治理與隱私", "pace": "commodity", "enabling": true}
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_note": "BASF BCM image spec — 16 caps clustered bottom-up, pace per 能源困局組合重整 視角. 製程安全EHS marked enabling (dashed). AI pinned to 7.",
+  "title": "BASF Business Capability Map",
+  "subtitle": "全球化工 Verbund 母機 · pace layer 戰略地位（能源困局組合重整視角，示範）",
+  "perspective": "BASF 自己，能源困局下守底層、剝邊緣、移地理",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "經營治理", "capabilities": [
+        {"label": "財務與組合", "pace": "differentiating"},
+        {"label": "永續與減碳", "pace": "keep_up"},
+        {"label": "法規與合規", "pace": "commodity"}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "研發與製程", "capabilities": [
+        {"label": "化學研發", "pace": "differentiating", "ai": true},
+        {"label": "製程放大", "pace": "differentiating", "ai": true},
+        {"label": "Verbund 生產", "pace": "differentiating"}
+      ]},
+      {"name": "事業組合", "capabilities": [
+        {"label": "事業部產品", "pace": "differentiating"},
+        {"label": "農業解方", "pace": "differentiating", "ai": true},
+        {"label": "特用化學", "pace": "keep_up"},
+        {"label": "催化劑與電池", "pace": "keep_up", "ai": true}
+      ]},
+      {"name": "數位", "capabilities": [
+        {"label": "數位與 AI", "pace": "differentiating", "ai": true}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "供應與安全", "capabilities": [
+        {"label": "原料與能源", "pace": "keep_up", "ai": true},
+        {"label": "供應鏈物流", "pace": "keep_up", "ai": true},
+        {"label": "製程安全 EHS", "pace": "keep_up", "enabling": true}
+      ]},
+      {"name": "組織", "capabilities": [
+        {"label": "客戶與銷售", "pace": "keep_up"},
+        {"label": "人才與組織", "pace": "commodity"}
+      ]}
+    ]}
+  ]
+}

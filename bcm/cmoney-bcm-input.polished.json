@@ -1,0 +1,73 @@
+{
+  "company": "CMoney",
+  "tagline": "台灣最大散戶投資工具與財經內容平台 · BCM 輸入功課 · 工具→社群→內容飛輪 × 數據變現視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（私人公司，多為新聞／公司自述級，財務待補）",
+  "facts": [
+    {"k": "產業", "v": "FinTech 金融資訊／投資理財；散戶投資工具 App ＋ 法人數據系統 ＋ 財經內容知識付費"},
+    {"k": "商業模式", "v": "工具→社群→內容→課程飛輪；訂閱（理財寶）＋KOL 分潤＋課程＋廣告/RMN＋法人 B2B；近期加「另類數據」跨境變現"},
+    {"k": "公司／規模", "v": "全曜財經資訊（2003 成立，創辦人暨董座李岳能；總部新北板橋）；員工 201–500〔Cake 2026 職缺平台〕。註：創辦人非「張耀仁」、查無精誠資訊（Systex）持股"},
+    {"k": "用戶", "v": "註冊會員 1000 萬+、籌碼K線 App 下載 700 萬+、理財寶訂閱累計 240 萬+〔公司自述，口徑不一、未經第三方驗證〕"},
+    {"k": "產品線", "v": "籌碼K線、股市爆料同學會、理財寶（工具+課程）、Money 錢、美股海外線、法人投資決策系統、AI 實驗室"},
+    {"k": "近期動向（fresh 2025H2–2026）", "v": "轉向「另類數據跨境輸出」（2026/3 紐約 Eagle Alpha 開賣發票/分點/社群訊號給全球買方）＋與 TNL Mediagene 合建零售媒體網路 RMN（2025/12）＋AI 研究報告自動化（cmoneyairesearcher）＋美股線；金管會 AI 監理趨嚴"}
+  ],
+  "context": "CMoney 是台灣最大散戶投資工具與財經內容平台，從 2003 年法人量化系統 B2B 起家，轉向 C 端：以籌碼K線、股市爆料同學會、理財寶建立「工具+社群+內容+課程」飛輪，並用 KOL 分潤與多 App 矩陣擴張。作為未上市私人公司，無 IR 與審計財報、公開財務近乎空白。近一年明顯向外延伸：把累積的散戶行為／電子發票／分點數據打包成「另類數據」，賣給全球法人與品牌主（RMN），並全面 AI 化（AI 實驗室、AI 研究報告自動生成）。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "擴大並留住散戶會員（工具+社群+內容飛輪）", "kpi": "註冊會員 1000 萬+、App/網站月活、社群互動量〔公司自述，質性〕"},
+    {"name": "提升付費滲透與 ARPU（訂閱+課程+工具）", "kpi": "理財寶訂閱累計 240 萬+、付費 App 榜排名〔自述／待補〕"},
+    {"name": "另類數據變現與跨境輸出（fresh 重點）", "kpi": "2026/3 紐約 Eagle Alpha 對全球買方開賣；TNL Mediagene RMN 合作（2025/12）〔公司自述／新聞〕"},
+    {"name": "全面 AI 化：提升人效＋個人化/內容生成差異化", "kpi": "AI 原生產品 3 年 30+、AI 研究報告約 10 分鐘一份、工程培訓 4 週→1–2 週〔招募透露／待補〕"},
+    {"name": "開拓新變現引擎（廣告/RMN、法人 B2B、美股海外）", "kpi": "法人客戶自述 400+、美股線、RMN 進展〔新聞／自述〕"}
+  ],
+  "capabilities": [
+    {"name": "即時行情與財經數據服務", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "串接台股／美股行情、財報、法人籌碼等即時與盤後數據，供 C 端 App 與 B 端系統使用", "kpi": "資料覆蓋與更新延遲、行情可用率〔待補〕"},
+    {"name": "籌碼與技術面選股分析", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "把法人／主力買賣超與技術指標轉成可操作的選股與盯盤訊號（籌碼K線、AI 盯盤）", "kpi": "籌碼K線下載 700 萬+、付費投資 App 榜首〔公司自述〕"},
+    {"name": "財經內容與媒體製作", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "產出新聞解讀、投資網誌與 Money 錢雜誌，並逐步導入 AI 生成（cmoneyairesearcher 自動研究報告）", "kpi": "網站月活 600 萬+；AI 研究報告約 10 分鐘一份〔公司自述〕"},
+    {"name": "投資課程與知識付費", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "設計線上／實體投資課程、講座與知識型產品並銷售", "kpi": "課程銷售額、報名數、完課率〔待補〕"},
+    {"name": "投資社群經營", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "營運股市爆料同學會等社群，讓散戶討論、跟單、互動，形成網路效應與留存", "kpi": "社群活躍用戶、發文／互動量〔公司自述，質性〕"},
+    {"name": "KOL／創作者平台（理財寶）", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "招募投資 KOL 上架工具與課程、提供分潤拆帳與技術支援（權證小哥、艾蜜莉等 50+ 創作者）", "kpi": "簽約創作者 50+、創作者 GMV／分潤〔自述／待補〕"},
+    {"name": "多 App 快速開發迭代", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "以可重用元件快速大量推出並迭代 App（自述累積 200+、AI 實驗室 3 年 30+ 款）", "kpi": "App 數、上線到迭代週期（自述兩週可推一款）〔新聞／自述〕"},
+    {"name": "訂閱會員轉換與留存", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "透過內容／社群／工具漏斗，把免費用戶轉為付費訂閱並降低流失（理財寶／VIP）", "kpi": "理財寶訂閱累計 240 萬+、付費滲透率、續訂率〔自述／待補〕"},
+    {"name": "廣告與導購變現", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "把千萬會員流量轉為廣告與導購收入（2025 與 TNL Mediagene 合建零售媒體網路 RMN）", "kpi": "廣告營收、eCPM、RMN 合資進展〔新聞〕"},
+    {"name": "封裝與變現另類數據（alt-data）", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "將發票消費、分點流向、社群行為去識別化後，打包成 alpha 訊號與廣告受眾，銷售給全球買方與品牌主", "kpi": "2026/3 紐約 Eagle Alpha 開賣；發票覆蓋約 20% 人口、12 萬零售點、分點近 100% 上市櫃〔公司自述〕"},
+    {"name": "個人化推薦與生成式 AI", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "AI 實驗室打造個人化內容／作者推薦、AI Agent 投資助理、自然語言生成報表", "kpi": "AI 原生產品 30+、推薦點擊／留存〔招募透露／待補〕"},
+    {"name": "資料工程與行情串接平台", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "建置資料管線、API、行情／籌碼／消費資料的儲存與供應，支撐選股、推薦、報表與 alt-data", "kpi": "管線吞吐；每月新增約 1 億張電子發票資料〔自述／待補〕"},
+    {"name": "法人 B2B 投資決策系統", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "提供投信投顧／法人量化回測與投資決策支援系統，並導入 Gen AI 報表", "kpi": "法人機構客戶 400+、自述市占 >90%〔公司自述，待第三方驗證〕"},
+    {"name": "品牌與成長行銷", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "用社群、內容與雇主品牌吸引新用戶並累積口碑，擴大用戶與人才漏斗", "kpi": "新增註冊、社群粉絲、品牌聲量〔自述／待補〕"},
+    {"name": "客戶與用戶服務", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "處理 App／工具客服、教學與訂閱問題，維持付費用戶體驗", "kpi": "客服回應時間、滿意度、退訂率〔待補〕"},
+    {"name": "人才養成（AI-Native）", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "以工程師戰鬥營、MA Program 與內部 AI-Native 培訓快速養成並擴編團隊", "kpi": "培訓週期 4 週→1–2 週、留任、招募數〔招募透露〕"},
+    {"name": "財務與資本", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在私人公司自有資金營運下，管理財務、現金流與投資配置", "kpi": "營收／獲利／現金流〔全待補——私人公司未揭露〕"}
+  ],
+  "notes": [
+    "私人公司、無 IR／審計財報——所有營收／ARPU／獲利待補；用戶數、市占（自述 >90%、法人 400+）多為公司自述、口徑不一、未經第三方驗證。",
+    "兩個前提修正：創辦人是李岳能（非「張耀仁」）；查無精誠資訊（Systex）持股，CMoney 應為獨立私人公司（目前是 absence of evidence，建議調經濟部商工登記 統編 80004909 做最終確認）。",
+    "fresh/trending 線（2025H2–2026）顯示重心向外延伸：alt-data 跨境變現＋RMN＋AI 內容自動化＋美股。這些只反映在 objectives／AI 釘點／pace（疊加層），底層能力清單不動；屬「近期 overlay」，半年要回看、pace 可能再變。",
+    "雜訊非訊號（不改 BCM）：CMoney 給散戶看的「2026 五大投資題材」是內容行銷、不是公司自身戰略；某美股 ETF 代號 (CM) 與全曜財經無關。",
+    "pace／AI 疊加層不放清單，留到 BCM 圖上色：alt-data 與 AI 內容生成因 fresh pivot 標 hot／差異化；內部 metadata（owner／systems／data in-out／readiness）非公開、待補。"
+  ],
+  "sources": [
+    "CMoney 官網 / careers（aboutus, ceowords）、維基「全曜財經」、Cake 公司頁",
+    "CMoney 招募部落格（AI recruit, AI engineer training, B2B 決策系統）",
+    "數位時代 bnext — CMoney 多 App 矩陣",
+    "PR Newswire — CMoney @ Eagle Alpha NYC alt-data（2026-03）；TNL Mediagene × CMoney RMN（2025-12）",
+    "A-Team Insight — CMoney 把零售行為包裝成法人 alpha",
+    "cmnews — cmoneyairesearcher AI 研究報告；udn/iThome — 金管會 AI 監理時程"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "_note": "CMoney BCM image spec — 17 caps clustered bottom-up, pace per 飛輪×數據變現 視角. 資料工程平台 marked enabling (dashed). AI pinned to 5; alt-data + 個人化 AI hot per fresh pivot.",
+  "title": "CMoney Business Capability Map",
+  "subtitle": "台灣散戶投資平台 · pace layer 戰略地位（工具→社群→內容飛輪 × 數據變現視角，示範）",
+  "perspective": "CMoney 自己，飛輪留存 × 另類數據變現",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "經營治理", "capabilities": [
+        {"label": "法人 B2B 系統", "pace": "keep_up"},
+        {"label": "品牌行銷", "pace": "commodity"},
+        {"label": "財務與資本", "pace": "commodity"}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "工具與分析", "capabilities": [
+        {"label": "籌碼選股分析", "pace": "differentiating", "ai": true},
+        {"label": "即時行情數據", "pace": "keep_up"},
+        {"label": "多 App 開發", "pace": "differentiating"}
+      ]},
+      {"name": "內容與社群", "capabilities": [
+        {"label": "財經內容媒體", "pace": "keep_up", "ai": true},
+        {"label": "投資社群", "pace": "differentiating"},
+        {"label": "KOL 平台", "pace": "differentiating"},
+        {"label": "投資課程", "pace": "keep_up"}
+      ]},
+      {"name": "變現與數據", "capabilities": [
+        {"label": "訂閱留存", "pace": "keep_up"},
+        {"label": "廣告與導購", "pace": "keep_up"},
+        {"label": "另類數據變現", "pace": "differentiating", "ai": true},
+        {"label": "個人化 AI", "pace": "differentiating", "ai": true}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "資料與技術", "capabilities": [
+        {"label": "資料工程平台", "pace": "keep_up", "ai": true, "enabling": true}
+      ]},
+      {"name": "營運", "capabilities": [
+        {"label": "客服", "pace": "commodity"},
+        {"label": "人才養成", "pace": "keep_up"}
+      ]}
+    ]}
+  ]
+}

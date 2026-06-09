@@ -1,0 +1,70 @@
+{
+  "company": "Grinding Gear Games（Path of Exile 2）",
+  "tagline": "紐西蘭手工匠人 ARPG 工作室 · BCM 輸入功課 · 道德 F2P × live-service 長尾營運視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（私人 Tencent 全資子公司，無 IR；多為官方／新聞／Steam 數據級）",
+  "facts": [
+    {"k": "產業", "v": "PC／主機遊戲開發與發行；live-service action RPG（ARPG／loot 類），自研自營自發"},
+    {"k": "商業模式", "v": "Free-to-play ＋ cosmetics/MTX 純美觀變現，加 stash tabs、supporter packs；長年標榜「ethical F2P / no pay-to-win」，玩法內容全免費"},
+    {"k": "公司／股權", "v": "2006 創於紐西蘭奧克蘭；Tencent 2018 取多數股、2024.03 全資收購。員工約 205–240（口徑/時點不一）；FY2024 營收 NZ$105.2m、配 Tencent 股利 NZ$98.7m；新 CEO Jonathan Rogers"},
+    {"k": "產品", "v": "PoE1（2013 上市、仍營運、3–4 月一個 league）＋ PoE2（2024.12 進 Early Access，目標 2026 內推 1.0）；共用品牌與帳號生態"},
+    {"k": "玩家／規模", "v": "PoE2 Steam 史上尖峰 578,569（2024.12 EA 開服）；2026.05 0.5 ＋免費週末再衝 421,596〔Steam／第三方數據〕"},
+    {"k": "近期動向（fresh）", "v": "0.5『Return of the Ancients』（2026.05.29，EA 最後大擴充）重做 endgame／重建 Atlas／economy reset，衝 421k 在線但被評史上最多 bug；1.0 預期 2026 內（傳 11 月 ExileCon 公布、最壞退 2027）；CEO 對生成式 AI 保留"}
+  ],
+  "context": "GGG 是 Tencent 全資收購後仍高度獨立、延續「手工匠人」開發文化的紐西蘭工作室，靠 PoE1 十年長尾＋PoE2 雙線 live-service 運作。它的獨特性在「道德 F2P」聲譽：所有玩法免費、只賣外觀與便利空間，no pay-to-win 既是社群信任的根基，也是差異化資產。目前正值 PoE2 EA 收尾、衝刺 1.0 的高張力期：endgame 重做引爆大量 bug 與口碑震盪，PoE1 老玩家不滿資源傾斜 PoE2，外部又有 Diablo IV、Last Epoch 貼身競爭。私人公司無公開財報。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "把 PoE2 從 Early Access 推上 1.0 全面上市（含主機與免費玩家）", "kpi": "1.0 於 2026 上線（最壞 2027）；1.0 後留存與尖峰在線〔官方／新聞推定〕"},
+    {"name": "維持 league/season 更新節奏，延續 PoE1+PoE2 雙線長尾", "kpi": "每 league 回流尖峰、平均同時在線、賽季間隔〔Steam／第三方〕"},
+    {"name": "守住「道德 F2P／no pay-to-win」聲譽，帶動 cosmetics/supporter 變現", "kpi": "supporter pack 銷量、MTX ARPU、Steam 好評率與社群情緒〔待查證——私人不公開〕"},
+    {"name": "為母公司 Tencent 持續產生現金流", "kpi": "年營收與股利（FY24 NZ$105.2m／NZ$98.7m）〔新聞〕"}
+  ],
+  "capabilities": [
+    {"name": "遊戲與系統設計", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "設計職業、技能、被動樹、地城、boss、戰鬥與成長等核心玩法系統，撐起 ARPG 的差異化深度", "kpi": "新職業／Ascendancy 與 endgame 系統交付、玩法深度口碑〔官方／新聞〕"},
+    {"name": "美術與世界內容製作", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "製作美術、3D 資產、關卡／世界與整體視覺風格，撐起 GGG 手工匠人文化", "kpi": "每 league/act 新內容產出、視覺品質口碑〔官方〕"},
+    {"name": "自研引擎與技術", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "研發並維護自研引擎、渲染、客戶端效能與跨平台底層技術", "kpi": "效能／載入、跨平台一致性、重大更新崩潰率〔新聞／Steam〕"},
+    {"name": "live-service 內容節奏營運", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "規劃並交付 league/season、版本更新與 hotfix，維持 PoE1+PoE2 雙線並行", "kpi": "賽季間隔、更新準點率、上線後 hotfix 量（0.5 評史上最多 bug）〔新聞／Steam〕"},
+    {"name": "遊戲經濟與平衡設計", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "調校掉寶、貨幣、交易、economy reset 與職業／技能平衡，維持經濟健康", "kpi": "reset 後通膨穩定度、平衡 patch 後社群情緒〔Steam／第三方〕"},
+    {"name": "變現與商城（cosmetics/MTX）", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "設計、上架並定價純美觀 MTX、stash tabs、supporter packs，恪守 no pay-to-win", "kpi": "supporter pack 銷量、MTX ARPU、定價爭議數〔待查證〕"},
+    {"name": "社群經營與開發者溝通", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "經營開發者直播、patch notes、論壇／Reddit 互動與危機溝通，守住變現所倚的信任", "kpi": "Steam 好評率、社群情緒、爭議後修正回應速度〔Steam／第三方〕"},
+    {"name": "玩家支援與客服", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "處理帳號、付款、跨平台、bug 回報與工單", "kpi": "工單回應時間、跨平台 MTX 爭議處理〔待補〕"},
+    {"name": "反作弊與帳號安全", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "偵測外掛／機器人／RMT、防範帳號盜用，維護線上經濟與競賽公平", "kpi": "封禁量、RMT/bot 偵測率、帳號盜用事件〔待補〕"},
+    {"name": "伺服器與基礎設施", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "營運全球線上伺服器，支撐即時連線與開服／賽季尖峰承載與擴容", "kpi": "開服尖峰承載（421k／578k 在線）、宕機／排隊、延遲〔Steam／新聞〕"},
+    {"name": "跨平台發行與整合", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在 Steam／Epic／獨立客戶端與 PS5／Xbox 自發行，串接 crossplay、cross-progression 與平台認證", "kpi": "平台覆蓋、cross-progression 順暢度、跨平台 MTX 限制爭議〔新聞〕"},
+    {"name": "在地化", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在地化多語系文字與介面，支援全球（含中文）玩家", "kpi": "支援語系數、在地化品質回報〔待補〕"},
+    {"name": "行銷與發行操盤", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "操盤 ExileCon、版本宣傳、免費週末活動、串流主推廣與 1.0 上市行銷", "kpi": "上市／更新尖峰回流（免費週末帶 0.5 衝 421k）、媒體聲量〔新聞／Steam〕"},
+    {"name": "玩家行為數據分析", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "從玩法、留存、經濟、變現數據推導平衡與內容／商城決策", "kpi": "留存／轉化可觀測度、數據驅動平衡決策比例〔待補〕"},
+    {"name": "開發人才招募與留任", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在紐西蘭單一據點招募 VFX／美術／工程人才，維繫手工匠人團隊規模與文化", "kpi": "員工數（約 205–240）、職缺填補、流動率〔第三方／新聞〕"},
+    {"name": "財務與母公司關係", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "管理財務與紐西蘭公司合規，處理對 Tencent 的股利配發與治理關係", "kpi": "年營收／股利（FY24 NZ$105.2m／NZ$98.7m）、營運獨立性〔新聞〕"}
+  ],
+  "notes": [
+    "Tencent 全資持有的私人子公司，無 IR；MTX/變現指標（ARPU、supporter 銷量）全待查證；玩家尖峰採 Steam／第三方數據（非官方全口徑）。",
+    "AI 釘點刻意只在反作弊與玩家行為分析：CEO Jonathan Rogers 對生成式 AI 保留（不強制、實務沒找到好用處），遊戲／系統設計與美術是手工匠人差異化，不硬釘 AI（同 Pandora 手工藝邏輯）。",
+    "fresh/trending（2025H2–2026）只調整疊加層：1.0 衝刺、0.5 endgame 重做、ARPG 競爭（Diablo IV／Last Epoch）、PoE1↔PoE2 雙線資源張力，反映在 objectives／pace，底層能力清單不動。",
+    "員工數口徑打架（2025 報導 240+ vs 2026 第三方約 205）：可能統計口徑或縮編，待查證，別讓「人才」KPI 建在浮動數字上。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness）非公開、待補。"
+  ],
+  "sources": [
+    "Wikipedia — Grinding Gear Games / Path of Exile 2",
+    "NZ Herald — GGG NZ$105.2m revenue, new CEO；PC Gamer — Tencent majority stake",
+    "PCGamesN / Wikipedia — PoE2 1.0 release timing",
+    "GamesRadar / Massively OP / wccftech — 0.5 Return of the Ancients（2026-05）",
+    "SteamDB — PoE2 player charts；The Escapist — CEO on generative AI",
+    "Sportskeeda / MMOPIXEL — 2026 ARPG competition；poe-vault — crossplay/cross-progression"
+  ]
+}
