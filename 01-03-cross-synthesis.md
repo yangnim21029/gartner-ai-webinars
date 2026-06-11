@@ -1,6 +1,6 @@
 # 01–03 跨場綜合：一套 Gartner framework 換三套 C-suite 外衣
 
-> CIO（01）/ CHRO（02）/ CCO（03）三場共用同一套 Gartner framework，只換不同 C-suite 的詞彙。這份是把三場拉在一起的深度對照；04–08 各自主題不同，尚未納入（索引見 [MOC.md](./MOC.md)）。
+> CIO（01）/ CHRO（02）/ CCO（03）三場共用同一套 Gartner framework，只換不同 C-suite 的詞彙。這份是把三場拉在一起的深度對照；04–08 各自主題不同，尚未納入（索引見 [README.md](./README.md)）。
 > 沉澱日：2026-05-28
 
 ---
