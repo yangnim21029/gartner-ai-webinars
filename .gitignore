@@ -24,3 +24,7 @@ bcm/apqc-pcf-*.pdf
 bcm/qgea-bcrm*
 bcm/*-bcm-input.json
 bcm/*-bcm-chatgpt-prompt.txt
+
+# ASR 覆核音檔切片（衍生物，留本地）
+clips_verify/
+*.wav
