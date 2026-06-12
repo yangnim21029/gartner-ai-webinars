@@ -32,8 +32,12 @@
 | TollBit | 兩面市場冷啟動 × agentic 基建（內容收費） | `tollbit-bcm-input.html` | `tollbit-bcm.png` |
 | The Trade Desk | 危機修復 × 守住中立性（廣告分發 DSP） | `ttd-bcm-input.html` | `ttd-bcm.png` |
 | AppLovin | 單引擎全壓 × 開放自助平台（AI 廣告分發） | `applovin-bcm-input.html` | `applovin-bcm.png` |
+| ByteDance 字節跳動 | 守住分發現金機 × AI 攀峰（內容分發） | `bytedance-bcm-input.html` | `bytedance-bcm.png` |
+| 小紅書 Xiaohongshu | 守住真實感 × 變現追趕（內容分發） | `xiaohongshu-bcm-input.html` | `xiaohongshu-bcm.png` |
+| SmartNews | 日本現金機防守 × LLM 重建（內容分發） | `smartnews-bcm-input.html` | `smartnews-bcm.png` |
+| OpusClip | 剪輯工具轉自主分發代理（內容分發） | `opusclip-bcm-input.html` | `opusclip-bcm.png` |
 
-每家的 spec：`<公司>-bcm-input.json`（清單輸入）→ `.polished.json`（polish-doc 後，HTML 由它 render）；`<公司>-bcm.json`（圖的結構＋pace）。各家差異化落點不同，方法照各家研究推導、非套版。幾個對照組：We Are Social 的 AI 釘點是「該押但還沒有」（公司實際只有一個 AI 職位）；ITRI 是非營利法人，objectives 用準公共 KPI（技轉／新創／促成投資），AI 釘點只算院方自有動作、不算路過的政策經費。分發產業四連發（Cloudflare／TollBit／TTD／AppLovin）要一起讀：Cloudflare 與 TollBit 的「內容收費市場」橘格財報收入都還是零（押注型橘色），TTD 與 AppLovin 的橘格全是現金引擎（現金型橘色）——同一個 differentiating 色，兩種意思。
+每家的 spec：`<公司>-bcm-input.json`（清單輸入）→ `.polished.json`（polish-doc 後，HTML 由它 render）；`<公司>-bcm.json`（圖的結構＋pace）。各家差異化落點不同，方法照各家研究推導、非套版。幾個對照組：We Are Social 的 AI 釘點是「該押但還沒有」（公司實際只有一個 AI 職位）；ITRI 是非營利法人，objectives 用準公共 KPI（技轉／新創／促成投資），AI 釘點只算院方自有動作、不算路過的政策經費。分發產業四連發（Cloudflare／TollBit／TTD／AppLovin）要一起讀：Cloudflare 與 TollBit 的「內容收費市場」橘格財報收入都還是零（押注型橘色），TTD 與 AppLovin 的橘格全是現金引擎（現金型橘色）——同一個 differentiating 色，兩種意思。內容分發四連發（ByteDance／小紅書／SmartNews／OpusClip）全是未上市公司，數字是媒體估計不是審計財報，可信度跟 10-K 組不同級；四張並排的看點是小紅書「社區治理」格的 AI 釘點——唯一一顆防禦性釘點（用 AI 抓 AI 灌水筆記），其他家全是進攻性變現。
 
 ## 早期示範（虛構，學方法用）
 

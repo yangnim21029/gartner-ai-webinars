@@ -1,0 +1,36 @@
+{
+  "_note": "OpusClip BCM image spec — 12 capabilities. Perspective: 剪輯工具轉自主分發代理. AI pins (3). 自有資料資產（diff）與第三方模型聚合（keep_up）拆開 = 兩層護城河形狀相反. Enabling dashed (5).",
+  "title": "OpusClip Business Capability Map",
+  "subtitle": "AI 影片改製與分發代理 · pace layer 戰略地位（轉型分發代理視角，示範）",
+  "perspective": "OpusClip 自己，從剪輯工具升級分發代理",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "市場與防線", "capabilities": [
+        {"label": "創作者社群與成長行銷", "pace": "keep_up", "enabling": true},
+        {"label": "平台政策與標示因應", "pace": "keep_up", "enabling": true},
+        {"label": "資本與跑道管理", "pace": "commodity", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "剪輯引擎", "capabilities": [
+        {"label": "AI 亮點偵測與剪輯", "pace": "differentiating", "ai": true},
+        {"label": "病毒性評分", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "分發層", "capabilities": [
+        {"label": "多平台改製與排程發布", "pace": "keep_up"},
+        {"label": "自主內容代理 Agent Opus", "pace": "differentiating", "ai": true},
+        {"label": "檔案庫變現 OpusSearch", "pace": "keep_up"}
+      ]},
+      {"name": "商業化", "capabilities": [
+        {"label": "API 與企業整合", "pace": "keep_up"},
+        {"label": "訂閱變現", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "模型與資料", "capabilities": [
+        {"label": "自有模型與互動資料資產", "pace": "differentiating", "enabling": true},
+        {"label": "第三方模型聚合管理", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

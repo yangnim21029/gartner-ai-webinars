@@ -1,0 +1,31 @@
+{
+  "_note": "SmartNews BCM image spec — 11 capabilities. Perspective: 日本現金機防守 × LLM 重建. AI pins (3). NewsArc = 押注型 differentiating（上線十個月無更新）. Enabling dashed (4).",
+  "title": "SmartNews Business Capability Map",
+  "subtitle": "新聞演算法分發 · pace layer 戰略地位（日本現金機防守 × LLM 重建視角，示範）",
+  "perspective": "SmartNews 自己，守日本現金機並用 LLM 重建",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "生態與治理", "capabilities": [
+        {"label": "出版商關係與分潤治理", "pace": "differentiating", "enabling": true},
+        {"label": "媒體研究與公共使命", "pace": "keep_up", "enabling": true},
+        {"label": "領導與組織重建", "pace": "keep_up", "enabling": true},
+        {"label": "資本與跑道管理", "pace": "commodity", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "分發引擎", "capabilities": [
+        {"label": "新聞演算法分發", "pace": "keep_up", "ai": true},
+        {"label": "AI 摘要與授權內容", "pace": "differentiating", "ai": true},
+        {"label": "LLM 原生產品 NewsArc", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "變現與留存", "capabilities": [
+        {"label": "廣告變現", "pace": "keep_up"},
+        {"label": "訂閱與點數經營", "pace": "keep_up"}
+      ]},
+      {"name": "供給與通路", "capabilities": [
+        {"label": "內容供給拓展", "pace": "keep_up"},
+        {"label": "通路分發合作 docomo", "pace": "differentiating"}
+      ]}
+    ]}
+  ]
+}

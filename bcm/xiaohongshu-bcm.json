@@ -1,0 +1,35 @@
+{
+  "_note": "Xiaohongshu BCM image spec — 13 capabilities. Perspective: 守住真實感 × 變現追趕. AI pins (4)，治理格的 AI pin 是防禦性. 電商閉環與外部聯盟互相牽制. Enabling dashed (5).",
+  "title": "小紅書 Xiaohongshu Business Capability Map",
+  "subtitle": "生活方式搜尋與種草社區 · pace layer 戰略地位（守住真實感 × 變現追趕視角，示範）",
+  "perspective": "小紅書自己，變現追趕同時守住真實感護城河",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "擴張與防線", "capabilities": [
+        {"label": "國際市場拓展", "pace": "keep_up"},
+        {"label": "資料安全與法遵", "pace": "keep_up", "enabling": true},
+        {"label": "資本與 IPO 籌備", "pace": "commodity", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "發現引擎", "capabilities": [
+        {"label": "筆記分發與推薦", "pace": "keep_up", "ai": true},
+        {"label": "站內搜尋與 AI 答案", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "變現", "capabilities": [
+        {"label": "廣告平台營運", "pace": "keep_up"},
+        {"label": "創作者與種草市場", "pace": "differentiating"},
+        {"label": "電商閉環營運", "pace": "differentiating"},
+        {"label": "外部導購聯盟", "pace": "keep_up"},
+        {"label": "本地生活服務", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "信任與基建", "capabilities": [
+        {"label": "社區治理與真實性防線", "pace": "differentiating", "ai": true, "enabling": true},
+        {"label": "基礎模型與 AI 研發", "pace": "keep_up", "ai": true, "enabling": true},
+        {"label": "支付與交易基建", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

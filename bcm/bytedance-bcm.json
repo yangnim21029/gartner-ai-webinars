@@ -1,0 +1,39 @@
+{
+  "_note": "ByteDance BCM image spec — 15 capabilities. Perspective: 守住分發現金機 × AI 攀峰. AI pins (5). IP 授權與持股 = TikTok US 新形態（收租不營運），commodity. Enabling dashed (6).",
+  "title": "ByteDance 字節跳動 Business Capability Map",
+  "subtitle": "演算法分發帝國 · pace layer 戰略地位（守住現金機 × AI 攀峰視角，示範）",
+  "perspective": "ByteDance 自己，現金機供養 AI 軍備賽",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "結構與防線", "capabilities": [
+        {"label": "IP 授權與持股管理", "pace": "commodity"},
+        {"label": "全球法遵與資料治理", "pace": "keep_up", "enabling": true},
+        {"label": "AI 人才攻防", "pace": "keep_up", "enabling": true},
+        {"label": "算力與資料中心建置", "pace": "keep_up", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "分發引擎", "capabilities": [
+        {"label": "推薦演算法研發與分發", "pace": "differentiating", "ai": true},
+        {"label": "短影音平台營運", "pace": "keep_up"},
+        {"label": "內容創作工具 剪映", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "變現雙輪", "capabilities": [
+        {"label": "廣告變現 巨量引擎", "pace": "keep_up"},
+        {"label": "電商閉環營運", "pace": "differentiating"},
+        {"label": "創作者經濟經營", "pace": "keep_up"}
+      ]},
+      {"name": "AI 攀峰", "capabilities": [
+        {"label": "AI 助理與模型產品", "pace": "differentiating", "ai": true},
+        {"label": "企業雲與 MaaS", "pace": "keep_up", "ai": true}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "研發與治理地基", "capabilities": [
+        {"label": "基礎模型研發 Seed", "pace": "differentiating", "ai": true, "enabling": true},
+        {"label": "信任安全與內容審核", "pace": "keep_up", "enabling": true},
+        {"label": "中台與 App 工廠機制", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

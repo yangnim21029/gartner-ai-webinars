@@ -1,0 +1,63 @@
+{
+  "company": "SmartNews スマートニュース",
+  "tagline": "新聞演算法分發 app · BCM 輸入功課 · 日本現金機防守 × LLM 重建視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（未上市——募資新聞＋公司聲明＋第三方估計；日本實體最後公開損益為 FY2020，口徑分級標注）",
+  "facts": [
+    {"k": "產業", "v": "新聞聚合分發 app：演算法排序新聞 feed＋頻道制＋feed 內廣告變現——2012 年的 pitch 是「世界的新聞演算法」，2025 後改寫成「授權內容的 AI 分發」"},
+    {"k": "公司／財務", "v": "2012 東京創立；累計募資 ~$410M（口徑 $410–500M 不一）；估值 $2B（2021/9 Series F，此後未重訂價）；2024/1 舉債 $69.3M（避開 down-round 的訊號）；2025 營收 ~$104.5M〔單一 scraper 估計，低可信〕；日本實體 FY2020 淨損 ~¥42 億、累計虧損 ~¥148 億〔申報彙整，單位待確認〕"},
+    {"k": "用戶（要分清峰值與現況）", "v": "「10M+ MAU」是 2021–22 美國峰值；2023 第三方（Sensor Tower）只剩全球 ~5M MAU、每季年減 28–30%；日本側靠 docomo 預載（マイマガジン→SmartNews for docomo，2024/4）回血；用戶老化：50 歲+ 過半、20 代不到一成"},
+    {"k": "轉折史", "v": "2023/1 裁美中員工 40%（美國 145→~60 人）；2023/11 創辦人鈴木健驟退 CEO、共同創辦人浜本階生接任；鈴木轉任董事長、投入 Plurality／數位民主（東大研究員、Digital Democracy 2030）；CTO Cory Ondrejka（ex-Facebook）留陣主導 NewsArc"},
+    {"k": "LLM 兩軌（fresh）", "v": "主 app：スマニューAIまとめ（2025/7，日本新聞 app 首見）——52 家授權媒體、逐篇摘要必歸因掛連結、明文「不用於訓練」；美國：NewsArc（2025/8，US-only）——Arc 平台兩年開發、LLM＋AI agent 策展長文深度報導、3,000+ 出版商分潤、訂閱制「未來再說」至今免費"},
+    {"k": "近期動向（fresh 2025/12–2026/6）", "v": "スマニューポイント（2025/9，讀新聞換 d/樂天/PayPay 點數——ポイ活化）；SmartNews+ 訂閱 ¥1,480 累計 10 萬人；UUUM 合作 genAI 把 YouTuber 影片轉文章；自助廣告開放一週年；World Cup 頻道（2026/6）；媒體夥伴大會喊「共進化」＋2026 AI agent／多模態路線圖"}
+  ],
+  "context": "SmartNews 是一個中型內容分發商在 AI 答案引擎追殺下自救的樣本。它的現金機在日本：演算法新聞 feed 加廣告，一半用戶在 50 歲以上，靠 docomo 預載、點數活動跟優惠券守住開 app 習慣。成長故事的美國版 2023 年已經塌掉——裁員四成、創辦人退位、估值卡在 2021 年的 $2B，沒人敢重訂價。重建押在兩條 LLM 軌上：日本主 app 用「授權媒體＋摘要必歸因＋明文不訓練」當合規牌，剛好站到日本新聞協會砲打無斷學習的同一邊；美國用 NewsArc 另起爐灶，賭深度長文策展能換到答案引擎拿不走的注意力。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "守住日本廣告現金機", "kpi": "自助廣告開放（2025/7）滿一年；品牌廣告新格式（Impact Square Video 等，2026/2–3）；用戶 50+ 過半是 LTV 結構風險"},
+    {"name": "LLM 重建雙軌", "kpi": "AIまとめ已有 52 家授權媒體；NewsArc 上線（US-only），與 3,000+ 出版商分潤，至今免費、無訂閱定價；2026 路線圖：AI agent＋多模態"},
+    {"name": "用戶習慣防線", "kpi": "スマニューポイント 10+ 兌換夥伴；SmartNews+ 累計 10 萬訂戶（¥1,480/月）；docomo 預載通路"},
+    {"name": "出版商生態維繫", "kpi": "3,000+ 夥伴；授權費＋SmartView 分潤（出版商自售版位拿 100%）＋年度 Awards——用「共進化」區隔答案引擎的掠奪式爬取"},
+    {"name": "估值懸崖管理", "kpi": "$2B（2021）未重訂價；2024/1 舉債 $69.3M；2025–26 無新股權輪、無 M&A 訊息〔查無〕"}
+  ],
+  "capabilities": [
+    {"name": "新聞演算法分發", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "用 ML 把每日千萬級 URL 排進分頻道的 feed（大選、WBC、世界盃等事件頻道是拉活節奏點）", "kpi": "全球 MAU ~5M（2023 第三方估計）＋docomo 回血後數字未揭露"},
+    {"name": "AI 摘要與授權內容產品", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "AIまとめ把多家授權媒體的同題報導逐篇摘要，組成一篇結構化整理（事件／背景／展望）——每則都掛歸因連結，並明文標示不用於訓練；合規是產品的一部分", "kpi": "52 家授權媒體；用戶互動調查已發布〔公司自述〕"},
+    {"name": "LLM 原生產品開發", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "NewsArc（Arc 平台）：LLM＋AI agent 為重度新聞讀者策展深度長文，按「理解與相關性」推薦，並明說不採激怒式互動指標——這是美國市場另起爐灶的一注", "kpi": "2025/8 上線後無重大更新公告；訂閱仍未定價〔缺席本身是訊號〕"},
+    {"name": "廣告變現", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "兩層廣告棧：Standard 自助效果廣告（2025/7 全面開放、ML 自動擴量）＋ Premium 品牌預約格式，再接上 Dynamic Affinity 閱讀行為數據產品", "kpi": "營收 ~$104.5M〔單一 scraper 估計，低可信〕；日美拆分未揭露"},
+    {"name": "訂閱與點數經營", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "SmartNews+（付費牆文章＋優惠券包月）與スマニューポイント（讀文章換點數）——用日本 ポイ活 文法買留存", "kpi": "訂閱累計 10 萬（2025/7）；點數兌換夥伴 10+"},
+    {"name": "內容供給拓展", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "把非新聞內容接進 feed：用 genAI 把 UUUM 創作者影片轉成文章，並加入 KADOKAWA 漫畫入口——擴大可分發的內容池", "kpi": "合作案數；轉文章產量〔待補〕"},
+    {"name": "通路分發合作", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "docomo 把預載的マイマガジン整個換成 SmartNews for docomo（含出版商分潤）——對手沒有的電信預載護城河", "kpi": "Android 預載觸達；經此管道取得的 MAU〔未揭露〕"},
+    {"name": "出版商關係與分潤治理", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "以 3,000+ 夥伴為基礎，靠授權費、SmartView 分潤（出版商自售版位拿 100%）、年度 Awards 與夥伴大會維繫生態——「共進化」是 AI 時代的信任資產", "kpi": "夥伴留存；分潤規模〔未揭露〕"},
+    {"name": "媒體研究與公共使命", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "メディア研究所（媒體素養課程、數位民主研究組）＋鈴木健的 Plurality 路線——掛在董事長名下的品牌與正當性資產，不進損益", "kpi": "課程與研究產出〔質性〕"},
+    {"name": "領導與組織重建", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "創辦人退位後重組：浜本接 CEO、補強外部董事（ex-DocuSign CEO 等），美國團隊縮編後保留 CTO 陣地做 NewsArc", "kpi": "現任員工數未揭露（峰值 ~900）"},
+    {"name": "資本與跑道管理", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在 $2B 估值懸崖下避免 down-round：2024 舉債 $69.3M、老股在 EquityZen/Forge 流通，但無公開價——跑道管理就是策略自由度", "kpi": "現金跑道〔未揭露〕"}
+  ],
+  "notes": [
+    "最容易誤引的兩個數字：「$104.5M 營收」是單一 scraper（GetLatka）估計、跟其他來源成長曲線對不上；「10M MAU」是 2021 美國峰值、2023 第三方只剩全球 ~5M——圖上都要帶〔估計〕／〔2021 峰值〕角標。",
+    "兩軌 LLM 的風險輪廓不同：AIまとめ是現金機的防禦性升級（拿合規授權對打無斷學習，日本新聞協會 2025/6 聲明剛好幫它抬轎）；NewsArc 是進攻性重注、但上線十個月無更新公告、訂閱未定價——押注型格子，上色別跟現金機混。",
+    "「LLM 自研 vs 第三方」的報導相互衝突：Axios 說自研推薦 LLM、trade press 說靠第三方基礎模型——較可能是第三方底模＋自研排序層，引用標〔推測〕。",
+    "用戶老化（50+ 過半）是整張圖的背景輻射：點數、優惠券、天氣、漫畫全是對高齡習慣的防守，也解釋為什麼成長賭注（NewsArc）放在美國而不是日本主 app。",
+    "估值懸崖本身是能力議題：2024 舉債而非增資、無 M&A 訊息——「資本與跑道管理」那格的 readiness gap 僅次於 NewsArc 變現。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness 1–5）非公開、全標待補。"
+  ],
+  "sources": [
+    "公司 newsroom（about.smartnews.com，2025/7–2026/6 全系列：AIまとめ、NewsArc、ポイント、夥伴大會、廣告產品）；BusinessWire — NewsArc PR",
+    "Axios（2025/8）— NewsArc 定位與訂閱規劃；Tomorrow's Publisher／Mediagazer 轉述",
+    "TechCrunch（2021 Series F；2023/1 裁員 40%；2024/1 Sensor Tower 用戶下滑）；Rest of World（2023）— 美國崩塌與創辦人文化",
+    "PR Newswire（2023/11 領導層更替）；PR Times — 董事會改組與ポイント",
+    "Tracxn／Crunchbase — 募資口徑（$410M vs $427.8M）與 2024 舉債；GetLatka — 營收估計〔低可信〕",
+    "日本新聞協會（2025/6/4）— 無斷學習聲明；Nikkei xTREND — docomo 預載；SoldOut／Manamina — 用戶高齡結構",
+    "Digiday／AdExchanger／Nieman Lab — 出版商分潤機制（SmartView 100% 自售）；gurafu.net — 日本實體 FY2020 損益〔單位待確認〕"
+  ]
+}

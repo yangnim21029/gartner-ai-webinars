@@ -1,0 +1,65 @@
+{
+  "company": "OpusClip",
+  "tagline": "AI 影片改製與分發代理 · BCM 輸入功課 · 剪輯工具轉自主分發代理 × 對抗平台原生化視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（未上市新創——募資新聞＋公司自述＋Sacra 估計；營收與流失率多為待補，口徑分級標注）",
+  "facts": [
+    {"k": "產業", "v": "AI 影片改製分發 SaaS：長影片→AI 抓亮點→改製成各平台版型短片→排程自動發布 6–7 平台——「一支長片灌爆每個平台」的量產機器"},
+    {"k": "公司／募資", "v": "2022/1 創立（原為 AI 直播工具 Opus Studio，2023 轉向剪輯）；創辦人 Young Zhao（趙洋，UC Berkeley、連續創業者）＋ Grace Wang 等；員工 ~147 人（2026/5，LeadIQ 估）；累計募資 $50M、SoftBank Vision Fund 2 領投後估值 $215M（2025/3）；無 Series B〔查無〕"},
+    {"k": "規模（公司自述）", "v": "12M+ 創作者；一年產 1.72 億支短片（≈日產 47 萬支）、累計 2.29 億支、577 億次觀看；企業客戶 HubSpot、Visa、Univision、iHeartMedia、LinkedIn；某有線新聞台經 API 日產 1,000+ 支"},
+    {"k": "財務（估計）", "v": "ARR ~$20M、+150% YoY（2025/3，Sacra 估）；另有 $9–10M 低位估計並存——2026 無更新揭露；定價 freemium 點數制：Free／Starter $15／Pro $29／企業客製"},
+    {"k": "產品兩層（fresh）", "v": "剪輯層：ClipAnything 多模態抓亮點＋病毒性評分（0–100，6M 用戶互動資料訓練）＋自動改版型；代理層：Agent Opus（2025/8）——prompt 到成片半自主生成，聚合 Kling／Veo／Sora／Seedance 等第三方模型；OpusSearch 把檔案庫變頻道網絡"},
+    {"k": "近期動向（fresh 2025/12–2026/6）", "v": "全往分發層加碼：企業 Scheduler API 單次排 200 支（2026/4）、iOS 直發 6 平台、Zoom／Apple Podcasts／Medal.tv 接入；政策面：YouTube 2026/5 起自動標示 AI 生成內容（剪輯改製大致豁免、全生成不豁免）——兩條產品線的風險就此分岔"}
+  ],
+  "context": "OpusClip 說穿了，就是把分發流程工業化：一支 podcast 或直播進來，AI 抓出最可能爆的片段、配字幕加 hook、按每個平台的版型改製、自動排程發出去——12M 用戶一年用它灌了 1.72 億支短片進各平台。護城河是病毒性評分背後的互動資料飛輪，威脅是兩面夾擊：下面有 CapCut 把剪輯功能免費送，上面有 YouTube 把剪輯和 AI 標示做進平台。它的回應是往上爬一層——Agent Opus 想從「幫你剪」變「替你從研究、寫稿到發布全包」的分發代理，代價是核心生成能力疊在 Kling、Veo、Sora 這些別人家的模型上。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "從剪輯工具升級成分發代理", "kpi": "Agent Opus（2025/8）半自主：腳本確認＋風格選擇兩個人工關卡；2026 上半年功能全押排程／API／來源接入"},
+    {"name": "ARR 成長與變現", "kpi": "ARR ~$20M、+150%（2025/3，Sacra 估）；12M+ 創作者；2026 無更新〔待補〕"},
+    {"name": "拉高企業與 API 用量", "kpi": "新聞台日產 1,000+ 支、70M 訂閱 YouTuber 20 語言分發；Scheduler API 單次 200 支"},
+    {"name": "守住獨立工具層", "kpi": "對打 CapCut（剪輯免費送）與平台原生化（YouTube Veo 入 Shorts）；第三方評測：病毒評分＋自動改版型是公認強項、模板疲勞與量大成本是公認弱點"},
+    {"name": "跟上 AI 標示政策", "kpi": "YouTube 2026/5 自動標示（C2PA）；剪輯改製豁免、Agent Opus 全生成內容不豁免——自家還出了創作者標示指南"}
+  ],
+  "capabilities": [
+    {"name": "AI 亮點偵測與剪輯", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "ClipAnything 多模態模型（視覺＋聲音＋情緒）從長片抓出可以獨立成片的片段，prompt 可指定要抓什麼", "kpi": "公司自稱影片理解 benchmark 勝過 Gemini 1.5／GPT-4V〔公司自述〕；~40% 片段被用戶棄用〔第三方測試〕"},
+    {"name": "病毒性評分", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "給每支片段打 0–100 的爆紅機率分數，用 6M 用戶的發布成效資料訓練——對手沒有的回饋迴路，也是第三方比較中的公認差異化", "kpi": "評分與實際成效的相關性〔未公開驗證〕"},
+    {"name": "多平台改製與排程發布", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "自動改版型（人臉追蹤重新取景）、加動態字幕和 Auto Hook，再按平台生標題、標籤，排程直發 YouTube／TikTok／Reels／LinkedIn／X 等 6–7 平台", "kpi": "一年 1.72 億支、日產 ~47 萬支〔公司自述〕"},
+    {"name": "自主內容代理", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "Agent Opus：從 prompt／網址／音檔出發，一路做研究、寫稿、分鏡、配素材到成片——半自主（兩個人工關卡），生成端聚合 Kling／Veo／Sora／Seedance 等第三方模型", "kpi": "beta 期被評偏慢（2025/11）；產量與留存〔待補〕"},
+    {"name": "檔案庫變現", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "OpusSearch 翻舊片庫做主題頻道網絡，幾分鐘內跟上熱點——明擺著的 channel-farming 基建", "kpi": "公司稱客戶兩個月內回本〔公司自述〕"},
+    {"name": "API 與企業整合", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "ingest→剪→發的 API 管線（含直播即時剪）、企業批次排程、Zapier MCP——把量產能力賣給媒體集團", "kpi": "新聞台日產 1,000+ 支；API 客戶數〔待補〕"},
+    {"name": "訂閱變現", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "freemium 點數制（1 點＝1 分鐘輸入片長）：Free 60 分／Starter $15／Pro $29／企業客製——量大時單價墊高，被評測點名是弱點", "kpi": "ARR ~$20M〔Sacra 估〕；流失率〔待補〕"},
+    {"name": "自有模型與互動資料資產", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "剪輯與評分用的是自研模型，吃的是自家 6M 用戶的發布成效資料——這層是真護城河，跟代理層的第三方依賴分開看", "kpi": "資料飛輪規模（577 億次觀看）〔公司自述〕"},
+    {"name": "第三方模型聚合管理", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "管理 Kling／Hailuo／Veo／Runway／Sora／Seedance／Luma／Pika 的串接與成本——公司把多模型當賣點宣傳，實際是毛利與依賴的雙重曝險", "kpi": "模型成本佔比〔未揭露〕"},
+    {"name": "平台政策與標示因應", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "追各平台 AI 標示規則（YouTube 自動標示、TikTok C2PA）、出創作者指南——剪輯線大致豁免、全生成線吃標籤，是產品組合的政策避險", "kpi": "標示對觸及的影響〔待觀察〕"},
+    {"name": "創作者社群與成長行銷", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "PLG 飛輪＋活動造勢（人類剪輯師 vs Agent Opus 對決賽、KOL 評審）——免費版浮水印就是廣告", "kpi": "免費轉付費率〔待補〕"},
+    {"name": "資本與跑道管理", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "$50M 募資、SoftBank 背書的 $215M 估值——還沒有 Series B，就用 ~147 人編制控燒錢", "kpi": "現金跑道〔未揭露〕"}
+  ],
+  "notes": [
+    "兩層產品的護城河形狀相反：剪輯層（ClipAnything＋病毒評分）是自研模型吃自家資料、真飛輪；代理層（Agent Opus）的生成端全疊在第三方模型上——「自有資料資產」與「第三方聚合管理」拆成兩格就是為了不讓這個差異被平均掉。",
+    "ARR 數字有 $20M（Sacra，+150%）與 $9–10M（GetLatka／Prospeo）兩組並存——圖上用 Sacra 並帶〔估〕，2026 全無更新本身是個訊號。",
+    "AI 標示政策把兩條線的風險分岔：剪輯改製（真實素材重排）大致豁免、Agent Opus 全生成內容會被 YouTube 自動掛標——同一家公司一半業務避險、一半業務承壓。",
+    "競品擠壓是結構性的：CapCut（字節）把 AI 剪輯塞進 $10/mo 的 Pro、YouTube 把 Veo 塞進 Shorts——獨立工具層被上下夾擊，這是「守住獨立層」objective 的由來；第三方評測還點名它在 9 工具中出片速度墊底（90 分鐘 podcast 要 ~25 分鐘 vs 對手 4–5 分鐘）。",
+    "規模數字（12M 用戶、1.72 億支、577 億觀看）全是公司自述、無第三方驗證；總募資另有 $68M／$79M 的流傳版本，這裡錨定 $50M（多篇募資新聞一致）。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness 1–5）非公開、全標待補。"
+  ],
+  "sources": [
+    "Fortune（經 AOL 轉載）／finsmes — SoftBank $20M、估值 $215M（2025/3）；公司 blog — 募資與 OpusSearch／ClipAnything／二週年里程碑",
+    "Sacra — ARR $20M 估計與風險框架；GetLatka／LeadIQ — 低位 ARR 與員工數估計",
+    "公司產品文件 — pricing／credits／virality score／Agent Opus FAQ／API；changelog（canny.io）— 2026 上半年功能節奏",
+    "Tubefilter — Agent Opus 上線與人機對決賽；startupfounderstories／wearefounders — 創辦轉向史（直播工具→剪輯）",
+    "forkoff.xyz／reap.video／truefan.ai／bigvu.tv — 2026 第三方評測（強弱項、40% 棄用、出片速度）",
+    "thenextweb／techwyse — YouTube 2026/5 AI 自動標示；storrito — TikTok C2PA；公司 blog — 創作者標示指南",
+    "ai.google.dev/showcase — Gemini 使用線索"
+  ]
+}
