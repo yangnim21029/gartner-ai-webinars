@@ -1,0 +1,67 @@
+{
+  "company": "AppLovin",
+  "tagline": "AI 廣告分發引擎 · BCM 輸入功課 · 單引擎全壓 × 開放自助平台轉型視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（10-K／10-Q／earnings call 等級 + 做空報告對照 + trade press，口徑分級標注）",
+  "facts": [
+    {"k": "產業", "v": "AI 績效廣告平台（NASDAQ: APP）：Axon 引擎替廣告主按成果出價（CPI／CPA／目標 ROAS），MAX 中介市場掌分發供給——2025/6 賣掉遊戲工作室後是純廣告公司"},
+    {"k": "財務（FY2025，僅continuing ops）", "v": "營收 $5.48B（+70%）；Q1 2026 $1.84B（+59%）、調整後 EBITDA 率 85%、淨利 $1.21B（+109%）；FY2025 FCF $3.95B；毛利率 89%〔10-K／8-K〕"},
+    {"k": "規模與效率", "v": "員工約 1,563 人——人均營收 $3.5M+ 是業界極端值；自稱 14 億日活裝置、每日最高 150 億次廣告請求（公司口徑，正是做空爭點）；裝置數與成長來自單價：每安裝淨營收 +75%、安裝量 -1%〔10-Q〕"},
+    {"k": "遊戲出售（2025/6/30 交割）", "v": "10 間工作室賣給 Tripledot：$400M 現金 + Tripledot 約 20% 股權（該業務 2024 年營收約 $1.5B）——留引擎、丟內容，但持股讓它仍連著大客戶群"},
+    {"k": "信任面（fresh）", "v": "2025/2–3 Fuzzy Panda／Culper／Muddy Waters 連環做空（指控資料抓取、歸因搶功、兒童追蹤）；公司全盤否認、聘 Alex Spiro；SEC 網路與新興科技組調查 2026/2 仍「進行中」；2026/1 CapitalWatch 報告兩週後撤回道歉、股價 +14%；2025/9 終入 S&P 500"},
+    {"k": "近期動向（fresh 2025/12–2026/6）", "v": "Axon 自助平台 2026/6 向全球開放（結束 14 年封閉制）；生成式創意工具（落地頁產生器 GA、AI 影片廣告上線前夕）是開放的前提；競標 TikTok 失利後自建社群 app「Gist」（2026/5 曝光）；電商垂直 4 月創單月花費紀錄"}
+  ],
+  "context": "AppLovin 把整家公司壓在一套 AI 引擎上：Axon 學出價、MAX 控供給，2025 年賣掉自家遊戲工作室後，5,400 億營收全部來自廣告，1,563 人做出 85% 的 EBITDA 率。成長不是靠量是靠價——安裝量持平、每安裝營收 +75%，模型每改版一次營收跳一階。下一步是把封閉了 14 年的引擎開成自助投放：先用生成式 AI 把創意素材的製作成本壓到夠便宜（小廣告主才養得起），2026 年 6 月向全世界開門。陰影也很具體：它在自家交易所裡既當裁判又當最大買家，資料處理方式被三家做空機構連環指控、SEC 調查仍在進行——多空雙方賭的其實是同一件事：Apple／Google／Meta 會不會出手。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "維持高成長高獲利的單引擎經濟", "kpi": "FY2025 +70%、Q2 2026 指引 +52–55%；調整後 EBITDA 率 84–85%；FCF $3.95B〔8-K／earnings call〕"},
+    {"name": "電商當第二成長引擎", "kpi": "2025/3 已達 $1B 年化花費（約 600 廣告主）；BofA 估 2026 商家花費 $6.8B〔分析師估計〕；新客年化貢獻 $70k+、30 天後近零流失〔管理層口徑〕"},
+    {"name": "自助平台全球開放（2026/6）", "kpi": "移除資格門檻（$10M GMV 推薦制）；合格名單→上線轉換 ~57%；前提是 genAI 創意夠便宜「看不出是 AI 做的」"},
+    {"name": "守住信任，處理監管風險", "kpi": "SEC 調查「進行中」（2026/2）；10-Q 未列重大損失準備；做空指控 vs 公司否認懸而未決——多空押的是平台方會不會出手"},
+    {"name": "補自有流量", "kpi": "TikTok 競標失利後自建 Gist（邀請制、類 Pinterest，2026/5 曝光）；CTV 走 Wurl、2026 不預期有實質貢獻"}
+  ],
+  "capabilities": [
+    {"name": "Axon 模型研發與即時出價", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "訓練自學習出價模型，把廣告主的成果目標換成每次曝光的即時出價——模型改版直接帶動營收跳升（Q1 2026 前幾週一次「重大模型釋出」拉高規模與 ROAS）", "kpi": "每安裝淨營收 +75%（量 -1%）；模型釋出節奏"},
+    {"name": "營運 MAX 中介市場", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "跑約 200 萬個 app 的競價中介（估 ~60% 市佔）：對第三方網絡收 ~5% 過路費、自家需求得標時賺網絡價差——同場當拍賣官與最大買家，是優勢，也是利益衝突的爭議點〔市佔與抽成皆分析師估計〕", "kpi": "中介市佔 ~60%〔估〕；每日廣告請求最高 150 億次〔公司口徑〕"},
+    {"name": "績效廣告需求業務", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "AppDiscovery 按成果計價（CPI／CPA／目標 ROAS）替遊戲廣告主買量——現金牛，管理層給的長期基準是 20–30% 成長", "kpi": "遊戲類別花費成長、ROAS 達標率〔待補〕"},
+    {"name": "電商廣告拓展", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "把 Axon 伸進網頁電商：prospecting 投放、排除既有買家、購物轉換建模——第二引擎，2026/4 創單月花費紀錄", "kpi": "$1B 年化花費（2025/3）；BofA 估 2026 $6.8B〔分析師〕"},
+    {"name": "自助平台與客戶獲取", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "Axon Ads Manager 讓廣告主自己開戶投放（推薦碼制→2026/6 全開）：合格名單→上線 ~57%、八成轉換發生在首小時內", "kpi": "新客數（管理層：10 萬新客 ≈ $7B 花費）、開戶轉換率"},
+    {"name": "生成式創意產製", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "SparkLabs 工作室＋genAI 工具鏈（落地頁產生器已 GA、AI 影片廣告上線中）量產素材——把創意成本壓到小廣告主養得起，是開放平台的前提條件", "kpi": "素材產量（10,000+ 創意、累積 4.12 億安裝）；genAI 試點 100+ 廣告主"},
+    {"name": "量測與歸因服務", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "持有 Adjust（MMP）做安裝歸因與量測——歸因方法正是做空方主攻的「歸因搶功」爭點，公司稱做法「與 Google／Meta 相同」", "kpi": "歸因是否帶來增量：Muddy Waters 抽樣稱僅 25–35% 真增量〔做空報告，公司否認〕"},
+    {"name": "CTV 分發通路", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "透過 Wurl 把績效買量延伸到聯網電視——管理層定調長期優先、2026 不會有實質營收貢獻", "kpi": "2026 無財務目標〔earnings call〕"},
+    {"name": "自有社群流量面", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "孵化 Gist（邀請制、類 Pinterest 生活風格 app，徵「創始創作者」）——競標 TikTok 失利後改自建第一方流量供 Axon 用", "kpi": "仍無公開用戶數與變現數據〔trade press〕"},
+    {"name": "SDK 裝置圖譜與資料資產", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "MAX SDK 裝在約 200 萬 app 裡把競價與互動訊號回傳，堆成公司稱有 14 億日活裝置的圖譜——是 Axon 的燃料，也是 SEC 調查與做空指控的核心標的", "kpi": "14 億日活裝置〔公司口徑，爭議中〕"},
+    {"name": "法務與監管應對", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "處理 SEC 調查、股東訴訟與做空攻防（聘 Spiro、發 CEO 反駁長文、逼 CapitalWatch 撤回）——單引擎公司的信任防線", "kpi": "調查進度、訴訟結果〔進行中〕"},
+    {"name": "資本配置", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "用 $3.95B FCF 做回購（2025 年 $2.58B）、處分非核心（遊戲換 $400M＋Tripledot 20% 股權）——換股權，保留對大客戶群的曝險", "kpi": "回購額、Tripledot 持股價值"},
+    {"name": "精簡組織營運", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "用 1,563 人跑 $5.48B 營收的極簡編制——人少是利潤結構的一部分，也是開放平台後客服與支援的壓力測試點", "kpi": "人均營收 $3.5M+；開放後支援負載〔待驗證〕"}
+  ],
+  "notes": [
+    "口徑警告三連：FY2025 $5.48B 是 continuing ops（別跟含遊戲的舊年比）；MAX 抽成 20–30% 與市佔 ~60% 是分析師估計、公司從未揭露；14 億日活裝置與 150 億次請求全是公司口徑、且正是做空爭點。",
+    "「既當拍賣官又當最大買家」是這張圖的結構張力：同一條 MAX 能力，多頭讀成 lock-in 護城河、空頭讀成利益衝突——pace 上色標 differentiating 時，notes 要保留這個雙重解讀。",
+    "做空指控 vs 公司否認要平衡引用：Fuzzy Panda／Culper／Muddy Waters 的指控（資料抓取、靜默安裝、兒童追蹤、歸因搶功）均未經法院或監管認定；中立專家（Seufert／Paparo）判讀偏向「激進但不必然違法」；CapitalWatch 那份已撤回並道歉。SEC 調查 2026/2 仍進行中、無執法行動。",
+    "成長的本質是單價不是量：安裝量 -1%、每安裝營收 +75%——畫 Axon 那格時這是最乾淨的證據，模型效率就是整家公司。",
+    "「MSCI 事件」查證不成立——可考的是 S&P 500 三度落榜（做空方遊說委員會排除）後 2025/9 納入；引用時走 S&P 線。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness 1–5）非公開、全標待補。"
+  ],
+  "sources": [
+    "AppLovin 8-K（Q4/FY2025、Q1 2026 earnings exhibits）、10-Q（2025 Q3：每安裝營收 +75%；2026 Q1：無重大損失準備）、10-K FY2024（sec.gov）",
+    "Tripledot 交割 PR（BusinessWire 2025/7/1）；PocketGamer — 交易框架 ~$800M",
+    "Q1 2026 earnings call（Seeking Alpha 逐字稿）；ppc.land — 自助平台 6 月全開；Modern Retail — Axon Ads Manager 推薦制",
+    "CNBC — Fuzzy Panda／Culper（2025/2/26）、Muddy Waters（2025/3/27）、CapitalWatch 撤回（2026/2/9）；Marketing Brew — 中立專家判讀（2025/4）",
+    "Bloomberg Law／NatLawReview — SEC 調查（2025/10 曝光、2026/2 確認進行中）；S&P Global PR — S&P 500 納入（2025/9）",
+    "Bloomberg／ppc.land／adtechradar — Gist 社群 app（2026/2 計畫曝光、2026/5 上線）；Benzinga — BofA 電商估計",
+    "Mobile Dev Memo／W Media Research — Q4 2025 風險解讀與 Meta 威脅敘事；Bullfincher — 人均營收口徑"
+  ]
+}

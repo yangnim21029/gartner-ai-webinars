@@ -1,0 +1,37 @@
+{
+  "_note": "TollBit BCM image spec — 13 capabilities clustered bottom-up. Perspective: 兩面市場冷啟動 × 轉 agentic web 基建. AI pins (2). 「開發 AI 買方」keep_up 但 readiness gap 全圖最大（具名買方僅 1 家）。Enabling dashed (5) = role:enabling.",
+  "title": "TollBit Business Capability Map",
+  "subtitle": "AI 爬蟲收費牆與授權市場 · pace layer 戰略地位（冷啟動 × agentic 基建視角，示範）",
+  "perspective": "TollBit 自己，點火兩面市場並轉型 agentic web 基建",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "市場兩側", "capabilities": [
+        {"label": "接入與服務出版商", "pace": "keep_up"},
+        {"label": "開發 AI 買方與授權銷售", "pace": "keep_up"},
+        {"label": "政策倡議與產業遊說", "pace": "keep_up", "enabling": true},
+        {"label": "募資與資本管理", "pace": "commodity", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "攔截與收費", "capabilities": [
+        {"label": "AI 爬蟲偵測與辨識", "pace": "differentiating", "ai": true},
+        {"label": "Bot 收費牆營運", "pace": "keep_up"},
+        {"label": "定價與授權市場經營", "pace": "differentiating"}
+      ]},
+      {"name": "Agent 基建", "capabilities": [
+        {"label": "Agent 存取基建", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "數據與信任", "capabilities": [
+        {"label": "產業數據報告產製", "pace": "differentiating"},
+        {"label": "爬蟲分析儀表板", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "管線", "capabilities": [
+        {"label": "CDN 與偵測夥伴網絡", "pace": "keep_up", "enabling": true},
+        {"label": "授權法律與合約設計", "pace": "keep_up", "enabling": true},
+        {"label": "平台計量與清算", "pace": "commodity", "enabling": true}
+      ]}
+    ]}
+  ]
+}

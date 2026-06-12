@@ -1,0 +1,39 @@
+{
+  "_note": "Cloudflare BCM image spec — 15 capabilities clustered bottom-up. Perspective: 衝 $5B × 第四幕內容市場. AI pins (4)。內容收費市場 differentiating = 押注不是現況（財報尚無此收入）。Enabling dashed (7) = role:enabling.",
+  "title": "Cloudflare Business Capability Map",
+  "subtitle": "邊緣網路與 agentic web 收費基建 · pace layer 戰略地位（衝 $5B × 第四幕視角，示範）",
+  "perspective": "Cloudflare 自己，衝 $5B run-rate 並押 agentic web 收費",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "市場與治理", "capabilities": [
+        {"label": "企業銷售與通路", "pace": "keep_up"},
+        {"label": "網路標準與政策推動", "pace": "differentiating", "enabling": true},
+        {"label": "財務與資本配置", "pace": "commodity", "enabling": true},
+        {"label": "人才與 AI-first 營運", "pace": "keep_up", "ai": true, "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "網路與安全", "capabilities": [
+        {"label": "全球邊緣網路營運", "pace": "differentiating"},
+        {"label": "應用與網路安全防護", "pace": "keep_up", "ai": true},
+        {"label": "Zero Trust／SASE", "pace": "keep_up"}
+      ]},
+      {"name": "平台與 AI", "capabilities": [
+        {"label": "開發者平台營運", "pace": "differentiating"},
+        {"label": "AI 推論與 agent 環境", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "第四幕", "capabilities": [
+        {"label": "內容收費市場經營", "pace": "differentiating", "ai": true},
+        {"label": "免費層獲客漏斗", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "工程地基", "capabilities": [
+        {"label": "自製伺服器與硬體工程", "pace": "keep_up", "enabling": true},
+        {"label": "威脅情報研究", "pace": "keep_up", "enabling": true},
+        {"label": "開源生態與工具鏈", "pace": "keep_up", "enabling": true},
+        {"label": "網路韌性工程", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

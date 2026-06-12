@@ -28,8 +28,12 @@
 | The RealReal | 鑑定信任護城河 × 轉盈路徑 | `therealreal-bcm-input.html` | `therealreal-bcm.png` |
 | We Are Social | 重建獲利 × 文化創意差異化（社群代理） | `wearesocial-bcm-input.html` | `wearesocial-bcm.png` |
 | 工研院 ITRI | 整合跨域創新 × 驗證樞紐（研究法人） | `itri-bcm-input.html` | `itri-bcm.png` |
+| Cloudflare | 衝 $5B × 第四幕內容收費市場（分發基建） | `cloudflare-bcm-input.html` | `cloudflare-bcm.png` |
+| TollBit | 兩面市場冷啟動 × agentic 基建（內容收費） | `tollbit-bcm-input.html` | `tollbit-bcm.png` |
+| The Trade Desk | 危機修復 × 守住中立性（廣告分發 DSP） | `ttd-bcm-input.html` | `ttd-bcm.png` |
+| AppLovin | 單引擎全壓 × 開放自助平台（AI 廣告分發） | `applovin-bcm-input.html` | `applovin-bcm.png` |
 
-每家的 spec：`<公司>-bcm-input.json`（清單輸入）→ `.polished.json`（polish-doc 後，HTML 由它 render）；`<公司>-bcm.json`（圖的結構＋pace）。各家差異化落點不同，方法照各家研究推導、非套版。兩個對照組：We Are Social 的 AI 釘點是「該押但還沒有」（公司實際只有一個 AI 職位）；ITRI 是非營利法人，objectives 用準公共 KPI（技轉／新創／促成投資），AI 釘點只算院方自有動作、不算路過的政策經費。
+每家的 spec：`<公司>-bcm-input.json`（清單輸入）→ `.polished.json`（polish-doc 後，HTML 由它 render）；`<公司>-bcm.json`（圖的結構＋pace）。各家差異化落點不同，方法照各家研究推導、非套版。幾個對照組：We Are Social 的 AI 釘點是「該押但還沒有」（公司實際只有一個 AI 職位）；ITRI 是非營利法人，objectives 用準公共 KPI（技轉／新創／促成投資），AI 釘點只算院方自有動作、不算路過的政策經費。分發產業四連發（Cloudflare／TollBit／TTD／AppLovin）要一起讀：Cloudflare 與 TollBit 的「內容收費市場」橘格財報收入都還是零（押注型橘色），TTD 與 AppLovin 的橘格全是現金引擎（現金型橘色）——同一個 differentiating 色，兩種意思。
 
 ## 早期示範（虛構，學方法用）
 

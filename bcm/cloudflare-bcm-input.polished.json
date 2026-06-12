@@ -1,0 +1,71 @@
+{
+  "company": "Cloudflare",
+  "tagline": "全球邊緣網路與 agentic web 收費基礎設施 · BCM 輸入功課 · 衝 $5B × 第四幕內容市場視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（10-K／earnings call 等級 + 分析師層 + PR，口徑分級標注）",
+  "facts": [
+    {"k": "產業", "v": "網路基礎設施與安全（NYSE: NET）：CDN／應用安全／Zero Trust SASE／開發者平台／edge AI 推論，代理全球約 20% web 流量"},
+    {"k": "財務（FY2025）", "v": "營收 $2,167.9M（+29.8%）；非 GAAP 營益率 14.0%、GAAP 仍虧損（-9.6%）；FCF $260.6M（12.0%）；FY2026 指引 $2,805–2,813M（~30%）〔10-K／earnings call〕"},
+    {"k": "客戶結構", "v": "付費客戶 33.2 萬；>$100k 大客戶 4,416 家（+25%，佔營收 72%）；$1M+ 客戶 269 家（+55%）；DNR 118%；史上最大 ACV 合約 $42.5M、另有 AI 公司 $85M pool-of-funds 合約〔earnings call〕"},
+    {"k": "網路規模", "v": "330+ 城市 PoP、125+ 國；對外容量 500 Tbps（2026/4）；GPU 部署 150+ 城市；自製 Gen 12 伺服器〔公司 blog／PR〕"},
+    {"k": "第四幕（內容市場）", "v": "2025/7/1 起新域名預設封鎖 AI 爬蟲；pay-per-crawl 私測（HTTP 402、出版商定價、Cloudflare 當 merchant of record）；2026/1 併 Human Native（AI 資料市場）；2026/2 Stack Overflow 成首個商業化案——但財報尚無此收入科目〔PR／earnings call〕"},
+    {"k": "近期動向（fresh 2025/12–2026/6）", "v": "2025/11/18 全球大當機（bot 管理 feature file 引發，殃及 X／ChatGPT）；2026/5 裁 20%（~1,100 人）轉「agentic AI-first 營運」；半年內連併 Replicate／Astro／VoidZero 補 AI 工具鏈；Agents Week 2026 出 Agent Memory／Browser Run／Agents SDK"}
+  ],
+  "context": "Cloudflare 靠「免費層養網路、網路養安全、安全養平台」長成代理全球五分之一 web 流量的基礎設施商，現在押第四幕：當 AI 爬蟲與 agent 流量在 2027 年超過人類，它要當收費站——預設封鎖 AI 爬蟲、讓出版商對每次抓取開價、自己當清算行。張力在於敘事層跑在損益層前面：pay-per-crawl 還沒入帳一毛錢，核心收入仍是安全與平台訂閱，而 2025/11 的全球大當機正好出在收費站賴以運作的 bot 判讀能力上。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "營收衝 $5B annualized run-rate（2028）", "kpi": "2026 過 $3B run-rate、FY2026 指引 $2,805–2,813M（~30% 成長）；Rule of 40 >46%、明年看 >50%〔earnings call〕"},
+    {"name": "大客戶平台化（多產品綁定）", "kpi": ">$100k 客戶 4,416 家（+25%）、佔營收 72%；DNR 118%；$1M+ 合約數 +73%〔earnings call〕"},
+    {"name": "把開發者平台變 AI 應用預設", "kpi": "開發者 5.5M（單季 +1M）；Workers AI 推論請求 +4,000% YoY；某 AI lab 15 天 0→100 萬 Workers 實例〔earnings call〕"},
+    {"name": "建成 agentic web 收費與內容市場（第四幕）", "kpi": "pay-per-crawl 尚無入帳收入——目前只有 $3.1M/3 年爬蟲管控合約這類代理指標；管理層估非人流量 2027 超越人類〔earnings call，敘事先行〕"},
+    {"name": "AI-first 營運槓桿", "kpi": "裁 20%（~1,100 人、費用 $140–150M）；97% 工程師用 AI 工具；非 GAAP 營益率 14%→指引續升〔8-K／earnings call〕"}
+  ],
+  "capabilities": [
+    {"name": "營運全球邊緣網路", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "在 330+ 城市跑 PoP、500 Tbps 容量，把流量導到離用戶最近的節點——規模本身就是護城河，也是所有產品的載體", "kpi": "容量、PoP 數、代理流量佔比（~20% web）"},
+    {"name": "防護應用與網路安全", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "提供 WAF、DDoS 防護、bot 判讀與管理——bot scoring 的 ML 同時是安全產品與收費站的地基（2025/11 當機正是出在這條管線）", "kpi": "攔截量、誤判率〔待補〕；安全是主收入引擎之一"},
+    {"name": "提供 Zero Trust／SASE 服務", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "賣企業網路存取與安全整合，走「換掉一堆單點 vendor」的整併打法（一家保險客戶簽約即汰換 6 家、年省 >$1.3M）", "kpi": "vendor displacement 案數、SASE 營收〔10-K 不拆分項〕"},
+    {"name": "營運開發者平台", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "提供 Workers、R2 零出流費儲存、Durable Objects，讓開發者把應用直接寫在邊緣網路上", "kpi": "開發者 5.5M、Workers 用量（>75% 成長來自新客）"},
+    {"name": "提供 AI 推論與 agent 執行環境", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "在 150+ 城市的 GPU 上跑 Workers AI 推論、AI Gateway 模型路由，再加上 Agents SDK／Agent Memory／Browser Run 這套 agent 基建（自稱 GPU 稼動 70–80%，未經審計）", "kpi": "推論請求 +4,000% YoY；>$100M 史上最大合約由 Workers 驅動"},
+    {"name": "經營內容收費市場", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "跑 pay-per-crawl（出版商開價、HTTP 402、Cloudflare 當 merchant of record 清算）、AI Crawl Control 與 Human Native 資料交易媒合——第四幕主賭注，財報上還沒有收入", "kpi": "尚無收入科目；Stack Overflow 首個商業化（2026/2）；代理指標：$3.1M/3 年爬蟲管控合約"},
+    {"name": "經營免費層獲客漏斗", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "用免費方案餵大網路效應：免費站點當威脅感測器、當品牌入口，再層層轉成 33.2 萬付費客戶", "kpi": "付費客戶數（單季 +3.7 萬創高）、免費轉付費率〔待補〕"},
+    {"name": "企業銷售與通路經營", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "直銷拿下大客戶、通路放量（通路佔 bookings 28.5%），把單點需求談成全平台合約（$42.5M ACV、$130M TCV、$85M pool-of-funds）", "kpi": "新增 ACV $961M（2025）、quota 達成率四年最佳"},
+    {"name": "自製伺服器與硬體工程", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "自己設計每一代伺服器（Gen 12：效能 +145%、能效 +63%），並為 GPU 重新設計散熱——撐住毛利與 AI 推論的單位經濟", "kpi": "效能／瓦特、單位流量成本〔待補〕；Q1 2026 毛利率已因 GPU 建置 -210bps"},
+    {"name": "威脅情報研究", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "Cloudforce One 追蹤攻擊者與爬蟲行為，餵 bot 判讀模型與安全產品的偵測規則", "kpi": "情報報告、新型攻擊偵測時效〔待補〕"},
+    {"name": "經營開源生態與工具鏈", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "半年連併 Replicate（5 萬+ 模型目錄）、Astro、VoidZero（Vite），把 JS／AI 工具鏈整段收進來，讓「寫 web 就部署在 Cloudflare」變預設", "kpi": "工具鏈採用率、vibe-coding 平台預設部署數〔質性〕"},
+    {"name": "推動網路標準與政策", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "把私有機制變產業預設：Web Bot Auth（IETF）、Content Signals、與 Coinbase 共創 x402、拉 Visa／Mastercard／Shopify 等組成 agentic commerce 聯盟、預告 NET Dollar 穩定幣——收費權威的正當性工程", "kpi": "標準採納、聯盟成員數；「預設封鎖 AI 爬蟲」已成事實上的產業政策"},
+    {"name": "網路韌性工程", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在「自己就是單點故障」的規模下控爆炸半徑——2025/11 當機後啟動 Fail Small 韌性計畫", "kpi": "可用率、當機影響面；當機殃及 X／ChatGPT 是反例教材"},
+    {"name": "財務與資本配置", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在 GAAP 虧損下管成長投資節奏：GPU capex、併購、裁員費用 $140–150M 的取捨", "kpi": "非 GAAP 營益率 14%、FCF 12%、Rule of 40"},
+    {"name": "人才與 AI-first 營運", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "把公司自己改成 agentic AI-first 營運：內部 AI 用量三個月 +600%、97% 工程師用 AI 工具，並以此為由裁 20%（豁免業務）——是真營運槓桿還是修飾利潤率，業界仍在吵", "kpi": "人均產出、裁後交付節奏〔爭議中，待驗證〕"}
+  ],
+  "notes": [
+    "最大的上色陷阱：pay-per-crawl 還不是「會賺錢的能力」——財報沒有這個收入科目，它目前只是 bot 管理＋計費兩條既有能力的重組。toll authority 是敘事層，不是損益層；圖上給 differentiating 是押注，不是現況。",
+    "兩個前提修正：FY2025 營收實為 $2,167.9M +29.8%（不是 ~$2.09B）；「$15M Workers AI 合約」查無實據，可考的是「>$100M 史上最大合約、由 Workers 驅動」〔8-K〕。",
+    "結構性反諷要保留：2025/11/18 全球當機的禍首（bot 判讀 feature file 管線）正是收費站賴以運作的能力——韌性工程那格不是湊數，是第四幕的前提。",
+    "批評面：估值約 28x NTM EV/Revenue 遠高同業；出版商側 CJL「Same Gatekeepers, New Tollbooths」（2026/4）點名「基礎設施守門人自己開市場」的利益衝突；$85M 單一 AI 客戶有集中風險；裁 20% 的「AI 營運槓桿」說法，trade press 仍存疑。",
+    "視角提醒：同一個 pay-per-crawl，對 Cloudflare 是 capability、對出版商是分發通路、對 AI 公司是成本牆——這張圖釘死在 Cloudflare 自己的視角。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness 1–5）非公開、全標待補。"
+  ],
+  "sources": [
+    "Cloudflare FY2025 10-K 與 Q4/FY2025、Q1 2026 業績發布（sec.gov／investors）；Q4 2025 與 Q1 2026 earnings call 逐字稿（Motley Fool）",
+    "Cloudflare blog — pay-per-crawl 機制與文件、2025/11/18 當機 postmortem、Fail Small、500 Tbps、Gen 12 伺服器、Agents Week 2026",
+    "PR — Human Native（2026/1）、Replicate（2025/11）、Astro（2026/1）、VoidZero（2026/6）併購；agentic commerce 聯盟（Visa/Mastercard 等，2025/10）",
+    "Stack Overflow blog — 首個 pay-per-crawl 商業化（2026/2）",
+    "CJL／Brookings — Same Gatekeepers, New Tollbooths（2026/4）；Nieman Lab — 出版商 double bind",
+    "8-K — 2026/5 裁員 20% 與費用；qz／TIKR／Simply Wall St／Morningstar — 估值與裁員的多空解讀",
+    "TechCrunch（2022/11）— $5B/5 年目標原始出處"
+  ]
+}

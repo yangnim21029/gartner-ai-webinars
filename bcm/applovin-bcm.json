@@ -1,0 +1,37 @@
+{
+  "_note": "AppLovin BCM image spec — 13 capabilities clustered bottom-up. Perspective: 單引擎全壓 × 開放自助平台. AI pins (3). SDK 裝置圖譜 differentiating+enabling（資料護城河同時是 SEC 調查標的）。Enabling dashed (4) = role:enabling.",
+  "title": "AppLovin Business Capability Map",
+  "subtitle": "AI 廣告分發引擎 · pace layer 戰略地位（單引擎全壓 × 開放平台視角，示範）",
+  "perspective": "AppLovin 自己，單引擎全壓並開放自助平台",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "擴張與防線", "capabilities": [
+        {"label": "自助平台與客戶獲取", "pace": "keep_up"},
+        {"label": "自有社群流量面 Gist", "pace": "keep_up"},
+        {"label": "法務與監管應對", "pace": "keep_up", "enabling": true},
+        {"label": "資本配置", "pace": "commodity", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "引擎", "capabilities": [
+        {"label": "Axon 模型研發與出價", "pace": "differentiating", "ai": true},
+        {"label": "MAX 中介市場營運", "pace": "differentiating"}
+      ]},
+      {"name": "需求垂直", "capabilities": [
+        {"label": "績效廣告需求業務", "pace": "keep_up"},
+        {"label": "電商廣告拓展", "pace": "differentiating", "ai": true},
+        {"label": "CTV 分發通路", "pace": "keep_up"}
+      ]},
+      {"name": "創意與量測", "capabilities": [
+        {"label": "生成式創意產製", "pace": "differentiating", "ai": true},
+        {"label": "量測與歸因服務", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "資料與組織", "capabilities": [
+        {"label": "SDK 裝置圖譜與資料資產", "pace": "differentiating", "enabling": true},
+        {"label": "精簡組織營運", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

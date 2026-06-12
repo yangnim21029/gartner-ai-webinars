@@ -1,0 +1,67 @@
+{
+  "company": "TollBit",
+  "tagline": "AI 爬蟲收費牆與內容授權市場 · BCM 輸入功課 · 兩面市場冷啟動 × 轉型 agentic web 基建視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（私人公司：募資新聞＋自家報告＋trade press；營收／GMV／估值全未揭露）",
+  "facts": [
+    {"k": "產業", "v": "內容對 AI 分發的中介層：偵測 AI 爬蟲 → 導進收費牆 → 出版商開價授權（RAG／全文展示兩種 SKU，皆禁止訓練）→ 向 AI 買方收交易費"},
+    {"k": "公司／規模", "v": "2024/2 紐約創立（Toshit Panigrahi + Olivia Joslin，皆出身 Toast）；員工 31 人（2026/1）；募資 $31M（種子 $7M + 2024/10 Series A $24M，Lightspeed 領投）；無 Series B〔募資新聞／資料庫〕"},
+    {"k": "網絡規模", "v": "約 7,000 個出版商站點（約 3,000 家出版商，兩種口徑並存）；含 TIME、Penske、ADWEEK；2026/4 接入 Arc XP（Washington Post 系統，2,500+ 媒體站）；2026/3 丹麥 DPCMO 集體授權"},
+    {"k": "交易現況", "v": "約 20% 站點有收入（每月數百到數萬美元）；具名付費買方僅 Particle 一家；大型 AI lab 未進場；TIME 拿 TollBit 數據去場外直簽 OpenAI／Perplexity〔trade press〕——營收／GMV 未揭露"},
+    {"k": "數據資產", "v": "季度報告 State of the Bots 被 WIRED／The Register／TechRadar 引用：bot:human 比 1:31（一年前 1:200）；30% 爬取無視 robots.txt（ChatGPT-User 達 42%）；AI 應用點擊率 0.27%；已分析 5,500 億+ 次造訪〔自家報告〕"},
+    {"k": "近期動向（fresh 2025/12–2026/6）", "v": "定位從「內容授權市場」改寫成「agentic internet 的完整 web stack」：MCP 一鍵端點、NLWeb、Agent Site、markdown 轉換；TNL Mediagene 宣布初步營收（交易量仍小）；與 Google Cloud Gemini Enterprise 做 A2A 展示"}
+  ],
+  "context": "TollBit 想當 AI 時代的內容收費站：出版商流量被 AI 爬蟲吃掉、點擊換不回來（AI 應用點擊率僅 0.27%），它把爬蟲攔下來導進收費牆，讓出版商自己開價、自己拿 100%，TollBit 向 AI 買方收一筆交易費。難處是兩面市場只熱了一面——7,000 個站點裡兩成有收入，具名付費買方只有 Particle 一家，大型 AI lab 寧可直簽或繞道第三方爬蟲。於是它把定位改寫成 agentic web 基建：與其等買方來買授權，不如把 agent 存取的水管（MCP、NLWeb、收費、清算）整段包下來。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "把出版商網絡變現（供給側點火）", "kpi": "約 20% 站點有收入（每月數百到數萬美元）；GMV／營收未揭露〔trade press／待補〕"},
+    {"name": "點亮 AI 買方（需求側冷啟動）", "kpi": "具名付費買方僅 Particle；「精選買方組合拉高客單價」但無名單〔PR／trade press〕——這條是存亡題"},
+    {"name": "轉型 agentic web 基建", "kpi": "MCP／NLWeb／Agent Site 上線；官網定位改寫為 complete web stack；Google Cloud A2A 展示〔自家揭露〕"},
+    {"name": "擴大供給覆蓋與通路", "kpi": "7,000 站點；Arc XP（2,500+ 站）與 DPCMO 集體授權兩條批發通路（2026）"},
+    {"name": "維持產業數據權威", "kpi": "State of the Bots 被主流媒體引用（WIRED／The Register／INC.）——免費換信任與線索"}
+  ],
+  "capabilities": [
+    {"name": "偵測與辨識 AI 爬蟲", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "維護爬蟲指紋資料庫＋行為特徵，認出 OpenAI／Google／Anthropic／Perplexity 等家的 bot（自承偽裝成人類的隱形爬蟲仍抓不到）", "kpi": "已偵測 90 億+ 次 AI 爬取；漏抓率〔待補〕"},
+    {"name": "營運 bot 收費牆", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "把偵測到的 bot 導到 TollBit 子網域驗證、計價、放行——不是只靠 HTTP 402 的君子協定（DNS 設定 30 分鐘內完成）", "kpi": "19 億+ 次 bot 導入收費牆；攔截率〔待補〕"},
+    {"name": "經營定價與授權市場", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "讓出版商按頁開價（CPM 式、可隨需求分鐘級調價），分 RAG 摘要與全文展示兩種授權、皆禁訓練；出版商拿 100%、向買方收交易費（費率未揭露）", "kpi": "GMV／交易費率全未揭露〔待補〕"},
+    {"name": "接入與服務出版商", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "做 CMS／CDN 整合（Arc XP、Akamai、Fastly）、onboarding 與定價顧問，把媒體一家家接上來", "kpi": "7,000 站點、約 3,000 家出版商；接入時間 <30 分鐘"},
+    {"name": "開發 AI 買方與授權銷售", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "向 AI 公司賣授權存取（按千頁計價的爬取、RAG 檢索、agent 端點）——目前最弱的一條：具名買方僅 Particle", "kpi": "具名付費買方 1 家；買方數〔待補〕"},
+    {"name": "提供 agent 存取基建", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "把內容包成 agent 吃得動的形狀：MCP 一鍵端點、NLWeb 自然語言存取、Agent Site 分流（不壓垮原站）、轉 markdown 降 LLM 處理成本", "kpi": "端點採用數〔待補〕；Google Cloud A2A 展示（2026）"},
+    {"name": "產製產業數據報告", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "出季度 State of the Bots（bot 流量、robots.txt 違規、點擊率衰退），變成全產業引用的標準數據源——拿免費數據換權威與商機", "kpi": "WIRED／The Register／TechRadar 等引用；報告下載〔待補〕"},
+    {"name": "提供爬蟲分析儀表板", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "免費給出版商看 Google Analytics 看不到的 bot 流量（如 Digital Trends 爬取:導流 = 966:1），是先監測後變現的漏斗入口", "kpi": "免費版→變現轉換率〔待補〕"},
+    {"name": "經營 CDN 與偵測夥伴網絡", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "跟 Akamai／Fastly／HUMAN Security 結盟，把偵測與攔截下沉到邊緣執行（經 Akamai 每季導轉約 4.5 億次 bot）", "kpi": "夥伴數、經夥伴導轉量"},
+    {"name": "設計授權法律與合約", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "把「告或簽」之外的第三條路做成可執行合約：禁訓練條款、兩種 SKU 的權利邊界、集體授權（DPCMO）的法律管線", "kpi": "合約爭議數〔待補〕"},
+    {"name": "政策倡議與產業遊說", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "公開呼籲監管「bot 不得偽裝人類」、參與 IAB 出版商 AI 問責法案討論——幫整個收費模式爭取制度地基", "kpi": "政策引用、聽證參與〔質性〕"},
+    {"name": "平台計量與清算", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "包辦計量、結帳、發票與對帳，讓按頁微交易算得清、領得到", "kpi": "清算準確率〔待補〕"},
+    {"name": "募資與資本管理", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "用 $31M 募資養 31 人團隊撐到兩面市場點火——無 Series B，跑道管理就是生存能力", "kpi": "現金跑道〔待補〕"}
+  ],
+  "notes": [
+    "先修兩個前提：Series A 是 2024/10 不是 2025/2；「抽成 15–25%」查無 2026 年佐證——現行模式是出版商拿 100%、向 AI 買方收交易費（費率未揭露）。收入引擎在買方側，畫圖別畫錯邊。",
+    "honest 留白：營收、GMV、交易費率、估值、Particle 之外的買方名單全部未揭露——這家的格子空不是研究偷懶，是 lane 本身「敘事熱度大於現金流」。",
+    "需求側才是命門：The Logic CEO 預測出版商 2026「不會有有意義的 AI 授權收入」，機制是 Google 把搜尋爬取跟 AI 訓練綁在一起、資料價格被壓到零；Digital Trends 全程部署仍零收入是實證反例。把「開發 AI 買方」那格的 readiness gap 看成全圖最大。",
+    "對照組：Cloudflare pay-per-crawl 走規模與預設值（百萬客戶、抽 30%、merchant of record），TollBit 走出版商側深度（顧問式接入、按 URL 細粒度、出版商拿 100%）；ScalePost 抽 ~15%、ProRata 五五分廣告——同一條 lane 四種模式。",
+    "Open Markets／Brookings「Same Gatekeepers, New Tollbooths」（2026/5）把 TollBit 歸進未受監管的中介層，但 0% 出版商抽成讓它在報告裡相對好看；CJL 與 Brookings 是同一份報告，引用別當兩份。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness 1–5）非公開、全標待補。"
+  ],
+  "sources": [
+    "PR Newswire／Axios — 種子輪（2024/3）與 Series A（2024/10，Lightspeed）；TollBit 官網與 docs（Bot Paywall、FAQ、press）",
+    "Digiday — Arc XP 整合與 7,000 站點、20% 有收入（2026/4）；Engadget — 創辦人背景與早期狀態",
+    "TollBit State of the Bots「The Leaky Pipes」（2026/2，covering Q3+Q4 2025）；The Register／Press Gazette 轉載",
+    "Akamai／Fastly／HUMAN Security 夥伴 PR 與技術部落格（2025/9–）",
+    "Open Markets Institute × Brookings — Same Gatekeepers, New Tollbooths（2026/5/31）；Nieman Lab — The Logic CEO 2026 預測；Media Copilot — 模式比較與雙重困境解讀",
+    "TNL Mediagene PR（2025/12/22）— 初步營收；DPCMO 合作（2026/3/12）；TipRanks — Google Cloud A2A 展示（標題級，原文 403）",
+    "Tracxn／PitchBook／Crunchbase — 員工數與輪次（皆二手資料庫）"
+  ]
+}
