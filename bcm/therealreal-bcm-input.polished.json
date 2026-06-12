@@ -1,0 +1,215 @@
+{
+  "company": "The RealReal, Inc. (NASDAQ: REAL)",
+  "tagline": "Largest US online authenticated luxury consignment marketplace · BCM input brief · trust-via-authentication moat × path-to-profitability lens",
+  "as_of": "2026-06",
+  "classification": "Compiled from public sources (US-listed, NASDAQ: REAL — 10-K / earnings / investor disclosures available; internal metadata TBD)",
+  "facts": [
+    {
+      "k": "Industry",
+      "v": "Online resale of authenticated pre-owned luxury goods (handbags, ready-to-wear, jewelry, watches, fine art / home); consignment-first marketplace with a minority first-party (direct) channel"
+    },
+    {
+      "k": "Business model",
+      "v": "Takes physical custody of a consignor's item, then authenticates / photographs / prices / lists / sells / ships it, keeping a commission (take rate ~37.9%) rather than taking title; three revenue lines — consignment commission, direct sales, shipping services [10-K]"
+    },
+    {
+      "k": "Scale (FY2025)",
+      "v": "GMV $2.13B (+16%), revenue $693M (+15%), 1.056M trailing-12-month active buyers (+9%), AOV $594, 3.59M orders [earnings, 2026-02-26]"
+    },
+    {
+      "k": "Profitability",
+      "v": "FY2024 was the first full year of positive Adjusted EBITDA ($9M); FY2025 was positive every quarter ($42M / 6.1% margin); GAAP still shows a $(41.8)M net loss, driven by non-cash items — management steers by Adjusted EBITDA [earnings]"
+    },
+    {
+      "k": "Authentication",
+      "v": "4 authentication centers (1 in Arizona + 3 in New Jersey, ~1.4M sq ft); hundreds of in-house experts incl. gemologists / horologists / brand authenticators (one source says 150+ — exact count [TBD]); ~250K counterfeits removed since 2011 [10-K, company-blog]"
+    },
+    {
+      "k": "Footprint & people",
+      "v": "17 retail stores (the SF Union Square flagship reopened as the 17th, 2026-02) [news]; ~3,011 full-time-equivalent staff at 2024-12-31 after a ~7% cut in 2024 (FY2025 headcount [TBD]) [10-K, news]"
+    },
+    {
+      "k": "Recent moves (fresh)",
+      "v": "Rati Levesque became CEO in 2024-10 (succeeding John Koryl); the Athena AI pipeline reached 35% of units processed by end-2025, target ~50% by end-2026; direct buying relaunched as 'Get Paid Now' (rose to $91.1M); store footprint growing again [official, earnings]"
+    }
+  ],
+  "context": "The RealReal is the largest US online marketplace for authenticated pre-owned luxury goods, run mainly on consignment: it takes custody of a consignor's item, then authenticates, photographs, prices, lists, sells and ships it, keeping a commission on each sale rather than taking title. A smaller first-party channel buys items outright. Trust is its moat — every item passes human luxury experts (gemologists, horologists, brand authenticators) backed by proprietary AI, which lets buyers pay a premium for 'pre-owned but guaranteed real'. After years of losses the company reached profitability, posting positive Adjusted EBITDA in every quarter of 2025, and now pushes its Athena AI pipeline through authentication, pricing and listing as a margin lever while leaning back into consignment-supply growth. The inputs below follow note 1's BCM fields; pace and AI overlays are left for the image.",
+  "objectives": [
+    {
+      "name": "Sustain and scale profitability",
+      "kpi": "Adjusted EBITDA $ and margin — FY2025 $42M (6.1%); medium-term target 15-20% margin [earnings, Q4-2025 call]"
+    },
+    {
+      "name": "Return to sustained GMV growth",
+      "kpi": "GMV growth % — FY2025 $2.13B (+16%); 2026 guidance $2.39-2.45B (+12-15%) [earnings]"
+    },
+    {
+      "name": "Unlock profitable consignment supply (the 'growth playbook')",
+      "kpi": "New consignors; GMV from repeat consignors >80% [earnings, 10-K]"
+    },
+    {
+      "name": "Grow active buyers and repeat purchase",
+      "kpi": "Trailing-12-month active buyers 1.056M (+9%); GMV from repeat buyers ~88% [earnings, 10-K]"
+    },
+    {
+      "name": "Lift operational efficiency and margin with AI / automation (Athena)",
+      "kpi": "Share of units processed through Athena — 35% end-2025, target ~50% end-2026; item processing time [earnings call]"
+    }
+  ],
+  "capabilities": [
+    {
+      "name": "Marketing & buyer acquisition",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "Acquire and re-engage buyers across search, app, referral and the First Look subscription, then merchandise demand to them",
+      "kpi": "New active buyers, acquisition cost, repeat-buyer GMV ~88% [10-K]"
+    },
+    {
+      "name": "Omni-channel retail",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "Run physical stores and luxury consignment offices that lift order value, cut returns and source higher-value consignors",
+      "kpi": "17 stores; ~25% of new sellers sourced via retail; store vs online AOV [10-K, news]"
+    },
+    {
+      "name": "Consignment supply acquisition",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "Source items from consignors through sales managers, in-home and virtual consults, drop-off and mail-in; SmartSales AI scores who is likely to consign and when",
+      "kpi": "New consignors, supply GMV; repeat-consignor GMV >80% [earnings, 10-K]"
+    },
+    {
+      "name": "Consignor relationship & payouts",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "Manage consignor commissions, transparent pricing and payouts so sellers return",
+      "kpi": "Consignor retention; take rate ~37.9% [10-K]"
+    },
+    {
+      "name": "Direct / first-party buying",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "Buy select items outright ('Get Paid Now') and resell them at full margin; absorb out-of-policy returns into owned inventory",
+      "kpi": "Direct revenue $91.1M; direct gross margin ~26% [earnings]"
+    },
+    {
+      "name": "Authentication & counterfeit detection",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "Verify every item with human luxury experts backed by AI (Shield risk scoring, Vision microscopy, AI microphotography), then reject and destroy fakes",
+      "kpi": "Counterfeit escape rate; ~250K fakes removed since 2011; items authenticated [10-K, company-blog]"
+    },
+    {
+      "name": "Pricing & valuation",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "Set each item's resale price using 30M+ historical sales and up to 50 attributes in a proprietary pricing engine",
+      "kpi": "Share of items auto-priced ~85%; sell-through, price realization [10-K, earnings]"
+    },
+    {
+      "name": "Cataloging & listing",
+      "level": "L1",
+      "role": "realizing",
+      "ai": true,
+      "definition": "Photograph, retouch, attribute and describe items into single-SKU listings; Athena AI drafts copy and routes intake to launch",
+      "kpi": "Units processed through Athena 35%->~50%; intake-to-launch time [earnings]"
+    },
+    {
+      "name": "Marketplace & buyer experience",
+      "level": "L1",
+      "role": "realizing",
+      "ai": false,
+      "definition": "Run the storefront, search, browse and personalization that turn one-of-a-kind inventory into a liquid marketplace",
+      "kpi": "Conversion; AOV $594; orders 3.59M [earnings]"
+    },
+    {
+      "name": "Fulfillment & single-SKU operations",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "Receive, warehouse and ship one-of-a-kind items across ~1.4M sq ft of authentication and fulfillment centers",
+      "kpi": "Processing cost per unit, ship time [10-K]"
+    },
+    {
+      "name": "Returns & reverse logistics",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "Process returns and route out-of-policy items into owned inventory",
+      "kpi": "Returns and cancellations as % of GMV (FY2024 24.4%) [10-K]"
+    },
+    {
+      "name": "Asset protection & loss prevention",
+      "level": "L1",
+      "role": "enabling",
+      "ai": true,
+      "definition": "Protect high-value inventory and stores with AI-powered video security to cut shrink",
+      "kpi": "Shrink rate; asset-protection expense [news]"
+    },
+    {
+      "name": "Data & ML platform",
+      "level": "L1",
+      "role": "enabling",
+      "ai": true,
+      "definition": "Build and run the proprietary ML and data substrate (30M+ sales data points) that powers sourcing, authentication, pricing, listing and merchandising",
+      "kpi": "Model coverage across the pipeline; 30M+ data points [10-K]"
+    },
+    {
+      "name": "Payments processing",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "Process buyer payments and consignor disbursements through third-party providers",
+      "kpi": "Payment success rate, processing cost [10-K]"
+    },
+    {
+      "name": "Customer service",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "Support buyers and consignors on order, payment and authentication queries",
+      "kpi": "Response time, satisfaction [news]"
+    },
+    {
+      "name": "Talent & expert development",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "Recruit and develop the scarce bench of gemologists, horologists and brand experts that anchors the authentication moat",
+      "kpi": "Expert headcount (hundreds; exact [TBD]), retention [10-K]"
+    },
+    {
+      "name": "Finance & capital",
+      "level": "L1",
+      "role": "enabling",
+      "ai": false,
+      "definition": "Run finance, public-company reporting and the capital structure (convertible debt) of a business that is Adjusted-EBITDA-positive but not yet GAAP-profitable",
+      "kpi": "Adjusted EBITDA $42M; net loss $(41.8)M; liquidity [earnings]"
+    }
+  ],
+  "notes": [
+    "US-listed (NASDAQ: REAL): the 10-K, quarterly earnings and call transcripts are public, so the financials are real. Internal BCM metadata — capability owner, supporting systems, data in / out, data-readiness 1-5 — is not disclosed; left TBD for the organization to fill.",
+    "Data conflicts are flagged, not silently resolved: authenticator count 'hundreds' [10-K] vs '150+' [news] -> [TBD]; GAAP net income swings on non-cash items (convertible-debt revaluation), so Adjusted EBITDA gives the cleaner profitability read; FY2025 headcount, repeat-buyer % and returns % await the FY2025 10-K.",
+    "The most recent fiscal year is FY2025 (reported 2026-02-26), not FY2024 — figures lead with FY2025 and keep FY2024 only as a trend reference.",
+    "Fresh / trending (2025-2026) adjusts overlays only — the profitability turn, the Athena AI push, the CEO change, the direct-buying rebound and the store re-expansion show up in objectives / AI pins / pace, never in the capability list.",
+    "Signal vs noise: luxury-resale market-size reports and TRR's own 'resale trends' content are market backdrop, not TRR's own strategy — both excluded from the map.",
+    "Pace and AI overlays stay off this list and go on the image. Authentication carries the live tension: it is TRR's human-expert moat, yet Athena pushes AI through authentication, pricing and listing (35%->~50% of units). The human expert stays the guarantor while AI scales the work, so AI here is a margin lever, not a reason to treat the capability as commodity automation."
+  ],
+  "sources": [
+    "SEC FY2024 10-K (The RealReal, CIK 0001573221)",
+    "GlobeNewswire — FY2025 / Q4-2025 results (2026-02-26); FY2024 preliminary results + debt exchange (2025-02-10); Q1-2025 results (2025-05-08)",
+    "Motley Fool — The RealReal Q4 2025 earnings call transcript (2026-02-27)",
+    "GlobeNewswire — Rati Sahi Levesque appointed CEO (2024-10-28); Retail Dive — Koryl departure context",
+    "PYMNTS — AI tools / Athena / Smart Sales improve sales & efficiency; Yahoo / Insider Monkey — Athena strategic framing",
+    "TRR RealStyle blog — authentication technology (Shield / Vision / experts); Chain Store Age — AI-powered video asset protection",
+    "StockTitan — SF Union Square flagship reopening (17th store, 2026-02); GlobeNewswire — Summit NJ store (16th, 2025-06); The Current — 2024 layoffs / store closures",
+    "ResearchAndMarkets via BusinessWire — luxury resale market size & competitive set (context only, not strategy)"
+  ]
+}

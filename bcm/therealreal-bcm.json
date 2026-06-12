@@ -1,0 +1,43 @@
+{
+  "_note": "The RealReal / REAL BCM image spec — 17 caps clustered bottom-up, pace per trust-moat × path-to-profitability view. Enabling boxes dashed. AI pinned to 6 (supply acquisition / SmartSales, authentication / Shield+Vision, pricing engine, cataloging / Athena, asset protection / AI video, data & ML platform). Human expert stays authentication's guarantor; Athena scales it — AI here is a margin lever, not commodity automation.",
+  "title": "The RealReal (NASDAQ: REAL) Business Capability Map",
+  "subtitle": "Largest US authenticated luxury consignment marketplace · pace-layer strategic standing (trust-moat × path-to-profitability view, illustrative)",
+  "perspective": "The RealReal itself — trust-via-authentication moat, path to profitability",
+  "tiers": [
+    {"name": "Strategy & Growth", "domains": [
+      {"name": "Brand, channel & capital", "capabilities": [
+        {"label": "Marketing & acquisition", "pace": "keep_up"},
+        {"label": "Omni-channel retail", "pace": "keep_up"},
+        {"label": "Finance & capital", "pace": "keep_up", "enabling": true}
+      ]}
+    ]},
+    {"name": "Core Marketplace Engine", "domains": [
+      {"name": "Supply", "capabilities": [
+        {"label": "Supply acquisition", "pace": "differentiating", "ai": true},
+        {"label": "Consignor relations", "pace": "keep_up"},
+        {"label": "Direct buying", "pace": "keep_up"}
+      ]},
+      {"name": "Trust & valuation", "capabilities": [
+        {"label": "Authentication", "pace": "differentiating", "ai": true},
+        {"label": "Pricing & valuation", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "Catalog & sell", "capabilities": [
+        {"label": "Cataloging & listing", "pace": "keep_up", "ai": true},
+        {"label": "Marketplace experience", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "Operations & Data Foundation", "domains": [
+      {"name": "Fulfillment & protection", "capabilities": [
+        {"label": "Fulfillment ops", "pace": "keep_up", "enabling": true},
+        {"label": "Returns logistics", "pace": "keep_up", "enabling": true},
+        {"label": "Asset protection", "pace": "keep_up", "enabling": true, "ai": true}
+      ]},
+      {"name": "Tech, data & people", "capabilities": [
+        {"label": "Data & ML platform", "pace": "differentiating", "enabling": true, "ai": true},
+        {"label": "Payments", "pace": "commodity", "enabling": true},
+        {"label": "Customer service", "pace": "keep_up", "enabling": true},
+        {"label": "Talent & experts", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}
