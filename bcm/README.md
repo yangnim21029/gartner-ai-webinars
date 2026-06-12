@@ -36,8 +36,12 @@
 | 小紅書 Xiaohongshu | 守住真實感 × 變現追趕（內容分發） | `xiaohongshu-bcm-input.html` | `xiaohongshu-bcm.png` |
 | SmartNews | 日本現金機防守 × LLM 重建（內容分發） | `smartnews-bcm-input.html` | `smartnews-bcm.png` |
 | OpusClip | 剪輯工具轉自主分發代理（內容分發） | `opusclip-bcm-input.html` | `opusclip-bcm.png` |
+| Publicis Groupe | 守成長差距 × 資料軍備（廣告代理控股） | `publicis-bcm-input.html` | `publicis-bcm.png` |
+| WPP | Elevate28 止血 × Open 賭注（廣告代理控股） | `wpp-bcm-input.html` | `wpp-bcm.png` |
+| Omnicom（含 IPG） | 整合提速 × 規模變現（廣告代理控股） | `omnicom-bcm-input.html` | `omnicom-bcm.png` |
+| Accenture Song | 外來者 × 反控股模式（行銷服務） | `accenturesong-bcm-input.html` | `accenturesong-bcm.png` |
 
-每家的 spec：`<公司>-bcm-input.json`（清單輸入）→ `.polished.json`（polish-doc 後，HTML 由它 render）；`<公司>-bcm.json`（圖的結構＋pace）。各家差異化落點不同，方法照各家研究推導、非套版。幾個對照組：We Are Social 的 AI 釘點是「該押但還沒有」（公司實際只有一個 AI 職位）；ITRI 是非營利法人，objectives 用準公共 KPI（技轉／新創／促成投資），AI 釘點只算院方自有動作、不算路過的政策經費。分發產業四連發（Cloudflare／TollBit／TTD／AppLovin）要一起讀：Cloudflare 與 TollBit 的「內容收費市場」橘格財報收入都還是零（押注型橘色），TTD 與 AppLovin 的橘格全是現金引擎（現金型橘色）——同一個 differentiating 色，兩種意思。內容分發四連發（ByteDance／小紅書／SmartNews／OpusClip）全是未上市公司，數字是媒體估計不是審計財報，可信度跟 10-K 組不同級；四張並排的看點是小紅書「社區治理」格的 AI 釘點——唯一一顆防禦性釘點（用 AI 抓 AI 灌水筆記），其他家全是進攻性變現。
+每家的 spec：`<公司>-bcm-input.json`（清單輸入）→ `.polished.json`（polish-doc 後，HTML 由它 render）；`<公司>-bcm.json`（圖的結構＋pace）。各家差異化落點不同，方法照各家研究推導、非套版。幾個對照組：We Are Social 的 AI 釘點是「該押但還沒有」（公司實際只有一個 AI 職位）；ITRI 是非營利法人，objectives 用準公共 KPI（技轉／新創／促成投資），AI 釘點只算院方自有動作、不算路過的政策經費。分發產業四連發（Cloudflare／TollBit／TTD／AppLovin）要一起讀：Cloudflare 與 TollBit 的「內容收費市場」橘格財報收入都還是零（押注型橘色），TTD 與 AppLovin 的橘格全是現金引擎（現金型橘色）——同一個 differentiating 色，兩種意思。內容分發四連發（ByteDance／小紅書／SmartNews／OpusClip）全是未上市公司，數字是媒體估計不是審計財報，可信度跟 10-K 組不同級；四張並排的看點是小紅書「社區治理」格的 AI 釘點——唯一一顆防禦性釘點（用 AI 抓 AI 灌水筆記），其他家全是進攻性變現。廣告代理四連發（Publicis／WPP／Omnicom／Accenture Song）加上 We Are Social 共五張，是同一產業對 AI 費用壓縮的五種答案：Publicis 用資料身分軍備、WPP 把內部平台改賣產品、Omnicom 用合併買規模、Accenture Song 用顧問合約形狀繞開、We Are Social 喊人味創意——五張的橘格位置幾乎不重疊。
 
 ## 早期示範（虛構，學方法用）
 

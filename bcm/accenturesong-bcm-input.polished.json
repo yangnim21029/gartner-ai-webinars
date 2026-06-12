@@ -1,0 +1,67 @@
+{
+  "company": "Accenture Song",
+  "tagline": "藏在諮詢巨獸裡的最大代理 · BCM 輸入功課 · 外來者吃代理業 × 反控股集團模式視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（母公司 NYSE 上市但 Song 非報告分部——營收為管理層口徑未經稽核，口徑分級標注）",
+  "facts": [
+    {"k": "產業", "v": "Accenture 的行銷與體驗線：創意（Droga5）＋行銷科技導入＋行銷營運代管＋生成式產製＋新興媒體與創作者業務——賣的是「諮詢＋創意＋工程」一條龍"},
+    {"k": "規模（管理層口徑）", "v": "FY2025 約 $20B、+8%（Sweet 在 Q4 FY25 法說口述；FY2024 ~$19B）——Song 不是財報分部、無稽核損益、無公開利潤率與人數；Ad Age 2025 把它排到全球代理公司第一（擠下稱霸 16 年的 WPP），但口徑含大量 SI 實施收入、跟控股集團 net revenue 不可比"},
+    {"k": "母艦", "v": "Accenture FY2025 營收 $69.7B（+7%）、bookings $80.6B、員工 ~779,000；advanced AI 營收 $2.7B（3 倍）、GenAI bookings $5.9B；2025/9 起五大服務線熔成「Reinvention Services」，Song 是七個 Reinvention Partners 單位之一"},
+    {"k": "領導層（fresh，修正前提）", "v": "Droga 2025 年底卸任 Song CEO 轉任 Accenture 副董事長（不是 2024）；Ndidi Oteh 2025/9/1 接任（首位女性、14 年老將）；挖 Dimitri Maex（前 Initiative 全球 CEO）領全球行銷實踐——媒體野心的訊號彈"},
+    {"k": "媒體立場（跟控股集團鏡像）", "v": "明示不做 principal media（Maex：「我們不會碰」）——正好是 Omnicom／WPP 加碼方向的反面；媒體業務「今天還很小」：ANZ 試點拿下 Optus（媒體＋創意合併）與 Australia Post 媒體 AOR（2026/6 生效）；Oteh：今天的媒體買賣模式「兩年內將不存在」"},
+    {"k": "近期動向（fresh 2025/12–2026/6）", "v": "併 Whalar（創作者與社群代理，170+ 人，2026/6/8）；Droga5 創意長換人（Sjoenell 出、Heymann 進）；母公司股價自 2025/2 高點一度 -45%（GenAI 取代諮詢時數疑慮＋美國聯邦合約 DOGE 砍單，FY26 指引明列聯邦拖累 ~1pp）；Campaign 報導與 WPP 談過 M&A〔未驗證〕"}
+  ],
+  "context": "Accenture Song 是代理產業的外來掠食者：不靠媒體價差、不賣工時表上的創意，而是把 Salesforce／Adobe 導入、行銷營運代管、生成式產製跟 Droga5 的創意縫成一個「幫客戶長大」的端到端合約；80% 的大案都是多服務混搭，這種合約樣貌控股集團很難模仿。它的數字要小心讀：$20B 是 CEO 在法說會講的，不是稽核分部，裡面混著大量系統導入收入；新組織（Reinvention Services）上路後這條線甚至可能從財報消失。文化代價也真實：Droga5 元老幾乎走光、創意圈罵它把獨立精神磨掉。媒體這條它故意跟控股集團反著走——不做 principal、賭現行買賣模式兩年內死掉。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "當母艦的成長尖兵", "kpi": "FY2025 ~$20B、+8%〔管理層口徑，未稽核〕；Sweet 點名 Song＋Industry X 是兩條「早期」成長線"},
+    {"name": "建媒體與創作者新業務線（反控股模式）", "kpi": "Optus＋Australia Post AOR（ANZ 試點）；Whalar＋Superdigital＋MomentumABM 補創作者與 B2B；明示不做 principal media"},
+    {"name": "用 AI 重塑客戶成長（不只省成本）", "kpi": "公司級 advanced AI 營收 $2.7B（3 倍）；AI Refinery for marketing：600+ 行銷人跑 agent、自稱手動步驟 -25–35%〔公司宣稱〕"},
+    {"name": "Reinvention Services 整合", "kpi": "列為七個 Reinvention Partners 單位之一（2026/3 底生效）；80% 大案多服務，整合既是賣點，也是 Song 揭露度消失的原因"},
+    {"name": "守住創意招牌", "kpi": "Droga5 整併成單一全球創意品牌（Monkeys／Karmarama 併入，~1,000+ 人）；元老出走與 DEI 風波（被 TfL 比稿除名）是警訊"}
+  ],
+  "capabilities": [
+    {"name": "創意與品牌服務", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "Droga5 作為集團唯一全球創意品牌，負責廣告與品牌敘事；保留獨立字號，主要是為了管理客戶利益衝突", "kpi": "~1,000+ 人「史上最大」〔全球 CEO 口述〕；創意獎項〔待補〕"},
+    {"name": "數位產品與體驗設計", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "Work & Co（~400 人）加上已整併的 Fjord 設計能力，做數位產品與服務體驗", "kpi": "產品案量〔未揭露〕"},
+    {"name": "行銷科技導入", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "作為 Salesforce／Adobe 最大級的全球導入商（另有 1,300+ Sitecore 顧問），把行銷雲成套導入企業；這是收入主力，但被算進「代理營收」時口徑有爭議", "kpi": "SI 收入佔比〔未拆分〕"},
+    {"name": "行銷營運代管", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "用 Operations 的 SynOps 引擎代管行銷營運，再疊上 AI Refinery 的自主 agent（600+ 行銷人在用）；這是控股集團沒有的工業化底盤", "kpi": "自稱手動步驟 -25–35%、上市速度 +25–55%〔公司宣稱〕"},
+    {"name": "生成式內容產製", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "跟 Nvidia（Omniverse／Edify）與 Adobe Firefly 一起建品牌內容產製管線（Jaguar Land Rover Defender 是樣板案）", "kpi": "產製規模〔未揭露〕；「Spotlight」產品查無此物〔已驗證不存在〕"},
+    {"name": "媒體規劃與採購", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "媒體業務刻意維持小規模、走新模式：ANZ 試點打下 Optus 與 Australia Post，立場是純代理、不做 principal 庫存套利；賭的是現行模式兩年內會被 AI 重寫", "kpi": "「今天還很小」〔Oteh〕；兩個 ANZ AOR"},
+    {"name": "創作者與社群行銷", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "Whalar（170+ 人，2026/6）＋Superdigital 補上創作者經濟；瞄準 $43.9B 的 creator 廣告市場", "kpi": "整合進度〔新併，待補〕"},
+    {"name": "垂直與 B2B 行銷", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "ConcentricLife（醫療行銷，~270 人）與 MomentumABM（B2B ABM，~90 人）補齊垂直領域深度", "kpi": "垂直線營收〔未拆分〕"},
+    {"name": "顧問式成長策略", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "跟母艦的策略與產業線綁售「end-to-end customer agenda」；80% 大案多服務的合約樣貌，是它和控股集團的結構性差異", "kpi": "多服務大案佔比 ~80%〔法說〕；41 家客戶單季 bookings $100M+（母公司級）"},
+    {"name": "併購機器", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "兩年八案 Song 相關收購（Work & Co、Unlimited、ConcentricLife、Whalar…）金額一律未揭露；用母艦的資產負債表掃貨", "kpi": "Konabos 收購查無此事〔已驗證〕；案量節奏"},
+    {"name": "母艦資源與通路", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "背靠 779,000 人、$80.6B bookings 的集團賣行銷；大客戶關係與交叉銷售，是控股集團摸不到的入場券", "kpi": "母公司 bookings 與大客戶數"},
+    {"name": "AI 研發與人才訓練", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "吃母公司的 $3B AI 投資、77,000 AI/data 人力與 55 萬人 GenAI 培訓；Song 的 AI 縱深是借來的，但也是真的", "kpi": "GenAI bookings $5.9B（FY25，公司級）"},
+    {"name": "品牌與人才文化", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "處理創意文化與顧問文化之間的拉扯：Droga5 元老近乎走光、紐約裁 4%、DEI 政策轉向害它被 TfL 比稿除名；文化是這張圖最深的 readiness gap", "kpi": "創意人才留任〔未揭露〕；TfL 除名事件"}
+  ],
+  "notes": [
+    "規模數字的口徑提醒（最重要）：$19–20B 是管理層在法說會講的，不是稽核分部；包含大量 Salesforce／Adobe 導入與技術交付收入，跟控股集團的 net revenue 完全不可比；Ad Age「全球第一代理公司」是估計機制的產物，引用時一定要帶 mgmt-stated, unaudited。",
+    "揭露度正在消失：2025/9 起五條服務線併入 Reinvention Services，Q1／Q2 FY26 財報已無 Song 營收線；這張圖可能是用「最後一批有 Song 數字的季度」畫的。",
+    "三個查證結果：Droga 是 2025 卸任，不是 2024（修正前提）；「Spotlight」產品與 Konabos 收購都查無；與 WPP 的 M&A 接觸有報導但原文被擋、未驗證。",
+    "媒體立場刻意做成控股集團的反面：不做 principal（Omnicom／WPP 正加碼）、賭現行媒體買賣兩年內死；這格 pace 故意只給 keep_up，真正的賭注在「顧問式成長策略」與「行銷營運代管」。",
+    "母公司逆風會傳導：ACN 股價自 2025/2 高點一度 -45%（GenAI 取代工時疑慮＋美國聯邦 DOGE 砍單 ~1pp 拖累）；Song 自己也在吃 AI 侵蝕實施工時的反作用力。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness 1–5）非公開、全標待補。"
+  ],
+  "sources": [
+    "Accenture Q4 FY2025 法說逐字稿（Song +8% 原話）、FY2025 與 Q1/Q2 FY2026 業績發布（newsroom／investor）；Reinvention Services 領導層 PR（2026/3）",
+    "公司 PR — Droga 卸任與 Oteh 接任（2025/5）、Whalar（2026/6/8）、MomentumABM、Work & Co、Unlimited、ConcentricLife、Rabbit's Tale、The Lumery 併購",
+    "Ad Age Agency Report 2025 — 全球第一排名與口徑爭議；Fast Company — Sweet×Droga 對談（$19B）；Adgully — $20B 報導",
+    "Campaign — Oteh「Song is changing Accenture」專訪、Superdigital；Mi3／marketing-interactive — Optus 與 Australia Post AOR；Ad Age — Maex 入職",
+    "The Drum — Droga 告別砲轟舊廣告模式；Adweek／Ad Age — Droga5 裁員與創意長更替；marketing-beat — Karmarama 併入",
+    "HFS Research（Fersht）— Reinvention Services 風險分析；TBR — Accenture 2.0；TIKR／Yahoo Finance — 股價與 DOGE 逆風",
+    "MM+M — Accenture×WPP M&A 報導〔403 未驗證〕；Marketing Dive — Nvidia/Adobe 生成產製、Droga 離任分析"
+  ]
+}

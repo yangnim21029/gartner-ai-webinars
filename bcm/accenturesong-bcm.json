@@ -1,0 +1,37 @@
+{
+  "_note": "Accenture Song BCM image spec — 13 capabilities. Perspective: 外來者吃代理業 × 反控股模式. AI pins (3). 母艦資源 differentiating+enabling（結構優勢）；媒體刻意 keep_up（賭注本體在顧問式成長與營運代管）. Enabling dashed (4).",
+  "title": "Accenture Song Business Capability Map",
+  "subtitle": "藏在諮詢巨獸裡的最大代理 · pace layer 戰略地位（外來者 × 反控股模式視角，示範）",
+  "perspective": "Accenture Song 自己，用端到端合約吃代理業",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "成長合約", "capabilities": [
+        {"label": "顧問式成長策略", "pace": "differentiating"},
+        {"label": "併購機器", "pace": "keep_up", "enabling": true},
+        {"label": "母艦資源與通路", "pace": "differentiating", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "創意與體驗", "capabilities": [
+        {"label": "創意與品牌服務 Droga5", "pace": "keep_up"},
+        {"label": "數位產品與體驗設計", "pace": "keep_up"}
+      ]},
+      {"name": "行銷工業化", "capabilities": [
+        {"label": "行銷科技導入", "pace": "differentiating"},
+        {"label": "行銷營運代管", "pace": "differentiating", "ai": true},
+        {"label": "生成式內容產製", "pace": "keep_up", "ai": true}
+      ]},
+      {"name": "新戰線", "capabilities": [
+        {"label": "媒體規劃與採購", "pace": "keep_up"},
+        {"label": "創作者與社群行銷", "pace": "keep_up"},
+        {"label": "垂直與 B2B 行銷", "pace": "commodity"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "母艦地基", "capabilities": [
+        {"label": "AI 研發與人才訓練", "pace": "keep_up", "ai": true, "enabling": true},
+        {"label": "品牌與人才文化", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

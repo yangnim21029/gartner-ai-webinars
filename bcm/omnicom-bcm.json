@@ -1,0 +1,38 @@
+{
+  "_note": "Omnicom（含 IPG）BCM image spec — 14 capabilities anchored on Q1 2026 Core Operations. Perspective: 整合提速 × 規模變現. AI pins (4). $3.2B 待處分業務劃在框外. Enabling dashed (4).",
+  "title": "Omnicom（含 IPG）Business Capability Map",
+  "subtitle": "史上最大廣告合併整合期 · pace layer 戰略地位（整合提速 × 規模變現視角，示範）",
+  "perspective": "Omnicom 自己，整合提速並用規模與資料變現",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "整合工程", "capabilities": [
+        {"label": "開發客戶與比稿", "pace": "keep_up"},
+        {"label": "整合與重組工程", "pace": "keep_up", "enabling": true},
+        {"label": "處分與資本配置", "pace": "commodity", "enabling": true},
+        {"label": "領導與文化整合", "pace": "keep_up", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "規模引擎", "capabilities": [
+        {"label": "媒體採購與規劃", "pace": "differentiating"},
+        {"label": "principal media 交易", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "服務組合", "capabilities": [
+        {"label": "廣告創意", "pace": "keep_up"},
+        {"label": "公關服務", "pace": "keep_up"},
+        {"label": "健康行銷", "pace": "keep_up"},
+        {"label": "精準行銷", "pace": "keep_up", "ai": true},
+        {"label": "品牌與產製", "pace": "keep_up", "ai": true}
+      ]},
+      {"name": "資料與商務", "capabilities": [
+        {"label": "資料身分與平台 Omni", "pace": "differentiating", "ai": true},
+        {"label": "商務與零售媒體 Flywheel", "pace": "differentiating"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "地基", "capabilities": [
+        {"label": "資料堆疊整併", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

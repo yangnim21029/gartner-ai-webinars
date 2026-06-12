@@ -1,0 +1,38 @@
+{
+  "_note": "WPP BCM image spec — 14 capabilities. Perspective: Elevate28 止血 × Open 變現賭注. AI pins (4). 公關 cream = 探售中. Enabling dashed (5).",
+  "title": "WPP Business Capability Map",
+  "subtitle": "危機重建中的前龍頭 · pace layer 戰略地位（止血 × Open 賭注視角，示範）",
+  "perspective": "WPP 自己，止血與賭注同時進行",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "重建工程", "capabilities": [
+        {"label": "開發客戶與比稿", "pace": "keep_up"},
+        {"label": "重組與成本工程", "pace": "keep_up", "enabling": true},
+        {"label": "資產處分與資本管理", "pace": "keep_up", "enabling": true},
+        {"label": "領導與治理", "pace": "keep_up", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "服務主體", "capabilities": [
+        {"label": "媒體採購與規劃", "pace": "keep_up"},
+        {"label": "創意服務", "pace": "keep_up"},
+        {"label": "公關服務 Burson", "pace": "commodity"},
+        {"label": "企業行銷解決方案", "pace": "keep_up"}
+      ]},
+      {"name": "AI 賭注", "capabilities": [
+        {"label": "AI 量產內容產製", "pace": "differentiating", "ai": true},
+        {"label": "資料情報服務", "pace": "differentiating", "ai": true},
+        {"label": "Open 平台產品銷售", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "利潤救援", "capabilities": [
+        {"label": "principal media 交易", "pace": "keep_up"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "平台與人", "capabilities": [
+        {"label": "WPP Open 平台工程", "pace": "differentiating", "ai": true, "enabling": true},
+        {"label": "人才與士氣管理", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

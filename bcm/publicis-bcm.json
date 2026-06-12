@@ -1,0 +1,39 @@
+{
+  "_note": "Publicis BCM image spec — 15 capabilities. Perspective: 守住成長差距 × 資料身分軍備. AI pins (4). LiveRamp 屬 in-flight 不上圖. Enabling dashed (6).",
+  "title": "Publicis Groupe Business Capability Map",
+  "subtitle": "控股集團的 AI 贏家 · pace layer 戰略地位（守成長差距 × 資料軍備視角，示範）",
+  "perspective": "Publicis 自己，守住對同業的成長差距",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "成長機器", "capabilities": [
+        {"label": "開發客戶與比稿", "pace": "differentiating"},
+        {"label": "併購引擎", "pace": "keep_up", "enabling": true},
+        {"label": "策略夥伴生態", "pace": "keep_up", "enabling": true},
+        {"label": "治理與接班", "pace": "keep_up", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "媒體與資料", "capabilities": [
+        {"label": "媒體採購與規劃", "pace": "differentiating"},
+        {"label": "資料身分與精準行銷", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "創意與產製", "capabilities": [
+        {"label": "創意服務", "pace": "keep_up"},
+        {"label": "AI 量產內容產製", "pace": "differentiating", "ai": true},
+        {"label": "網紅與創作者行銷", "pace": "keep_up"}
+      ]},
+      {"name": "轉型與垂直", "capabilities": [
+        {"label": "數位轉型工程 Sapient", "pace": "keep_up", "ai": true},
+        {"label": "商務與零售行銷", "pace": "keep_up"},
+        {"label": "運動與文化行銷", "pace": "commodity"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "地基", "capabilities": [
+        {"label": "CoreAI 智慧層", "pace": "differentiating", "ai": true, "enabling": true},
+        {"label": "透明度與法遵", "pace": "keep_up", "enabling": true},
+        {"label": "人才與組織", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

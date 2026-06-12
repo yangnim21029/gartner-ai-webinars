@@ -1,0 +1,71 @@
+{
+  "company": "Publicis Groupe",
+  "tagline": "廣告控股集團的 AI 贏家 · BCM 輸入功課 · 守住成長差距 × 資料身分軍備視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（巴黎上市：年報／業績發布等級 + COMvergence + trade press，口徑分級標注）",
+  "facts": [
+    {"k": "產業", "v": "全球廣告控股集團（EPA: PUB，1926 創立、正跨入第二個百年）：媒體採購＋資料（Epsilon）＋創意＋工程（Sapient）打包成一個 AI 故事賣"},
+    {"k": "財務（FY2025）", "v": "淨營收 €14,547M（有機 +5.6%）；營業利益率 18.2%（業界最佳）；FCF €2.0B；員工 ~114,000（2025 淨增 ~5,800 人）〔業績發布〕"},
+    {"k": "業務結構", "v": "Connected Media（媒體＋Epsilon＋商務）60%、Intelligent Creativity 26%、Technology（Sapient）14%——Sapient 全年持平是唯一弱腿；公司另一種切法：「AI 驅動行銷服務」佔淨營收 86%"},
+    {"k": "新業務霸權", "v": "COMvergence 2025 全球第一：新客戶 billings ~$10B ≈ 全市場移動量的三分之一（第 2–5 名各只有 $1.3–1.8B）；連續 7 年第一；Coca-Cola NA 無比稿直接給（以 AI 差異化為由）、Mars ~$1.7B 從 WPP 搶下"},
+    {"k": "資料身分資產", "v": "Epsilon CORE ID＋Lotame（2025 併）：自稱 40 億 unique profiles、覆蓋全球 >90% 消費者〔公司口徑，未經稽核〕；LiveRamp 收購已簽約（$2.5B、溢價 30%）——預計 2026 年底交割，仍是 in-flight 不是已有能力"},
+    {"k": "近期動向（fresh 2025/12–2026/6）", "v": "Microsoft 擴大全棧 agentic 行銷合作＋把 ~$700M 全球媒體帳戶從電通移來（2026/4）；併 AdgeAI（預測創意分析）、160over90（運動文化）；HP ~$250M 全球媒體 win（終結 Omnicom 17 年）；與 The Trade Desk 的稽核費用爭議公開化；2027–28 目標隨 LiveRamp 上修至淨營收 +7–8%"}
+  ],
+  "context": "Publicis 是控股集團裡最會把 AI 故事變成現金的那家：媒體規模、Epsilon 的身分資料、Sapient 的工程、PXP 的 AI 產製疊成一個飛輪，帶來 2025 年有機成長 +5.6%、利潤率 18.2%；公司自稱對同業拉出 ~700 個基點的差距，新業務更一家拿走全市場三分之一。但這套贏家敘事有個但書：2025 年被納入統計的媒體預算總量縮了 4%；Publicis 是在縮小的餅裡搶份額（主要從 WPP 與電通口中），不是把餅做大。資本市場也沒買單：創紀錄的業績換來股價從 €108 跌到 ~€80，投資人懷疑的是控股集團這個商業模式，不是 Publicis 這家公司。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "守住對同業的成長差距", "kpi": "FY2025 有機 +5.6% vs WPP -4.8%／IPG -3.3%／電通 +0.3%；公司自稱差距 ~700bps〔口徑前後不一，600–700bps 皆公司自述〕；2026 指引 +4–5%「4% 穩如磐石」"},
+    {"name": "用 AI 贏比稿（新業務霸權）", "kpi": "COMvergence 2025 第一、~$10B billings；連 20 季跑贏業界〔公司口徑〕；反例也有：IBM 與 Dyson 輸給 Omnicom"},
+    {"name": "資料身分的軍備競賽", "kpi": "Epsilon＋Lotame 40 億 profiles〔公司口徑〕；LiveRamp $2.5B 簽約待交割（2026 年底）——交割後 2027–28 目標上修至 +7–8%"},
+    {"name": "利潤率與股東回報雙高", "kpi": "營業利益率 18.2%（+20bps）；FCF €2.0B（+10.6%）；股息 €3.75（+4.2%）；EPS 目標 2027–28 +8–10%"},
+    {"name": "修補弱項與信任問題", "kpi": "Sapient 持平，等轉骨（押 Microsoft agentic 轉型）；principal media 自稱僅佔營收 1%〔未經稽核、業界存疑〕；Epsilon SSP 遭同業買方封鎖"}
+  ],
+  "capabilities": [
+    {"name": "媒體採購與規劃", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "替品牌規劃與採購全球媒體；規模大到 2025 年全市場轉移的媒體預算有三分之一流進來", "kpi": "新業務 billings ~$10B（COMvergence 2025 第一）"},
+    {"name": "資料身分與精準行銷", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "用 Epsilon CORE ID 加 Lotame 的身分圖譜做人群定向與成效歸因；LiveRamp 交割後再補上 clean room 協作層（in-flight）", "kpi": "自稱 40 億 profiles、>90% 全球消費者覆蓋〔公司口徑，未稽核〕"},
+    {"name": "創意服務", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "Intelligent Creativity 線的廣告創意與品牌內容（佔淨營收 26%、Q4 中個位數成長）", "kpi": "創意佔淨營收比 20%→25%（公司，2025/10）"},
+    {"name": "AI 量產內容產製", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "用 PXP 全 AI 化產製平台量產素材（創意收入三分之一由此而來），2026 初再併 AdgeAI 補預測創意分析", "kpi": "創意收入 1/3 來自 PXP〔公司，2025/10〕"},
+    {"name": "數位轉型工程", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "Sapient 做企業數位與 agentic 轉型（Bodhi 知識引擎、Slingshot 開發框架，全數搬上 Azure）；這條線佔 14% 淨營收，2025 全年持平，是目前的弱腿", "kpi": "Sapient 有機成長 ~0%（2025）；轉型訂單〔待補〕"},
+    {"name": "網紅與創作者行銷", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "Influential＋BR Media＋Captiv8 三筆併購疊成自稱全球最大的連接式網紅平台（宣稱覆蓋 95% 五千粉以上創作者）", "kpi": "三案合計報導金額 ~$650M〔WSJ 引述，公司未證實〕"},
+    {"name": "商務與零售行銷", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "Mars United Commerce 做零售媒體與商務行銷，歸在 Connected Media 線下", "kpi": "commerce 營收佔比〔未單獨揭露〕"},
+    {"name": "運動與文化行銷", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "160over90（2026/4 從 WME 買來）併入 Publicis Sports，做運動、娛樂與文化情境中的品牌活動", "kpi": "整合進度〔新併，待補〕"},
+    {"name": "開發客戶與比稿", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "把 AI 故事當比稿武器：Coca-Cola NA 未經傳統比稿直接授予、Microsoft 從電通移來；新業務機器連七年第一", "kpi": "連 7 年 COMvergence 第一；輸過 IBM／Dyson 給 Omnicom"},
+    {"name": "CoreAI 智慧層", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "€300M／3 年打造的 AI 層把 Epsilon 資料與集團知識接起來（Marcel 人才平台、Leona agentic 產製系統）——對外講的十年累計 AI/資料/科技投資 ~€12B", "kpi": "45,000+ 工程與資料人力〔公司口徑〕"},
+    {"name": "併購引擎", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "每年 €900M–$970M 預算的補強式收購（Lotame、Captiv8、AdgeAI、160over90），LiveRamp $2.5B 是近年最大手筆", "kpi": "年併購預算執行率；LiveRamp 交割條件（股東會＋反壟斷）"},
+    {"name": "策略夥伴生態", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "和 Microsoft 綁全棧 agentic 行銷（Copilot 全員 114k 人）；Microsoft 同時是客戶、夥伴與潛在去中介者，這條線是雙面刃", "kpi": "夥伴帶進的帳戶（Microsoft ~$700M 媒體）"},
+    {"name": "透明度與法遵", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "守住 principal media 與資料合規這條信任線：1% 營收之說無人能驗、Epsilon 有 2021 DOJ $150M 前科、SSP 被同業封鎖、TTD 稽核戰打到 2026/3", "kpi": "爭議事件數；監管行動〔追蹤中〕"},
+    {"name": "治理與接班", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "Sadoun（2017 起，2022 癌症治療後復元）兼任董事長與 CEO，用 Directoire+ 擴大接班梯隊；沒有 named successor 仍是 key-man 風險", "kpi": "接班布局〔質性〕"},
+    {"name": "人才與組織", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "逆勢加人（+5,800）加薪（現金獎金 +8%），Sadoun 明言不為華爾街裁員擠利潤——跟同業的 AI 裁員敘事對著幹", "kpi": "員工 ~114,000；留任率〔待補〕"}
+  ],
+  "notes": [
+    "贏家敘事的但書：2025 年被納入統計的媒體總量縮 4%（COMvergence $37.4B），Publicis 的 $10B 是從 WPP（Mars、Coke NA）與電通（Microsoft）手上搶來的份額——是相對贏不是絕對成長；估值也說明市場懷疑的是控股集團物種本身（業績創紀錄、股價 €108→~€80）。",
+    "LiveRamp 是 in-flight，不是已具備的能力：簽約 2026/5、預計年底交割（股東會＋監管條件未過）；圖上資料身分那格的 LiveRamp 部分標 roadmap，別讓地圖超前現實半年。",
+    "這三個數字要標成公司口徑：對同業差距 600–700bps（前後不一）、40 億 profiles／90% 覆蓋（行銷級宣稱）、principal media 僅 1% 營收（無法外部驗證，TTD 與顧問業者公開質疑）。",
+    "Epsilon 的雙面性：是差異化核心也是風險集中點——2021 DOJ 緩起訴＋$150M 罰款前科、2025 同業買方集體封鎖其 SSP（怕下單路徑洩漏定向策略）、Lotame＋LiveRamp 讓隱私監管尾部風險越疊越高。",
+    "對照組讀法：和 WPP 那張對著看，就會看到同一產業的兩個極端：一個 +5.6% 一個 -5.4%、一個 18.2% margin 一個 13.0%、一個逆勢加人一個裁 9,000；差別在資料資產與 AI 變現的時間差。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness 1–5）非公開、全標待補。"
+  ],
+  "sources": [
+    "Publicis FY2025 業績發布與簡報（2026/2/3）、Q1 2026 營收發布（2026/4/14）；LiveRamp 8-K／DEFA14A（sec.gov）",
+    "COMvergence 2025 全球新業務最終榜（2026/3）；Campaign — 控股集團 2025 成績單對照",
+    "公司 PR — Microsoft 擴大合作（2026/4/8）、Lotame、Captiv8、AdgeAI、160over90 併購",
+    "Digiday — AI 變現分析、華爾街為何懲罰 Publicis、TTD 之爭的真正焦點；Adweek — Epsilon SSP 遭封鎖、Sadoun 不擠利潤宣言",
+    "DOJ — Epsilon 2021 緩起訴與 $150M 罰款；AdExchanger／Ad Age — principal media 攻防",
+    "The Drum／afaqs — Mars 從 WPP 移轉；brandcom／medianews4u — Microsoft、HP 帳戶移轉",
+    "Seeking Alpha — 「AI 恐懼被高估」升評（多方觀點）；PRWeek — Directoire+ 改組"
+  ]
+}
