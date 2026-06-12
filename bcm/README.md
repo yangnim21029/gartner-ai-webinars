@@ -20,8 +20,16 @@
 | TSMC 台積電 | 衝 AI 製程領先 | `tsmc-bcm-input.html` | `tsmc-bcm.png` |
 | L'Oréal 萊雅 | AI 個人化／Beauty Tech | `loreal-bcm-input.html` | `loreal-bcm.png` |
 | Pandora | 品牌＋手工＋自營零售 | `pandora-bcm-input.html` | `pandora-bcm.png` |
+| BASF | 能源困局下的組合重整（Winning Ways） | `basf-bcm-input.html` | `basf-bcm.png` |
+| CMoney 全曜財經 | 工具→社群→內容飛輪 × 數據變現 | `cmoney-bcm-input.html` | `cmoney-bcm.png` |
+| Netflix | 訂閱規模經濟 × 內容資本配置 | `netflix-bcm-input.html` | `netflix-bcm.png` |
+| The New York Times | 訂閱 LTV 飛輪 × 內容護城河 | `nyt-bcm-input.html` | `nyt-bcm.png` |
+| Grinding Gear Games（PoE2） | 道德 F2P × live-service 長尾營運 | `poe2-bcm-input.html` | `poe2-bcm.png` |
+| The RealReal | 鑑定信任護城河 × 轉盈路徑 | `therealreal-bcm-input.html` | `therealreal-bcm.png` |
+| We Are Social | 重建獲利 × 文化創意差異化（社群代理） | `wearesocial-bcm-input.html` | `wearesocial-bcm.png` |
+| 工研院 ITRI | 整合跨域創新 × 驗證樞紐（研究法人） | `itri-bcm-input.html` | `itri-bcm.png` |
 
-每家的 spec：`<公司>-bcm-input.json`（清單輸入）→ `.polished.json`（polish-doc 後，HTML 由它 render）；`<公司>-bcm.json`（圖的結構＋pace）。三家差異化落點各不同，方法照各家研究推導、非套版。
+每家的 spec：`<公司>-bcm-input.json`（清單輸入）→ `.polished.json`（polish-doc 後，HTML 由它 render）；`<公司>-bcm.json`（圖的結構＋pace）。各家差異化落點不同，方法照各家研究推導、非套版。兩個對照組：We Are Social 的 AI 釘點是「該押但還沒有」（公司實際只有一個 AI 職位）；ITRI 是非營利法人，objectives 用準公共 KPI（技轉／新創／促成投資），AI 釘點只算院方自有動作、不算路過的政策經費。
 
 ## 早期示範（虛構，學方法用）
 

@@ -1,0 +1,42 @@
+{
+  "_note": "ITRI BCM image spec — 16 capabilities from itri-bcm-input.json clustered bottom-up. Perspective: 張培仁「整合跨域創新」× 驗證樞紐戰略. AI pins (4) = 院方自有 AI 動作（科專研發提效、智庫、AI 導入輔導、TAIFIT/AIdea 平台），不照政策聲量上. Enabling dashed (7) = role:enabling.",
+  "title": "工研院 ITRI Business Capability Map",
+  "subtitle": "應用研究法人 · pace layer 戰略地位（整合跨域創新 × 驗證樞紐視角，示範）",
+  "perspective": "工研院自己，整合跨域創新並把驗證樞紐當新差異化",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "方向與治理", "capabilities": [
+        {"label": "技術策略藍圖規劃", "pace": "keep_up", "enabling": true},
+        {"label": "政府計畫治理與績效", "pace": "keep_up", "enabling": true},
+        {"label": "國際連結與標準參與", "pace": "keep_up", "enabling": true},
+        {"label": "財務與轉投資管理", "pace": "commodity", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "研發引擎", "capabilities": [
+        {"label": "政府科技專案研發", "pace": "differentiating", "ai": true},
+        {"label": "企業契約研發", "pace": "keep_up"}
+      ]},
+      {"name": "驗證與試產", "capabilities": [
+        {"label": "檢測驗證與試量產", "pace": "differentiating"}
+      ]},
+      {"name": "技術變現與擴散", "capabilities": [
+        {"label": "技術移轉與智財授權", "pace": "keep_up"},
+        {"label": "孵化新創與促成投資", "pace": "differentiating"},
+        {"label": "產業 AI 導入輔導", "pace": "keep_up", "ai": true},
+        {"label": "產業科技人才培育", "pace": "keep_up"}
+      ]},
+      {"name": "智庫與平台", "capabilities": [
+        {"label": "產業情報與智庫服務", "pace": "keep_up", "ai": true},
+        {"label": "產業資料與 AI 平台", "pace": "differentiating", "ai": true}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "資產與人才", "capabilities": [
+        {"label": "智財組合管理", "pace": "keep_up", "enabling": true},
+        {"label": "研究設施與試驗線營運", "pace": "keep_up", "enabling": true},
+        {"label": "研究人才招募與留任", "pace": "keep_up", "enabling": true}
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "company": "We Are Social",
+  "tagline": "全球社群專門創意代理商網絡 · BCM 輸入功課 · 重建獲利 × 守住文化創意差異化視角",
+  "as_of": "2026-06",
+  "classification": "公開資料彙整（Companies House 審計帳目 + 產業/分析師層 + PR，口徑分級標注）",
+  "facts": [
+    {"k": "產業", "v": "社群媒體專門創意代理（socially-led creative agency）：策略、創意、內容產製、網紅行銷、社群廣告、量測"},
+    {"k": "商業模式", "v": "99.2% 收入為 retainer／專案式創意與產製服務費（£153.4m of £154.7m 採 over-time 認列）；媒體投放僅 £1.2m、公關活動 £0.6m〔審計帳目〕——是賣人力時間的 fee 生意，不是媒體買賣生意"},
+    {"k": "公司／規模", "v": "2008 倫敦創立（Nathan McDonald + Robin Grant）；2021 起隸屬 Plus Company（CVC Asia V + CDPQ 控股，加拿大）；FY2024 審計平均員工 1,154 人（86% 可計費），PR 稱 1,300+ 人／19 辦公室〔口徑不一致，PR 偏高約 10%〕；自有辦公室 15 處橫跨四大洲"},
+    {"k": "財務（FY2024 審計）", "v": "營收 £154.7m（-6%）；營業利益率 0.4%（前年 3.8%）；淨損 £6.8m（含 Kobe 商譽減損 £4.2m）；UK 營收 £29.0m→£15.3m 近腰斬；人事成本佔營收 52.7%"},
+    {"k": "市場逆風（分析師層）", "v": "Forrester 預測 2026 年 agency 職位砍 15%；60% 美國行銷主管 2025 因 AI 砍 agency 預算；32% 品牌擬 12 個月內幾乎全內製；75% agency 自行吸收 AI 成本、僅 6% 變現〔Forrester／eMarketer／Adweek〕"},
+    {"k": "近期動向（fresh 2025–2026）", "v": "創辦人時代結束：Toby Southgate 任全球 CEO（2025/2）；改三區域營運結構（NA／EMEA／APAC）降本；退出日本、出售中國子公司；中東 rebrand 衝沙烏地；Airbnb 澳洲社群+網紅業務 win（2026/4）；AI 布局僅一個 named role（美國創意卓越-創新總監，2026/2）"}
+  ],
+  "context": "We Are Social 是全球最大的社群專門創意代理商網絡之一（「最大」自稱，按營收 VaynerMedia 更大、屬 contested），為 adidas、Samsung、Starbucks、Carlsberg 等全球品牌做社群策略、創意與內容。錢從 retainer 服務費來——99% 收入是賣創意人力的時間，它因此正面承受 AI 內容量產化與品牌內製化的雙重擠壓：FY2024 營業利益率只剩 0.4%，對照同業 13–15%。新 CEO 的牌是區域化降本、北美成長、網紅與量測服務線、以及「人味內容對抗 AI 垃圾」的定位敘事。以下照 note 1 的 BCM 輸入欄位整理；pace／AI 疊加層留到圖上。",
+  "objectives": [
+    {"name": "重建獲利率（Regional Operating Model 降本）", "kpi": "營業利益率 0.4% → 同業常態 13–15%；淨損 £6.8m 回正〔審計帳目；無公開目標值〕"},
+    {"name": "把北美當成長引擎", "kpi": "NA 自稱 double-digit 營收成長、16+ 新客戶 win〔PR 經由 trade press，未經審計〕"},
+    {"name": "守住「全球社群創意代理」龍頭定位", "kpi": "global AOR win（Carlsberg 2024、Airbnb AU 2026）；創意獎項；「最大」claim 對 VaynerMedia 屬 contested"},
+    {"name": "擴大網紅／creator 與 paid social＋量測服務線", "kpi": "Southgate 上任聲明的擴張方向；influencer 營收占比〔待補——財報未單列〕"},
+    {"name": "把 AI 整合進創意工作（起步階段）", "kpi": "僅一個 named role（2026/2 美國創意卓越-創新總監）；無公開 KPI、無產品化 AI 服務"}
+  ],
+  "capabilities": [
+    {"name": "開發客戶與比稿", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "找品牌主、打比稿、簽下 retainer 或專案（Airbnb AU 即比稿勝出）", "kpi": "新客戶 win 數（NA 自稱 16+/年）、比稿勝率〔待補〕"},
+    {"name": "社群與文化策略制定", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "讀懂平台文化與次文化潮流，幫品牌定調該在社群上說什麼、跟誰說（Think Forward 的 Cultural Power Loop 即其方法論包裝）", "kpi": "策略案留存率、全案 AOR 數〔待補〕"},
+    {"name": "創意開發", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "把策略變成社群原生的 campaign 創意與內容企劃；2026 起設創新總監，把 AI 整合進創意流程", "kpi": "創意獎項（NA 自稱 65+/年）、campaign 成效〔PR 級〕"},
+    {"name": "內容產製", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "規模化產出圖文影音與直播內容（含 Studios 製作能量）——受 AI 量產化衝擊最直接的一條能力", "kpi": "產製量／單位成本、交期〔待補〕；人事成本佔營收 52.7% 是其成本結構"},
+    {"name": "社群帳號日常經營", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "代品牌營運社群帳號：排程發布、留言互動、輿情監看與即時回應", "kpi": "回應時間、互動率、輿情事件數〔待補〕"},
+    {"name": "網紅與創作者行銷", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "選創作者、談合作、管 campaign 與年約 creator 計畫（編制：Kobe 新加坡 + 自有團隊；Kobe FY2024 商譽減損 £4.2m，整合不順）", "kpi": "creator campaign 數、Kobe 營收〔待補〕"},
+    {"name": "社群廣告投放", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "代操 paid social 投放與優化——能力在但收入引擎極小（FY2024 媒體投放收入僅 £1.2m，佔 0.8%），Southgate 點名要擴大", "kpi": "投放收入 £1.2m〔審計帳目〕、管理花費額〔待補〕"},
+    {"name": "成效量測與報告", "level": "L1", "role": "realizing", "ai": true,
+     "definition": "量測 campaign 與帳號成效、向品牌主證明價值（Southgate 點名、與 paid 並列的擴張線，靠 Plus Company 支援）", "kpi": "量測產品化進度〔無公開 KPI〕"},
+    {"name": "產業研究與報告出版", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "與 Meltwater 合著年度 Digital Report（14 版、約 700 頁、全球引用的標準參考數據）+ Think Forward 趨勢報告——是 lead-gen 資產與訂價權來源，不是收入線", "kpi": "報告引用與觸及、帶進的商機數〔待補〕"},
+    {"name": "公關與活動執行", "level": "L1", "role": "realizing", "ai": false,
+     "definition": "經由 The Narrative Group 做 earned media 與文化事件（FY2024 收入 £0.6m，小而專）", "kpi": "PR 收入 £0.6m〔審計帳目〕"},
+    {"name": "客戶關係與 retainer 管理", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "維繫 stand-ready 長約關係、管理服務範圍與續約——99% over-time 認列收入全掛在這條上", "kpi": "續約率、客戶集中度〔待補〕"},
+    {"name": "創意人力配置與利用率管理", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "招募、配置與排班 995 名可計費人力（佔 86%）——fee 生意的毛利槓桿就在利用率", "kpi": "利用率、人均營收 ≈£134k（FY2024 推算）"},
+    {"name": "區域網絡營運", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "營運 15 處自有辦公室並執行三區域結構（NA／EMEA／APAC）：整併辦公室、集中營運、進出市場（退日本、售中國、進泰國）", "kpi": "區域損益、整併後成本節省〔無公開目標〕"},
+    {"name": "工具與資料平台管理", "level": "L1", "role": "enabling", "ai": true,
+     "definition": "維運 social listening、排程、素材與量測工具棧，支撐策略、日常經營與報告", "kpi": "工具成本／授權利用率〔待補〕"},
+    {"name": "財務與 PE 治理", "level": "L1", "role": "enabling", "ai": false,
+     "definition": "在 CVC/CDPQ 私募控股下，管財務、重組成本與最終退出時間表（外部顧問主導的策略檢討即由此驅動）", "kpi": "營業利益率、淨資產 £13.7m（-35%）〔審計帳目〕"}
+  ],
+  "notes": [
+    "前提修正：We Are Social 已不在 BlueFocus 旗下——2021 年 CVC + CDPQ 買下多數股權、併入 Plus Company（審計帳目載明終極母公司 CVC Capital Partners Asia V）；BlueFocus 殘餘持股 2025–26 無揭露〔未驗證〕。",
+    "整份 brief 最重要的數字：營業利益率 0.4%（FY2024）對照同業 13–15%。人事成本 53%、99% retainer fee 收入的勞力密集模型，正面承受 AI 費用壓縮（Forrester：2026 砍 15% agency 職位）。",
+    "AI 落差要誠實畫：公開姿態是「人味內容對抗 AI 垃圾」（Think Forward 的 Cringe Confidence）——那是定位敘事兼內容行銷；實際動手建 AI 能力的，只查到一個職位。所以 AI 釘點代表「該押」，不是「已有」。",
+    "「全球最大社群代理」是自稱：按營收 VaynerMedia（~US$235–290m）更大；此 claim 只在「擁有全球自有辦公室網絡的社群專門創意代理」這個窄框架下成立。",
+    "FY2025 帳目 2026/9 底才到期——三區域重組是否救回 margin，目前只有 PR 級的 NA double-digit 成長可參考，別當成已驗證事實。",
+    "pace／AI 疊加層不放清單，到 BCM 圖才上色；內部 metadata（owner／systems／data in-out／readiness 1–5）非公開、全標待補。"
+  ],
+  "sources": [
+    "We Are Very Social Limited FY2024 年報暨合併財報（Companies House，2025-07-29 申報）——營收結構、認列方式、人數、地域、重組計畫",
+    "CVC / CDPQ / Plus Company 2021 交易新聞稿；Plus Company 官網",
+    "MediaPost / PRWeek / Campaign — 2026/2 北美領導層改組（含 AI 創新職位）；Campaign Asia — Southgate 上任、APAC 結構、創辦人卸任",
+    "Meltwater × We Are Social — Digital 2026（2025/10/15 發布）；Think Forward 2026（2026/1）",
+    "LBBOnline — Airbnb AU win（2026/4）、Jim Coleman EMEA CEO（2025/11）；campaignbriefasia — 中東 rebrand（2025/7）",
+    "Forrester（via The Drum）— 2026 agency 職位 -15%；eMarketer / Adweek / Digiday / PPC Land — AI 砍預算與內製化調查；Promethean Research — 數位代理商利潤率基準",
+    "Ad Age Datacenter — Plus Company 排名、VaynerMedia 營收；BlueFocus 投資人新聞稿（前母公司脈絡）"
+  ]
+}

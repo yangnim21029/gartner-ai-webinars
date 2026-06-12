@@ -1,0 +1,39 @@
+{
+  "_note": "We Are Social BCM image spec — 15 capabilities from wearesocial-bcm-input.json clustered bottom-up. Perspective: Southgate 重建獲利 × 守住文化創意差異化. AI pins (6) = 該押不是已有（公司實際 AI 建設只有一個職位）. Enabling dashed (5) = role:enabling.",
+  "title": "We Are Social Business Capability Map",
+  "subtitle": "社群專門創意代理 · pace layer 戰略地位（重建獲利 × 文化創意差異化視角，示範）",
+  "perspective": "We Are Social 自己，重建獲利率並守住文化創意差異化",
+  "tiers": [
+    {"name": "策略層", "domains": [
+      {"name": "市場與定位", "capabilities": [
+        {"label": "開發客戶與比稿", "pace": "keep_up"},
+        {"label": "產業研究與報告出版", "pace": "differentiating"},
+        {"label": "區域網絡營運", "pace": "keep_up", "enabling": true},
+        {"label": "財務與 PE 治理", "pace": "commodity", "enabling": true}
+      ]}
+    ]},
+    {"name": "核心層", "domains": [
+      {"name": "策略與創意", "capabilities": [
+        {"label": "社群與文化策略", "pace": "differentiating"},
+        {"label": "創意開發", "pace": "differentiating", "ai": true}
+      ]},
+      {"name": "產製與經營", "capabilities": [
+        {"label": "內容產製", "pace": "keep_up", "ai": true},
+        {"label": "社群帳號日常經營", "pace": "keep_up", "ai": true}
+      ]},
+      {"name": "放大與量測", "capabilities": [
+        {"label": "網紅與創作者行銷", "pace": "differentiating"},
+        {"label": "社群廣告投放", "pace": "commodity", "ai": true},
+        {"label": "成效量測與報告", "pace": "keep_up", "ai": true},
+        {"label": "公關與活動", "pace": "commodity"}
+      ]}
+    ]},
+    {"name": "支援層", "domains": [
+      {"name": "人力與平台", "capabilities": [
+        {"label": "客戶關係與 retainer 管理", "pace": "keep_up", "enabling": true},
+        {"label": "創意人力配置與利用率", "pace": "keep_up", "enabling": true},
+        {"label": "工具與資料平台", "pace": "commodity", "ai": true, "enabling": true}
+      ]}
+    ]}
+  ]
+}
